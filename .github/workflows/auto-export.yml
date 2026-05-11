@@ -2,9 +2,8 @@ name: Telegram Channel Exporter
 
 on:
   schedule:
-    # هر ۳۰ دقیقه اجرا شود
     - cron: '*/30 * * * *'
-  workflow_dispatch: # امکان اجرای دستی
+  workflow_dispatch:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -42,7 +41,7 @@ jobs:
         go mod tidy
         
     # ==========================================
-    # گام ۴: تنظیم فایل config (اگر وجود نداشت)
+    # گام ۴: تنظیم فایل config
     # ==========================================
     - name: Update config with channels
       run: |
@@ -58,14 +57,14 @@ jobs:
         fi
         
     # ==========================================
-    # گام ۵: اجرای برنامه Go برای دریافت پست‌ها
+    # گام ۵: اجرای برنامه Go
     # ==========================================
     - name: Run Telegram exporter
       run: |
         go run .
         
     # ==========================================
-    # گام ۶: بررسی تغییرات (آیا فایل JSON جدیدی هست؟)
+    # گام ۶: بررسی تغییرات
     # ==========================================
     - name: Check for changes
       id: verify-changed
@@ -91,7 +90,7 @@ jobs:
     # ==========================================
     # گام ۸: کامیت تغییرات غیر-export به Main
     # ==========================================
-    - name: Commit State (if any) to Main
+    - name: Commit State to Main
       if: steps.verify-changed.outputs.has_changes == 'true'
       run: |
         git add -A
@@ -112,221 +111,168 @@ jobs:
         echo "📥 شروع دانلود مدیاها و جایگزینی URL ها..."
         echo "زمان شروع: $(date '+%Y-%m-%d %H:%M:%S')"
         
-        # حذف کامل پوشه media قبلی (مدیریت فضا)
         rm -rf media/
         mkdir -p media
         
-        # پوشه موقت برای JSON های اصلاح‌شده
         mkdir -p /tmp/exports_with_media
         
-        # شمارنده‌های کلی
         total_downloaded=0
         total_failed=0
-        total_replaced=0
+        total_videos=0
+        total_photos=0
         
-        # برای هر فایل JSON
         for json_file in export/*.json; do
           [ -f "$json_file" ] || continue
           channel_name=$(basename "$json_file" .json)
           echo ""
           echo "  📡 ========== پردازش کانال: $channel_name =========="
           
-          # پوشه مخصوص این کانال
           mkdir -p "media/$channel_name"
-          
-          # کپی فایل JSON اصلی
           cp "$json_file" "/tmp/exports_with_media/$(basename "$json_file")"
           
-          # استخراج URL های مدیا از نوع telesco.pe
           media_urls=$(jq -r '.posts[]?.media[]? | select(.url | test("telesco.pe")) | .url' "$json_file" 2>/dev/null | sort -u)
           
           if [ -z "$media_urls" ]; then
-            echo "  ℹ️ هیچ URL مدیایی در این کانال یافت نشد."
+            echo "  ℹ️ بدون URL مدیا"
             continue
           fi
           
           counter=0
-          channel_downloaded=0
-          channel_failed=0
           total_urls=$(echo "$media_urls" | wc -l)
-          echo "  🔍 تعداد کل URL های منحصر‌به‌فرد: $total_urls"
+          echo "  🔍 تعداد URL: $total_urls"
           
           while IFS= read -r media_url; do
             [ -z "$media_url" ] && continue
             counter=$((counter + 1))
             
-            # نام موقت برای دانلود
-            temp_file="media/$channel_name/temp_${counter}"
+            temp_file="media/$channel_name/temp_${counter}.bin"
             echo ""
-            echo "  [$counter/$total_urls] 📥 دانلود: ${media_url:0:80}..."
+            echo "  [$counter/$total_urls] 📥 ${media_url:0:70}..."
             
-            # دانلود با محدودیت ۵۰MB برای همه فایل‌ها
             if curl -sL --retry 3 --max-time 120 --max-filesize 52428800 \
-              -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
-              -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" \
-              -H "Accept-Language: en-US,en;q=0.9" \
+              -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
               -o "$temp_file" "$media_url"; then
               
-              # بررسی موفقیت‌آمیز بودن دانلود
               if [ -f "$temp_file" ] && [ -s "$temp_file" ]; then
                 
-                # 🎯 تشخیص نوع واقعی فایل با دستور file
                 mime_type=$(file --mime-type -b "$temp_file" 2>/dev/null || echo "unknown")
-                echo "  🔬 نوع تشخیص داده شده: $mime_type"
+                echo "  🔬 MIME: $mime_type"
                 
-                # انتخاب پسوند بر اساس MIME type
-                case "$mime_type" in
-                  video/mp4)
-                    extension="mp4"
-                    ;;
-                  video/webm)
-                    extension="webm"
-                    ;;
-                  video/quicktime)
-                    extension="mov"
-                    ;;
-                  video/x-msvideo)
-                    extension="avi"
-                    ;;
-                  video/*)
-                    extension="mp4"  # حالت پیش‌فرض برای ویدئوهای ناشناخته
-                    ;;
-                  image/png)
-                    extension="png"
-                    ;;
-                  image/gif)
-                    extension="gif"
-                    ;;
-                  image/webp)
-                    extension="webp"
-                    ;;
-                  image/svg+xml)
-                    extension="svg"
-                    ;;
-                  image/*)
-                    extension="jpg"  # حالت پیش‌فرض برای تصاویر
-                    ;;
-                  *)
-                    # اگر نوع فایل نامشخص بود، از روی URL حدس می‌زنیم
-                    if [[ "$media_url" == *".mp4"* ]] || [[ "$media_url" == *"video"* ]]; then
-                      extension="mp4"
-                    elif [[ "$media_url" == *".png"* ]]; then
-                      extension="png"
-                    elif [[ "$media_url" == *".gif"* ]]; then
-                      extension="gif"
-                    elif [[ "$media_url" == *".webp"* ]]; then
-                      extension="webp"
-                    else
-                      extension="jpg"
-                    fi
-                    echo "  ⚠️ نوع ناشناخته (mime: $mime_type)، پسوند .$extension انتخاب شد"
-                    ;;
-                esac
+                magic_bytes=$(xxd -p -l 12 "$temp_file" 2>/dev/null | tr '[:upper:]' '[:lower:]')
+                echo "  🔍 Magic: ${magic_bytes:0:24}..."
+                
+                extension=""
+                
+                # تشخیص ویدئو MP4/MOV
+                if [[ "$magic_bytes" == 00000020* ]] || [[ "$magic_bytes" == 0000001c* ]] || \
+                   [[ "$magic_bytes" == 00000018* ]] || [[ "$mime_type" == video/mp4 ]] || \
+                   [[ "$mime_type" == video/quicktime ]] || [[ "$mime_type" == video/* ]]; then
+                  extension="mp4"
+                  total_videos=$((total_videos + 1))
+                  echo "  🎬 تشخیص: ویدئو MP4/MOV"
+                  
+                # تشخیص WebM
+                elif [[ "$magic_bytes" == 1a45dfa3* ]] || [[ "$mime_type" == video/webm ]]; then
+                  extension="webm"
+                  total_videos=$((total_videos + 1))
+                  echo "  🎬 تشخیص: ویدئو WebM"
+                  
+                # تشخیص PNG
+                elif [[ "$magic_bytes" == 89504e47* ]] || [[ "$mime_type" == image/png ]]; then
+                  extension="png"
+                  total_photos=$((total_photos + 1))
+                  echo "  🖼️ تشخیص: PNG"
+                  
+                # تشخیص GIF
+                elif [[ "$magic_bytes" == 47494638* ]] || [[ "$mime_type" == image/gif ]]; then
+                  extension="gif"
+                  total_photos=$((total_photos + 1))
+                  echo "  🖼️ تشخیص: GIF"
+                  
+                # تشخیص WebP
+                elif [[ "$magic_bytes" == 52494646* && "$magic_bytes" == *57454250* ]] || [[ "$mime_type" == image/webp ]]; then
+                  extension="webp"
+                  total_photos=$((total_photos + 1))
+                  echo "  🖼️ تشخیص: WebP"
+                  
+                # تشخیص JPEG
+                elif [[ "$magic_bytes" == ffd8ff* ]] || [[ "$mime_type" == image/jpeg ]] || [[ "$mime_type" == image/jpg ]]; then
+                  extension="jpg"
+                  total_photos=$((total_photos + 1))
+                  echo "  🖼️ تشخیص: JPEG"
+                  
+                # fallback با MIME
+                else
+                  case "$mime_type" in
+                    video/*) extension="mp4"; total_videos=$((total_videos + 1)); echo "  🎬 تشخیص با MIME: ویدئو" ;;
+                    image/png) extension="png"; total_photos=$((total_photos + 1)); echo "  🖼️ تشخیص با MIME: PNG" ;;
+                    image/gif) extension="gif"; total_photos=$((total_photos + 1)); echo "  🖼️ تشخیص با MIME: GIF" ;;
+                    image/webp) extension="webp"; total_photos=$((total_photos + 1)); echo "  🖼️ تشخیص با MIME: WebP" ;;
+                    image/*) extension="jpg"; total_photos=$((total_photos + 1)); echo "  🖼️ تشخیص با MIME: تصویر" ;;
+                    *) extension="jpg"; total_photos=$((total_photos + 1)); echo "  ⚠️ نوع ناشناخته، پیش‌فرض JPEG" ;;
+                  esac
+                fi
                 
                 local_filename="media_${counter}.${extension}"
                 local_path="media/$channel_name/$local_filename"
-                
-                # انتقال فایل از نام موقت به نام نهایی
                 mv "$temp_file" "$local_path"
                 
-                # جایگزینی URL در فایل JSON کپی‌شده
                 safe_new_url="https://raw.githubusercontent.com/${{ github.repository }}/export/$local_path"
                 escaped_old=$(echo "$media_url" | sed 's/[\/&]/\\&/g')
                 escaped_new=$(echo "$safe_new_url" | sed 's/[\/&]/\\&/g')
-                
                 sed -i "s|$escaped_old|$escaped_new|g" "/tmp/exports_with_media/$(basename "$json_file")"
                 
                 file_size=$(du -h "$local_path" | cut -f1)
-                echo "  ✅ ذخیره شد: $local_filename (حجم: $file_size, نوع: $extension)"
-                
-                channel_downloaded=$((channel_downloaded + 1))
+                echo "  ✅ ذخیره: $local_filename ($file_size)"
                 total_downloaded=$((total_downloaded + 1))
-                total_replaced=$((total_replaced + 1))
               else
-                echo "  ❌ فایل دانلود شده خالی یا ناموجود است"
+                echo "  ❌ فایل خالی"
                 rm -f "$temp_file"
-                channel_failed=$((channel_failed + 1))
                 total_failed=$((total_failed + 1))
               fi
             else
-              echo "  ❌ دانلود ناموفق (محدودیت حجم، تایم‌اوت، یا خطای شبکه)"
+              echo "  ❌ دانلود ناموفق"
               rm -f "$temp_file"
-              channel_failed=$((channel_failed + 1))
               total_failed=$((total_failed + 1))
             fi
           done <<< "$media_urls"
           
-          echo ""
-          echo "  📊 آمار کانال $channel_name:"
-          echo "    - دانلود موفق: $channel_downloaded"
-          echo "    - دانلود ناموفق: $channel_failed"
-          echo "  ✅ پایان پردازش کانال: $channel_name"
+          echo "  ✅ پایان $channel_name"
         done
         
-        # جایگزینی فایل‌های JSON اصلی با نسخه‌های اصلاح‌شده
-        echo ""
-        echo "📝 جایگزینی فایل‌های JSON اصلاح‌شده..."
         cp /tmp/exports_with_media/*.json export/ 2>/dev/null || true
         
-        # ==========================================
-        # گزارش نهایی از حجم و وضعیت
-        # ==========================================
         echo ""
-        echo "╔══════════════════════════════════════════╗"
-        echo "║     📊 گزارش نهایی دانلود مدیا          ║"
-        echo "╚══════════════════════════════════════════╝"
-        echo ""
-        echo "  📥 کل دانلودهای موفق: $total_downloaded"
-        echo "  ❌ کل دانلودهای ناموفق: $total_failed"
-        echo "  🔄 کل URL های جایگزین‌شده: $total_replaced"
-        echo ""
+        echo "╔═══════════════════════════╗"
+        echo "║   📊 گزارش نهایی مدیا    ║"
+        echo "╚═══════════════════════════╝"
+        echo "  📥 دانلود موفق: $total_downloaded"
+        echo "  ❌ دانلود ناموفق: $total_failed"
+        echo "  🎬 ویدئوها: $total_videos"
+        echo "  🖼️ تصاویر: $total_photos"
         
         if [ -d "media" ] && [ "$(ls -A media)" ]; then
-          total_files=$(find media/ -type f 2>/dev/null | wc -l)
           total_size=$(du -sh media/ 2>/dev/null | cut -f1)
-          echo "  📁 تعداد کل فایل‌های مدیا: $total_files"
-          echo "  💾 حجم کل مدیاها: $total_size"
-          echo ""
-          echo "  📂 تفکیک بر اساس کانال:"
-          for channel_dir in media/*/; do
-            [ -d "$channel_dir" ] || continue
-            channel=$(basename "$channel_dir")
-            count=$(find "$channel_dir" -type f | wc -l)
-            size=$(du -sh "$channel_dir" | cut -f1)
-            # تفکیک نوع فایل‌ها
-            imgs=$(find "$channel_dir" -type f \( -iname "*.jpg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.webp" \) | wc -l)
-            vids=$(find "$channel_dir" -type f \( -iname "*.mp4" -o -iname "*.webm" -o -iname "*.mov" \) | wc -l)
-            echo "    - $channel: $count فایل ($size) [تصاویر: $imgs, ویدئوها: $vids]"
-          done
-        else
-          echo "  ℹ️ هیچ مدیایی دانلود نشده است."
-        fi
-        
-        echo ""
-        echo "  ⏰ زمان پایان: $(date '+%Y-%m-%d %H:%M:%S')"
-        echo "═══════════════════════════════════════════"
-        
-        # هشدار اگر حجم کل بیش از ۹۰۰ مگابایت شد
-        if [ -d "media" ]; then
+          echo "  💾 حجم کل: $total_size"
+          
           total_size_kb=$(du -sk media/ 2>/dev/null | cut -f1)
           if [ -n "$total_size_kb" ] && [ "$total_size_kb" -gt 921600 ]; then
-            echo ""
-            echo "⚠️⚠️⚠️ هشدار جدی: حجم کل مدیاها از ۹۰۰ مگابایت گذشت!"
-            echo "محدودیت گیت‌هاب ۱ گیگابایت است. لطفاً تعداد کانال‌ها را کاهش دهید"
-            echo "یا برخی کانال‌های پرحجم را از config.json حذف کنید."
+            echo "  ⚠️⚠️⚠️ هشدار: حجم از ۹۰۰ مگابایت گذشت!"
           fi
         fi
 
     # ==========================================
-    # گام ۱۰: انتشار فایل‌های نهایی به شاخه export
+    # گام ۱۰: انتشار به شاخه export
     # ==========================================
     - name: Publish Channel Exports to Export Branch
       if: steps.verify-changed.outputs.has_changes == 'true'
       run: |
         echo "📤 در حال انتشار به شاخه export..."
         
-        # ذخیره فایل‌های جدید در مکان موقت
+        # ذخیره فایل‌های جدید
+        rm -rf /tmp/final_export
         mkdir -p /tmp/final_export
+        
         if [ -d "export" ]; then
           cp -r export/*.json /tmp/final_export/ 2>/dev/null || true
         fi
@@ -334,89 +280,74 @@ jobs:
           cp -r media /tmp/final_export/ 2>/dev/null || true
         fi
 
+        # پاکسازی اجباری فایل‌های untracked
+        echo "🧹 پاکسازی فایل‌های untracked..."
+        git clean -fd 2>/dev/null || true
+        git checkout -- . 2>/dev/null || true
+        rm -rf -- * .github .gitignore .gitattributes 2>/dev/null || true
+        find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} + 2>/dev/null || true
+
         # سوییچ به شاخه export
         if git show-ref --verify --quiet refs/remotes/origin/export; then
-          git checkout --track origin/export
-          git pull origin export
+          echo "📂 شاخه export وجود دارد، دریافت آخرین نسخه..."
+          git fetch origin export
+          git checkout -f export
+          git reset --hard origin/export
         else
+          echo "🆕 ساخت شاخه export جدید..."
           git checkout --orphan export
-          git rm -rf .
-          echo "# Telegram Channel Exports" > README.md
-          echo "This branch contains automated exports from Telegram channels." >> README.md
-          echo "" >> README.md
-          echo "Last updated: $(date '+%Y-%m-%d %H:%M:%S UTC')" >> README.md
+          git rm -rf --cached . 2>/dev/null || true
+          git clean -fd 2>/dev/null || true
         fi
 
-        # پاکسازی کامل شاخه export (مدیریت فضا)
-        rm -rf export/ media/ *.json 2>/dev/null || true
-        rm -rf .github/ config.json main.go fetcher_colly.go exporter.go go.mod go.sum 2>/dev/null || true
+        # پاکسازی محتوای قبلی
+        echo "🧹 پاکسازی محتوای قبلی شاخه export..."
+        rm -rf -- * .github 2>/dev/null || true
+        find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} + 2>/dev/null || true
         
-        # کپی فایل‌های جدید از مکان موقت
+        # کپی فایل‌های جدید
+        echo "📋 کپی فایل‌های جدید..."
         cp -r /tmp/final_export/* . 2>/dev/null || true
         
-        # به‌روزرسانی README در شاخه export
+        # ساخت README
         echo "# 📡 Telegram Channel Exports" > README.md
         echo "" >> README.md
         echo "**Last updated:** $(date '+%Y-%m-%d %H:%M:%S UTC')" >> README.md
         echo "**Repository:** [${{ github.repository }}](https://github.com/${{ github.repository }})" >> README.md
         echo "" >> README.md
-        echo "## 📋 Available Channels:" >> README.md
+        echo "## 📋 Channels" >> README.md
         echo "" >> README.md
-        echo "| Channel | Posts | Media Files |" >> README.md
-        echo "|---------|-------|-------------|" >> README.md
         
         for json_file in *.json; do
           [ -f "$json_file" ] || continue
           channel=$(basename "$json_file" .json)
           posts=$(jq '.posts | length' "$json_file" 2>/dev/null || echo "?")
-          
-          if [ -d "media/$channel" ]; then
-            media_count=$(find "media/$channel" -type f 2>/dev/null | wc -l)
-          else
-            media_count=0
-          fi
-          
-          echo "| **$channel** | $posts | $media_count |" >> README.md
+          echo "- **$channel**: $posts posts" >> README.md
         done
         
-        echo "" >> README.md
-        echo "## 🖼️ Media Storage:" >> README.md
-        echo "" >> README.md
         if [ -d "media" ] && [ "$(ls -A media)" ]; then
+          echo "" >> README.md
           total_media=$(find media/ -type f 2>/dev/null | wc -l)
           total_size=$(du -sh media/ 2>/dev/null | cut -f1)
-          echo "- **Total media files:** $total_media" >> README.md
-          echo "- **Total media size:** $total_size" >> README.md
-          echo "" >> README.md
-          echo "### Breakdown by channel:" >> README.md
-          for channel_dir in media/*/; do
-            [ -d "$channel_dir" ] || continue
-            channel=$(basename "$channel_dir")
-            count=$(find "$channel_dir" -type f | wc -l)
-            size=$(du -sh "$channel_dir" | cut -f1)
-            echo "- **$channel**: $count files ($size)" >> README.md
-          done
-        else
-          echo "No media files stored." >> README.md
+          echo "## 🖼️ Media" >> README.md
+          echo "- Total files: $total_media" >> README.md
+          echo "- Total size: $total_size" >> README.md
         fi
         
-        echo "" >> README.md
-        echo "---" >> README.md
-        echo "*Auto-generated by [TeleFeed](https://github.com/${{ github.repository }})*" >> README.md
-        
         # کامیت و پوش
-        git add --all
+        git add --all 2>/dev/null || git add -A
+        git status
         
-        if ! git diff --cached --quiet; then
+        if ! git diff --cached --quiet 2>/dev/null; then
           git commit -m "🔄 Update exports - $(date '+%Y-%m-%d %H:%M:%S UTC')"
           git push origin export --force
-          echo "✅ انتشار با موفقیت انجام شد!"
+          echo "✅ انتشار موفق!"
         else
-          echo "ℹ️ هیچ تغییری برای انتشار وجود ندارد."
+          echo "ℹ️ بدون تغییر"
         fi
 
     # ==========================================
-    # گام ۱۱: ساخت گزارش نهایی در GitHub Actions
+    # گام ۱۱: گزارش نهایی
     # ==========================================
     - name: Create Summary
       if: always()
@@ -428,40 +359,28 @@ jobs:
         echo "**Workflow Status:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         
-        if [ "${{ steps.verify-changed.outputs.has_changes }}" == "true" ]; then
-          echo "## ✅ Export Successful" >> $GITHUB_STEP_SUMMARY
+        if [ -d "export" ] && [ "$(ls -A export)" ]; then
+          echo "### 📁 Exported Channels:" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          
-          if [ -d "export" ] && [ "$(ls -A export 2>/dev/null)" ]; then
-            echo "### 📁 Exported Channels:" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            echo "| Channel | Posts | JSON Size |" >> $GITHUB_STEP_SUMMARY
-            echo "|---------|-------|-----------|" >> $GITHUB_STEP_SUMMARY
-            
-            for file in export/*.json; do
-              if [ -f "$file" ]; then
-                channel=$(basename "$file" .json)
-                posts=$(jq '.posts | length' "$file" 2>/dev/null || echo "?")
-                size=$(stat -c%s "$file" 2>/dev/null || echo "0")
-                size_human=$(numfmt --to=iec $size 2>/dev/null || echo "$size bytes")
-                echo "| **$channel** | $posts | $size_human |" >> $GITHUB_STEP_SUMMARY
-              fi
-            done
-          fi
-          
-          if [ -d "media" ] && [ "$(ls -A media 2>/dev/null)" ]; then
-            echo "" >> $GITHUB_STEP_SUMMARY
-            echo "### 🖼️ Media Files:" >> $GITHUB_STEP_SUMMARY
-            total_media=$(find media/ -type f 2>/dev/null | wc -l)
-            total_size=$(du -sh media/ 2>/dev/null | cut -f1)
-            echo "- **Total media files:** $total_media" >> $GITHUB_STEP_SUMMARY
-            echo "- **Total media size:** $total_size" >> $GITHUB_STEP_SUMMARY
-          fi
-          
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "📍 **View exports:** [export branch](https://github.com/${{ github.repository }}/tree/export)" >> $GITHUB_STEP_SUMMARY
-          echo "📝 **View config:** [config.json](https://github.com/${{ github.repository }}/blob/main/config.json)" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "## ⚠️ No Changes" >> $GITHUB_STEP_SUMMARY
-          echo "No new content was found to export." >> $GITHUB_STEP_SUMMARY
+          for file in export/*.json; do
+            if [ -f "$file" ]; then
+              channel=$(basename "$file" .json)
+              posts=$(jq '.posts | length' "$file" 2>/dev/null || echo "?")
+              size=$(stat -c%s "$file" 2>/dev/null || echo "0")
+              size_human=$(numfmt --to=iec $size 2>/dev/null || echo "$size bytes")
+              echo "- **$channel**: $posts posts ($size_human)" >> $GITHUB_STEP_SUMMARY
+            fi
+          done
         fi
+        
+        if [ -d "media" ] && [ "$(ls -A media)" ]; then
+          echo "" >> $GITHUB_STEP_SUMMARY
+          total_media=$(find media/ -type f 2>/dev/null | wc -l)
+          total_size=$(du -sh media/ 2>/dev/null | cut -f1)
+          echo "### 🖼️ Media Files:" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total:** $total_media files ($total_size)" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "📍 **View exports:** [export branch](https://github.com/${{ github.repository }}/tree/export)" >> $GITHUB_STEP_SUMMARY
+        echo "📝 **View config:** [config.json](https://github.com/${{ github.repository }}/blob/main/config.json)" >> $GITHUB_STEP_SUMMARY
