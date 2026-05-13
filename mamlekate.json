@@ -12,7 +12,7 @@
       "date": "2026-05-10T21:44:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 105000,
+      "views": 106000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-05-10T22:04:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 109000,
+      "views": 110000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -43,7 +43,7 @@
       "date": "2026-05-11T04:51:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 109000,
+      "views": 110000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +55,7 @@
       "date": "2026-05-11T05:26:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 112000,
+      "views": 114000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,7 +63,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_8.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_7.jpg",
           "width": 640
         }
       ]
@@ -74,7 +74,7 @@
       "date": "2026-05-11T18:29:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99400,
+      "views": 102000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +86,7 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_4.jpg"
         }
       ]
     },
@@ -96,7 +96,7 @@
       "date": "2026-05-11T20:26:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 93000,
+      "views": 96500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-05-12T03:52:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 84900,
+      "views": 90300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-05-12T03:52:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 84800,
+      "views": 88300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +138,7 @@
       "date": "2026-05-12T03:52:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 86600,
+      "views": 89700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +150,7 @@
       "date": "2026-05-12T04:04:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 91300,
+      "views": 94700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +158,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_4.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_8.jpg",
           "width": 640
         }
       ]
@@ -169,7 +169,7 @@
       "date": "2026-05-12T07:53:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 86900,
+      "views": 92600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +181,7 @@
       "date": "2026-05-12T08:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 90400,
+      "views": 96900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +200,7 @@
       "date": "2026-05-12T10:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 83000,
+      "views": 90200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,25 +219,7 @@
       "date": "2026-05-12T13:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 75700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_7.jpg"
-        }
-      ]
-    },
-    {
-      "id": 103514,
-      "message": "\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e الو یه سری قایق های تیز رو مال مردم جنوب هست که سالهاست دارن از خصب عمان کالا میارن (قایق های شوتی) توی این هفته گذشته تا الان دارم که پیام مینویسم پهپادهای آمریکایی چندتا از این قایق‌ها رو زدند ۱۰ تا ۱۲ نفر تلفات دادند. هر قایق دونفر سرنشین دارند یک ناخدا یک ملوان. این آگهی مربوط به یکی از این قایق‌هاست.\u003cbr/\u003e\u003cbr/\u003eآمریکایی ها فکر می‌کنند اینا مال نیروی دریایی هستش. جمهوری اسلامی هم مهم نیست براش خوشحالم میشه تلفات غیرنظامی بره بالا.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e الو توی بندر میگن یه سری سر مشکلات معیشتی سمت به یه کشتی کره ای حرکت می‌کنند غارت کنن که خدمه کشتی از آمریکا کمک میخوان و اونا هم فکر میکنن مهاجمین سپاهی هستن برا همین بهشون شلیک میکنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
-      "date": "2026-05-12T13:39:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 77900,
+      "views": 85400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,12 +232,30 @@
       ]
     },
     {
+      "id": 103514,
+      "message": "\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e الو یه سری قایق های تیز رو مال مردم جنوب هست که سالهاست دارن از خصب عمان کالا میارن (قایق های شوتی) توی این هفته گذشته تا الان دارم که پیام مینویسم پهپادهای آمریکایی چندتا از این قایق‌ها رو زدند ۱۰ تا ۱۲ نفر تلفات دادند. هر قایق دونفر سرنشین دارند یک ناخدا یک ملوان. این آگهی مربوط به یکی از این قایق‌هاست.\u003cbr/\u003e\u003cbr/\u003eآمریکایی ها فکر می‌کنند اینا مال نیروی دریایی هستش. جمهوری اسلامی هم مهم نیست براش خوشحالم میشه تلفات غیرنظامی بره بالا.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e الو توی بندر میگن یه سری سر مشکلات معیشتی سمت به یه کشتی کره ای حرکت می‌کنند غارت کنن که خدمه کشتی از آمریکا کمک میخوان و اونا هم فکر میکنن مهاجمین سپاهی هستن برا همین بهشون شلیک میکنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-05-12T13:39:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 88500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_5.jpg"
+        }
+      ]
+    },
+    {
       "id": 103515,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e دعوت به همکاری با خبرگزاری هرانا\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eخبرگزاری هرانا، با بیش از دو دهه سابقه در حوزه گزارشگری و مستندسازی حقوق بشر، در راستای توسعه فعالیت‌های خود از علاقه‌مندان واجد شرایط برای همکاری دعوت می‌کند.\u003cbr/\u003e\u003cbr/\u003eهرانا در این مرحله بیش از آن‌که به دنبال افراد با سابقه حرفه‌ای باشد، به دنبال افرادی متعهد، دقیق و آموزش‌پذیر است؛ کسانی که دغدغه واقعی حقوق بشر دارند و مایل‌اند در یک چارچوب حرفه‌ای، مهارت‌های خود را توسعه دهند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eزمینه‌های همکاری شامل:\u003c/b\u003e\u003cbr/\u003eگزارشگری، ویراستاری، ترجمه، مدیریت شبکه‌های اجتماعی و سایر حوزه‌های مرتبط\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eویژگی‌های مورد انتظار:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e* تسلط کافی به زبان فارسی (خواندن و نوشتن)\u003cbr/\u003e* دقت، مسئولیت‌پذیری و توانایی یادگیری مستمر\u003cbr/\u003e* علاقه و حساسیت نسبت به موضوعات حقوق بشر\u003cbr/\u003e* آمادگی برای فعالیت در چارچوب‌های سازمان‌یافته و حرفه‌ای\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e توجه: این فرصت همکاری فقط شامل کسانی است که به زبان فارسی مسلط و ساکن یکی از کشورهای \u0026#34;ترکیه، قبرس شمالی، هندوستان، مصر، قرقیزستان، ازبکستان، کلمبیا، پاراگوئه، قزاقستان، سریلانکا، بلغارستان و رومانی\u0026#34; هستند.\u003cbr/\u003e\u003cbr/\u003eهمکاری با هرانا فرصتی است برای کسب تجربه عملی در حوزه مستندسازی و فعالیت‌های حقوق بشری در یک نهاد با سابقه و ساختار حرفه‌ای.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938E.png\u0026#39;)\"\u003e\u003cb\u003e📎\u003c/b\u003e\u003c/i\u003e\u003cb\u003e برای ثبت درخواست همکاری، لطفا فرم زیر را تکمیل کنید\u003c/b\u003e:\u003cbr/\u003e\u003ca href=\"https://hra.news/4cBjHqs\" target=\"_blank\" rel=\"noopener\"\u003ehttps://hra.news/4cBjHqs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e در صورت بروز مشکل در تکمیل فرم، می‌توانید رزومه و اطلاعات تماس خود را به آدرس زیر ارسال نمایید:\u003cbr/\u003einfo@hra-news.org\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28698.png\u0026#39;)\"\u003e\u003cb\u003e↘️\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/hranews_bot\" target=\"_blank\"\u003e@hranews_bot\u003c/a\u003e تماس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e -  \u003ca href=\"https://t.me/Hranews\" target=\"_blank\"\u003e@Hranews\u003c/a\u003e  کانال هرانا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8691.png\u0026#39;)\"\u003e\u003cb\u003e🆑\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-05-12T17:39:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 65800,
+      "views": 83700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +273,7 @@
       "date": "2026-05-12T17:53:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 71100,
+      "views": 93200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +285,7 @@
       "date": "2026-05-12T20:28:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46100,
+      "views": 84500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +297,7 @@
       "date": "2026-05-12T21:46:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 66800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
