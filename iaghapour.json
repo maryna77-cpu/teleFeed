@@ -7,36 +7,12 @@
   },
   "posts": [
     {
-      "id": 2601,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e عصبانیت سخنگوی دولت از انتقاد خبرنگاران از قطع اینترنت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eفاطمه مهاجرانی در نشست خبری امروز خود به اعتراض خبرنگاران بابت ادامه قطعی اینترنت واکنش نشان داد.\u003cbr/\u003e\u003cblockquote\u003eسخنگوی دولت گفت: «در شرایطی که رئیس جمهور آمریکا اعلام می‌کند آتش بس به دستگاه تنفس مصنوعی وصل است، پاسخ شما چیست؟ کشور در جنگ است. بپذیریم که ویژگی جنگ، امنیت مردم است.»\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✍🏻\u003c/b\u003e\u003c/i\u003e پ.ن:  خانم مهاجرانی اگه دوباره عصبی نمیشید خواستم بگم کاش به فکر امنیت اقتصادی مردم هم بودید! کاش به فکر امنیت ذهنی و روانی مردم هم بودید! کاش یه فکری برای چند میلیون آدمی که با قطعی اینترنت بیکار و ناامید کردین هم بودید!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e",
-      "date": "2026-05-12T10:45:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2602,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e آپدیت بزرگ و انقلابی پنل 3x-ui (نسخه‌های 3.0.0 و 3.0.1) \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبالاخره یکی از مهم‌ترین آپدیت‌های پنل محبوب 3x-ui منتشر شد! در این نسخه‌ها شاهد بازنویسی کامل رابط کاربری، اضافه شدن قابلیت‌های مدیریتی کلان و بهبودهای چشمگیر امنیتی هستیم.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۱. بازنویسی کامل و سریع‌تر شدن پنل (مهاجرت به Vue 3)\u003c/b\u003e رابط کاربری از پایه بازنویسی شده است! این یعنی سرعت لود بسیار بالاتر، طراحی مدرن‌تر، صفحه لاگین جدید و بهبود چشمگیر تم دارک.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۲. آمار زنده و در لحظه\u003c/b\u003e: با جایگزینی سیستم قدیمی با \u003cb\u003eWebSocket\u003c/b\u003e، از این پس تمام آمارهای داشبورد، مصرف حجم کلاینت‌ها و وضعیت سرور به صورت «زنده» آپدیت می‌شوند و دیگر نیازی به رفرش کردن صفحه نیست!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۳. مدیریت چند سروره (Multi-Node Deployment) - \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C9F.png\u0026#39;)\"\u003e\u003cb\u003e🌟\u003c/b\u003e\u003c/i\u003e ویژگی طلایی\u003c/b\u003e یکی از مورد انتظارترین قابلیت‌ها اضافه شد! حالا می‌توانید از طریق یک پنل مرکزی (Manager)، کانفیگ‌ها و اینباندها را روی چندین سرور دیگر (Remote Nodes) مستقر و مدیریت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۴. رابط کاربری کاملاً سازگار با موبایل\u003c/b\u003e: داشبورد، لیست کلاینت‌ها و بخش لاگ‌ها حالا به صورت \u0026#34;کارتی\u0026#34; و کاملاً بهینه برای نمایشگرهای موبایل طراحی شده‌اند تا مدیریت پنل با گوشی بسیار راحت‌تر شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۵. خداحافظی با کدهای JSON و تنظیمات آسان‌تر\u003c/b\u003e فرم‌های ساخت کانفیگ (Inbounds) کاملاً ساختاریافته و گرافیکی شده‌اند. دیگر برای تنظیمات پایه نیازی به دستکاری JSON خام نیست (البته تب Advanced برای حرفه‌ای‌ها همچنان وجود دارد). همچنین مدیریت DNSها بسیار پیشرفته‌تر شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A5.png\u0026#39;)\"\u003e\u003cb\u003e👥\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۶. مدیریت گروهی کلاینت‌ها (Bulk Actions)\u003c/b\u003e امکان انتخاب گروهی  کلاینت‌ها برای حذف یا اعمال تغییرات اضافه شده که کار ادمین‌ها را بسیار راحت می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۷. امکانات جدید Xray و Outboundها\u003c/b\u003e اضافه شدن پروتکل Loopback، دکمه \u003cb\u003eTest All\u003c/b\u003e برای تست همزمان همه Outboundها و ارائه گزارش دقیق از تایم‌اوت‌ها، و همچنین خاموش شدن امن هسته Xray.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۸. ارتقاء امنیت و نصب راحت‌تر\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e اضافه شدن سیستم امنیتی CSRF Protection برای جلوگیری از حملات. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e اضافه شدن گزینه \u003ccode\u003eskip-SSL\u003c/code\u003e در اسکریپت نصب (بسیار کاربردی برای کسانی که از ریورس‌پروکسی یا تانل استفاده می‌کنند و نیازی به سرتیفیکیت روی خود سرور ندارند). \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e اضافه شدن صفحه مستندات API (API Docs) در داخل خود پنل برای برنامه‌نویسان.\u003cbr/\u003e\u003cbr/\u003eو بسیاری از تغییرات دیگه که میتونید در\u003ca href=\"https://github.com/MHSanaei/3x-ui/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e این لینک\u003c/a\u003e مطالعه کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنکته:\u003c/b\u003e برای تجربه این تغییرات فوق‌العاده، پیشنهاد می‌شود هرچه سریع‌تر پنل خود را آپدیت کنید. (توصیه همیشگی: قبل از آپدیت بکاپ فراموش نشود!)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✍🏻\u003c/b\u003e\u003c/i\u003e با تشکر از ثنایی عزیز.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-12T15:02:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
       "id": 2603,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍\u003c/b\u003e\u003c/i\u003e آدم راننده شوتی باشه به مراتب اضطرابش كمتر از کسیه كه شغلش تو ايران به اينترنت وابسته هستش...\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-05-12T18:04:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,85 +24,7 @@
       "date": "2026-05-13T10:45:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2606,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e خلاصه اخبار چند روز گذشته\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاینترنت بین‌الملل به گیمرها ارائه می‌شود؛\u003c/b\u003e ثبت درخواست در سامانه همگرا (اینترنت طبقاتی)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/b\u003eدولت و مجلس به دنبال حمایت تازه از پیام‌رسان‌های داخلی (رانت و فساد جدید)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eنماینده مردم تهران در مجلس: \u003c/b\u003eدرباره خسارت‌های قطعی اینترنت جوسازی می‌شود. (حرف بیخود)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eمعاون رئیس‌جمهور: \u003c/b\u003eاینترنت بین‌الملل حتما وصل می‌شود؛ دولت قصد دائمی‌کردن محدودیت‌ها را ندارد. (حرف الکی)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e\u003c/b\u003eبرآورد انجمن بلاکچین: خسارت ۳۰۰ تا ۷۰۰ هزار میلیاردی از قطعی اینترنت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eمعاون رئیس جمهور: محدودیت حجم و گرانی اینترنت پرو برای جلوگیری از استفاده غیرضروری است. (عجب بابا عجب)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eقطع اینترنت به هفتاد و پنجمین روز خود رسید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-13T15:13:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2607,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✍🏻\u003c/b\u003e\u003c/i\u003e دوستان عزیز، همون‌طور که احتمالاً متوجه شدید، در یک هفته گذشته به دلایل مختلفی فعالیت ما کمتر شده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eدر این مدت پیام‌های زیادی داشتیم که درخواست آموزش «روش جدید سنایی» رو داشتن. وقتی بررسی کردیم، متوجه شدیم خود ایشون زحمت تهیه ویدیوی آموزشی رو کشیدن؛ بنابراین نیازی به آموزش مجدد  نبود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eبرای اطمینان بیشتر، این آموزش رو به چند نفر از دوستان دادیم تا تست کنن. بیشتر افراد موفق به اجرا نشدن، اما یکی از کاربران تونست متصل بشه. طبق بررسی‌های ایشون، این روش به‌شدت به رنج آی‌پی‌ها (هم سرور ایران و هم خارج) وابسته است. مشکل اصلی اینجاست که بعد از اتصال و مصرف حجم کمی از اینترنت، ارتباط قطع می‌شه و باید آی‌پی رو عوض کرد؛ هرچند آی‌پی قبلی بعد از ۱ تا ۲ ساعت دوباره قابل استفاده می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eمتأسفانه در این بین، عده‌ای بدون این‌که تست درستی از پایداری تانل بگیرن، شروع به آموزش کردن که نتیجه‌اش فقط ضرر مالی برای کاربران بوده. چون کاربرا رفتن سرورهای گرون قیمت رو خریداری کردن که البته تعداد این افراد اصلا کم نبوده. (نمونه‌اش رو در عکس ضمیمه می‌بینید).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e در مجموع، به نظر می‌رسه این روش هنوز پایدار نیست، اما از بچه‌های تیم خواستیم تست‌های بیشتری روش انجام بدن. اگر خودتون هم مایلید آموزش رو ببینید، می‌تونید مستقیماً به کانال یا گروه سنایی مراجعه کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-13T18:34:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2608,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eسوپراپلیکیشن ایتا اعلام کرد امکان ارسال فایل تا حجم ۲۰ مگابایت مجدداً برای همه کاربران فراهم شده است!\u003cbr/\u003e\u003cbr/\u003eکاش تلگرام بیاد از شما یاد بگیره :)\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-14T08:37:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2609,
-      "message": "کل ریپازیتوری گیت هاب علیرضا که شامل X-UI و S-UI میشد بسته شده و هنوز دلیلش مشخص نیست.",
-      "date": "2026-05-14T16:28:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2612,
-      "message": ".\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e طبق صحبتی که با علیرضا عزیز داشتم گفتن به گیت‌هاب تیکت زدن بابت این مشکل و یک هفته طول میکشه که بررسی بشه از سمت گیت‌هاب و بزودی باید مشکل رفع بشه و ریپازیتوری ها برگرده.\u003cbr/\u003e\u003cbr/\u003eپ.ن: احتمال این وجود داره که یه عده مریض ریپورت کرده باشن. سعی کنید از آخرین ورژن پروژه های مهم همیشه فورک بگیرید و سینک کنید همیشه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-15T14:00:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2613,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e حرف‌زدن درباره‌ی قطعی \u003ca href=\"https://x.com/hashtag/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e#اینترنت\u003c/a\u003e شاید فوری اینترنت را برنگرداند؛ اما \u003ca href=\"https://x.com/hashtag/%D8%B3%DA%A9%D9%88%D8%AA?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e#سکوت\u003c/a\u003e دقیقاً همان چیزی است که ادامه‌ی این وضعیت به آن نیاز دارد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-15T18:38:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 31100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,12 +37,90 @@
       ]
     },
     {
+      "id": 2606,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e خلاصه اخبار چند روز گذشته\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاینترنت بین‌الملل به گیمرها ارائه می‌شود؛\u003c/b\u003e ثبت درخواست در سامانه همگرا (اینترنت طبقاتی)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/b\u003eدولت و مجلس به دنبال حمایت تازه از پیام‌رسان‌های داخلی (رانت و فساد جدید)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eنماینده مردم تهران در مجلس: \u003c/b\u003eدرباره خسارت‌های قطعی اینترنت جوسازی می‌شود. (حرف بیخود)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eمعاون رئیس‌جمهور: \u003c/b\u003eاینترنت بین‌الملل حتما وصل می‌شود؛ دولت قصد دائمی‌کردن محدودیت‌ها را ندارد. (حرف الکی)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e\u003c/b\u003eبرآورد انجمن بلاکچین: خسارت ۳۰۰ تا ۷۰۰ هزار میلیاردی از قطعی اینترنت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eمعاون رئیس جمهور: محدودیت حجم و گرانی اینترنت پرو برای جلوگیری از استفاده غیرضروری است. (عجب بابا عجب)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eقطع اینترنت به هفتاد و پنجمین روز خود رسید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-13T15:13:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2607,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✍🏻\u003c/b\u003e\u003c/i\u003e دوستان عزیز، همون‌طور که احتمالاً متوجه شدید، در یک هفته گذشته به دلایل مختلفی فعالیت ما کمتر شده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eدر این مدت پیام‌های زیادی داشتیم که درخواست آموزش «روش جدید سنایی» رو داشتن. وقتی بررسی کردیم، متوجه شدیم خود ایشون زحمت تهیه ویدیوی آموزشی رو کشیدن؛ بنابراین نیازی به آموزش مجدد  نبود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eبرای اطمینان بیشتر، این آموزش رو به چند نفر از دوستان دادیم تا تست کنن. بیشتر افراد موفق به اجرا نشدن، اما یکی از کاربران تونست متصل بشه. طبق بررسی‌های ایشون، این روش به‌شدت به رنج آی‌پی‌ها (هم سرور ایران و هم خارج) وابسته است. مشکل اصلی اینجاست که بعد از اتصال و مصرف حجم کمی از اینترنت، ارتباط قطع می‌شه و باید آی‌پی رو عوض کرد؛ هرچند آی‌پی قبلی بعد از ۱ تا ۲ ساعت دوباره قابل استفاده می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eمتأسفانه در این بین، عده‌ای بدون این‌که تست درستی از پایداری تانل بگیرن، شروع به آموزش کردن که نتیجه‌اش فقط ضرر مالی برای کاربران بوده. چون کاربرا رفتن سرورهای گرون قیمت رو خریداری کردن که البته تعداد این افراد اصلا کم نبوده. (نمونه‌اش رو در عکس ضمیمه می‌بینید).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e در مجموع، به نظر می‌رسه این روش هنوز پایدار نیست، اما از بچه‌های تیم خواستیم تست‌های بیشتری روش انجام بدن. اگر خودتون هم مایلید آموزش رو ببینید، می‌تونید مستقیماً به کانال یا گروه سنایی مراجعه کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-13T18:34:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 39200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2608,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eسوپراپلیکیشن ایتا اعلام کرد امکان ارسال فایل تا حجم ۲۰ مگابایت مجدداً برای همه کاربران فراهم شده است!\u003cbr/\u003e\u003cbr/\u003eکاش تلگرام بیاد از شما یاد بگیره :)\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-14T08:37:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2609,
+      "message": "کل ریپازیتوری گیت هاب علیرضا که شامل X-UI و S-UI میشد بسته شده و هنوز دلیلش مشخص نیست.",
+      "date": "2026-05-14T16:28:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2612,
+      "message": ".\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e طبق صحبتی که با علیرضا عزیز داشتم گفتن به گیت‌هاب تیکت زدن بابت این مشکل و یک هفته طول میکشه که بررسی بشه از سمت گیت‌هاب و بزودی باید مشکل رفع بشه و ریپازیتوری ها برگرده.\u003cbr/\u003e\u003cbr/\u003eپ.ن: احتمال این وجود داره که یه عده مریض ریپورت کرده باشن. سعی کنید از آخرین ورژن پروژه های مهم همیشه فورک بگیرید و سینک کنید همیشه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-15T14:00:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 30200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2613,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e حرف‌زدن درباره‌ی قطعی \u003ca href=\"https://x.com/hashtag/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e#اینترنت\u003c/a\u003e شاید فوری اینترنت را برنگرداند؛ اما \u003ca href=\"https://x.com/hashtag/%D8%B3%DA%A9%D9%88%D8%AA?src=hashtag_click\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e#سکوت\u003c/a\u003e دقیقاً همان چیزی است که ادامه‌ی این وضعیت به آن نیاز دارد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-15T18:38:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 29800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+        }
+      ]
+    },
+    {
       "id": 2614,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e بحران در زیرساخت فناوری؛ سقوط درآمدها و خطر عقب‌ماندگی ۱۰ ساله!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاختلالات اینترنتی دیگر فقط یک مشکل ساده برای کاربران عادی نیست؛ بلکه به گفته رئیس کمیسیون شبکه سازمان نصر، تیشه به ریشه‌ی زیرساخت‌های فناوری کشور زده است. این وضعیت نه تنها درآمد شرکت‌ها را تا ۷۰ درصد کاهش داده، بلکه باعث فرار متخصصان کلیدی و فرسودگی شدید تجهیزات شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e سقوط درآمد و انفجار هزینه‌ها: شرکت‌های حوزه شبکه با کاهش درآمد ۳۰ تا ۷۰ درصدی روبرو هستند. از سوی دیگر، به دلیل اختلال در مسیریابی و افت کیفیت، این شرکت‌ها مجبور به پرداخت جریمه‌های سنگین ناشی از نقض توافق‌نامه سطح خدمات (SLA) شده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e تهدید امنیت سایبری: محدودیت دسترسی به مخازن اصلی و سرورهای به‌روزرسانی جهانی، ریسک نفوذ و حملات سایبری را تا ۴۰ درصد افزایش داده است. در واقع، امنیت سایبری قربانی ناپایداری شبکه شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e تخلیه ژنتیکی تخصص: صنعت شبکه با بحران خروج نیروهای کلیدی مواجه است. تربیت یک متخصص ارشد سال‌ها زمان و هزینه‌ی ارزی سنگین می‌طلبد که با مهاجرت این افراد، سرمایه‌های انسانی چند میلیاردی کشور به راحتی از دست می‌رود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e عقب‌ماندگی ۱۰ ساله: ادامه این وضعیت، ایران را با شکاف تکنولوژیک ۱۰ ساله نسبت به کشورهای منطقه مواجه می‌کند؛ شکافی که در فضای پرشتاب فناوری، جبران آن تقریباً غیرممکن خواهد بود.\u003cbr/\u003e\u003cbr/\u003eزیرساخت شبکه کشور به جای اتصال طبیعی به اینترنت جهانی، در حال حرکت به سمت یک ساختار جزیره‌ای و فرسوده است. اگر ثبات پیش‌بینی‌پذیر به این فضا بازنگردد، شرکت‌های بزرگ فناوری به اپراتورهای ساده تجهیزات قدیمی تنزل پیدا خواهند کرد. / دیجیاتو\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-05-16T07:08:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
+      "views": 33500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +132,7 @@
       "date": "2026-05-16T11:56:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35400,
+      "views": 35800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +150,7 @@
       "date": "2026-05-17T13:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +162,7 @@
       "date": "2026-05-18T12:30:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +170,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
         }
       ]
     },
@@ -204,7 +180,7 @@
       "date": "2026-05-20T06:16:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +198,7 @@
       "date": "2026-05-20T08:48:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +206,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
     },
@@ -240,7 +216,7 @@
       "date": "2026-05-20T13:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +228,7 @@
       "date": "2026-05-20T17:57:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +240,7 @@
       "date": "2026-05-21T16:18:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +252,25 @@
       "date": "2026-05-21T17:37:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2625,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e معرفی پروژه XPlex؛ راه‌حل هوشمندانه برای جلوگیری از قطعی و پکت‌لاس کانفیگ\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگر از کانفیگ‌های v2ray استفاده می‌کنید و پایداری اینترنت در کارهای حساسی مثل آزمون‌های آنلاین، جلسات ویدیویی یا ریموت‌ورک برای شما حیاتی است، پروژه جدید XPlex یک راه‌حل فنی و کاربردی برای شما دارد.\u003cbr/\u003e\u003cbr/\u003eمنطق این اسکریپت ساده اما بسیار کارآمد است و به شما کمک می‌کند تا یک اتصال بدون قطعی را تجربه کنید:\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e استفاده هم‌زمان از چند کانفیگ: \u003c/b\u003eمنطق کلیدی این پروژه این است که اگر چند کانفیگ v2ray داشته باشید، اسکریپت به صورت هم‌زمان از آن‌ها استفاده می‌کند و ترافیک شما را روی کانفیگی می‌اندازد که کمترین پینگ ممکن را دارد.\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e خداحافظی با پکت‌لاس و تایم‌اوت: \u003c/b\u003eاین ابزار برای افرادی که کارهای حساسی دارند و ثانیه‌ها برایشان مهم است طراحی شده؛ مثل شرکت‌کنندگان در آزمون‌های آیلتس آنلاین، جلسات کاری با خارج از کشور و...\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e هزینه مصرف حجم:\u003c/b\u003e باید توجه داشته باشید که به دلیل ماهیت کارکرد این ابزار، مصرف ترافیک و حجم v2ray شما تقریباً دو برابر خواهد شد که بهای به دست آوردن یک اینترنت کاملاً پایدار است.\u003cbr/\u003e\u003ca href=\"https://github.com/abolix/XPlex/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://github.com/abolix/XPlex/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاطلاعات بیشتر در گیت‌هاب پروژه\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e",
+      "date": "2026-05-22T17:24:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,6 +281,18 @@
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
+    },
+    {
+      "id": 2626,
+      "message": "اکانت‌های هوش مصنوعی رو با یک‌دهم قیمت بخر \u003ctg-emoji emoji-id=\"5229064374403998351\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5462878403973619446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB3E2808DF09F8C88.png\u0026#39;)\"\u003e\u003cb\u003e🏳️‍🌈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Gemini Pro:\u003cbr/\u003e(گزینه‌ی اقتصادی)\u003cbr/\u003e\u003cbr/\u003e- پلن مشابه GPT Plus از شرکت گوگل\u003cbr/\u003e- پشتیبانی از Antigravity\u003cbr/\u003e- ساخت عکس و ویدیوی فارسی\u003cbr/\u003e- تجزیه‌ و تحلیل و تحقیق عمیق\u003cbr/\u003e- فعال‌سازی روی ایمیل شما (اتوماتیک)\u003cbr/\u003e- کاملا اختصاصی (فمیلی نیست)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5999316645263184019\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://Kiro.dev/\" target=\"_blank\" rel=\"noopener\"\u003eKiro.dev\u003c/a\u003e Pro\u003cbr/\u003e(جایگزین اقتصادی Claude)\u003cbr/\u003e\u003cbr/\u003e- ایجنت برنامه‌نویسی شرکت آمازون\u003cbr/\u003e- پشتیبانی از تمامی مدل‌های Claude\u003cbr/\u003e- ارزان، اقتصادی و باکیفیت\u003cbr/\u003e- مناسب فقط برنامه‌نویسان\u003cbr/\u003e\u003cbr/\u003eخرید و توضیحات بیشتر از ربات:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5287684458881756303\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ChatGPT_StoreBOT\" target=\"_blank\"\u003e@ChatGPT_StoreBOT\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e* اکانت هتزنر هم داخل ربات موجوده",
+      "date": "2026-05-22T17:24:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
     }
   ],
   "last_updated": 0
