@@ -3,7 +3,7 @@
     "id": 0,
     "title": "NetBlocks",
     "username": "netblocks",
-    "photo_url": "https://cdn4.telesco.pe/file/vZT90jrC-MXVAVtVMmv_WIX_UKYhlC6daGQ_c63GSNMYcCUBBua6cwii-VNXsKeAwv_t-zldeb3GK37DZ5Q5nerJH6oR3Qko_20w-MpcSICHLwxkPSe7q0elUc9qmbR2JQbiij0bLoulVYPp8peDcEtD9NCSu24kVRkv3ZTh3p_pdac9N7O5PR0Ubg9asziP0KDJF5IT70pb9FsRwYMb3q22y-MJkQYmtrjlZpeDaq4yeTtUlG2nEOrTd0LTqXWqgRIGggZYeWdIg72SpQkmzIJo-t4qIbsTGv9iUidxWPPpxZULzjG1wzE5llZ_AMvHw4-lQPkO2Y_RcajjkgozCg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/Cl6giLpjwpypdyzMgW54afRroCD9skzH1tofDGCG3E2RdCbHlNkpVC8gblzRVFEo-rrxB5kduwuvc5OpeWCovFFianyACz0sTdlIYeLBPNAcfOL7hO9By5H53cjLcXMwgj3GJqNK8GJ0NUHnvChVrs3R5F2REJ-cPxyInAA9W4i6VRVCN1hAYDevqXS0reDg-TqQ7ODIIsfAXQCF6Ly58SJm92DrpOuRlQF9lj2nF1F64US_Sf8ZjEkTt6U0T57YpOiotpJh7JZdsHzVOGMU4AKePY3C_utuJUgkXTZIkxYFGde6QmZ1jlrdyYU8rSLVo_g6c2wIj71aqD92auoVSQ.jpg"
   },
   "posts": [
     {
@@ -12,43 +12,7 @@
       "date": "2026-05-13T08:00:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 61000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1488,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B5.png\u0026#39;)\"\u003e\u003cb\u003e📵\u003c/b\u003e\u003c/i\u003e The internet blackout in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e has entered its 76th day after 1800 hours. The measure is built on a class-based tiered system where the select few are granted access while the general public are silenced, the very kind of social structure Iranian authorities claim to oppose.",
-      "date": "2026-05-14T08:05:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_18.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1489,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s digital isolation is now entering its 77th day as the internet blackout passes 1824 hours. The measure presents an emerging mental health risk to the public, who are largely cut off from online platforms, communications, and normal interaction with the outside world.",
-      "date": "2026-05-15T07:42:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 77300,
+      "views": 61100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,102 +25,48 @@
       ]
     },
     {
+      "id": 1488,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B5.png\u0026#39;)\"\u003e\u003cb\u003e📵\u003c/b\u003e\u003c/i\u003e The internet blackout in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e has entered its 76th day after 1800 hours. The measure is built on a class-based tiered system where the select few are granted access while the general public are silenced, the very kind of social structure Iranian authorities claim to oppose.",
+      "date": "2026-05-14T08:05:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 62600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_19.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1489,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s digital isolation is now entering its 77th day as the internet blackout passes 1824 hours. The measure presents an emerging mental health risk to the public, who are largely cut off from online platforms, communications, and normal interaction with the outside world.",
+      "date": "2026-05-15T07:42:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 77400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_12.jpg"
+        }
+      ]
+    },
+    {
       "id": 1490,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B6.png\u0026#39;)\"\u003e\u003cb\u003e😶\u003c/b\u003e\u003c/i\u003e Metrics show that \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s internet blackout is ongoing into its 79th day in its twelfth week. The mass-censorship measure has reshaped the nature of civic participation with information controls being used to relegate the general public to mere observers in their own country.",
       "date": "2026-05-17T07:44:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1491,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9793.png\u0026#39;)\"\u003e\u003cb\u003e🗓️\u003c/b\u003e\u003c/i\u003e Today marks the 80th day of \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s internet blackout, with the shutdown passing 1896 hours. Meanwhile, pro-regime content floods social media, as Iranians seeking to get pro/whitelist access say they are being asked to meet a quota of daily propaganda posts, policed by AI.",
-      "date": "2026-05-18T07:48:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_16.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1492,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C82.png\u0026#39;)\"\u003e\u003cb\u003e✂️\u003c/b\u003e\u003c/i\u003e The \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e internet blackout is now in its 81st day after 1920 hours. Meanwhile, the regime is attempting to extend its digital chokehold internationally, demanding control over other countries\u0026#39; cables in the Strait of Hormuz and big tech compliance with Islamic Republic laws.",
-      "date": "2026-05-19T08:05:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1493,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e It\u0026#39;s now the 82nd day of \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s digital blackout, with the country still largely cut off from the global internet after 1944 hours.\u003cbr/\u003e\u003cbr/\u003eIn an era when a disconnection lasting minutes would be a crisis, Iran continues to shatter records, destroying livelihoods and eroding rights.",
-      "date": "2026-05-20T07:46:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_4.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1494,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show that internet connectivity was cut across most of \u003ca href=\"?q=%23Iraq\"\u003e#Iraq\u003c/a\u003e except the north for ~2 hours this morning. The policy, in place for years, is presented as a way to stop leaking and cheating in school exams but disproportionately impacts users and businesses.",
-      "date": "2026-05-20T14:56:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_20.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1495,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e Metrics show the internet blackout in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e has now entered its 83rd day with international networks largely barred for over 1968 hours. A free and open internet is central to the protection of life, liberty and public accountability.",
-      "date": "2026-05-21T07:53:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42300,
+      "views": 39600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,12 +79,102 @@
       ]
     },
     {
+      "id": 1491,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9793.png\u0026#39;)\"\u003e\u003cb\u003e🗓️\u003c/b\u003e\u003c/i\u003e Today marks the 80th day of \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s internet blackout, with the shutdown passing 1896 hours. Meanwhile, pro-regime content floods social media, as Iranians seeking to get pro/whitelist access say they are being asked to meet a quota of daily propaganda posts, policed by AI.",
+      "date": "2026-05-18T07:48:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 38400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_18.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1492,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C82.png\u0026#39;)\"\u003e\u003cb\u003e✂️\u003c/b\u003e\u003c/i\u003e The \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e internet blackout is now in its 81st day after 1920 hours. Meanwhile, the regime is attempting to extend its digital chokehold internationally, demanding control over other countries\u0026#39; cables in the Strait of Hormuz and big tech compliance with Islamic Republic laws.",
+      "date": "2026-05-19T08:05:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 39300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1493,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e It\u0026#39;s now the 82nd day of \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s digital blackout, with the country still largely cut off from the global internet after 1944 hours.\u003cbr/\u003e\u003cbr/\u003eIn an era when a disconnection lasting minutes would be a crisis, Iran continues to shatter records, destroying livelihoods and eroding rights.",
+      "date": "2026-05-20T07:46:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1494,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show that internet connectivity was cut across most of \u003ca href=\"?q=%23Iraq\"\u003e#Iraq\u003c/a\u003e except the north for ~2 hours this morning. The policy, in place for years, is presented as a way to stop leaking and cheating in school exams but disproportionately impacts users and businesses.",
+      "date": "2026-05-20T14:56:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1495,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e Metrics show the internet blackout in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e has now entered its 83rd day with international networks largely barred for over 1968 hours. A free and open internet is central to the protection of life, liberty and public accountability.",
+      "date": "2026-05-21T07:53:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 42800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_14.jpg"
+        }
+      ]
+    },
+    {
       "id": 1496,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9A.png\u0026#39;)\"\u003e\u003cb\u003e⌚️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s internet blackout has just entered its 84th day with international networks largely cut off for over 1992 hours.\u003cbr/\u003e\u003cbr/\u003eEach passing hour widens social and economic divides as any contact with the outside world is gated by status, compliance and privilege.",
       "date": "2026-05-22T07:39:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45400,
+      "views": 45900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_15.jpg"
         }
       ]
     },
@@ -210,7 +210,7 @@
       "date": "2026-05-23T07:56:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44600,
+      "views": 45600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +218,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_15.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_17.jpg"
         }
       ]
     },
@@ -228,61 +228,7 @@
       "date": "2026-05-24T07:37:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_7.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1500,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E92.png\u0026#39;)\"\u003e\u003cb\u003e🎒\u003c/b\u003e\u003c/i\u003e Internet connectivity has just been cut across \u003ca href=\"?q=%23Iraq\"\u003e#Iraq\u003c/a\u003e except the north for the second time in a week, with ~2 hour shutdowns applied as part of a longstanding policy to limit cheating and leaks during school exams. The measure is disruptive and anachronistic in the digital age.",
-      "date": "2026-05-24T08:21:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_19.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1501,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9B.png\u0026#39;)\"\u003e\u003cb\u003e⌛️\u003c/b\u003e\u003c/i\u003e It\u0026#39;s now the 87th consecutive day of \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s internet blackout which has been in place for over 2064 hours. The measure has eliminated any transparency around executions, adding to the inhumane conditions and daily uncertainty faced by jailed critics, dissidents and tourists.",
-      "date": "2026-05-25T07:50:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_12.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1502,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Internet connectivity remains cut in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e with the digital blackout now having entered its 88th day, surpassing 2088 hours of isolation from the outside world. Metrics confirm the shutdown currently remains in effect despite the president\u0026#39;s order yesterday to restore access.",
-      "date": "2026-05-26T07:31:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 94200,
+      "views": 41200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,12 +241,12 @@
       ]
     },
     {
-      "id": 1503,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show a partial restoration to internet connectivity in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e on day 88, after 2093 hours of near-total isolation from international networks, the longest nationwide internet shutdown in modern history. It is unclear if the restoration will be sustained.",
-      "date": "2026-05-26T13:01:14Z",
+      "id": 1500,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E92.png\u0026#39;)\"\u003e\u003cb\u003e🎒\u003c/b\u003e\u003c/i\u003e Internet connectivity has just been cut across \u003ca href=\"?q=%23Iraq\"\u003e#Iraq\u003c/a\u003e except the north for the second time in a week, with ~2 hour shutdowns applied as part of a longstanding policy to limit cheating and leaks during school exams. The measure is disruptive and anachronistic in the digital age.",
+      "date": "2026-05-24T08:21:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 845000,
+      "views": 42400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +254,61 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_20.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1501,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9B.png\u0026#39;)\"\u003e\u003cb\u003e⌛️\u003c/b\u003e\u003c/i\u003e It\u0026#39;s now the 87th consecutive day of \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e\u0026#39;s internet blackout which has been in place for over 2064 hours. The measure has eliminated any transparency around executions, adding to the inhumane conditions and daily uncertainty faced by jailed critics, dissidents and tourists.",
+      "date": "2026-05-25T07:50:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 52500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_16.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1502,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Internet connectivity remains cut in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e with the digital blackout now having entered its 88th day, surpassing 2088 hours of isolation from the outside world. Metrics confirm the shutdown currently remains in effect despite the president\u0026#39;s order yesterday to restore access.",
+      "date": "2026-05-26T07:31:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 95700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_13.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1503,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show a partial restoration to internet connectivity in \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e on day 88, after 2093 hours of near-total isolation from international networks, the longest nationwide internet shutdown in modern history. It is unclear if the restoration will be sustained.",
+      "date": "2026-05-26T13:01:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 873000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_5.jpg"
         }
       ]
     },
@@ -326,7 +326,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_1.jpg"
         }
       ]
     },
@@ -336,7 +336,7 @@
       "date": "2026-05-27T11:28:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 58700,
+      "views": 62100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +344,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_17.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_8.jpg"
         }
       ]
     },
@@ -354,7 +354,7 @@
       "date": "2026-05-28T09:15:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -362,7 +362,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_4.jpg"
         }
       ]
     }
