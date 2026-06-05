@@ -3,40 +3,16 @@
     "id": 0,
     "title": "AiMobix",
     "username": "aimobix",
-    "photo_url": "https://cdn4.telesco.pe/file/maU8Z38_sQ3RuciYpUfJ4BdwNudX4pKBRA19IgGJMzXQGmzwv4-f4ti3D4OvK43aKX9TeRQDPBlt2NpTGObFTCBTXBmmOdgjr_fQ_tPZW5X8Zfj5iBQS4xvzd93Ln6-A5YRicBIUr9fB1xKhvFmh3p4INIXO_O4ObUGyXTx2q4wE1CQjazkC6t1AIAY0qe3apMbQ1p7IFL1ZBjQa4b4pyOfpgzPajn0GiTyStuEitnnTts670v62AZPg1CCniCX9opoiWIwarED3WD251zaJPJnKBrc3-phayFMjdXl9sAHtseOyY0FKyTQ-_4VC3J1xf74diDRpjRRL859ir03qVA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/HGa3QlQjI8DPIzzjYr4jx66eJjq5Fe2MVyR7aF41fBKzewudhLQWfC-Pj8dOh6iDh_ViQg-Xp57kDDd_RqaVDigPy_-uowxlkmUkLbGQbYXIJBZKgUBi-Qm-2rbkZCnyY2hkpeBnhN7B_BZ42GnW5WBz_AuGO2WJ413UO3a2ETX2AzTQ8NpYc_vfnIw8emTlQgTkm0OQW0IofcxrySWjUBVeBG_mm5DrGeA8SjiqwKZ3ihoZlEIB9NN17atLBEaffvllckFmDdHpOlaH-ogPIYdo7EpjFuHm55KuvPdPKqKqxtL1FOJ6ShV3sjmDi2PPf05WVfN5EgvNcRWJG5qVoA.jpg"
   },
   "posts": [
-    {
-      "id": 497,
-      "message": "چند روزی بود وای‌فای لپ‌تاپم مدام قطع و وصل می‌شد و فکر می‌کردم مشکل از خود لپ‌تاپه، بعدا متوجه شدم بخاطر اینترنت ایرانه.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A6.png\u0026#39;)\"\u003e\u003cb\u003e🤦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e اگر روی سیستمتون وای فای هی قطع و وصل میشه مشکل از اینترنت ایرانه سیستم فکر میکنه دیتایی نیست و وایفای رو ریستارت میکنه خودکار، به این شکل درستش کنید\u003cbr/\u003e\u003cbr/\u003e۱. همزمان کلید Windows + R رو فشار بده (کلید ویندوز همون لوگو ویندوز روی کیبورد)\u003cbr/\u003e۲. توی کادر Run که باز شد، بنویس regedit و اینتر رو بزن.\u003cbr/\u003e۳. برو این مسیر:\u003cbr/\u003eHKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\NlaSvc\\Parameters\\Internet\u003cbr/\u003e۴. روی EnableActiveProbing دابل‌کلیک و بعدش Value رو ۰ کن.\u003cbr/\u003e۵. سیستم رو ری‌استارت کن و تمام.",
-      "date": "2026-05-31T12:40:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 498,
-      "message": "چند تا vpn خیلی خفن پیدا کردم\u003cbr/\u003eخیلی حرفه ای و رایگان وصل میشید\u003cbr/\u003eچندین روزه دارم میگردم و تست میکنم ، هم برای موبایل هم برای ویندوز کاملا جواب میده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eبزودی پستش رو همراه با تست براتون میزارم",
-      "date": "2026-05-31T14:25:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
     {
       "id": 500,
       "message": "ساخت ربات تلگرام \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AF.png\u0026#39;)\"\u003e\u003cb\u003e🤯\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eبدون کد نویسی و دانش فنی\u003cbr/\u003e\u003cbr/\u003eبه شدت توصیه میشه \u003cbr/\u003e---------------------------------\u003cbr/\u003eوارد کانال شو  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+wx6URyb7VpA0MjY0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+wx6URyb7VpA0MjY0\u003c/a\u003e",
       "date": "2026-05-31T16:15:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-05-31T18:19:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-05-31T19:07:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +44,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
         }
       ]
     },
@@ -78,7 +54,7 @@
       "date": "2026-05-31T19:09:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +66,7 @@
       "date": "2026-05-31T19:11:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +78,7 @@
       "date": "2026-05-31T19:12:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "date": "2026-05-31T19:24:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +102,7 @@
       "date": "2026-05-31T19:26:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +114,7 @@
       "date": "2026-06-02T09:15:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +122,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg",
           "width": 720
         }
       ]
@@ -157,7 +133,7 @@
       "date": "2026-06-03T12:49:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +151,7 @@
       "date": "2026-06-03T13:37:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +159,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
         }
       ]
     },
@@ -193,7 +169,7 @@
       "date": "2026-06-03T13:38:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +181,7 @@
       "date": "2026-06-03T13:40:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +193,7 @@
       "date": "2026-06-03T16:45:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +201,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
         }
       ]
     },
@@ -235,7 +211,7 @@
       "date": "2026-06-03T16:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
+      "views": 13800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +223,7 @@
       "date": "2026-06-03T17:05:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +241,7 @@
       "date": "2026-06-03T17:22:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 14700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +249,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         }
       ]
     },
@@ -283,7 +259,37 @@
       "date": "2026-06-04T12:06:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9320,
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 521,
+      "message": "بالاخره با گوشی تونستم وصل شم ولی خیلییییی ارور داد خیلی اذیتم کرد،  بازم دارم تست میکنم میترسم پستشو بزارم چون خیلی اذیتتون میکنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9895.png\u0026#39;)\"\u003e\u003cb\u003e😕\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاما نکته جالبش اینه که با گوشی(بدون نیاز به  کامپیوتر) کانفیگ میسازی و واقعی وصل میشی \u003cbr/\u003eنکته جالب ترش اینه که خیلی از ارور هاش رو تونستم حل کنم\u003cbr/\u003eاین پیامو با همین روش گذاشتم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298BA.png\u0026#39;)\"\u003e\u003cb\u003e☺️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-05T08:53:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "message": "یه سری دوستان عزیز زحمت کشیدن متود sni رو روی گوشی اندروید اجرا کردن . ۲ تا روش بود که من خیلی تست کردم\u003cbr/\u003e اولی راحت تر بود ولی نیوورد واسم \u003cbr/\u003eدومی هم با بدبختی اورد",
+      "date": "2026-06-05T08:58:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
