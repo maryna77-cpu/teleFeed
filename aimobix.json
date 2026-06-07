@@ -7,42 +7,12 @@
   },
   "posts": [
     {
-      "id": 515,
-      "message": "خیلی از دوستان میگن این کانفیگ هایی که میسازیم تو گوشی هم کار میکنه و این خیلی عالیه.",
-      "date": "2026-06-03T16:45:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 516,
-      "message": "",
-      "date": "2026-06-03T16:50:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
       "id": 517,
       "message": "اینم تجربه یکی از دوستان که ممکنه مشکل شما هم باشه.",
       "date": "2026-06-03T17:05:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,37 +30,7 @@
       "date": "2026-06-03T17:22:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
-        }
-      ]
-    },
-    {
-      "id": 520,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e اسپاتیفای رفع فیلتر شد.",
-      "date": "2026-06-04T12:06:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 521,
-      "message": "بالاخره با گوشی تونستم وصل شم ولی خیلییییی ارور داد خیلی اذیتم کرد،  بازم دارم تست میکنم میترسم پستشو بزارم چون خیلی اذیتتون میکنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9895.png\u0026#39;)\"\u003e\u003cb\u003e😕\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاما نکته جالبش اینه که با گوشی(بدون نیاز به  کامپیوتر) کانفیگ میسازی و واقعی وصل میشی \u003cbr/\u003eنکته جالب ترش اینه که خیلی از ارور هاش رو تونستم حل کنم\u003cbr/\u003eاین پیامو با همین روش گذاشتم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298BA.png\u0026#39;)\"\u003e\u003cb\u003e☺️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-05T08:53:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,78 +43,24 @@
       ]
     },
     {
-      "id": 522,
-      "message": "یه سری دوستان عزیز زحمت کشیدن متود sni رو روی گوشی اندروید اجرا کردن . ۲ تا روش بود که من خیلی تست کردم\u003cbr/\u003e اولی راحت تر بود ولی نیوورد واسم \u003cbr/\u003eدومی هم با بدبختی اورد",
-      "date": "2026-06-05T08:58:56Z",
+      "id": 520,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e اسپاتیفای رفع فیلتر شد.",
+      "date": "2026-06-04T12:06:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AiMobix"
     },
     {
-      "id": 523,
-      "message": "بالاخره تونستم با یه روش حرفه ای تر \u003cbr/\u003eخیلییی راحت تر کانفیگ بسازم رو اندروید\u003cbr/\u003eبدون نیاز به کامپیوتر\u003cbr/\u003eبدون نیاز به برنامه ترموکس \u003cbr/\u003eبدون نیاز به کد نویسی\u003cbr/\u003eو ارور خاصی ام نمیده \u003cbr/\u003eخیلییی راحت تر و کامل تر \u003cbr/\u003eاین روش های بالا که گذاشتم سخت بود توش پر از ارور بود و اذیت میکرد کلا بی خیالش شدم \u003cbr/\u003eاما این روش جدید خیلییییی بهتره\u003cbr/\u003eآموزش بزودی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-05T14:49:14Z",
+      "id": 521,
+      "message": "بالاخره با گوشی تونستم وصل شم ولی خیلییییی ارور داد خیلی اذیتم کرد،  بازم دارم تست میکنم میترسم پستشو بزارم چون خیلی اذیتتون میکنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9895.png\u0026#39;)\"\u003e\u003cb\u003e😕\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاما نکته جالبش اینه که با گوشی(بدون نیاز به  کامپیوتر) کانفیگ میسازی و واقعی وصل میشی \u003cbr/\u003eنکته جالب ترش اینه که خیلی از ارور هاش رو تونستم حل کنم\u003cbr/\u003eاین پیامو با همین روش گذاشتم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298BA.png\u0026#39;)\"\u003e\u003cb\u003e☺️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-05T08:53:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
-        }
-      ]
-    },
-    {
-      "id": 524,
-      "message": "اینا کنسله خیلیییی خفن ترش رو دارم اماده میکنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-05T14:50:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 525,
-      "message": "اگه کسی رو خیلی دوست داری،\u003cbr/\u003eزیاد مزاحمش نشو...!!\u003cbr/\u003eآدما ببینن همیشه براشون وقت داری،\u003cbr/\u003eنادیدت میگیرن!\u003cbr/\u003eتو هر چقدر هم به یکی احترام بزاری،\u003cbr/\u003eدر آخر، اون به قدر فهمش با تو رفتار میکنه..!!!",
-      "date": "2026-06-06T11:30:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 526,
-      "message": "بریم برای یه پست خفن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998BE2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🙋‍♂️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاین پستی که میخوام بزارم حالمو خیلی خوب کرد چون خیلی راحت از دیروزه وصلم باهاش\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-06T14:19:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 527,
-      "message": "ساخت کانفیگ حرفه ای با گوشی  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e بالاخره یه روش پیدا کردم که فقط با موبایل \u003cbr/\u003eانجام میشه! آموزش کامل تو یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/wzbmzqwrEa8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/wzbmzqwrEa8\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون کامپیوتر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون Termux \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پیدا کردن IP های تمیز \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e سرعت عالی برای یوتیوب، تلگرام، اینستاگرام و جمینای و ...\u003cbr/\u003e\u003cbr/\u003eگیت هاب پروژه edge tunnel : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/cmliu/edgetunnel\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/cmliu/edgetunnel\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eگیت هاب اسکنر : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mirarr-app/network-checker\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/mirarr-app/network-checker\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eفایل ها و پیش نیاز ها\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-06T14:25:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,12 +73,96 @@
       ]
     },
     {
+      "id": 522,
+      "message": "یه سری دوستان عزیز زحمت کشیدن متود sni رو روی گوشی اندروید اجرا کردن . ۲ تا روش بود که من خیلی تست کردم\u003cbr/\u003e اولی راحت تر بود ولی نیوورد واسم \u003cbr/\u003eدومی هم با بدبختی اورد",
+      "date": "2026-06-05T08:58:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 523,
+      "message": "بالاخره تونستم با یه روش حرفه ای تر \u003cbr/\u003eخیلییی راحت تر کانفیگ بسازم رو اندروید\u003cbr/\u003eبدون نیاز به کامپیوتر\u003cbr/\u003eبدون نیاز به برنامه ترموکس \u003cbr/\u003eبدون نیاز به کد نویسی\u003cbr/\u003eو ارور خاصی ام نمیده \u003cbr/\u003eخیلییی راحت تر و کامل تر \u003cbr/\u003eاین روش های بالا که گذاشتم سخت بود توش پر از ارور بود و اذیت میکرد کلا بی خیالش شدم \u003cbr/\u003eاما این روش جدید خیلییییی بهتره\u003cbr/\u003eآموزش بزودی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-05T14:49:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "message": "اینا کنسله خیلیییی خفن ترش رو دارم اماده میکنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-05T14:50:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 525,
+      "message": "اگه کسی رو خیلی دوست داری،\u003cbr/\u003eزیاد مزاحمش نشو...!!\u003cbr/\u003eآدما ببینن همیشه براشون وقت داری،\u003cbr/\u003eنادیدت میگیرن!\u003cbr/\u003eتو هر چقدر هم به یکی احترام بزاری،\u003cbr/\u003eدر آخر، اون به قدر فهمش با تو رفتار میکنه..!!!",
+      "date": "2026-06-06T11:30:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 526,
+      "message": "بریم برای یه پست خفن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998BE2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🙋‍♂️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاین پستی که میخوام بزارم حالمو خیلی خوب کرد چون خیلی راحت از دیروزه وصلم باهاش\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-06T14:19:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 527,
+      "message": "ساخت کانفیگ حرفه ای با گوشی  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e بالاخره یه روش پیدا کردم که فقط با موبایل \u003cbr/\u003eانجام میشه! آموزش کامل تو یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/wzbmzqwrEa8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/wzbmzqwrEa8\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون کامپیوتر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون Termux \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پیدا کردن IP های تمیز \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e سرعت عالی برای یوتیوب، تلگرام، اینستاگرام و جمینای و ...\u003cbr/\u003e\u003cbr/\u003eگیت هاب پروژه edge tunnel : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/cmliu/edgetunnel\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/cmliu/edgetunnel\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eگیت هاب اسکنر : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mirarr-app/network-checker\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/mirarr-app/network-checker\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eفایل ها و پیش نیاز ها\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-06T14:25:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+        }
+      ]
+    },
+    {
       "id": 528,
       "message": "",
       "date": "2026-06-06T14:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +174,7 @@
       "date": "2026-06-06T14:30:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +186,7 @@
       "date": "2026-06-06T14:46:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +198,7 @@
       "date": "2026-06-06T19:41:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7830,
+      "views": 9680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +210,7 @@
       "date": "2026-06-07T07:42:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3180,
+      "views": 7210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +229,7 @@
       "date": "2026-06-07T08:10:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 6830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +247,7 @@
       "date": "2026-06-07T08:18:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1700,
+      "views": 6670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +255,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
         }
       ]
     },
@@ -295,7 +265,7 @@
       "date": "2026-06-07T08:32:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 865,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,6 +274,42 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "message": "دقیقا دوستمون درست میگن به پینگ زیاد توجه نکنید",
+      "date": "2026-06-07T09:00:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "message": "خیلی از دوستان تو پست قبلی راجب آیکون های من پرسیدن، من کار اصلیم طراحی و ساخت آیکون پک و شخصی سازی حرفه ای اندرویده(دونه به دونه این آیکون هارو خودم طراحی کردم ) که دوستان قدیمی بهتر میدونن ، اما از وقتی پیجم پریده دیگه راجب شخصی سازی به اون صورت پستی نساختم،  اما دوباره پیج جدید میزنم و  ادامه میدم خیلی قوی تر از قبل کلی هم آیکون پک خفن تو ذهنم هست که قراره طراحی کنم  ، برای شخصی سازی های قبلی هم پستای قبلی رو  ببینید قول میدم عاشقشون میشید ، پیج جدیدم به زودی میزنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-07T09:42:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5540,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg"
         }
       ]
     }
