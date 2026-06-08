@@ -3,70 +3,16 @@
     "id": 0,
     "title": "AiMobix",
     "username": "aimobix",
-    "photo_url": "https://cdn4.telesco.pe/file/DvXTuFe2B52seYiakTLe0Eu6309aCYnNLr12NETX50j1VJDV9sERAW41IFm8i6rFijDVPKA4XdVf5UDTsktINxS7-UqEdYrYeVRFrl-8xiY64f0gPmMDYMI-OMKn-IN3fZZTXkbIyTZGHkrnFYsBEJDlfi4t0wzEyrrayppZFQOgBKzZB5xFQcYjXWNAisSUDm01tO9OY_MizwWrQHfyr9htGkn85-mErww7keWLyK0EOs4A8C5psA1DD1PH0b7HqRlWACZ4GX5PM4TUboYwlnaZ430kPWLpoCzZh7ecmoicgp-Ker0Td-MoB215WXPLfi0tKQYN5ZhxMjHfDzM6fg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/SZPZipuCpBsLS7QsH4lx9BWSOuDRjvaMXVUxnH77QZKNvTeTvfR0URokPS11UOEkg9jzCUm69TncnB8F0InNFk32Ima3gA0GORzVjzkKcdoPqE-EJjeE-tVEoOc8Xsbr-81Uk_eQ3IZkN6hyJoOIO4DydtFEjgm4MkGpUikZb7QaCVRHIQXQcwT9T0EMCXJPkzuU4XXg8bcht4c1ju4vDCvU0Dt-N_lq2TwMv6NFddIO43jKLFPf9d4vUa5MzB1zx58fArRCvQTj3kCC9FrZabzNiomFAw9T1sqkdS7FMvTXNEpNRzQDUYMk4LJDOBetK5VIVTsGx7syg3A6gjw2wA.jpg"
   },
   "posts": [
-    {
-      "id": 518,
-      "message": "این مشکل خیلی ها بود حتی خود من \u003cbr/\u003eبرای من با کانفیگ قوی تر حل شد",
-      "date": "2026-06-03T17:22:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 520,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB5.png\u0026#39;)\"\u003e\u003cb\u003e🎵\u003c/b\u003e\u003c/i\u003e اسپاتیفای رفع فیلتر شد.",
-      "date": "2026-06-04T12:06:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 525,
-      "message": "اگه کسی رو خیلی دوست داری،\u003cbr/\u003eزیاد مزاحمش نشو...!!\u003cbr/\u003eآدما ببینن همیشه براشون وقت داری،\u003cbr/\u003eنادیدت میگیرن!\u003cbr/\u003eتو هر چقدر هم به یکی احترام بزاری،\u003cbr/\u003eدر آخر، اون به قدر فهمش با تو رفتار میکنه..!!!",
-      "date": "2026-06-06T11:30:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 526,
-      "message": "بریم برای یه پست خفن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998BE2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🙋‍♂️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاین پستی که میخوام بزارم حالمو خیلی خوب کرد چون خیلی راحت از دیروزه وصلم باهاش\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-06T14:19:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
     {
       "id": 527,
       "message": "ساخت کانفیگ حرفه ای با گوشی  \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e بالاخره یه روش پیدا کردم که فقط با موبایل \u003cbr/\u003eانجام میشه! آموزش کامل تو یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/wzbmzqwrEa8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/wzbmzqwrEa8\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون کامپیوتر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون Termux \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پیدا کردن IP های تمیز \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e سرعت عالی برای یوتیوب، تلگرام، اینستاگرام و جمینای و ...\u003cbr/\u003e\u003cbr/\u003eگیت هاب پروژه edge tunnel : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/cmliu/edgetunnel\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/cmliu/edgetunnel\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eگیت هاب اسکنر : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mirarr-app/network-checker\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/mirarr-app/network-checker\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eفایل ها و پیش نیاز ها\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-06T14:25:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
         }
       ]
     },
@@ -84,7 +30,7 @@
       "date": "2026-06-06T14:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +42,7 @@
       "date": "2026-06-06T14:30:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +54,7 @@
       "date": "2026-06-06T14:46:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +66,7 @@
       "date": "2026-06-06T19:41:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +78,7 @@
       "date": "2026-06-07T07:42:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9640,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +86,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg",
           "width": 596
         }
       ]
@@ -151,7 +97,7 @@
       "date": "2026-06-07T08:10:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9220,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,25 +115,7 @@
       "date": "2026-06-07T08:18:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 535,
-      "message": "اینم راهکار واسه کسانی که پینگ نداده بهشون",
-      "date": "2026-06-07T08:32:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9310,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,12 +128,12 @@
       ]
     },
     {
-      "id": 536,
-      "message": "دقیقا دوستمون درست میگن به پینگ زیاد توجه نکنید",
-      "date": "2026-06-07T09:00:34Z",
+      "id": 535,
+      "message": "اینم راهکار واسه کسانی که پینگ نداده بهشون",
+      "date": "2026-06-07T08:32:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +141,25 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "message": "دقیقا دوستمون درست میگن به پینگ زیاد توجه نکنید",
+      "date": "2026-06-07T09:00:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
         }
       ]
     },
@@ -223,7 +169,7 @@
       "date": "2026-06-07T09:42:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 13800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +177,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
         }
       ]
     },
@@ -241,7 +187,7 @@
       "date": "2026-06-07T17:25:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9430,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +205,7 @@
       "date": "2026-06-07T18:51:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7790,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +217,7 @@
       "date": "2026-06-07T19:07:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7020,
+      "views": 14600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +229,7 @@
       "date": "2026-06-07T19:28:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +241,55 @@
       "date": "2026-06-07T19:50:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4610,
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 544,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنایب رئیس کمیسیون صنایع مجلس:\u003cbr/\u003eامکان قطع مجدد اینترنت وجود داره. بالاخره شرایط جنگیه.",
+      "date": "2026-06-08T09:11:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 545,
+      "message": "معاونت ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور: \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنگرانی برای قطع اینترنت وجود نداره و اینترنت قطع نمیشه",
+      "date": "2026-06-08T11:32:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 546,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e فوری: مجدد آتش بس شد.\u003cbr/\u003e\u003cbr/\u003eقرارگاه خاتم‌الانبیا اعلام کرد عملیات ما تموم شد و اهدافمون رو زدیم.\u003cbr/\u003eاسرائیل هم گفته فعلا حملات رو متوقف میکنیم تا ببینیم چی میشه.",
+      "date": "2026-06-08T11:54:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 547,
+      "message": "از همین روش استفاده کنید الکی پول کانفیگ ندین ۴ روزه یه کله وصلم با این روش سوالی بود تو کامنت های یوتیوب بپرسید جواب میدم همه رو",
+      "date": "2026-06-08T11:56:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
