@@ -7,61 +7,12 @@
   },
   "posts": [
     {
-      "id": 531,
-      "message": "\u003ca href=\"?q=%23%D9%85%D8%B1%D8%A8%D9%88%D8%B7\"\u003e#مربوط\u003c/a\u003e به پست قبلی\u003cbr/\u003eدوستانی که ارور undefined میگرفتن تو نسخه جدید این مشکل برطرف شده فقط کافیه از worker جدید استفاده کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v4.2.2/worker.js\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v4.2.2/worker.js\u003c/a\u003e",
-      "date": "2026-06-06T19:41:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 532,
-      "message": "اینم پاسخ به سوال خیلی از دوستان \u003cbr/\u003eراجب محدوویت حجمی این کانفیگ هایی که میسازیم.\u003cbr/\u003eمن سومین روزه دارم استفاده میکنم و همچنان وصلم",
-      "date": "2026-06-07T07:42:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg",
-          "width": 596
-        }
-      ]
-    },
-    {
-      "id": 533,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e خفن‌ترین متدی که این چند ماه تست کردم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ساخت کانفیگ با Cloudflare + BPB Worker \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پیدا کردن IPهای تمیز و پرسرعت با اسکنرها \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e  آموزش فعالسازی تو یوتیوب \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e  https://youtu.be/HbLxW3TV4hY    گیت هاب پروژه ها:   پنل BPB :  https://github.com/bia-pain-bache/BPB…",
-      "date": "2026-06-07T08:10:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
-        }
-      ]
-    },
-    {
       "id": 534,
       "message": "این مرحله نیاز به کانفیگ قوی داره منم تو فیلم قبلی همین مشکلو داشتم کانفیگ ها برام نمیومد . و تو گوشی با مرورگر کروم اذیت میکنه با مرورگر خود گوشیتون این مراحل رو انجام بدید",
       "date": "2026-06-07T08:18:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 13100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
         }
       ]
     },
@@ -79,7 +30,7 @@
       "date": "2026-06-07T08:32:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,43 +48,7 @@
       "date": "2026-06-07T09:00:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
-        }
-      ]
-    },
-    {
-      "id": 538,
-      "message": "خیلی از دوستان تو پست قبلی راجب آیکون های من پرسیدن، من کار اصلیم طراحی و ساخت آیکون پک و شخصی سازی حرفه ای اندرویده(دونه به دونه این آیکون هارو خودم طراحی کردم ) که دوستان قدیمی بهتر میدونن ، اما از وقتی پیجم پریده دیگه راجب شخصی سازی به اون صورت پستی نساختم،  اما دوباره پیج جدید میزنم و  ادامه میدم خیلی قوی تر از قبل کلی هم آیکون پک خفن تو ذهنم هست که قراره طراحی کنم  ، برای شخصی سازی های قبلی هم پستای قبلی رو  ببینید قول میدم عاشقشون میشید ، پیج جدیدم به زودی میزنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-07T09:42:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 539,
-      "message": "\u003cb\u003eاگه اینترنت قطع شد و مشکلی پیش اومد این متود هارو داشته باشید تا وصل بمونید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e\u003cb\u003e متود MHR برای ویندوز\u003c/b\u003e:\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/389\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/389\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمتود MHR برای اندروید\u003c/b\u003e:\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/396\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/396\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید MHR \u003c/b\u003e:\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/410\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/410\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eترکیب mhr با cloudflare\u003c/b\u003e (کامل ترین روش) :\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/454\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/454\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمتود Sni Spoofing \u003c/b\u003e(خفن ترین سرعت) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/434\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/434\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eساخت کانفیگ با متود BPB\u003c/b\u003e (پایدار و متصل) : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/512\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/512\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eساخت کانفیگ با موبایل Edge Tunnel\u003c/b\u003e : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/527\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/527\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix\" target=\"_blank\"\u003e@aimobix\u003c/a\u003e",
-      "date": "2026-06-07T17:25:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16900,
+      "views": 14700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,138 +61,12 @@
       ]
     },
     {
-      "id": 540,
-      "message": "بوی روبیکا و ایتا و بله میاد \u003cbr/\u003eامیدوارم همینجا بمونیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-07T18:51:30Z",
+      "id": 538,
+      "message": "خیلی از دوستان تو پست قبلی راجب آیکون های من پرسیدن، من کار اصلیم طراحی و ساخت آیکون پک و شخصی سازی حرفه ای اندرویده(دونه به دونه این آیکون هارو خودم طراحی کردم ) که دوستان قدیمی بهتر میدونن ، اما از وقتی پیجم پریده دیگه راجب شخصی سازی به اون صورت پستی نساختم،  اما دوباره پیج جدید میزنم و  ادامه میدم خیلی قوی تر از قبل کلی هم آیکون پک خفن تو ذهنم هست که قراره طراحی کنم  ، برای شخصی سازی های قبلی هم پستای قبلی رو  ببینید قول میدم عاشقشون میشید ، پیج جدیدم به زودی میزنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-07T09:42:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 541,
-      "message": "امیدوارم همیشه سلامت باشید و چیزی پیش نیاد اما پیشگیری برای وصل بودن چیز بدی نیست\u003cbr/\u003eروش های mhr تو شرایط قطعی وصل بودن البته اگه گوگل باز باشه Mhr هم کار میکنه\u003cbr/\u003eحتما نگاه کنید فایل هاشو دانلود کنید تا اگه خدای نکرده چیزی پیش اومد وصل بمونید\u003cbr/\u003eترکیب mhr + cloudflare کامل ترین روش mhr هست\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/454\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/454\u003c/a\u003e",
-      "date": "2026-06-07T19:07:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 542,
-      "message": "رسما جنگ شروع شد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-07T19:28:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 543,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e نت بلاکس:  ترافیک اینترنت ایران 25درصد کاهش یافت اختلالات شدید در اینترنت!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e",
-      "date": "2026-06-07T19:50:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 544,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنایب رئیس کمیسیون صنایع مجلس:\u003cbr/\u003eامکان قطع مجدد اینترنت وجود داره. بالاخره شرایط جنگیه.",
-      "date": "2026-06-08T09:11:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 545,
-      "message": "معاونت ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور: \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنگرانی برای قطع اینترنت وجود نداره و اینترنت قطع نمیشه",
-      "date": "2026-06-08T11:32:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 546,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e فوری: مجدد آتش بس شد.\u003cbr/\u003e\u003cbr/\u003eقرارگاه خاتم‌الانبیا اعلام کرد عملیات ما تموم شد و اهدافمون رو زدیم.\u003cbr/\u003eاسرائیل هم گفته فعلا حملات رو متوقف میکنیم تا ببینیم چی میشه.",
-      "date": "2026-06-08T11:54:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 547,
-      "message": "از همین روش استفاده کنید الکی پول کانفیگ ندین ۴ روزه یه کله وصلم با این روش سوالی بود تو کامنت های یوتیوب بپرسید جواب میدم همه رو",
-      "date": "2026-06-08T11:56:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 548,
-      "message": "با این روش تو اینستا یه فیلم پست کردم  زیر ۱۰ ثانیه فیلمم آپلود شد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e باورم نمیشه خیلی عجیبه سرعتش\u003cbr/\u003eراستی بالاخره پیج جدید زدم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e دوباره دارم از صفر شروع میکنم سری پیش تو ۴ ماه تا ۸۴ هزارتا رفتم ببینم این سری چقدر زمان میبره",
-      "date": "2026-06-08T13:32:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 549,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e پیج جدید Aimobix راه‌اندازی شد\u003cbr/\u003eپیج قبلی با ۸۴ هزار فالوور واقعی از دسترس خارج شد اما دوباره از صفر شروع کردم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاز این به بعد: چیزای خفنو راحت تر \u003cbr/\u003eاونجا هم منتشر می‌کنم.\u003cbr/\u003eمنتظر حمایتتون هستم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e رو لینک زیر بزنید پیج جدیدو فالو کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@Aimobix1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-08T13:46:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
-        }
-      ]
-    },
-    {
-      "id": 551,
-      "message": "ساخت کانفیگ با موبایل که با روش edge tunnel بود رو  با sni spoofing ترکیب کردم خیلی سرعتش بیشتر شد\u003cbr/\u003eو اینجوری برای اپلود ، دانلود و حتی گیم هم جواب میده\u003cbr/\u003eو خیلی از مشکلات و ارور هارو هم دارم حل میکنم که برای همه بیاره\u003cbr/\u003eالبته همینجوریش هم  واسه ۹۰ درصد اورده اما دارم کامل ترش میکنم",
-      "date": "2026-06-08T19:23:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8980,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,12 +79,12 @@
       ]
     },
     {
-      "id": 552,
-      "message": "سلام رفقا اگه تو ساخت کانفیگ از این ارور ها میگیرین مشکل از اوپراتور شما نیست از دیروز ایجوری شده دارم تست میکنم بهترین راه رو پیدا کنم که دوباره درست شه\u003cbr/\u003eالبته کانفیگ هایی که قبلا ساختید کار میکنه",
-      "date": "2026-06-09T06:53:56Z",
+      "id": 539,
+      "message": "\u003cb\u003eاگه اینترنت قطع شد و مشکلی پیش اومد این متود هارو داشته باشید تا وصل بمونید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e\u003cb\u003e متود MHR برای ویندوز\u003c/b\u003e:\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/389\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/389\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمتود MHR برای اندروید\u003c/b\u003e:\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/396\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/396\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید MHR \u003c/b\u003e:\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/410\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/410\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eترکیب mhr با cloudflare\u003c/b\u003e (کامل ترین روش) :\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/454\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/454\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمتود Sni Spoofing \u003c/b\u003e(خفن ترین سرعت) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/434\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/434\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eساخت کانفیگ با متود BPB\u003c/b\u003e (پایدار و متصل) : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/512\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/512\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eساخت کانفیگ با موبایل Edge Tunnel\u003c/b\u003e : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/527\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/527\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix\" target=\"_blank\"\u003e@aimobix\u003c/a\u003e",
+      "date": "2026-06-07T17:25:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5130,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +92,209 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "message": "بوی روبیکا و ایتا و بله میاد \u003cbr/\u003eامیدوارم همینجا بمونیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-07T18:51:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 541,
+      "message": "امیدوارم همیشه سلامت باشید و چیزی پیش نیاد اما پیشگیری برای وصل بودن چیز بدی نیست\u003cbr/\u003eروش های mhr تو شرایط قطعی وصل بودن البته اگه گوگل باز باشه Mhr هم کار میکنه\u003cbr/\u003eحتما نگاه کنید فایل هاشو دانلود کنید تا اگه خدای نکرده چیزی پیش اومد وصل بمونید\u003cbr/\u003eترکیب mhr + cloudflare کامل ترین روش mhr هست\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/454\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/aimobix/454\u003c/a\u003e",
+      "date": "2026-06-07T19:07:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 542,
+      "message": "رسما جنگ شروع شد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-07T19:28:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 543,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e نت بلاکس:  ترافیک اینترنت ایران 25درصد کاهش یافت اختلالات شدید در اینترنت!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e",
+      "date": "2026-06-07T19:50:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 544,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنایب رئیس کمیسیون صنایع مجلس:\u003cbr/\u003eامکان قطع مجدد اینترنت وجود داره. بالاخره شرایط جنگیه.",
+      "date": "2026-06-08T09:11:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 545,
+      "message": "معاونت ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور: \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنگرانی برای قطع اینترنت وجود نداره و اینترنت قطع نمیشه",
+      "date": "2026-06-08T11:32:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 546,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e فوری: مجدد آتش بس شد.\u003cbr/\u003e\u003cbr/\u003eقرارگاه خاتم‌الانبیا اعلام کرد عملیات ما تموم شد و اهدافمون رو زدیم.\u003cbr/\u003eاسرائیل هم گفته فعلا حملات رو متوقف میکنیم تا ببینیم چی میشه.",
+      "date": "2026-06-08T11:54:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 547,
+      "message": "از همین روش استفاده کنید الکی پول کانفیگ ندین ۴ روزه یه کله وصلم با این روش سوالی بود تو کامنت های یوتیوب بپرسید جواب میدم همه رو",
+      "date": "2026-06-08T11:56:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 548,
+      "message": "با این روش تو اینستا یه فیلم پست کردم  زیر ۱۰ ثانیه فیلمم آپلود شد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e باورم نمیشه خیلی عجیبه سرعتش\u003cbr/\u003eراستی بالاخره پیج جدید زدم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e دوباره دارم از صفر شروع میکنم سری پیش تو ۴ ماه تا ۸۴ هزارتا رفتم ببینم این سری چقدر زمان میبره",
+      "date": "2026-06-08T13:32:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 549,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e پیج جدید Aimobix راه‌اندازی شد\u003cbr/\u003eپیج قبلی با ۸۴ هزار فالوور واقعی از دسترس خارج شد اما دوباره از صفر شروع کردم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاز این به بعد: چیزای خفنو راحت تر \u003cbr/\u003eاونجا هم منتشر می‌کنم.\u003cbr/\u003eمنتظر حمایتتون هستم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e رو لینک زیر بزنید پیج جدیدو فالو کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@Aimobix1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-08T13:46:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "message": "ساخت کانفیگ با موبایل که با روش edge tunnel بود رو  با sni spoofing ترکیب کردم خیلی سرعتش بیشتر شد\u003cbr/\u003eو اینجوری برای اپلود ، دانلود و حتی گیم هم جواب میده\u003cbr/\u003eو خیلی از مشکلات و ارور هارو هم دارم حل میکنم که برای همه بیاره\u003cbr/\u003eالبته همینجوریش هم  واسه ۹۰ درصد اورده اما دارم کامل ترش میکنم",
+      "date": "2026-06-08T19:23:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 552,
+      "message": "سلام رفقا اگه تو ساخت کانفیگ از این ارور ها میگیرین مشکل از اوپراتور شما نیست از دیروز ایجوری شده دارم تست میکنم بهترین راه رو پیدا کنم که دوباره درست شه\u003cbr/\u003eالبته کانفیگ هایی که قبلا ساختید کار میکنه",
+      "date": "2026-06-09T06:53:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "message": "‌\u003cbr/\u003eیوتیوب رفع فیلتر می‌شود؟\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e    \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918E.png\u0026#39;)\"\u003e\u003cb\u003e👎\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eمصطفی پوردهقان، نماینده مجلس: وزیر ارتباطات در کمیسیون قول دادند که فضا را به شرایط عادی برگردانند و بعد از رفع فیلتر واتساپ، رفع فیلتر یوتیوب هم در دستور کار بود. منتظر هستیم گزارش وزیر را در یکشنبه آینده داشته باشیم که به چه نحوی پیش می‌رود.",
+      "date": "2026-06-09T11:28:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "message": "بالاخره اماده شد \u003cbr/\u003eبه هزار تا ارور برخورد کردم همه رو تونستم حل کنم \u003cbr/\u003eاماده باشید پستش رو دارم میزارم\u003cbr/\u003eخیلی خستم کرد خیلیییی",
+      "date": "2026-06-09T18:28:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
         }
       ]
     }
