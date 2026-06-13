@@ -7,36 +7,6 @@
   },
   "posts": [
     {
-      "id": 2643,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e ساخت فیلترشکن پرسرعت و رایگان با ورکر کلودفلر (تست شده)\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eدر این ویدیو به صورت قدم‌به‌قدم بهتون آموزش دادم که چطور با استفاده از Cloudflare Workers یک فیلترشکن کاملاً رایگان، و پرسرعت برای خودتون بسازید. این روش کاملاً تست شده و می‌تونید به راحتی روی گوشی و کامپیوتر ازش استفاده کنید. \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/UFcgD-tcyrs\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86\"\u003e#رایگان\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C\"\u003e#پروکسی\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%D9%88%D8%A7\"\u003e#نوا\u003c/a\u003e \u003ca href=\"?q=%23novaproxy\"\u003e#novaproxy\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e",
-      "date": "2026-05-30T16:03:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2644,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e لیست\u003c/b\u003e آی‌پی ها و فایل html مربوط به ویدیو \u003ca href=\"https://t.me/iaghapour/2643\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eساخت فیلترشکن پرسرعت و رایگان با ورکر کلودفلر\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-30T17:20:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
       "id": 2646,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاسکنر IP سفید کلودفلر با نوا رادار\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eنوا رادار یک \u003cb\u003eاسکنر IP دسکتاپ\u003c/b\u003e است که با Wails v3 (بک‌اند گو + فرانت ری‌اکت/تایپ‌اسکریپت) ساخته شده. این برنامه رنج‌های IP کلودفلر را از منابع متعدد اسکن می‌کند، تأیید پروتکل واقعی (TCP + TLS handshake) انجام می‌دهد و IPهای سالم را مرتب‌شده بر اساس سرعت تحویل می‌دهد.\u003cbr/\u003e\u003cbr/\u003e— \u003cb\u003eاسکن چندمنبعی\u003c/b\u003e — ۹ منبع IP قابل انتخاب\u003cbr/\u003e— \u003cb\u003eتأیید دو مرحله‌ای\u003c/b\u003e — اسکن سریع TCP → تست عمیق TLS\u003cbr/\u003e— مرتب‌سازی بر اساس سرعت\u003cbr/\u003e— قابلیت انتخاب پورت\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/IRNova/NovaRadar\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e اطلاعات بیشتر در گیت‌هاب پروژه\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
       "date": "2026-05-31T12:37:01Z",
@@ -60,7 +30,7 @@
       "date": "2026-06-01T17:54:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +48,7 @@
       "date": "2026-06-01T18:03:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35400,
+      "views": 35500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +66,7 @@
       "date": "2026-06-02T18:54:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-06-03T17:45:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
+      "views": 32400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +90,7 @@
       "date": "2026-06-04T18:10:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,25 +102,7 @@
       "date": "2026-06-05T13:30:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2657,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش ساخت فیلترشکن بدون تانل و بررسی روش های موجود\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eخیلی‌ها فکر می‌کنن برای داشتن یک فیلترشکن شخصی حتماً باید درگیر دردسرهای تانل زدن بشن، اما تو این ویدیو تمام روش‌های موجود رو بررسی کردیم و بهتون آموزش دادم چطور بدون نیاز به تانل، یک فیلترشکن پرسرعت بسازید. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003eدر این ویدیو به چه مواردی اشاره شد:\u003cbr/\u003e— چرا تمام روش ها منتشر نمیشه؟\u003cbr/\u003e— چه روش هایی در شرایط سخت کار میکنه؟\u003cbr/\u003e— آموزش روش مستقیم ساخت فیلترشکن.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/4BPUsi7mAOs\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D9%84%DB%8C\"\u003e#ملی\u003c/a\u003e \u003ca href=\"?q=%23vpn\"\u003e#vpn\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e",
-      "date": "2026-06-05T15:05:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,12 +115,30 @@
       ]
     },
     {
+      "id": 2657,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش ساخت فیلترشکن بدون تانل و بررسی روش های موجود\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eخیلی‌ها فکر می‌کنن برای داشتن یک فیلترشکن شخصی حتماً باید درگیر دردسرهای تانل زدن بشن، اما تو این ویدیو تمام روش‌های موجود رو بررسی کردیم و بهتون آموزش دادم چطور بدون نیاز به تانل، یک فیلترشکن پرسرعت بسازید. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003eدر این ویدیو به چه مواردی اشاره شد:\u003cbr/\u003e— چرا تمام روش ها منتشر نمیشه؟\u003cbr/\u003e— چه روش هایی در شرایط سخت کار میکنه؟\u003cbr/\u003e— آموزش روش مستقیم ساخت فیلترشکن.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/4BPUsi7mAOs\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D9%84%DB%8C\"\u003e#ملی\u003c/a\u003e \u003ca href=\"?q=%23vpn\"\u003e#vpn\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e",
+      "date": "2026-06-05T15:05:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 27800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+        }
+      ]
+    },
+    {
       "id": 2659,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e نصب خودکار داکر روی سرورهای ایران\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگر روی سرورهای داخل ایران داکر نصب می‌کنید، حتماً می‌دانید که به خاطر تحریم‌ها و اختلالات شبکه، باز کردن مخازن داکر و دانلود ایمیج‌ها مکافات است. این اسکریپت متن‌باز و امن، کل فرآیند نصب داکر را خودکار کرده و در انتها به شما اجازه می‌دهد از بین ۶ میرور ایرانی (ابرآروان، داکر آی‌آر، لیارا و...) بهترین را برای رفع تحریم انتخاب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e روش اجرا: کد زیر رو کپی کنید و در سرور اجرا کنید:\u003cbr/\u003e\u003cpre\u003ecurl -fsSL https://gist.githubusercontent.com/ShahinDadashpour/35892443c09d582e53b36d09fb5a5df6/raw/install-docker.sh | sudo bash\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://gist.github.com/ShahinDadashpour/35892443c09d582e53b36d09fb5a5df6\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک سورس کد در گیت‌هاب جهت بررسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-06-06T21:36:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +156,7 @@
       "date": "2026-06-07T17:12:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +174,37 @@
       "date": "2026-06-07T18:19:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 28200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2663,
+      "message": "یه چیزی میگم شاید باورتون نشه.\u003cbr/\u003eمردم الان بیشتر از اینکه نگران جنگ باشن نگران قطعی دوباره \u003ca href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA\"\u003e#اینترنت\u003c/a\u003e هستن.\u003cbr/\u003e\u003cbr/\u003eکسب و کارهای آسیب دیده تا میان دوباره سرپا بشن اینترنت رو قطع میکنن یا اختلال میندازن و....\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-06-08T13:02:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2664,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e پولی شدن پیامک فعال‌سازی تلگرام برای برخی پیش‌شماره‌ها!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e تلگرام در جدیدترین به‌روزرسانی‌های خود، سیاست سخت‌گیرانه‌ای را برای ثبت‌نام یا ورود کاربران در برخی از کشورها و پیش‌شماره‌های خاص اعمال کرده است. طبق گزارش‌های کاربران و تصویر منتشر شده، بخش جدیدی به نام \u003cb\u003eSMS Fee\u003c/b\u003e به اپلیکیشن اضافه شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003eماجرا چیست؟\u003c/b\u003e تلگرام اعلام کرده که به دلیل بالا بودن آمار ساخت \u003cb\u003eحساب‌های جعلی (Fake Accounts)\u003c/b\u003e و همچنین \u003cb\u003eهزینه‌های بسیار سنگین ارسال پیامک بین‌المللی\u003c/b\u003e در برخی از کشورها، کاربران این پیش‌شماره‌ها باید هزینه پیامک ثبت‌نام خود را پرداخت کنند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e \u003c/b\u003eکاربران برای دریافت کد تأییدیه مجبور هستند مبلغ \u003cb\u003e۱ دلار\u003c/b\u003e پرداخت کنند. تلگرام این پرداخت را در قالب \u003cb\u003eخرید اشتراک ۱ هفته‌ای تلگرام پرمیوم (Telegram Premium)\u003c/b\u003e ارائه می‌دهد.\u003cbr/\u003e\u003cbr/\u003eپی‌نوشت: این محدودیت فعلاً برای تمام شماره‌ها نیست و تنها روی اپراتورها و کشورهایی که هزینه‌ی مخابراتی بالایی دارند یا سوءاستفاده از آن‌ها زیاد است، فعال شده. خوشبختانه \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\"\u003e#ایران\u003c/a\u003e تو این لیست نیست ولی اگه از شماره های مجازی استفاده میکنید باید حواستون به این موضوع باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-06-08T20:40:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,42 +217,12 @@
       ]
     },
     {
-      "id": 2663,
-      "message": "یه چیزی میگم شاید باورتون نشه.\u003cbr/\u003eمردم الان بیشتر از اینکه نگران جنگ باشن نگران قطعی دوباره \u003ca href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA\"\u003e#اینترنت\u003c/a\u003e هستن.\u003cbr/\u003e\u003cbr/\u003eکسب و کارهای آسیب دیده تا میان دوباره سرپا بشن اینترنت رو قطع میکنن یا اختلال میندازن و....\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-06-08T13:02:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2664,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e پولی شدن پیامک فعال‌سازی تلگرام برای برخی پیش‌شماره‌ها!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e تلگرام در جدیدترین به‌روزرسانی‌های خود، سیاست سخت‌گیرانه‌ای را برای ثبت‌نام یا ورود کاربران در برخی از کشورها و پیش‌شماره‌های خاص اعمال کرده است. طبق گزارش‌های کاربران و تصویر منتشر شده، بخش جدیدی به نام \u003cb\u003eSMS Fee\u003c/b\u003e به اپلیکیشن اضافه شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003eماجرا چیست؟\u003c/b\u003e تلگرام اعلام کرده که به دلیل بالا بودن آمار ساخت \u003cb\u003eحساب‌های جعلی (Fake Accounts)\u003c/b\u003e و همچنین \u003cb\u003eهزینه‌های بسیار سنگین ارسال پیامک بین‌المللی\u003c/b\u003e در برخی از کشورها، کاربران این پیش‌شماره‌ها باید هزینه پیامک ثبت‌نام خود را پرداخت کنند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e \u003c/b\u003eکاربران برای دریافت کد تأییدیه مجبور هستند مبلغ \u003cb\u003e۱ دلار\u003c/b\u003e پرداخت کنند. تلگرام این پرداخت را در قالب \u003cb\u003eخرید اشتراک ۱ هفته‌ای تلگرام پرمیوم (Telegram Premium)\u003c/b\u003e ارائه می‌دهد.\u003cbr/\u003e\u003cbr/\u003eپی‌نوشت: این محدودیت فعلاً برای تمام شماره‌ها نیست و تنها روی اپراتورها و کشورهایی که هزینه‌ی مخابراتی بالایی دارند یا سوءاستفاده از آن‌ها زیاد است، فعال شده. خوشبختانه \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\"\u003e#ایران\u003c/a\u003e تو این لیست نیست ولی اگه از شماره های مجازی استفاده میکنید باید حواستون به این موضوع باشه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-06-08T20:40:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
-        }
-      ]
-    },
-    {
       "id": 2665,
       "message": "در حال تست و ضبط چند ویدیو جدید هستیم.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👌🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eممنون میشم سوالات رو فقط در یوتیوب بپرسید و در بخش ربات ارسال نکنید.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998FF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e🙏🏻\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-09T17:59:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +234,7 @@
       "date": "2026-06-10T13:15:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +253,7 @@
       "date": "2026-06-11T16:04:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +261,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
     },
@@ -301,7 +271,7 @@
       "date": "2026-06-11T19:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
+      "views": 17500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +289,7 @@
       "date": "2026-06-12T17:35:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,6 +300,36 @@
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
         }
       ]
+    },
+    {
+      "id": 2671,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدرخواست حمید رسایی و ۱۱۹ استاد برای انحلال «ستاد ویژه فضای مجازی»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبیش از ۱۲۰ تن از اساتید حوزه و دانشگاه، و چهره‌های سیاسی از جمله حمید رسایی در نامه‌ای به رئیس قوه قضائیه و فقهای شورای نگهبان، خواستار ابطال فوری مصوبه دولت برای تشکیل «ستاد ویژه ساماندهی و راهبری فضای مجازی» شدند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمهم‌ترین دلایل مخالفان:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e تشکیل این ستاد ناقض جایگاه «شورای عالی فضای مجازی» به عنوان تنها نقطه کانونی سیاست‌گذاری است و یک ساختار موازی محسوب می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e به اعتقاد نویسندگان نامه، رئیس‌جمهور صلاحیت ایجاد نهادهای فراقوه‌ای با کارکردهای کلان حاکمیتی را ندارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e واگذاری اختیار محدودسازی اینترنت به ستاد جدید، با صلاحیت قانونی (کمیته فیلترینگ) و دادستانی کل کشور در تعارض است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e ایجاد این ساختار جدید، مصداق تشکیلات غیرضروری بوده و تنها باعث افزایش لایه‌های تصمیم‌گیری در فضای مجازی می‌شود.\u003cbr/\u003e\u003cbr/\u003eپ.ن: جالبه تو این مملکت انگار با فساد و رانتِ کسی کاری ندارن؛ اما وای به روزی که بخوان اینترنتی رو که دست مفسدها رو رو می‌کنه، یه ذره آزاد کنن!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-06-13T18:04:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2672,
+      "message": "\u003ctg-emoji emoji-id=\"5814294243040041533\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB6.png\u0026#39;)\"\u003e\u003cb\u003e🎶\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eجدیدترین ریمیکس‌ها و آهنگ‌ها\u003cbr/\u003e       فقط یه کلیک با تو فاصله دارن؛\u003cbr/\u003e       ریمیکسایی که ماشینو تبدیل به\u003cbr/\u003e       کنسرت میکنه \u003cbr/\u003e\u003cbr/\u003e       پلی‌لیستت رو با ما همیشه به‌روز نگه دار \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848272536772548216\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5801028459157263272\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5803192963760657634\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/noxbeatx\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/noxbeatx\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/noxbeatx\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/noxbeatx\u003c/a\u003e",
+      "date": "2026-06-13T18:10:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
     }
   ],
   "last_updated": 0
