@@ -7,48 +7,75 @@
   },
   "posts": [
     {
-      "id": 585,
-      "message": "دوستان عزیزم من واقعا همه تلاشمو میکنم که راحت ترین روشو بزارم که همه استفاده کنن اما خب بعضی وقتا مشکلات اینترنت، vpn های ضعیف ،  اوپراتور ، منطقه و اینجور چیزا باعث میشن تا براتون کار نکنه . این پست اخرم واقعا تست شده اس من رو ویندوز و گوشی جواب گرفتم . بنظرم با چند تا اوپراتور تست کنید یکمم بیشتر تلاش کنید شدنیه و وصل میشید",
-      "date": "2026-06-12T17:29:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_14.jpg"
-        }
-      ]
-    },
-    {
-      "id": 586,
-      "message": "میخواستم آماده شد بزارم \u003cbr/\u003eولی یه سری دوستان خیلی گفتن شخصی سازی و ساخت آیکون ها چی میشه \u003cbr/\u003eدر حال ساخت و اماده سازی ام \u003cbr/\u003eکلی ایده دارم امیدوارم اون چیزی که تو ذهنمه بتونم پیاده کنم و شرمنده دوستان نشم",
-      "date": "2026-06-12T17:36:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        }
-      ]
-    },
-    {
       "id": 587,
       "message": "رفع یکی از ارور های پروژه نهان\u003cbr/\u003eلینک گیت هاب پروژه نهان : \u003cbr/\u003e\u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e",
       "date": "2026-06-14T09:23:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 11000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg",
+          "width": 596
+        }
+      ]
+    },
+    {
+      "id": 588,
+      "message": "این قسمت اگه تنظیمات براتون ذخیره نمیشه قطعا مشکل از vpn شماست اگه دقت کرده باشید تو خود فیلم آموزشی چند باری برای من تنظیمات ذخیره نشد که vpn خوب وصل کردم درست شد",
+      "date": "2026-06-14T09:40:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 590,
+      "message": "کنترل سنتر گوشی سامسونگو شیشه ای کردم خیلی قشنگ شد \u003cbr/\u003eپستشو بزودی میزارم",
+      "date": "2026-06-14T10:43:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "message": "یه سری از دوستان گفتن با پروژه نهان کانفیگ ساختیم اما یوتیوب و اینستاگرامو بالا نمیاره فقط تلگرامو میاره ‌. اگه این مشکلو دارین قطعا بخاطر اوپراتور شماست یا تو منطقه شما جواب نداده با یه اوپراتور دیگه تست کنید احتمالا درست شه‌، فیلم تستشم براتون گرفتم که مطمئن باشید این پروژه هیچ مشکلی نداره",
+      "date": "2026-06-14T11:12:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,75 +89,12 @@
       ]
     },
     {
-      "id": 588,
-      "message": "این قسمت اگه تنظیمات براتون ذخیره نمیشه قطعا مشکل از vpn شماست اگه دقت کرده باشید تو خود فیلم آموزشی چند باری برای من تنظیمات ذخیره نشد که vpn خوب وصل کردم درست شد",
-      "date": "2026-06-14T09:40:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 590,
-      "message": "کنترل سنتر گوشی سامسونگو شیشه ای کردم خیلی قشنگ شد \u003cbr/\u003eپستشو بزودی میزارم",
-      "date": "2026-06-14T10:43:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg"
-        }
-      ]
-    },
-    {
-      "id": 592,
-      "message": "یه سری از دوستان گفتن با پروژه نهان کانفیگ ساختیم اما یوتیوب و اینستاگرامو بالا نمیاره فقط تلگرامو میاره ‌. اگه این مشکلو دارین قطعا بخاطر اوپراتور شماست یا تو منطقه شما جواب نداده با یه اوپراتور دیگه تست کنید احتمالا درست شه‌، فیلم تستشم براتون گرفتم که مطمئن باشید این پروژه هیچ مشکلی نداره",
-      "date": "2026-06-14T11:12:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_12.jpg",
-          "width": 596
-        }
-      ]
-    },
-    {
       "id": 593,
       "message": "همین الان رفم تو پنل بازم فایل worker اپدیت جدید براش اومده\u003cbr/\u003eطبق فیلم اپدیت جدیدو دانلود کنید و جایگذاری کنید. \u003cbr/\u003eالبته این به این معنی نیست که کانفیگایی که ساختین قطع شده اونا میاره اما اپدیت کنید بهتره",
       "date": "2026-06-14T11:15:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,11 +102,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
         }
       ]
     },
@@ -152,7 +116,7 @@
       "date": "2026-06-14T11:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +128,7 @@
       "date": "2026-06-14T12:10:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +136,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
         },
         {
           "type": "photo",
@@ -186,7 +150,7 @@
       "date": "2026-06-14T19:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
         }
       ]
     },
@@ -204,7 +168,7 @@
       "date": "2026-06-14T19:46:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +180,7 @@
       "date": "2026-06-14T21:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +192,7 @@
       "date": "2026-06-14T21:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +204,7 @@
       "date": "2026-06-14T22:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +216,7 @@
       "date": "2026-06-15T09:06:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9920,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +228,37 @@
       "date": "2026-06-15T20:06:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6240,
+      "views": 9030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "message": "بچه‌ها یه خبر خوب دارم \u003cbr/\u003eچند وقته دارم دنبال VPN رایگان می‌گردم که واقعاً کار کنه، نه اون‌هایی که یه روز وصلی دو روز نیستی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eکلی تست کردم، کلی حذف کردم، تا اینکه چند تا پیدا کردم که واقعاً دلم میخواد بهتون معرفی کنم.\u003cbr/\u003eسرعت دانلود و آپلودشون خوبه، رایگانن، و مهم‌تر از همه — خودم باهاشون کار کردم.\u003cbr/\u003eامروز پستشو میزارم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998C.png\u0026#39;)\"\u003e\u003cb\u003e🙌\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-16T10:27:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 608,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e چند تا از بهترین VPN های رایگان که الان با سرعت خیلی خوبی وصل میشن رو کامل تست کردم و تو این ویدیو معرفی کردم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e تماشا در یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/4r9GL2nqySg\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/4r9GL2nqySg\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e مناسب اینستا، یوتیوب و تلگرام\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دانلود و آپلود خوب \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون هیچ پیش‌نیازی\u003cbr/\u003eهمه چیز داخل ویدیو توضیح داده شده و لینک دانلود برنامه‌ها هم داخل توضیحات ویدیو قرار داره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e این پست هیچ پیش نیازی ندارد \u003cbr/\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپیج اینساگرام من: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\u003c/a\u003e",
+      "date": "2026-06-16T13:16:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
