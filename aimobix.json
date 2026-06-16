@@ -7,31 +7,12 @@
   },
   "posts": [
     {
-      "id": 587,
-      "message": "رفع یکی از ارور های پروژه نهان\u003cbr/\u003eلینک گیت هاب پروژه نهان : \u003cbr/\u003e\u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e",
-      "date": "2026-06-14T09:23:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg",
-          "width": 596
-        }
-      ]
-    },
-    {
       "id": 588,
       "message": "این قسمت اگه تنظیمات براتون ذخیره نمیشه قطعا مشکل از vpn شماست اگه دقت کرده باشید تو خود فیلم آموزشی چند باری برای من تنظیمات ذخیره نشد که vpn خوب وصل کردم درست شد",
       "date": "2026-06-14T09:40:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -53,7 +34,7 @@
       "date": "2026-06-14T10:43:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -65,7 +46,7 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg"
         }
       ]
     },
@@ -75,7 +56,7 @@
       "date": "2026-06-14T11:12:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +64,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg",
           "width": 596
         }
       ]
@@ -94,7 +75,7 @@
       "date": "2026-06-14T11:15:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +87,7 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         }
       ]
     },
@@ -116,7 +97,7 @@
       "date": "2026-06-14T11:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +109,7 @@
       "date": "2026-06-14T12:10:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,11 +117,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_12.jpg"
         }
       ]
     },
@@ -150,7 +131,85 @@
       "date": "2026-06-14T19:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 11800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 599,
+      "message": "\u003ccode\u003eUse the uploaded screenshot as the foundation. IMPORTANT: Do not recreate, redraw, redesign, or replace any part of the image. Preserve the original screenshot pixel-for-pixel. Keep the exact: • Layout • Tile positions • Icons • Text • Sliders • Widget placement • Colors • Spacing • Wallpaper BACKGROUND PRESERVATION (CRITICAL) The original wallpaper/background must remain exactly the same. Do NOT: • Generate a new background • Replace the wallpaper • Change the colors • Add a different gradient • Create a concept-art backdrop • Add artificial lighting to the background Only transform the Quick Panel materials. LIQUID GLASS STYLE Create an ultra-premium Samsung Liquid Glass Quick Panel. The interface should feel like a real Samsung One UI feature from the future. Glass should feel like a thin transparent layer floating above the wallpaper. NOT: • Thick glass sheets • Acrylic blocks • Heavy frosted glass • Large beveled edges • Overly glossy plastic • Concept-art redesigns Use: • Ultra-thin crystal glass • 85–90% transparency • Soft internal diffusion • Minimal blur • Delicate edge refraction • Subtle white rim highlights • Floating layered depth • Optical transparency • Soft reflections • Micro specular highlights • Premium luxury materials • Realistic glass physics • Clean Samsung aesthetic Glass visibility should come primarily from edge highlights and subtle reflections, not from blur or glass thickness. Every tile should remain lightweight and elegant. The wallpaper must remain clearly visible through every component. SLIDERS Brightness and volume sliders should be: • Crystal clear • Thin transparent glass • Soft edge highlights • Floating appearance • Subtle depth • Minimalistic premium design BUTTONS \u0026amp; TILES Buttons should have: • Soft translucent glass • Very thin borders • Tiny internal reflections • Gentle optical depth • Premium minimal appearance STYLE REFERENCE Samsung One UI Liquid Glass Apple Liquid Glass VisionOS materials Luxury smartphone UI Future Samsung flagship software OUTPUT Ultra realistic. 4K quality. Photorealistic materials. Real smartphone screenshot. No redesign. No new wallpaper. No thick glass. No excessive blur. The result should look like Samsung officially released a Liquid Glass version of One UI.\u003c/code\u003e",
+      "date": "2026-06-14T19:46:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 600,
+      "message": "ترامپ: توافق امضا شد",
+      "date": "2026-06-14T21:42:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 601,
+      "message": "بنظرتون توافقه یا آتش بس بین جام جهانی؟",
+      "date": "2026-06-14T21:45:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 602,
+      "message": "امیدوارم هر اتفاقی میوفته به نفع مردم ایران باشه \u003cbr/\u003eما که جوونیمون سوخت ببینیم از این به بعد چی میشه...",
+      "date": "2026-06-14T22:04:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 603,
+      "message": "سکه ۱۶۷ میلیون تومن\u003cbr/\u003eطلا گرمی ۱۶ میلیون و ۶۰۰ هزار تومن\u003cbr/\u003eدلار ۱۶۴ هزار تومن\u003cbr/\u003eانس طلا ۴۳۱۵ دلار\u003cbr/\u003e۱۴۰۵/۰۳/۲۵",
+      "date": "2026-06-15T09:06:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 605,
+      "message": "دوستان worker پروژه نهان هر روز آپدیت میشه\u003cbr/\u003e حتما worker جدیدو دانلود و جایگذاری کنید تا قطع نشه براتون \u003cbr/\u003eطبق فیلم میتونید انجام بدید\u003cbr/\u003eگیت هاب پروژه نهان :\u003cbr/\u003e\u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e",
+      "date": "2026-06-15T20:06:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,90 +222,12 @@
       ]
     },
     {
-      "id": 599,
-      "message": "\u003ccode\u003eUse the uploaded screenshot as the foundation. IMPORTANT: Do not recreate, redraw, redesign, or replace any part of the image. Preserve the original screenshot pixel-for-pixel. Keep the exact: • Layout • Tile positions • Icons • Text • Sliders • Widget placement • Colors • Spacing • Wallpaper BACKGROUND PRESERVATION (CRITICAL) The original wallpaper/background must remain exactly the same. Do NOT: • Generate a new background • Replace the wallpaper • Change the colors • Add a different gradient • Create a concept-art backdrop • Add artificial lighting to the background Only transform the Quick Panel materials. LIQUID GLASS STYLE Create an ultra-premium Samsung Liquid Glass Quick Panel. The interface should feel like a real Samsung One UI feature from the future. Glass should feel like a thin transparent layer floating above the wallpaper. NOT: • Thick glass sheets • Acrylic blocks • Heavy frosted glass • Large beveled edges • Overly glossy plastic • Concept-art redesigns Use: • Ultra-thin crystal glass • 85–90% transparency • Soft internal diffusion • Minimal blur • Delicate edge refraction • Subtle white rim highlights • Floating layered depth • Optical transparency • Soft reflections • Micro specular highlights • Premium luxury materials • Realistic glass physics • Clean Samsung aesthetic Glass visibility should come primarily from edge highlights and subtle reflections, not from blur or glass thickness. Every tile should remain lightweight and elegant. The wallpaper must remain clearly visible through every component. SLIDERS Brightness and volume sliders should be: • Crystal clear • Thin transparent glass • Soft edge highlights • Floating appearance • Subtle depth • Minimalistic premium design BUTTONS \u0026amp; TILES Buttons should have: • Soft translucent glass • Very thin borders • Tiny internal reflections • Gentle optical depth • Premium minimal appearance STYLE REFERENCE Samsung One UI Liquid Glass Apple Liquid Glass VisionOS materials Luxury smartphone UI Future Samsung flagship software OUTPUT Ultra realistic. 4K quality. Photorealistic materials. Real smartphone screenshot. No redesign. No new wallpaper. No thick glass. No excessive blur. The result should look like Samsung officially released a Liquid Glass version of One UI.\u003c/code\u003e",
-      "date": "2026-06-14T19:46:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 600,
-      "message": "ترامپ: توافق امضا شد",
-      "date": "2026-06-14T21:42:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 601,
-      "message": "بنظرتون توافقه یا آتش بس بین جام جهانی؟",
-      "date": "2026-06-14T21:45:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 602,
-      "message": "امیدوارم هر اتفاقی میوفته به نفع مردم ایران باشه \u003cbr/\u003eما که جوونیمون سوخت ببینیم از این به بعد چی میشه...",
-      "date": "2026-06-14T22:04:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 603,
-      "message": "سکه ۱۶۷ میلیون تومن\u003cbr/\u003eطلا گرمی ۱۶ میلیون و ۶۰۰ هزار تومن\u003cbr/\u003eدلار ۱۶۴ هزار تومن\u003cbr/\u003eانس طلا ۴۳۱۵ دلار\u003cbr/\u003e۱۴۰۵/۰۳/۲۵",
-      "date": "2026-06-15T09:06:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 605,
-      "message": "دوستان worker پروژه نهان هر روز آپدیت میشه\u003cbr/\u003e حتما worker جدیدو دانلود و جایگذاری کنید تا قطع نشه براتون \u003cbr/\u003eطبق فیلم میتونید انجام بدید\u003cbr/\u003eگیت هاب پروژه نهان :\u003cbr/\u003e\u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e",
-      "date": "2026-06-15T20:06:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        }
-      ]
-    },
-    {
       "id": 607,
       "message": "بچه‌ها یه خبر خوب دارم \u003cbr/\u003eچند وقته دارم دنبال VPN رایگان می‌گردم که واقعاً کار کنه، نه اون‌هایی که یه روز وصلی دو روز نیستی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eکلی تست کردم، کلی حذف کردم، تا اینکه چند تا پیدا کردم که واقعاً دلم میخواد بهتون معرفی کنم.\u003cbr/\u003eسرعت دانلود و آپلودشون خوبه، رایگانن، و مهم‌تر از همه — خودم باهاشون کار کردم.\u003cbr/\u003eامروز پستشو میزارم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998C.png\u0026#39;)\"\u003e\u003cb\u003e🙌\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-16T10:27:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
+      "views": 8600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +239,7 @@
       "date": "2026-06-16T13:16:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
+      "views": 7170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,6 +250,18 @@
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
         }
       ]
+    },
+    {
+      "id": 610,
+      "message": "دو شبه هر چی vpn دارم قطع میشه تا گوشیمو خاموش روشن نکنم وصل نمیشه ، بعضی وقتا restart کردن(خاموش روشن کردن ) گوشی واقعا لازمه . اگه برای شما هم یهو همه چی قطع میشه گوشیتونو خاموش روشن کنید احتمالا درست میشه",
+      "date": "2026-06-16T21:07:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
     }
   ],
   "last_updated": 0
