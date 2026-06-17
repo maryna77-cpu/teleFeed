@@ -12,29 +12,7 @@
       "date": "2026-06-14T09:40:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 590,
-      "message": "کنترل سنتر گوشی سامسونگو شیشه ای کردم خیلی قشنگ شد \u003cbr/\u003eپستشو بزودی میزارم",
-      "date": "2026-06-14T10:43:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -46,14 +24,14 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
         }
       ]
     },
     {
-      "id": 592,
-      "message": "یه سری از دوستان گفتن با پروژه نهان کانفیگ ساختیم اما یوتیوب و اینستاگرامو بالا نمیاره فقط تلگرامو میاره ‌. اگه این مشکلو دارین قطعا بخاطر اوپراتور شماست یا تو منطقه شما جواب نداده با یه اوپراتور دیگه تست کنید احتمالا درست شه‌، فیلم تستشم براتون گرفتم که مطمئن باشید این پروژه هیچ مشکلی نداره",
-      "date": "2026-06-14T11:12:30Z",
+      "id": 590,
+      "message": "کنترل سنتر گوشی سامسونگو شیشه ای کردم خیلی قشنگ شد \u003cbr/\u003eپستشو بزودی میزارم",
+      "date": "2026-06-14T10:43:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 11000,
@@ -63,8 +41,30 @@
       "sender_name": "AiMobix",
       "media": [
         {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "message": "یه سری از دوستان گفتن با پروژه نهان کانفیگ ساختیم اما یوتیوب و اینستاگرامو بالا نمیاره فقط تلگرامو میاره ‌. اگه این مشکلو دارین قطعا بخاطر اوپراتور شماست یا تو منطقه شما جواب نداده با یه اوپراتور دیگه تست کنید احتمالا درست شه‌، فیلم تستشم براتون گرفتم که مطمئن باشید این پروژه هیچ مشکلی نداره",
+      "date": "2026-06-14T11:12:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg",
           "width": 596
         }
       ]
@@ -75,7 +75,7 @@
       "date": "2026-06-14T11:15:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,11 +83,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
         }
       ]
     },
@@ -97,7 +97,7 @@
       "date": "2026-06-14T11:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +109,7 @@
       "date": "2026-06-14T12:10:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,11 +117,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
         }
       ]
     },
@@ -131,7 +131,7 @@
       "date": "2026-06-14T19:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +139,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
         }
       ]
     },
@@ -149,7 +149,7 @@
       "date": "2026-06-14T19:46:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,7 @@
       "date": "2026-06-14T21:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +173,7 @@
       "date": "2026-06-14T21:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 14000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +185,7 @@
       "date": "2026-06-14T22:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 14000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +197,7 @@
       "date": "2026-06-15T09:06:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +209,7 @@
       "date": "2026-06-15T20:06:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 12500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +217,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
         }
       ]
     },
@@ -227,7 +227,7 @@
       "date": "2026-06-16T10:27:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +239,7 @@
       "date": "2026-06-16T13:16:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9250,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,11 +257,29 @@
       "date": "2026-06-16T21:07:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 8410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AiMobix"
+    },
+    {
+      "id": 611,
+      "message": "یه سری از دوستان گفتن jump jump  \u003cbr/\u003eمثل این که مشکل امنیتی داره ازش استفاده نکنید. از اون ۳ تا vpn دیگه که معرفی کردم استفاده کنید",
+      "date": "2026-06-17T11:46:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_13.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
