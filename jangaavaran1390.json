@@ -7,109 +7,12 @@
   },
   "posts": [
     {
-      "id": 133790,
-      "message": "از یکی از انبارهای متعلق به پلیس هند ۴۰۰۰ مسلسل دستی sten  گم شده است \u003cbr/\u003eاین مسلسل که در جنگ جهانی دوم توسط انگلیس‌ها ساخته شد در داخل هند نیز تولید شد و به شکل فراگیری برای مدت‌ها در پلیس و ارتش استفاده می‌شد و هنوز هم برخی از واحدهای ارتش و پلیس از آن استفاده می‌کند \u003cbr/\u003eگم شدن سلاح در زرادخانه‌های پلیس و ارتش هند بی‌سابقه نیست",
-      "date": "2026-06-18T15:35:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
-        }
-      ]
-    },
-    {
-      "id": 133791,
-      "message": "یک طرح ضد پهپاد که در نمایشگاه دفاعی اروپا به نمایش درآمد شامل ۴ مسلسل سنگین دوشکا با یک سیستم کنترل آتش اپتیکی که به یک رایانه کنترل آتش برای محاسبه زاویه شلیک مناسب متصل است \u003cbr/\u003eطرح بسیار ساده ولی برای بسیار موثر در برابر پهپاد",
-      "date": "2026-06-18T15:37:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg",
-          "width": 268
-        }
-      ]
-    },
-    {
-      "id": 133792,
-      "message": "معاون رئیس‌جمهور آمریکا جِی‌دی ونس درباره ایران:\u003cbr/\u003eمن کسانی را دیده‌ام که به این توافق شک دارند — افرادی که می‌گویند ایرانی‌ها هرگز رفتار خود را تغییر نخواهند داد.\u003cbr/\u003e\u003cbr/\u003eخب، شاید این درست باشد، و اگر چنین باشد، آن‌ها هیچ یک از مزایای این معامله را دریافت نمی‌کنند. اما آیا ارزش امتحان کردن ندارد؟",
-      "date": "2026-06-18T15:38:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 133793,
-      "message": "معاون رئیس‌جمهور آمریکا جِی‌دی ونس درباره ایران:\u003cbr/\u003eایرانی‌ها برای دومین شب متوالی به هیچ کشتی‌ای در تنگه هرمز شلیک نکردند. تا کنون، به تعهد خود پایبند بوده‌اند.\u003cbr/\u003e\u003cbr/\u003eسنتکام اجازه داده است که دوازده کشتی از محاصره دریایی ما عبور کنند، بنابراین ما نیز به تعهد خود عمل می‌کنیم.",
-      "date": "2026-06-18T15:38:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 133794,
-      "message": "معاون رئیس‌جمهور آمریکا درباره موشک‌های بالستیک ایران: رئیس‌جمهور دیروز گفت که کشورها حق دفاع از خود را کنار نمی‌گذارند. اگر حزب‌الله به اسرائیل راکت یا پهپاد شلیک کند، اسرائیل حق دفاع از خود را دارد. ایرانیان نیز حق دفاع از خود را دارند، اما ما انتظار داریم در توافق نهایی، نتوانند موشک‌هایی بسازند که کل جهان را تهدید کند. ساده است: نمی‌توان به کشوری، چه اسرائیل و چه ایران، گفت که حق دفاع از خود را نداشته باشد.",
-      "date": "2026-06-18T15:40:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 133795,
-      "message": "معاون رئیس‌جمهور جی‌دی ونس: عمانی‌ها، ایرانی‌ها و ائتلاف کشورهای ساحلی خلیج فارس چارچوب امنیتی آینده تنگه‌ها را تعیین خواهند کرد. ما هرگز نمی‌خواهیم چنین اتفاقی تکرار شود. هدف ما تضمین این است که تنگه‌ها هرگز به گلوگاه اقتصاد جهانی تبدیل نشوند. صادقانه بگویم، این چیزی نیست که ایرانی‌ها، عمانی‌ها یا ائتلاف خلیج فارس بخواهند.",
-      "date": "2026-06-18T15:49:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 133796,
-      "message": "فایننشال تایمز: دولت ترامپ به ایران اجازه دسترسی به ۶ میلیارد دلار از درآمدهای نفتی مسدود شده در قطر را می‌دهد تا کالاهای بشردوستانه و سایر کالاهای آمریکایی غیرتحریمی را طبق توافق ایالات متحده و ایران خریداری کند. این وجوه به صورت مرحله‌ای و به عنوان بخشی از بسته مشوق‌ها برای تضمین پایبندی ایران به یادداشت تفاهم و مذاکرات هسته‌ای آینده آزاد می‌شود.",
-      "date": "2026-06-18T16:33:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 133797,
       "message": "معاون رئیس‌جمهور جی‌دی ونس دولت نتانیاهو را شدیداً نقد کرد: در سه ماه گذشته، دو سوم سلاح‌های دفاعی اسرائیل توسط آمریکا ساخته و با مالیات‌های آمریکایی پرداخت شده‌اند. مشکل اسرائیل دونالد ترامپ نیست؛ هر کس در اسرائیل که بزرگترین مشکل‌شان رئیس‌جمهور آمریکا می‌داند، باید بیدار شود و واقعیت وضعیت کشور را درک کند.",
       "date": "2026-06-18T16:35:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +24,7 @@
       "date": "2026-06-18T16:36:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +36,7 @@
       "date": "2026-06-18T16:58:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 16200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +48,7 @@
       "date": "2026-06-18T16:59:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 16200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +60,7 @@
       "date": "2026-06-18T17:42:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9370,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +72,7 @@
       "date": "2026-06-18T17:46:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9730,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +90,7 @@
       "date": "2026-06-18T17:47:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +108,7 @@
       "date": "2026-06-18T17:49:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9920,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +120,7 @@
       "date": "2026-06-18T17:50:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9910,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +132,7 @@
       "date": "2026-06-18T18:03:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +144,7 @@
       "date": "2026-06-18T18:06:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7750,
+      "views": 16100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +162,7 @@
       "date": "2026-06-18T18:12:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7460,
+      "views": 17500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +170,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg",
           "width": 268
         }
       ]
@@ -278,7 +181,7 @@
       "date": "2026-06-18T19:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 629,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,6 +192,108 @@
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
         }
       ]
+    },
+    {
+      "id": 133810,
+      "message": "شورای عالی امنیت ملی: در اجرای بند ۵ یادداشت تفاهم اسلام‌آباد، کشتی‌های تجاری متقاضی عبور از تنگه هرمز باید درخواست خود را به مدیریت آبراه خلیج فارس (\u003ca href=\"http://PGSA.ir/\" target=\"_blank\" rel=\"noopener\"\u003ePGSA.ir\u003c/a\u003e) ارسال نمایند. \u003cbr/\u003e\u003cbr/\u003eبه موجب یادداشت تفاهم اسلام‌آباد، به مدت ۶۰ روز، هیچ‌گونه هزینه‌ای از متقاضیان اخذ نخواهد شد و این هزینه‌ها توسط دولت جمهوری اسلامی ایران تأمین می‌شود.",
+      "date": "2026-06-18T19:14:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 133811,
+      "message": "المیادین: ایران سفر برنامه‌ریزی‌شده هیئت مذاکره‌کننده خود به سوئیس را به دلیل حملات مداوم اسرائیل در جنوب لبنان به تعویق انداخت.\u003cbr/\u003e\u003cbr/\u003eتهران این تصمیم را به عملیات نظامی مداوم اسرائیل علی‌رغم ترتیبات آتش‌بس مرتبط با یادداشت تفاهم آمریکا و ایران مرتبط دانست.",
+      "date": "2026-06-18T19:38:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 133812,
+      "message": "سامانه راکت‌انداز چندگانه MARS 3 توسط شرکت KNDS آلمان در نمایشگاه یوروساتوری ۲۰۲۶ رونمایی شد.\u003cbr/\u003eاین سامانه که به‌عنوان \u003ca href=\"https://jangaavaran.ir/m270-mlrs/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eجایگزین راکت انداز  M270\u003c/a\u003e معرفی شده، بر پایه کامیون ۸×۸ ساخته شده و قادر به شلیک طیف گسترده‌ای از مهمات از جمله راکت‌های هدایت‌شونده، \u003ca href=\"https://jangaavaran.ir/nsm-and-jsm-missile/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eموشک ضدکشتی NSM\u003c/a\u003e و موشک‌های دوربرد جدید است.\u003cbr/\u003eبرد عملیاتی MARS 3 تا ۳۰۰ کیلومتر اعلام شده و این سامانه به جرثقیل داخلی برای بارگذاری مجدد مستقل در میدان نبرد مجهز است. همچنین امکان استفاده از موشک ضدکشتی NSM با برد ۲۵۰ کیلومتر و موشک JFSM با برد نزدیک به ۵۰۰ کیلومتر را دارد.\u003cbr/\u003eوزارت دفاع آلمان در حال بررسی انعقاد قرارداد چارچوب برای خرید حدود ۵۰۰ سامانه MARS 3 است که نیمی از آن‌ها برای ارتش آلمان و مابقی برای کشورهای متحد در نظر گرفته خواهد شد.\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%84%D9%85%D8%A7%D9%86\"\u003e#آلمان\u003c/a\u003e \u003ca href=\"?q=%23KNDS\"\u003e#KNDS\u003c/a\u003e \u003ca href=\"?q=%23MARS3\"\u003e#MARS3\u003c/a\u003e \u003ca href=\"?q=%23MLRS\"\u003e#MLRS\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D9%88%D8%B4%DA%A9\"\u003e#موشک\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D9%BE%D8%AE%D8%A7%D9%86%D9%87\"\u003e#توپخانه\u003c/a\u003e \u003ca href=\"?q=%23%DB%8C%D9%88%D8%B1%D9%88%D8%B3%D8%A7%D8%AA%D9%88%D8%B1%DB%8C\"\u003e#یوروساتوری\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86\"\u003e#جنگاوران\u003c/a\u003e \u003ca href=\"https://t.me/jangaavaran1390\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/jangaavaran1390\u003c/a\u003e",
+      "date": "2026-06-18T19:47:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 133813,
+      "message": "شوخی کاربران اوکراینی با این صحنه",
+      "date": "2026-06-18T20:10:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 133814,
+      "message": "شرکت فرانسوی تالس در نمایشگاه یوروساتوری ۲۰۲۶ از سامانه متحرک ضدپهپاد RapidStriker رونمایی کرد؛ سامانه‌ای که با بهره‌گیری از حسگرهای ۳۶۰ درجه، کنترل آتش خودکار و تسلیحات متنوع، برای مقابله سریع با پهپادها و بالگردهای ارتفاع پایین طراحی شده است.\u003cbr/\u003e\u003cbr/\u003eسامانه RapidStriker پس از شناسایی هدف در عرض چند ثانیه، آن را رهگیری کرده و به‌صورت خودکار مناسب‌ترین سلاح را برای درگیری انتخاب می‌کند. این سامانه می‌تواند از راکت‌های ۶۸ و ۷۰ میلی‌متری هدایت‌شونده و غیرهدایت‌شونده، توپ‌های کالیبر کوچک و مهمات کنترل از راه دور استفاده کند.\u003cbr/\u003e\u003cbr/\u003eتالس اعلام کرده این سامانه علاوه بر مأموریت ضدپهپادی، قابلیت اجرای حملات دقیق علیه اهداف زمینی و پشتیبانی آتش برای نیروهای زمینی را نیز دارد.\u003cbr/\u003e\u003cbr/\u003eسامانه RapidStriker روی خودروهای مختلف قابل نصب است و در یوروساتوری روی نسخه جدید خودروی زرهی Bushmaster Mulga به نمایش درآمد. این سامانه همچنین به شبکه پدافند هوایی SkyDefender متصل می‌شود و می‌تواند اطلاعات را با سایر سامانه‌های دفاعی به اشتراک بگذارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87\"\u003e#فرانسه\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D8%A7%D9%84%D8%B3\"\u003e#تالس\u003c/a\u003e \u003ca href=\"?q=%23%D8%B6%D8%AF%D9%BE%D9%87%D9%BE%D8%A7%D8%AF\"\u003e#ضدپهپاد\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF_%D9%87%D9%88%D8%A7%DB%8C%DB%8C\"\u003e#پدافند_هوایی\u003c/a\u003e \u003ca href=\"?q=%23RapidStriker\"\u003e#RapidStriker\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86\"\u003e#جنگاوران\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/jangaavaran1390\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/jangaavaran1390\u003c/a\u003e",
+      "date": "2026-06-18T20:16:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 133815,
+      "message": "استیو ویتکاف، نماینده ترامپ، در یک جلسه خصوصی با قانونگذاران آمریکایی گفت که ایران از آژانس بین‌المللی انرژی اتمی دعوت خواهد کرد تا تأسیسات هسته‌ای خود را بررسی کند و کار خود را برای شناسایی و مکان‌یابی مواد غنی‌شده در اختیار تهران آغاز خواهد کرد.",
+      "date": "2026-06-18T20:20:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8039,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 133816,
+      "message": "ما کانفیگ نمی‌فروشیم،\u003cbr/\u003eپایداری + اعصابِ راحت می‌فروشیم.\u003cbr/\u003e\u003cbr/\u003eاگر دنبال وصل‌شدنِ واقعی هستی،نه وعده، نه حرف قشنگ   \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپلن‌ ها: \u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 10 گیگ → 200\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 20 گیگ → 350\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 30 گیگ → 500\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 50 گیگ → 750\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 100 گیگ → 990\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e مخصوص کسایی که کیفیت  و سرعت براشون خط قرمزه\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eشعار ما:\u003cbr/\u003eآخرین جایی که vpn میخرید همینجاست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4E2808DF09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e❤️‍🔥\u003c/b\u003e\u003c/i\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e خرید و تحویل آنی:\u003cbr/\u003e\u003ca href=\"https://t.me/AlwaysOn_Pv\" target=\"_blank\"\u003e@AlwaysOn_Pv\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال :\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/AlwaysOnNet\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/AlwaysOnNet\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-06-18T20:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
     }
   ],
   "last_updated": 0
