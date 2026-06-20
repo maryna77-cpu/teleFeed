@@ -12,7 +12,41 @@
       "date": "2026-06-14T11:15:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
+      "views": 15200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "message": "راستی کانفیگ هایی که میسازید تو برنامه v2box استفاده کنید تو v2ray اضافه نمیشه",
+      "date": "2026-06-14T11:23:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 596,
+      "message": "پست جدیدی که دارم روش کار میکنم کاملا رو خلاقیت میچرخه \u003cbr/\u003eهرچقدر خلاق تر باشید کنترل سنتر خفن تری میسازید، خیلی باحاله",
+      "date": "2026-06-14T12:10:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -29,124 +63,12 @@
       ]
     },
     {
-      "id": 595,
-      "message": "راستی کانفیگ هایی که میسازید تو برنامه v2box استفاده کنید تو v2ray اضافه نمیشه",
-      "date": "2026-06-14T11:23:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 596,
-      "message": "پست جدیدی که دارم روش کار میکنم کاملا رو خلاقیت میچرخه \u003cbr/\u003eهرچقدر خلاق تر باشید کنترل سنتر خفن تری میسازید، خیلی باحاله",
-      "date": "2026-06-14T12:10:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
-        }
-      ]
-    },
-    {
       "id": 598,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e کنترل سنتر شیشه‌ای برای سامسونگ!\u003cbr/\u003e• مناسب One UI 8.5 • افکت شیشه‌ای (Glass UI) • شخصی‌سازی کامل کنترل سنتر •\u003cbr/\u003e \u003cbr/\u003eآموزش فعالسازی تو یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/V-F-ij3D_cM\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/V-F-ij3D_cM\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e Glass Control Center for Samsung!\u003cbr/\u003e• One UI 8.5 • Beautiful Glass UI Effect • Full Control Center Customization •prompt\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eحمایت مالی (Donate) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eپرامپت | prompt \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-14T19:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
-        }
-      ]
-    },
-    {
-      "id": 599,
-      "message": "\u003ccode\u003eUse the uploaded screenshot as the foundation. IMPORTANT: Do not recreate, redraw, redesign, or replace any part of the image. Preserve the original screenshot pixel-for-pixel. Keep the exact: • Layout • Tile positions • Icons • Text • Sliders • Widget placement • Colors • Spacing • Wallpaper BACKGROUND PRESERVATION (CRITICAL) The original wallpaper/background must remain exactly the same. Do NOT: • Generate a new background • Replace the wallpaper • Change the colors • Add a different gradient • Create a concept-art backdrop • Add artificial lighting to the background Only transform the Quick Panel materials. LIQUID GLASS STYLE Create an ultra-premium Samsung Liquid Glass Quick Panel. The interface should feel like a real Samsung One UI feature from the future. Glass should feel like a thin transparent layer floating above the wallpaper. NOT: • Thick glass sheets • Acrylic blocks • Heavy frosted glass • Large beveled edges • Overly glossy plastic • Concept-art redesigns Use: • Ultra-thin crystal glass • 85–90% transparency • Soft internal diffusion • Minimal blur • Delicate edge refraction • Subtle white rim highlights • Floating layered depth • Optical transparency • Soft reflections • Micro specular highlights • Premium luxury materials • Realistic glass physics • Clean Samsung aesthetic Glass visibility should come primarily from edge highlights and subtle reflections, not from blur or glass thickness. Every tile should remain lightweight and elegant. The wallpaper must remain clearly visible through every component. SLIDERS Brightness and volume sliders should be: • Crystal clear • Thin transparent glass • Soft edge highlights • Floating appearance • Subtle depth • Minimalistic premium design BUTTONS \u0026amp; TILES Buttons should have: • Soft translucent glass • Very thin borders • Tiny internal reflections • Gentle optical depth • Premium minimal appearance STYLE REFERENCE Samsung One UI Liquid Glass Apple Liquid Glass VisionOS materials Luxury smartphone UI Future Samsung flagship software OUTPUT Ultra realistic. 4K quality. Photorealistic materials. Real smartphone screenshot. No redesign. No new wallpaper. No thick glass. No excessive blur. The result should look like Samsung officially released a Liquid Glass version of One UI.\u003c/code\u003e",
-      "date": "2026-06-14T19:46:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 600,
-      "message": "ترامپ: توافق امضا شد",
-      "date": "2026-06-14T21:42:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 601,
-      "message": "بنظرتون توافقه یا آتش بس بین جام جهانی؟",
-      "date": "2026-06-14T21:45:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 602,
-      "message": "امیدوارم هر اتفاقی میوفته به نفع مردم ایران باشه \u003cbr/\u003eما که جوونیمون سوخت ببینیم از این به بعد چی میشه...",
-      "date": "2026-06-14T22:04:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 603,
-      "message": "سکه ۱۶۷ میلیون تومن\u003cbr/\u003eطلا گرمی ۱۶ میلیون و ۶۰۰ هزار تومن\u003cbr/\u003eدلار ۱۶۴ هزار تومن\u003cbr/\u003eانس طلا ۴۳۱۵ دلار\u003cbr/\u003e۱۴۰۵/۰۳/۲۵",
-      "date": "2026-06-15T09:06:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 605,
-      "message": "دوستان worker پروژه نهان هر روز آپدیت میشه\u003cbr/\u003e حتما worker جدیدو دانلود و جایگذاری کنید تا قطع نشه براتون \u003cbr/\u003eطبق فیلم میتونید انجام بدید\u003cbr/\u003eگیت هاب پروژه نهان :\u003cbr/\u003e\u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e",
-      "date": "2026-06-15T20:06:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,54 +81,72 @@
       ]
     },
     {
-      "id": 607,
-      "message": "بچه‌ها یه خبر خوب دارم \u003cbr/\u003eچند وقته دارم دنبال VPN رایگان می‌گردم که واقعاً کار کنه، نه اون‌هایی که یه روز وصلی دو روز نیستی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eکلی تست کردم، کلی حذف کردم، تا اینکه چند تا پیدا کردم که واقعاً دلم میخواد بهتون معرفی کنم.\u003cbr/\u003eسرعت دانلود و آپلودشون خوبه، رایگانن، و مهم‌تر از همه — خودم باهاشون کار کردم.\u003cbr/\u003eامروز پستشو میزارم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998C.png\u0026#39;)\"\u003e\u003cb\u003e🙌\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-16T10:27:00Z",
+      "id": 599,
+      "message": "\u003ccode\u003eUse the uploaded screenshot as the foundation. IMPORTANT: Do not recreate, redraw, redesign, or replace any part of the image. Preserve the original screenshot pixel-for-pixel. Keep the exact: • Layout • Tile positions • Icons • Text • Sliders • Widget placement • Colors • Spacing • Wallpaper BACKGROUND PRESERVATION (CRITICAL) The original wallpaper/background must remain exactly the same. Do NOT: • Generate a new background • Replace the wallpaper • Change the colors • Add a different gradient • Create a concept-art backdrop • Add artificial lighting to the background Only transform the Quick Panel materials. LIQUID GLASS STYLE Create an ultra-premium Samsung Liquid Glass Quick Panel. The interface should feel like a real Samsung One UI feature from the future. Glass should feel like a thin transparent layer floating above the wallpaper. NOT: • Thick glass sheets • Acrylic blocks • Heavy frosted glass • Large beveled edges • Overly glossy plastic • Concept-art redesigns Use: • Ultra-thin crystal glass • 85–90% transparency • Soft internal diffusion • Minimal blur • Delicate edge refraction • Subtle white rim highlights • Floating layered depth • Optical transparency • Soft reflections • Micro specular highlights • Premium luxury materials • Realistic glass physics • Clean Samsung aesthetic Glass visibility should come primarily from edge highlights and subtle reflections, not from blur or glass thickness. Every tile should remain lightweight and elegant. The wallpaper must remain clearly visible through every component. SLIDERS Brightness and volume sliders should be: • Crystal clear • Thin transparent glass • Soft edge highlights • Floating appearance • Subtle depth • Minimalistic premium design BUTTONS \u0026amp; TILES Buttons should have: • Soft translucent glass • Very thin borders • Tiny internal reflections • Gentle optical depth • Premium minimal appearance STYLE REFERENCE Samsung One UI Liquid Glass Apple Liquid Glass VisionOS materials Luxury smartphone UI Future Samsung flagship software OUTPUT Ultra realistic. 4K quality. Photorealistic materials. Real smartphone screenshot. No redesign. No new wallpaper. No thick glass. No excessive blur. The result should look like Samsung officially released a Liquid Glass version of One UI.\u003c/code\u003e",
+      "date": "2026-06-14T19:46:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 19600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AiMobix"
     },
     {
-      "id": 608,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e چند تا از بهترین VPN های رایگان که الان با سرعت خیلی خوبی وصل میشن رو کامل تست کردم و تو این ویدیو معرفی کردم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e تماشا در یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/4r9GL2nqySg\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/4r9GL2nqySg\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e مناسب اینستا، یوتیوب و تلگرام\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دانلود و آپلود خوب \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون هیچ پیش‌نیازی\u003cbr/\u003eهمه چیز داخل ویدیو توضیح داده شده و لینک دانلود برنامه‌ها هم داخل توضیحات ویدیو قرار داره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e این پست هیچ پیش نیازی ندارد \u003cbr/\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپیج اینساگرام من: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\u003c/a\u003e",
-      "date": "2026-06-16T13:16:40Z",
+      "id": 600,
+      "message": "ترامپ: توافق امضا شد",
+      "date": "2026-06-14T21:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
-        }
-      ]
-    },
-    {
-      "id": 610,
-      "message": "دو شبه هر چی vpn دارم قطع میشه تا گوشیمو خاموش روشن نکنم وصل نمیشه ، بعضی وقتا restart کردن(خاموش روشن کردن ) گوشی واقعا لازمه . اگه برای شما هم یهو همه چی قطع میشه گوشیتونو خاموش روشن کنید احتمالا درست میشه",
-      "date": "2026-06-16T21:07:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AiMobix"
     },
     {
-      "id": 611,
-      "message": "یه سری از دوستان گفتن jump jump  \u003cbr/\u003eمثل این که مشکل امنیتی داره ازش استفاده نکنید. از اون ۳ تا vpn دیگه که معرفی کردم استفاده کنید",
-      "date": "2026-06-17T11:46:35Z",
+      "id": 601,
+      "message": "بنظرتون توافقه یا آتش بس بین جام جهانی؟",
+      "date": "2026-06-14T21:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
+      "views": 18000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 602,
+      "message": "امیدوارم هر اتفاقی میوفته به نفع مردم ایران باشه \u003cbr/\u003eما که جوونیمون سوخت ببینیم از این به بعد چی میشه...",
+      "date": "2026-06-14T22:04:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 603,
+      "message": "سکه ۱۶۷ میلیون تومن\u003cbr/\u003eطلا گرمی ۱۶ میلیون و ۶۰۰ هزار تومن\u003cbr/\u003eدلار ۱۶۴ هزار تومن\u003cbr/\u003eانس طلا ۴۳۱۵ دلار\u003cbr/\u003e۱۴۰۵/۰۳/۲۵",
+      "date": "2026-06-15T09:06:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 605,
+      "message": "دوستان worker پروژه نهان هر روز آپدیت میشه\u003cbr/\u003e حتما worker جدیدو دانلود و جایگذاری کنید تا قطع نشه براتون \u003cbr/\u003eطبق فیلم میتونید انجام بدید\u003cbr/\u003eگیت هاب پروژه نهان :\u003cbr/\u003e\u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e",
+      "date": "2026-06-15T20:06:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,12 +159,114 @@
       ]
     },
     {
+      "id": 607,
+      "message": "بچه‌ها یه خبر خوب دارم \u003cbr/\u003eچند وقته دارم دنبال VPN رایگان می‌گردم که واقعاً کار کنه، نه اون‌هایی که یه روز وصلی دو روز نیستی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eکلی تست کردم، کلی حذف کردم، تا اینکه چند تا پیدا کردم که واقعاً دلم میخواد بهتون معرفی کنم.\u003cbr/\u003eسرعت دانلود و آپلودشون خوبه، رایگانن، و مهم‌تر از همه — خودم باهاشون کار کردم.\u003cbr/\u003eامروز پستشو میزارم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998C.png\u0026#39;)\"\u003e\u003cb\u003e🙌\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-16T10:27:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 608,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e چند تا از بهترین VPN های رایگان که الان با سرعت خیلی خوبی وصل میشن رو کامل تست کردم و تو این ویدیو معرفی کردم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e تماشا در یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/4r9GL2nqySg\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/4r9GL2nqySg\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e مناسب اینستا، یوتیوب و تلگرام\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دانلود و آپلود خوب \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون هیچ پیش‌نیازی\u003cbr/\u003eهمه چیز داخل ویدیو توضیح داده شده و لینک دانلود برنامه‌ها هم داخل توضیحات ویدیو قرار داره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e این پست هیچ پیش نیازی ندارد \u003cbr/\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپیج اینساگرام من: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\u003c/a\u003e",
+      "date": "2026-06-16T13:16:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 610,
+      "message": "دو شبه هر چی vpn دارم قطع میشه تا گوشیمو خاموش روشن نکنم وصل نمیشه ، بعضی وقتا restart کردن(خاموش روشن کردن ) گوشی واقعا لازمه . اگه برای شما هم یهو همه چی قطع میشه گوشیتونو خاموش روشن کنید احتمالا درست میشه",
+      "date": "2026-06-16T21:07:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 611,
+      "message": "یه سری از دوستان گفتن jump jump  \u003cbr/\u003eمثل این که مشکل امنیتی داره ازش استفاده نکنید. از اون ۳ تا vpn دیگه که معرفی کردم استفاده کنید",
+      "date": "2026-06-17T11:46:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
+        }
+      ]
+    },
+    {
       "id": 612,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e ایلان ماسک داره چیکار میکنه!!\u003cbr/\u003e\u003cbr/\u003eثروت ایلان ماسک تو ۳ روز اخیر، از ۱ تریلیون دلار به ۱ تریلیون و ۴۰۰ میلیارد دلار افزایش یافته.\u003cbr/\u003eیعنی ایلان ماسک تو ۳ روز اخیر، ثانیه‌ای ۲۵۰ میلیارد تومن درآمد داشته.",
       "date": "2026-06-17T12:32:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
+      "views": 17000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003eاندروید ۱۷ بالاخره منتشر شد؛ اما فعلاً فقط برای پیکسل‌ها!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eگوگل انتشار Android 17 رو شروع کرده، اما اگه گوشی سامسونگ یا شیائومی داری، فعلاً باید کمی منتظر بمونی!\u003cbr/\u003eسامسونگ و شیائومی در هفته‌ها و ماه‌های آینده نسخه اختصاصی خودشون رو با One UI و HyperOS عرضه می‌کنن",
+      "date": "2026-06-18T08:18:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 614,
+      "message": "سلام دوستان ببخشید چند روزی نبودم یکم مشکلات داشتم \u003cbr/\u003eاز امروز پست جدید میزارم و دوباره فعالیتمو قوی تر شروع میکنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eامشب یه پست خفن داریم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-20T16:10:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 615,
+      "message": "آیکون پک بارونی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CA7.png\u0026#39;)\"\u003e\u003cb\u003e🌧\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eبا این شخصی سازی گوشیتو کامل تغییر بده\u003cbr/\u003eبه همراه آموزش ساخت این آیکون ها\u003cbr/\u003eآموزش فعاسازی در یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/DXZuDwckZGo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/DXZuDwckZGo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29894.png\u0026#39;)\"\u003e\u003cb\u003e☔\u003c/b\u003e\u003c/i\u003e Rainy Icon Pack by Aimobix\u003cbr/\u003eA custom rainy icon pack designed from scratch.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eحمایت مالی و donate\u003cbr/\u003e\u003c/a\u003e\u003cbr/\u003eپیج اینستاگرام من:  \u003cbr/\u003e\u003ca href=\"https://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفایل ها و پیش نیاز ها icons file \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-20T17:49:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,54 +279,12 @@
       ]
     },
     {
-      "id": 613,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003eاندروید ۱۷ بالاخره منتشر شد؛ اما فعلاً فقط برای پیکسل‌ها!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eگوگل انتشار Android 17 رو شروع کرده، اما اگه گوشی سامسونگ یا شیائومی داری، فعلاً باید کمی منتظر بمونی!\u003cbr/\u003eسامسونگ و شیائومی در هفته‌ها و ماه‌های آینده نسخه اختصاصی خودشون رو با One UI و HyperOS عرضه می‌کنن",
-      "date": "2026-06-18T08:18:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 614,
-      "message": "سلام دوستان ببخشید چند روزی نبودم یکم مشکلات داشتم \u003cbr/\u003eاز امروز پست جدید میزارم و دوباره فعالیتمو قوی تر شروع میکنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eامشب یه پست خفن داریم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-20T16:10:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 615,
-      "message": "آیکون پک بارونی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CA7.png\u0026#39;)\"\u003e\u003cb\u003e🌧\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eبا این شخصی سازی گوشیتو کامل تغییر بده\u003cbr/\u003eبه همراه آموزش ساخت این آیکون ها\u003cbr/\u003eآموزش فعاسازی در یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/DXZuDwckZGo\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/DXZuDwckZGo\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29894.png\u0026#39;)\"\u003e\u003cb\u003e☔\u003c/b\u003e\u003c/i\u003e Rainy Icon Pack by Aimobix\u003cbr/\u003eA custom rainy icon pack designed from scratch.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eحمایت مالی و donate\u003cbr/\u003e\u003c/a\u003e\u003cbr/\u003eپیج اینستاگرام من:  \u003cbr/\u003e\u003ca href=\"https://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفایل ها و پیش نیاز ها icons file \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-20T17:49:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 803,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
-        }
-      ]
-    },
-    {
       "id": 616,
       "message": "آیکون پک بارونی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CA7.png\u0026#39;)\"\u003e\u003cb\u003e🌧\u003c/b\u003e\u003c/i\u003e با این شخصی سازی گوشیتو کامل تغییر بده به همراه آموزش ساخت این آیکون ها آموزش فعاسازی در یوتیوب\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e  https://youtu.be/DXZuDwckZGo  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29894.png\u0026#39;)\"\u003e\u003cb\u003e☔\u003c/b\u003e\u003c/i\u003e Rainy Icon Pack by Aimobix A custom rainy icon pack designed from scratch.   حمایت مالی و donate  پیج اینستاگرام…",
       "date": "2026-06-20T17:56:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 92,
+      "views": 2850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
