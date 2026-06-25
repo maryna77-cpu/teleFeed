@@ -12,7 +12,7 @@
       "date": "2026-05-22T07:39:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 65700,
+      "views": 65800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_20.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_19.jpg"
         }
       ]
     },
@@ -48,7 +48,7 @@
       "date": "2026-05-23T07:56:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 69000,
+      "views": 69100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_12.jpg"
         }
       ]
     },
@@ -74,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_18.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_17.jpg"
         }
       ]
     },
@@ -110,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_13.jpg"
         }
       ]
     },
@@ -128,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_17.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_16.jpg"
         }
       ]
     },
@@ -164,7 +164,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_8.jpg"
         }
       ]
     },
@@ -200,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_15.jpg"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_15.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_14.jpg"
         }
       ]
     },
@@ -228,25 +228,7 @@
       "date": "2026-06-08T12:23:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1509,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B5.png\u0026#39;)\"\u003e\u003cb\u003e📵\u003c/b\u003e\u003c/i\u003e Network data show \u003ca href=\"?q=%23Iraq\"\u003e#Iraq\u003c/a\u003e has just imposed another widespread internet shutdown during school exams, leaving most of the country except the north offline for two hours as students take tests. The bizarre measure is presented as a means to limit cheating and paper leaks.",
-      "date": "2026-06-09T10:24:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52600,
+      "views": 50500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,12 +241,12 @@
       ]
     },
     {
-      "id": 1510,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show that Telegram messaging service endpoints are restricted on multiple internet providers in \u003ca href=\"?q=%23India\"\u003e#India\u003c/a\u003e. The government says the measure is a temporary ban targeting exam fraud after medical entrance tests were annulled amid leak allegations.",
-      "date": "2026-06-17T17:48:34Z",
+      "id": 1509,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B5.png\u0026#39;)\"\u003e\u003cb\u003e📵\u003c/b\u003e\u003c/i\u003e Network data show \u003ca href=\"?q=%23Iraq\"\u003e#Iraq\u003c/a\u003e has just imposed another widespread internet shutdown during school exams, leaving most of the country except the north offline for two hours as students take tests. The bizarre measure is presented as a means to limit cheating and paper leaks.",
+      "date": "2026-06-09T10:24:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50100,
+      "views": 52700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +254,25 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_19.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1510,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show that Telegram messaging service endpoints are restricted on multiple internet providers in \u003ca href=\"?q=%23India\"\u003e#India\u003c/a\u003e. The government says the measure is a temporary ban targeting exam fraud after medical entrance tests were annulled amid leak allegations.",
+      "date": "2026-06-17T17:48:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 50300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_18.jpg"
         }
       ]
     },
@@ -282,7 +282,7 @@
       "date": "2026-06-22T14:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
+      "views": 17900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +290,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_20.jpg"
         }
       ]
     },
@@ -300,7 +300,25 @@
       "date": "2026-06-22T15:44:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 17300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1513,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show internet connectivity has been knocked out in Sevastopol, occupied Crimea, amid power outages following overnight Ukrainian drone attacks targeting energy infrastructure \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-24T12:29:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,30 +331,12 @@
       ]
     },
     {
-      "id": 1513,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show internet connectivity has been knocked out in Sevastopol, occupied Crimea, amid power outages following overnight Ukrainian drone attacks targeting energy infrastructure \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-24T12:29:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_13.jpg"
-        }
-      ]
-    },
-    {
       "id": 1514,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show a significant decline in internet connectivity in \u003ca href=\"?q=%23Venezuela\"\u003e#Venezuela\u003c/a\u003e including the capital Caracas following two 7+ magnitude back-to-back earthquakes that has impacted power and telecoms infrastructure.",
       "date": "2026-06-25T00:08:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +344,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_11.jpg"
         }
       ]
     },
@@ -354,7 +354,7 @@
       "date": "2026-06-25T07:11:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -362,7 +362,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_10.jpg"
         }
       ]
     }
