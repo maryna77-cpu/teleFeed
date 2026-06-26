@@ -7,31 +7,12 @@
   },
   "posts": [
     {
-      "id": 5972,
-      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5938304994145998707\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خبر ۲۱\u003cbr/\u003eپنجشنبه ۴ تیر ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\"\u003e#خبر۲۱\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-25T19:08:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1870,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_2.jpg",
-          "width": 852
-        }
-      ]
-    },
-    {
       "id": 5973,
       "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e تا برلین؛ سقوط دیواری که نماد سرکوب بود\u003cbr/\u003e\u003cbr/\u003eگزارش: ملیکا رضاپور\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%DB%8C%D9%88%D8%A7%D8%B1_%D8%A8%D8%B1%D9%84%DB%8C%D9%86\"\u003e#دیوار_برلین\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D8%B1%DA%A9%D9%88%D8%A8\"\u003e#سرکوب\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-06-25T19:36:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1920,
+      "views": 1930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +31,7 @@
       "date": "2026-06-25T20:11:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2250,
+      "views": 2270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +39,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_11.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_15.jpg",
           "width": 720
         }
       ]
@@ -69,7 +50,7 @@
       "date": "2026-06-25T20:23:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2040,
+      "views": 2050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +58,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_4.jpg",
           "width": 1920
         }
       ]
@@ -88,7 +69,7 @@
       "date": "2026-06-25T22:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2150,
+      "views": 2190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +88,7 @@
       "date": "2026-06-25T22:49:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2150,
+      "views": 2180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +96,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_14.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_12.jpg",
           "width": 852
         }
       ]
@@ -126,7 +107,7 @@
       "date": "2026-06-26T09:58:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1660,
+      "views": 1710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +115,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_15.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_14.jpg",
           "width": 854
         }
       ]
@@ -145,7 +126,7 @@
       "date": "2026-06-26T10:00:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
+      "views": 1810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +144,7 @@
       "date": "2026-06-26T14:00:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +162,7 @@
       "date": "2026-06-26T14:04:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +170,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_2.jpg"
         }
       ]
     },
@@ -199,7 +180,7 @@
       "date": "2026-06-26T14:05:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 932,
+      "views": 984,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +188,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_4.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_3.jpg",
           "width": 720
         }
       ]
@@ -218,7 +199,7 @@
       "date": "2026-06-26T14:08:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +217,7 @@
       "date": "2026-06-26T14:09:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +235,7 @@
       "date": "2026-06-26T14:24:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1240,
+      "views": 1320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +247,7 @@
       "date": "2026-06-26T14:35:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +255,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_12.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_11.jpg",
           "width": 720
         }
       ]
@@ -285,7 +266,7 @@
       "date": "2026-06-26T16:16:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1150,
+      "views": 1270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +278,7 @@
       "date": "2026-06-26T16:29:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +290,7 @@
       "date": "2026-06-26T16:30:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +302,7 @@
       "date": "2026-06-26T16:46:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +314,7 @@
       "date": "2026-06-26T19:01:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 417,
+      "views": 869,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -343,6 +324,25 @@
           "type": "video",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_7.jpg",
           "width": 852
+        }
+      ]
+    },
+    {
+      "id": 5993,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برنامه دژ فوتبالی، اپیزود شانزدهم\u003cbr/\u003e\u003cbr/\u003e*مهدی رستم‌پور، خبرنگار ورزشی \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%DA%98%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84%DB%8C\"\u003e#دژفوتبالی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D8%A7%D9%85_%D8%AC%D9%87%D8%A7%D9%86%DB%8C\"\u003e#جام_جهانی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-26T20:27:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 459,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg",
+          "width": 1920
         }
       ]
     }
