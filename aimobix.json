@@ -12,7 +12,7 @@
       "date": "2026-06-23T07:50:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-06-23T10:28:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18600,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +36,7 @@
       "date": "2026-06-24T10:47:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -44,7 +44,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "date": "2026-06-24T10:47:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,20 +66,12 @@
       "date": "2026-06-24T10:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AiMobix",
       "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
-        },
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
@@ -90,7 +82,15 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
         },
         {
           "type": "photo",
@@ -104,7 +104,7 @@
       "date": "2026-06-24T10:49:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +116,7 @@
       "date": "2026-06-25T14:07:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +134,7 @@
       "date": "2026-06-26T08:20:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +146,37 @@
       "date": "2026-06-26T11:33:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 642,
+      "message": "آخرین نسخه v2rayNg برای اندروید",
+      "date": "2026-06-26T11:35:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 643,
+      "message": "تجربه یکی از دوستان",
+      "date": "2026-06-26T17:00:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,42 +189,12 @@
       ]
     },
     {
-      "id": 642,
-      "message": "آخرین نسخه v2rayNg برای اندروید",
-      "date": "2026-06-26T11:35:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 643,
-      "message": "تجربه یکی از دوستان",
-      "date": "2026-06-26T17:00:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
-        }
-      ]
-    },
-    {
       "id": 645,
       "message": "پیشنهاد می‌کنم که اگه فعلاً هم به کانفیگ نیازی ندارید؛ عضو این کانال شوید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e. اگر نت ملی شد یا جنگ شد یا هر اتفاقی افتاد، دیگر دنبال کانفیگ نگردید تا افراد سودجو از شما کلاهبرداری نکنند \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/vpenfast\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/vpenfast\u003c/a\u003e",
       "date": "2026-06-26T18:31:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +206,7 @@
       "date": "2026-06-27T03:22:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9130,
+      "views": 9440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +218,7 @@
       "date": "2026-06-27T04:58:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8310,
+      "views": 8630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +230,7 @@
       "date": "2026-06-27T05:00:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
+      "views": 8620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
