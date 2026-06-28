@@ -7,24 +7,12 @@
   },
   "posts": [
     {
-      "id": 621,
-      "message": "فایل worker.js رو براتون گذاشتم اما سعی کنید از اخرین نسخه استفاده کنید که تو گیت هاب پروژه هست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-21T18:50:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
       "id": 627,
       "message": "پست جدید",
       "date": "2026-06-21T21:04:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-06-23T07:50:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-06-23T10:28:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +48,7 @@
       "date": "2026-06-24T10:47:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 16400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +66,7 @@
       "date": "2026-06-24T10:47:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,24 +78,12 @@
       "date": "2026-06-24T10:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 16500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AiMobix",
       "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
-        },
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
@@ -119,6 +95,18 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
         }
       ]
     },
@@ -128,7 +116,7 @@
       "date": "2026-06-24T10:49:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +128,7 @@
       "date": "2026-06-25T14:07:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +146,7 @@
       "date": "2026-06-26T08:20:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 13100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +158,7 @@
       "date": "2026-06-26T11:33:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +166,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         }
       ]
     },
@@ -188,7 +176,7 @@
       "date": "2026-06-26T11:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +188,7 @@
       "date": "2026-06-26T17:00:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +206,7 @@
       "date": "2026-06-28T05:30:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4970,
+      "views": 7140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +224,7 @@
       "date": "2026-06-28T06:48:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3160,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,6 +236,18 @@
           "width": 672
         }
       ]
+    },
+    {
+      "id": 653,
+      "message": "واااای یه حرکت رو شیائومی زدم  رو فضام چه قدررر خفنه \u003cbr/\u003eباورم نمیشه شیائومی این همه خفن باشه \u003cbr/\u003eمن عاشق شخصی سازی موبایلم \u003cbr/\u003eاین بار رو شیائومی یه حرکت سوپر لوکس زدم که عاشقش میشی \u003cbr/\u003eپستشو دارم آماده میکنم\u003cbr/\u003eالبته سامسونگیارو هم من فراموش نمیکنم قطعا واسه اونا هم چیزای خفن تر میسازم",
+      "date": "2026-06-28T09:16:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
     }
   ],
   "last_updated": 0
