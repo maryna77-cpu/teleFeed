@@ -3,7 +3,7 @@
     "id": 0,
     "title": "AiMobix",
     "username": "aimobix",
-    "photo_url": "https://cdn4.telesco.pe/file/d2SfDS8h4xAyZBLTTnVlAvH4mGxIM47xWcl2_eQfXazKQ-IuQXzok72aVcrRVJWmLf-DiT69HXvxrsm7dfq3wTunF-1IdMirO2-9IjvLOPipk2Pv_RfrzsaRzVoD-DZx9zUj2MiH4FKPMjk0TylvNEm20KaBAteZMFsQQ8tHu2Zm9inR7LsZIYqTEDY-QAaZV4T5i217OnFehhQBSKZCmDeuTvNFpD1OrTNFCj8tLLGAVECbqXYwnr93cPvgSwDU51RmqFUe2bvjyhFiiJESTFlrbp7lcDQnDrOFmzAM3qJ12Nblk6yVTQ0AN0IZndG1ZtYzISyP_L1vXYrkwPm60g.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/B6kqVh22XieHttArWQH4RjCzWjXiSDqBU86GTutJB1eQmX-BwgcXobq2pQS4dj6fX_8LRhUjiq2ILmloQHjdjFum3tmFUNCb8foNMDW362btq626W3eE6a0qLwfOhRvsSsZl2hC9-oFOu19debwsRwlQDRMYJAfi5WJvdaDZiQDTC4rvxuj-KFuSP0ntkyZbKm9YsL5yBBRuQBwWdAMBdvLpbnfilAtlJITarYBoKFnsL5WjVx_xjHx-TK2nnwoTRqIfMwUCwPh7GxJi8Gk0_-qItdJNe_lfgKh5YQWim8-3rbNY0NGLS3BYdAzOy_dRA4G1K_S_Jz89Nfx1Xz-E2w.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-06-24T10:49:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
         },
         {
           "type": "photo",
@@ -28,11 +28,7 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_15.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         },
         {
           "type": "photo",
@@ -40,7 +36,11 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_13.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_15.jpg"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "date": "2026-06-26T08:20:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "date": "2026-06-26T11:33:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +82,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_11.jpg"
         }
       ]
     },
@@ -92,7 +92,7 @@
       "date": "2026-06-26T11:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-06-26T17:00:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,158 +122,7 @@
       "date": "2026-06-28T05:30:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
-        }
-      ]
-    },
-    {
-      "id": 652,
-      "message": "تاکتیک فقط خودت سلطان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-28T06:48:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg",
-          "width": 672
-        }
-      ]
-    },
-    {
-      "id": 653,
-      "message": "واااای یه حرکت رو شیائومی زدم  رو فضام چه قدررر خفنه \u003cbr/\u003eباورم نمیشه شیائومی این همه خفن باشه \u003cbr/\u003eمن عاشق شخصی سازی موبایلم \u003cbr/\u003eاین بار رو شیائومی یه حرکت سوپر لوکس زدم که عاشقش میشی \u003cbr/\u003eپستشو دارم آماده میکنم\u003cbr/\u003eالبته سامسونگیارو هم من فراموش نمیکنم قطعا واسه اونا هم چیزای خفن تر میسازم",
-      "date": "2026-06-28T09:16:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 655,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e اگر از آموزش‌های خارجی یوتیوب استفاده می‌کنی، این آموزش می‌تونه کلاً روش یادگیریت رو عوض کنه!\u003cbr/\u003eآموزش کامل :\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+wx6URyb7VpA0MjY0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+wx6URyb7VpA0MjY0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتا حالا شده یه ویدیوی ۱ ساعته ببینی فقط برای اینکه جواب یه سؤال ۲ دقیقه‌ای رو پیدا کنی؟ یا چون زبان ویدیو انگلیسیه، نصف مطالب رو متوجه نشی؟\u003cbr/\u003e\u003cbr/\u003eتوی این آموزش بهت یاد میدم بدون حتی یک خط کدنویسی، با کمک Google AI Studio یک ابزار شخصی برای خودت بسازی که فقط با گرفتن لینک یوتیوب:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کل ویدیو رو در چند ثانیه تحلیل کنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e زیرنویس کامل و دقیق تولید کنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e به فارسی ترجمه کنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e خلاصه و نکات مهم رو استخراج کنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e و حتی مثل یک استاد، به تمام سؤال‌هات درباره همون ویدیو جواب بده!\u003cbr/\u003e\u003cbr/\u003eیعنی از این به بعد، به جای دیدن ساعت‌ها آموزش، فقط هر چیزی خواستی از هوش مصنوعی بپرس و همون لحظه جواب بگیر.",
-      "date": "2026-06-28T15:56:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 656,
-      "message": "تم ios 27 برای شیائومی\u003cbr/\u003eکامل ترین و خفن ترین تمی که برای شیائومی دیدم\u003cbr/\u003eآموزش فعالسازی : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/XdBhCoj7qN8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/XdBhCoj7qN8\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e ios 27 Theme On Xiaomi \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eThe most complete and beautiful Xiaomi theme\u003cbr/\u003e\u003cbr/\u003eنصب راحت و آسان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eکنترل سنتر شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e آیکون های شیشه ای و جدید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eویجت های شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت جدید ios 27 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eلاک اسکرین های سه بعدی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eEasy and fast installation\u003cbr/\u003eGlass Control Center \u003cbr/\u003eNew Glass Icons \u003cbr/\u003eGlass Widgets \u003cbr/\u003eNew iOS 27 Clock \u003cbr/\u003e3D Lock Screens\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e \u003cbr/\u003eحمایت مالی و Donate\u003c/a\u003e\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003eDownload theme | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e دانلود تم",
-      "date": "2026-06-28T19:45:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
-        }
-      ]
-    },
-    {
-      "id": 657,
-      "message": "تم ios 27 برای شیائومی کامل ترین و خفن ترین تمی که برای شیائومی دیدم آموزش فعالسازی : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e  https://youtu.be/XdBhCoj7qN8   ios 27 Theme On Xiaomi \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e The most complete and beautiful Xiaomi theme  نصب راحت و آسان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e کنترل سنتر شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e  آیکون های شیشه ای و جدید…",
-      "date": "2026-06-28T19:59:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 658,
-      "message": "پاره شدم تا این پستو بزارم\u003cbr/\u003eنمیدونم از منطقه ماست \u003cbr/\u003eواسه همه اینجوریه\u003cbr/\u003eواقعا اوضاع نت داغونه\u003cbr/\u003eروی ۲۰۰ بار گوشیمو رو حالت پرواز میزارم تا یکم کار کنه اینترنت \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A6.png\u0026#39;)\"\u003e\u003cb\u003e🤦\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-28T20:22:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 659,
-      "message": "اپدیت جدید پروژه نهان رو دارم تست میکنم خیلی خوبه کلی قابلیت خفن داره فقط واسه من یوتیوب رو باز نمیکنه نمیدونم چرا؟؟؟؟\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e۲ روزه دارم تحقیق میکنم اگه بتونم این مشکلو حلش کنم پستشو میسازم\u003cbr/\u003eسرعتش واقعا خوبه\u003cbr/\u003eاینستا و تلگرامو مثل بنز میاره",
-      "date": "2026-06-29T08:42:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 660,
-      "message": "دوستانی که تم براشون اضافه نشد تست کنید",
-      "date": "2026-06-29T20:05:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 661,
-      "message": "اگه تم دوم رو پیدا نمیکنید این روش رو هم تست کنید",
-      "date": "2026-06-29T20:15:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
-        }
-      ]
-    },
-    {
-      "id": 662,
-      "message": "نتونستم ذوقمو کنترل کنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eیه روش جدید پیدا کردم اوووووف\u003cbr/\u003eخیلی خوبه \u003cbr/\u003eراحت ترین روش برای ساخت کانفیگ\u003cbr/\u003eهمه کارو خودش میکنه با کلی امکانات خفن \u003cbr/\u003eحتی آی پی تمیز خودش پیدا میکنه\u003cbr/\u003eاز این راحت تر دیگه نمیشه\u003cbr/\u003eهمه چیو خیلی حرفه ای باز میکنه\u003cbr/\u003eاینم اسپید تست از نت داغون محل ما\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eفردا کاملش میکنم پستشو میزارم",
-      "date": "2026-06-29T22:10:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 16200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,12 +135,55 @@
       ]
     },
     {
-      "id": 663,
-      "message": "احتمالا این متود جدید برای گیم هم جواب بده\u003cbr/\u003eالبته اینو میزارم به عهده خودتون چون من  اهل گیم نیستم \u003cbr/\u003eاما برای تست متود جدید \u003cbr/\u003eرو بازی موبایل لجند این پینگ رو گرفتم",
-      "date": "2026-06-30T10:14:38Z",
+      "id": 652,
+      "message": "تاکتیک فقط خودت سلطان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-28T06:48:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8189,
+      "views": 15700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_16.jpg",
+          "width": 672
+        }
+      ]
+    },
+    {
+      "id": 653,
+      "message": "واااای یه حرکت رو شیائومی زدم  رو فضام چه قدررر خفنه \u003cbr/\u003eباورم نمیشه شیائومی این همه خفن باشه \u003cbr/\u003eمن عاشق شخصی سازی موبایلم \u003cbr/\u003eاین بار رو شیائومی یه حرکت سوپر لوکس زدم که عاشقش میشی \u003cbr/\u003eپستشو دارم آماده میکنم\u003cbr/\u003eالبته سامسونگیارو هم من فراموش نمیکنم قطعا واسه اونا هم چیزای خفن تر میسازم",
+      "date": "2026-06-28T09:16:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 655,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e اگر از آموزش‌های خارجی یوتیوب استفاده می‌کنی، این آموزش می‌تونه کلاً روش یادگیریت رو عوض کنه!\u003cbr/\u003eآموزش کامل :\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+wx6URyb7VpA0MjY0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+wx6URyb7VpA0MjY0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتا حالا شده یه ویدیوی ۱ ساعته ببینی فقط برای اینکه جواب یه سؤال ۲ دقیقه‌ای رو پیدا کنی؟ یا چون زبان ویدیو انگلیسیه، نصف مطالب رو متوجه نشی؟\u003cbr/\u003e\u003cbr/\u003eتوی این آموزش بهت یاد میدم بدون حتی یک خط کدنویسی، با کمک Google AI Studio یک ابزار شخصی برای خودت بسازی که فقط با گرفتن لینک یوتیوب:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کل ویدیو رو در چند ثانیه تحلیل کنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e زیرنویس کامل و دقیق تولید کنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e به فارسی ترجمه کنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e خلاصه و نکات مهم رو استخراج کنه.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e و حتی مثل یک استاد، به تمام سؤال‌هات درباره همون ویدیو جواب بده!\u003cbr/\u003e\u003cbr/\u003eیعنی از این به بعد، به جای دیدن ساعت‌ها آموزش، فقط هر چیزی خواستی از هوش مصنوعی بپرس و همون لحظه جواب بگیر.",
+      "date": "2026-06-28T15:56:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 656,
+      "message": "تم ios 27 برای شیائومی\u003cbr/\u003eکامل ترین و خفن ترین تمی که برای شیائومی دیدم\u003cbr/\u003eآموزش فعالسازی : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/XdBhCoj7qN8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/XdBhCoj7qN8\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e ios 27 Theme On Xiaomi \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eThe most complete and beautiful Xiaomi theme\u003cbr/\u003e\u003cbr/\u003eنصب راحت و آسان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eکنترل سنتر شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e آیکون های شیشه ای و جدید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eویجت های شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت جدید ios 27 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eلاک اسکرین های سه بعدی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eEasy and fast installation\u003cbr/\u003eGlass Control Center \u003cbr/\u003eNew Glass Icons \u003cbr/\u003eGlass Widgets \u003cbr/\u003eNew iOS 27 Clock \u003cbr/\u003e3D Lock Screens\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e \u003cbr/\u003eحمایت مالی و Donate\u003c/a\u003e\u003cbr/\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003eDownload theme | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e دانلود تم",
+      "date": "2026-06-28T19:45:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,12 +196,120 @@
       ]
     },
     {
+      "id": 657,
+      "message": "تم ios 27 برای شیائومی کامل ترین و خفن ترین تمی که برای شیائومی دیدم آموزش فعالسازی : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e  https://youtu.be/XdBhCoj7qN8   ios 27 Theme On Xiaomi \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e The most complete and beautiful Xiaomi theme  نصب راحت و آسان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e کنترل سنتر شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e  آیکون های شیشه ای و جدید…",
+      "date": "2026-06-28T19:59:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 658,
+      "message": "پاره شدم تا این پستو بزارم\u003cbr/\u003eنمیدونم از منطقه ماست \u003cbr/\u003eواسه همه اینجوریه\u003cbr/\u003eواقعا اوضاع نت داغونه\u003cbr/\u003eروی ۲۰۰ بار گوشیمو رو حالت پرواز میزارم تا یکم کار کنه اینترنت \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A6.png\u0026#39;)\"\u003e\u003cb\u003e🤦\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-28T20:22:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 659,
+      "message": "اپدیت جدید پروژه نهان رو دارم تست میکنم خیلی خوبه کلی قابلیت خفن داره فقط واسه من یوتیوب رو باز نمیکنه نمیدونم چرا؟؟؟؟\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e۲ روزه دارم تحقیق میکنم اگه بتونم این مشکلو حلش کنم پستشو میسازم\u003cbr/\u003eسرعتش واقعا خوبه\u003cbr/\u003eاینستا و تلگرامو مثل بنز میاره",
+      "date": "2026-06-29T08:42:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 660,
+      "message": "دوستانی که تم براشون اضافه نشد تست کنید",
+      "date": "2026-06-29T20:05:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 661,
+      "message": "اگه تم دوم رو پیدا نمیکنید این روش رو هم تست کنید",
+      "date": "2026-06-29T20:15:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 662,
+      "message": "نتونستم ذوقمو کنترل کنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eیه روش جدید پیدا کردم اوووووف\u003cbr/\u003eخیلی خوبه \u003cbr/\u003eراحت ترین روش برای ساخت کانفیگ\u003cbr/\u003eهمه کارو خودش میکنه با کلی امکانات خفن \u003cbr/\u003eحتی آی پی تمیز خودش پیدا میکنه\u003cbr/\u003eاز این راحت تر دیگه نمیشه\u003cbr/\u003eهمه چیو خیلی حرفه ای باز میکنه\u003cbr/\u003eاینم اسپید تست از نت داغون محل ما\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eفردا کاملش میکنم پستشو میزارم",
+      "date": "2026-06-29T22:10:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 663,
+      "message": "احتمالا این متود جدید برای گیم هم جواب بده\u003cbr/\u003eالبته اینو میزارم به عهده خودتون چون من  اهل گیم نیستم \u003cbr/\u003eاما برای تست متود جدید \u003cbr/\u003eرو بازی موبایل لجند این پینگ رو گرفتم",
+      "date": "2026-06-30T10:14:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+        }
+      ]
+    },
+    {
       "id": 664,
       "message": "جدید ترین و راحت ترین روش برای ساخت کانفیگ\u003cbr/\u003eبا پروژه زئوس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e آموزش ساخت کانفیگ با پروژه زئوس\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/ZvbW4gqiox0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/ZvbW4gqiox0\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e مدیریت کامل کاربران\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e سرعت عالی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ️آی تمیز بر اساس اوپراتور شما \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ️مناسب گیم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅️\u003c/b\u003e\u003c/i\u003e جدید و پر سرعت \u003cbr/\u003e\u003cbr/\u003eلینک گیت هاب پروژه : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/IR-NETLIFY/zeus\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/IR-NETLIFY/zeus\u003c/a\u003e\u003cbr/\u003eلینک پنل زئوس : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://zeus-panel.ir-netlify.workers.dev/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://zeus-panel.ir-netlify.workers.dev/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.aimobix.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eحمایت مالی و دونیت\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپیج اینستاگرام من: \u003cbr/\u003e\u003ca href=\"https://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.instagram.com/aimobix1?igsh=ZDJtN2JlemZvdmts\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e",
       "date": "2026-06-30T19:16:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4740,
+      "views": 5770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
