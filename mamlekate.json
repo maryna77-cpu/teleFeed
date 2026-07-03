@@ -12,7 +12,7 @@
       "date": "2026-06-28T10:23:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 197000,
+      "views": 198000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -31,7 +31,7 @@
       "date": "2026-06-28T16:04:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 231000,
+      "views": 233000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +50,7 @@
       "date": "2026-06-28T16:06:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 243000,
+      "views": 244000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_12.jpg"
         },
         {
           "type": "photo",
@@ -70,7 +70,7 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_11.jpg"
         }
       ]
     },
@@ -80,7 +80,7 @@
       "date": "2026-06-28T16:14:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 264000,
+      "views": 266000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +98,7 @@
       "date": "2026-06-29T01:27:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 272000,
+      "views": 273000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +110,38 @@
       "date": "2026-07-02T21:16:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 152000,
+      "views": 154000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_13.jpg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 103786,
+      "message": "\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سلام از قلعه حسن خان که یه شهر حاشیه ای تهرانه و جمعیت کارگر نشین و فقیر داره دیروز از خیابون نفتش رد میشدم یه سالن ورزشی داره که نزدیک باغ شازده که تو جنگ هم زیاد اسمشو میگفتن،پر کردن مواد غذایی دیروز داشتن نمیدونم برنج بود چی بود خالی میکردن، حرومتون بشه مفت خورا بعد همین شهر باید پر فقیر و گدا باشه.",
+      "date": "2026-07-03T06:23:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 122000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته"
+    },
+    {
+      "id": 103787,
+      "message": "شخصیت‌های خارجی تشییع خامنه‌ای\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-07-03T06:31:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 128000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,43 +155,12 @@
       ]
     },
     {
-      "id": 103786,
-      "message": "\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سلام از قلعه حسن خان که یه شهر حاشیه ای تهرانه و جمعیت کارگر نشین و فقیر داره دیروز از خیابون نفتش رد میشدم یه سالن ورزشی داره که نزدیک باغ شازده که تو جنگ هم زیاد اسمشو میگفتن،پر کردن مواد غذایی دیروز داشتن نمیدونم برنج بود چی بود خالی میکردن، حرومتون بشه مفت خورا بعد همین شهر باید پر فقیر و گدا باشه.",
-      "date": "2026-07-03T06:23:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 119000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته"
-    },
-    {
-      "id": 103787,
-      "message": "شخصیت‌های خارجی تشییع خامنه‌ای\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
-      "date": "2026-07-03T06:31:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 125000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_10.jpg",
-          "width": 640
-        }
-      ]
-    },
-    {
       "id": 103788,
       "message": "لحظه زدن بیت خامنه‌ای:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
       "date": "2026-07-03T06:35:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 119000,
+      "views": 122000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +172,7 @@
       "date": "2026-07-03T06:36:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 122000,
+      "views": 125000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +184,7 @@
       "date": "2026-07-03T06:40:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 129000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +192,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_10.jpg"
         }
       ]
     },
@@ -202,7 +202,7 @@
       "date": "2026-07-03T11:54:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 106000,
+      "views": 110000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +220,7 @@
       "date": "2026-07-03T12:12:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 104000,
+      "views": 109000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +239,7 @@
       "date": "2026-07-03T12:33:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107000,
+      "views": 114000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +257,7 @@
       "date": "2026-07-03T14:13:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 81000,
+      "views": 88000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +269,7 @@
       "date": "2026-07-03T14:27:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 77500,
+      "views": 85200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +288,7 @@
       "date": "2026-07-03T14:27:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 79300,
+      "views": 87100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
