@@ -7,50 +7,12 @@
   },
   "posts": [
     {
-      "id": 6385,
-      "message": "\u003ctg-emoji emoji-id=\"5949286409478082944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9598.png\u0026#39;)\"\u003e\u003cb\u003e🕘\u003c/b\u003e\u003c/i\u003e خبر ۲۱\u003cbr/\u003eشنبه ۲۰ تیر ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\"\u003e#خبر۲۱\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-11T18:59:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_7.jpg",
-          "width": 852
-        }
-      ]
-    },
-    {
-      "id": 6386,
-      "message": "سی‌ان‌ان گزارش داد بر اساس تصاویر تازۀ ماهواره‌ای، نشانه‌هایی از فعالیت در اطراف چند تأسیسات هسته‌ای و همچنین انبارهای موشکی در تبریز و کرمانشاه به‌دست آمده است.\u003cbr/\u003eبنا بر این گزارش، جمهوری اسلامی در حالیکه وانمود می‌کرد به یادداشت تفاهم با آمریکا پایبند است، به تعمیرات در مرکز طالقان ۲ در پارچین ادامه داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87_%D8%A7%D8%AA%D9%85%DB%8C\"\u003e#برنامه_اتمی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\"\u003e#جمهوری_اسلامی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-11T20:29:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_3.jpg",
-          "width": 1920
-        }
-      ]
-    },
-    {
       "id": 6387,
       "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5807938374341760679\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  خبر فوری\u003cbr/\u003eسپاه پاسداران جمهوری اسلامی با انتشار دو بیانیه، ضمن اعلام خبر حمله موشکی به یک کشتی عبوری از مسیر جنوبی تنگه هرمز، از بسته شدن این تنگه تا اطلاع ثانوی خبر داد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D9%86%DA%AF%D9%87_%D9%87%D8%B1%D9%85%D8%B2\"\u003e#تنگه_هرمز\u003c/a\u003e  \u003ca href=\"?q=%23%D8%B3%D9%BE%D8%A7%D9%87_%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C_%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86\"\u003e#سپاه_تروریستی_پاسداران\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-07-11T22:22:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2520,
+      "views": 2550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +24,7 @@
       "date": "2026-07-11T22:29:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2450,
+      "views": 2470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +36,25 @@
       "date": "2026-07-12T08:16:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1570,
+      "views": 1630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6390,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یکی از سرکوبگرانی که در ۱۸ و ۱۹ دی‌ماه ۱۴۰۵ در جنوب تهران به مردم تیراندازی کرد \u003cb\u003eسعید قلی‌زاده \u003c/b\u003eمعروف به «\u003cb\u003eسعید کلاغ\u003c/b\u003e» ۳۶ ساله اهل قرچک روستای محمدآباد است. او در جوانی خلافکار بود و بعدا عضو بـسـ.ـیج شد و کارش را با مخبری از اصناف و کسبه در همان اطراف تهران آغاز کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B3%D8%B1%DA%A9%D9%88%D8%A8%DA%AF%D8%B1%D8%A7%D9%86\"\u003e#سرکوبگران\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%DB%8C%D9%85%D8%A7%D9%87\"\u003e#دیماه\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-12T08:20:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,30 +67,12 @@
       ]
     },
     {
-      "id": 6390,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یکی از سرکوبگرانی که در ۱۸ و ۱۹ دی‌ماه ۱۴۰۵ در جنوب تهران به مردم تیراندازی کرد \u003cb\u003eسعید قلی‌زاده \u003c/b\u003eمعروف به «\u003cb\u003eسعید کلاغ\u003c/b\u003e» ۳۶ ساله اهل قرچک روستای محمدآباد است. او در جوانی خلافکار بود و بعدا عضو بـسـ.ـیج شد و کارش را با مخبری از اصناف و کسبه در همان اطراف تهران آغاز کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B3%D8%B1%DA%A9%D9%88%D8%A8%DA%AF%D8%B1%D8%A7%D9%86\"\u003e#سرکوبگران\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%DB%8C%D9%85%D8%A7%D9%87\"\u003e#دیماه\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-12T08:20:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1520,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_9.jpg"
-        }
-      ]
-    },
-    {
       "id": 6391,
       "message": "\u003ctg-emoji emoji-id=\"5836934557550516347\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5839239365850568848\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA9.png\u0026#39;)\"\u003e\u003cb\u003e🛩️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یک منطقه نظامی در خُنداب استان مرکزی هدف حمله قرار گرفت. معاون سیاسی امنیتی استاندار مرکزی این حمله را تأیید کرد. این مرکز حوالی سایت آب سنگین اراک قرار دارد. فروردین ۱۴۰۵ نیز سایت هسته‌ای «شهدای خنداب» هدف قرار گرفته بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87\"\u003e#حمله\u003c/a\u003e \u003ca href=\"?q=%23%D8%AE%D9%86%D8%AF%D8%A7%D8%A8\"\u003e#خنداب\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-07-12T08:23:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1310,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +80,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg"
         }
       ]
     },
@@ -128,7 +90,7 @@
       "date": "2026-07-12T08:26:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 1360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_10.jpg"
         }
       ]
     },
@@ -146,7 +108,7 @@
       "date": "2026-07-12T08:28:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
+      "views": 1280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +116,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_16.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_15.jpg",
           "width": 720
         }
       ]
@@ -165,7 +127,7 @@
       "date": "2026-07-12T08:30:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1470,
+      "views": 1550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +145,7 @@
       "date": "2026-07-12T08:31:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1520,
+      "views": 1560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +153,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_12.jpg"
         }
       ]
     },
@@ -201,7 +163,7 @@
       "date": "2026-07-12T08:32:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1720,
+      "views": 1790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +181,7 @@
       "date": "2026-07-12T08:34:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1810,
+      "views": 1880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +189,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_2.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_3.jpg",
           "width": 720
         }
       ]
@@ -238,7 +200,7 @@
       "date": "2026-07-12T09:24:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1870,
+      "views": 1970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +218,7 @@
       "date": "2026-07-12T13:10:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 884,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,11 +230,11 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_9.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_15.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_14.jpg"
         }
       ]
     },
@@ -282,7 +244,7 @@
       "date": "2026-07-12T13:11:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 902,
+      "views": 1200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +262,7 @@
       "date": "2026-07-12T13:20:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 779,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +270,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_12.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_11.jpg",
           "width": 720
         }
       ]
@@ -319,7 +281,25 @@
       "date": "2026-07-12T14:21:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 363,
+      "views": 854,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_16.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6405,
+      "message": "\u003ctg-emoji emoji-id=\"5334882760735598374\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5839239365850568848\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA9.png\u0026#39;)\"\u003e\u003cb\u003e🛩️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e در حملات هوایی آمریکا به مراکز نظامی در ایران که بامداد یکشنبه ۲۱ تیرماه ۱۴۰۵ صورت گرفت، حمیدرضا دهقان از پرسنل پدافند نیروی دریایی ارتش جمهوری اسلامی در جاسک کشته شد.\u003cbr/\u003eدر همین ارتباط یکی از نیروهای کلاه‌سبز ارتش در پیامی به دژ نوشت: «بعد از جنایت دی‌ماه برای نظامی‌ها هیچ ارزشی قائل نیستند، اما واقعیت آن است که حالا مُفت مفت‌ کشته می‌شوند. هر چه تجهیزات مانده برای دوران آن خدابیامرز است، توپ ضد هوایی ۲۳ میلی‌متری و اگر باشد چند تا دوش پرتاب میثاق، تو بندر جاسک الان سگ رو هم با چوب بزنی بیرون نمیره، از بس هوا جهنمی هست، این بدبخت‌ها با چند تا سرباز بیچاره تو مواضع پدافندی هستند که تجهیزات آن زمان جنگ ایران و عراق هم کارآیی آنچنان نداشت.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D8%A7%D8%B3%DA%A9\"\u003e#جاسک\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%D8%AF%D8%A7%D8%AC%D8%A7\"\u003e#نداجا\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D8%B1%D8%AA%D8%B4\"\u003e#ارتش\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87\"\u003e#حمله\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-12T15:01:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 591,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,6 +308,10 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_17.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_2.jpg"
         }
       ]
     }
