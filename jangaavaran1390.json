@@ -3,150 +3,16 @@
     "id": 0,
     "title": "جنگاوران",
     "username": "jangaavaran1390",
-    "photo_url": "https://cdn4.telesco.pe/file/vo2GL85ZKQHvmBozmiUyb36PUHyuYqQXND95D_Itf1lAI722Rym7R1SN0Q3FcL4Y22_OVjEZW2pVEfEd4VrodQxwzLMbGHgzhYR2qjThmGQIpbRjAJU8G2NvyGsWhYR1yN-oyTbfrVVn5bGimxLtA2xTbnmEk_HP8e0cgmLrIvwyK9F6nsxQ56HZQA6H_jp54HZ3MhTLu-68-oUHayAOZ0cI8RUcLDLdqNd-W43rsSz0benaASbCRzNxbwZQI9ZNEOKB6yrTJQeiGF3ntD8wgxMFi-6S6ZcNAUmCNwVj-M5lncoMj6mdGqwS8Yk0xjXlOkZC1brTEZ8ve8d7LJJ1rg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/ukrw5sJgQWc4hWBSqjLrU9ZvrPPwaJJm1HZvbXoXOqvqR1oVvEpn3wJ8rbPXqVuPERbjRJNKIdbqR_QbS9np1Px0drYWUcDZPh0l_JpYC-F9mtdEbtxL38vjroue38SXluJBT7tx5J1m7kzemIF7X5LIfTX1hmWJodZ-MD5eK0ew9J4K6Ss_1l4VjsTyEU3T2dmsprpQp465j3B6ioAghbpe-nBMSj_D4AOpqUdAHkgmavX42s9rdOa3gDgiWXWbzhrlDm3rujSsquBpM2GeVK4RuVzJ3L9EAe5oF6oZ_trcT-FcKgXlWU025v9vD4t2VBt-09njMJzpsqPWsgPmHQ.jpg"
   },
   "posts": [
-    {
-      "id": 135441,
-      "message": "قطر می‌گوید حمله موشکی ایران را دفع کرده و وضعیت آرام است",
-      "date": "2026-07-12T03:04:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 135442,
-      "message": "تصاویری که نشان می‌دهد چند ساعت پیش \u003ca href=\"https://jangaavaran.ir/mgm-140/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eموشک‌های اتکامز از\u003c/a\u003e یک سیستم راکت هایمارس  متعلق به ارتش ایالات متحده، از بحرین به سمت ایران شلیک شده‌اند.",
-      "date": "2026-07-12T03:06:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg",
-          "width": 352
-        }
-      ]
-    },
-    {
-      "id": 135443,
-      "message": "برخی منابع از مشاهده دود نزدیک پایگاه آمریکا در بحرین می‌گویند",
-      "date": "2026-07-12T03:08:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 135444,
-      "message": "در طول یک ساعت گذشته، ایران حدود ۱۲ موشک بالستیک و تعداد نامعلومی از پهپادها را به سمت پایگاه‌های نظامی آمریکا در اردن،  بحرین و قطر شلیک کرده است.",
-      "date": "2026-07-12T03:08:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 135445,
-      "message": "سپاه پاسداران انقلاب اسلامی مدعی شد که پایگاه هوایی \u0026#34;پرنس حسن\u0026#34; در اردن را هدف قرار داده است و اعلام کرد که موشک‌های بالستیک، مرکز فرماندهی و کنترل این پایگاه و انبارهای مربوط به پهپادهای MQ-9 را نابود کرده‌اند.",
-      "date": "2026-07-12T03:18:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 135446,
-      "message": "تصاویری مبنی بر مشاهده دود در پایگاه پشتیبانی دریایی بحرین",
-      "date": "2026-07-12T03:21:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg",
-          "width": 268
-        }
-      ]
-    },
-    {
-      "id": 135447,
-      "message": "به نظر می‌رسد که پاسخ ایران اکنون به پایان رسیده است و مدتی است که هیچ فعالیت جدیدی گزارش نشده است.",
-      "date": "2026-07-12T03:24:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 135448,
-      "message": "ساعتی کاری نیروی های مسلح در خاورمیانه \u003cbr/\u003e۱ بامداد الا ۶ صبح",
-      "date": "2026-07-12T03:25:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 135449,
-      "message": "مشخصا یک برخورد در این پایگاه یا نزدیک آن انجام شده",
-      "date": "2026-07-12T03:27:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 135450,
-      "message": "ارتش ایران بیانیه‌ای منتشر کرد و اعلام نمود که علی‌رغم عدم صدور هیچگونه هشدار، کویت نیز مورد هدف قرار گرفته است.\u003cbr/\u003e\u003cbr/\u003eایران اعلام کرده است که سامان‌های پدافند هوایی پاتریوت، انبارهای مهمات و ایستگاه‌های رادار را هدف قرار داده است.\u003cbr/\u003e\u003cbr/\u003eکویت هیچ هشدار و خبری در مورد حمله به این کشور نداده است و تصویری هم از حمله نیست؟!؟",
-      "date": "2026-07-12T03:32:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
     {
       "id": 135451,
       "message": "ستاد فرماندهی مرکزی ارتش آمریکا (سنتکام) اعلام کرد سومین دور حملات خود به اهداف نظامی ایران را در تاریخ ۱۱ ژوئیه به پایان رسانده است. به گفته سنتکام، این حملات در واکنش به حمله ایران به یک کشتی تجاری دیگر در تنگه هرمز انجام شده است.\u003cbr/\u003e\u003cbr/\u003eسنتکام مدعی شد نیروهای آمریکایی با استفاده از جنگنده‌ها، پهپادها و شناورهای نیروی دریایی، حدود ۱۴۰ هدف نظامی را با مهمات هدایت‌شونده دقیق هدف قرار داده‌اند. این اهداف شامل سایت‌های موشکی و پهپادی، توانمندی‌های دریایی، انبارهای مهمات، شبکه‌های ارتباطی و مراکز دیده‌بانی ساحلی بوده است.\u003cbr/\u003e\u003cbr/\u003eبر اساس بیانیه سنتکام، آمریکا طی سه شب حملات این هفته، در مجموع بیش از ۳۰۰ هدف را برای کاهش توان ایران در حمله به کشتی‌های تجاری و غیرنظامی در تنگه هرمز هدف قرار داده است. این فرماندهی همچنین اعلام کرد از اوایل ماه مه تاکنون، عبور بیش از ۸۰۰ کشتی تجاری و انتقال حدود ۴۰۰ میلیون بشکه نفت خام از تنگه هرمز با پشتیبانی نیروهای آمریکایی انجام شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#آمریکا\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\"\u003e#ایران\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85\"\u003e#سنتکام\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%86%DA%AF%D9%87_%D9%87%D8%B1%D9%85%D8%B2\"\u003e#تنگه_هرمز\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86\"\u003e#جنگاوران\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/jangaavaran1390\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/jangaavaran1390\u003c/a\u003e",
       "date": "2026-07-12T03:37:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +24,7 @@
       "date": "2026-07-12T04:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +42,7 @@
       "date": "2026-07-12T04:07:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,11 +50,11 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
         }
       ]
     },
@@ -198,7 +64,7 @@
       "date": "2026-07-12T04:10:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9560,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +76,7 @@
       "date": "2026-07-12T04:21:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8410,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +88,7 @@
       "date": "2026-07-12T04:30:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +106,7 @@
       "date": "2026-07-12T04:33:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5230,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +118,7 @@
       "date": "2026-07-12T04:45:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2100,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +130,139 @@
       "date": "2026-07-12T04:51:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 19000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135461,
+      "message": "معاون امنیتی استاندار لرستان در ایران: شهر ویسیان دو بار مورد بمباران دشمن قرار گرفت، اما خوشبختانه تلفات انسانی نداشت.",
+      "date": "2026-07-12T05:12:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135462,
+      "message": "\u003ca href=\"https://jangaavaran.ir/b52-stratofortress/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبمب‌افکن راهبردی B-52H استراتوفورترس\u003c/a\u003e که آخرین نمونه‌های آن در سال ۱۹۶۲ تولید شدند، در زمان ساخت هر فروند حدود ۹.۳ میلیون دلار قیمت داشت؛ رقمی که با احتساب تورم، امروز معادل حدود ۸۴ میلیون دلار است.\u003cbr/\u003e\u003cbr/\u003eنیروی هوایی آمریکا برای حفظ این بمب‌افکن‌ها تا دهه ۲۰۵۰، برنامه‌ای به ارزش ۴۸.۶ میلیارد دلار را برای نوسازی ناوگان در دست اجرا دارد. بخش عمده این هزینه صرف نصب موتورهای جدید رولزرویس، رادار آرایه فازی فعال (AESA) و سامانه‌های نوین ناوبری و هدف‌گیری خواهد شد.\u003cbr/\u003e\u003cbr/\u003eبا وجود این سرمایه‌گذاری، B-52H همچنان یکی از مقرون‌به‌صرفه‌ترین بمب‌افکن‌های جهان محسوب می‌شود. هزینه هر ساعت پرواز آن حدود ۸۸ هزار دلار است که به‌مراتب کمتر از بمب‌افکن‌های پنهانکار مانند B-2 Spirit بوده و به همین دلیل، همچنان ستون فقرات توان حمله دوربرد و حمل موشک‌های کروز و تسلیحات هسته‌ای آمریکا باقی مانده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#آمریکا\u003c/a\u003e \u003ca href=\"?q=%23B52\"\u003e#B52\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%88%D9%81%D9%88%D8%B1%D8%AA%D8%B1%D8%B3\"\u003e#استراتوفورترس\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%DB%8C%D8%B1%D9%88%DB%8C_%D9%87%D9%88%D8%A7%DB%8C%DB%8C\"\u003e#نیروی_هوایی\u003c/a\u003e \u003ca href=\"?q=%23%D8%A8%D9%85%D8%A8_%D8%A7%D9%81%DA%A9%D9%86\"\u003e#بمب_افکن\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86\"\u003e#جنگاوران\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/jangaavaran1390\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/jangaavaran1390\u003c/a\u003e",
+      "date": "2026-07-12T05:39:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 135463,
+      "message": "بیانیه‌ای از دفتر سناتور ایالات متحده، لیندسی گراهام:\u003cbr/\u003e\u003cbr/\u003eدر شامگاه روز شنبه، ۱۱ جولای، سناتور لیندسی گراهام بر اثر یک بیماری ناگهانی و کوتاه مدت، درگذشت.\u003cbr/\u003e\u003cbr/\u003eخانواده سناتور گراهام در این شرایط، از دعا برای ایشان قدردانی می‌کنند و درخواست حفظ حریم خصوصی در این دوران بسیار دشوار را دارند.",
+      "date": "2026-07-12T06:17:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135464,
+      "message": "الان منتظر پست های در مورد دست خدا باشید",
+      "date": "2026-07-12T06:18:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135465,
+      "message": "این آدم سرسخت‌ترین مخالف جمهوری اسلامی بود که با رضا پهلوی در آمریکا چند بار دیدار کرد در همایش مخالفین جمهوری اسلامی بارها سخنرانی کرد و از جمله حامیان سرسخت حمله به ایران بود",
+      "date": "2026-07-12T06:21:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 135466,
+      "message": "خبرگزاری عمان: یک منبع امنیتی اعلام کرد که مناطق واقع در استان مسندم کشور عمان، مورد حمله پهپادها قرار گرفته است.\u003cbr/\u003e\u003cbr/\u003eدولت عمان این حمله را محکوم کرد و اعلام کرد که تمام اقدامات لازم را برای حفاظت از کشور و ساکنان آن انجام می‌دهد.",
+      "date": "2026-07-12T06:21:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135467,
+      "message": "بن گویر، وزیر امنیت ملی اسرائیل:\u003cbr/\u003e\u003cbr/\u003eامروز، اسرائیل یکی از بزرگترین دوستان خود را از دست داد.\u003cbr/\u003eسناتور لیندسی گراهام در کنار اسرائیل ایستاد، نه به این دلیل که کار آسانی بود، بلکه به این دلیل که معتقد بود این کار درست است.",
+      "date": "2026-07-12T06:27:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135468,
+      "message": "محمد ایّاش محمد قاهیم، وزیر حمل و نقل حوثی‌های یمن، اعلام کرد که مسیر هوایی بین تهران و صنعا اکنون به طور رسمی باز شده است و بسته نخواهد شد.\u003cbr/\u003e\u003cbr/\u003eاو خاطرنشان کرد که پرواز اخیر تنها آغاز کار برای شکستن کامل محاصره فرودگاه صنعا بود.",
+      "date": "2026-07-12T06:31:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135469,
+      "message": "نیروهای مسلح اردن اعلام کردند که سه موشک که از ایران شلیک شده بودند، در داخل این کشور سقوط کردند، اما هیچ تلفاتی گزارش نشده است.",
+      "date": "2026-07-12T07:27:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135470,
+      "message": "ترامپ:\u003cbr/\u003e\u003cbr/\u003eسناتور لیندسی گراهام، یکی از بزرگترین افرادی و سناتورهایی که در زندگی‌ام می‌شناختم، فوت کرده است! او همیشه در تلاش بود و یک وطن‌پرست واقعی آمریکایی بود. لیندسی بسیار مورد احترام بود و فقدان او بسیار احساس خواهد شد! جزئیات و اطلاعات بیشتر متعاقباً اعلام خواهد شد. چه غم بزرگی!",
+      "date": "2026-07-12T07:28:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
