@@ -7,60 +7,12 @@
   },
   "posts": [
     {
-      "id": 2736,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e معرفی پروژه Iran Dev Tools؛ حل مشکلات در سروهای ایران\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eقطعاً به عنوان یک توسعه‌دهنده بارها با چالش تحریم‌ها، فیلترینگ و سرعت پایین دانلود پکیج‌ها و دپندرسی‌ها دست‌وپنجه نرم کرده‌اید. پروژه متن‌باز Iran Dev Tools مجموعه‌ای از اسکریپت‌های هوشمند و مستقل است که دقیقاً برای حل همین مشکلات تکراری برنامه‌نویسان روی اینترنت ایران طراحی شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمنوی مدیریت یکپارچه لینوکس:\u003c/b\u003e شامل اسکریپت نصب Docker به همراه تنظیم خودکار میرورهای رجیستری ایرانی برای دور زدن تحریم‌های داکر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبنچمارک و تغییر هوشمند DNS و میرور APT:\u003c/b\u003e تست زنده و تنظیم سریع‌ترین DNSها و مخازن سیستمی (APT) لینوکس بر اساس کیفیت شبکه شما. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتنظیم خودکار میرورهای برنامه‌نویسی:\u003c/b\u003e شناسایی و ست کردن بهترین میرورها برای پکیج‌منیجرهای محبوب از جمله \u003cb\u003enpm\u003c/b\u003e ،\u003cb\u003epip\u003c/b\u003e ،\u003cb\u003eGo\u003c/b\u003e ،\u003cb\u003eComposer\u003c/b\u003e و \u003cb\u003eNuGet\u003c/b\u003e تا با بالاترین سرعت ممکن پروژه‌های خود را توسعه دهید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/ShahinDadashpour/iran-dev-tools\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک ریپازیتوری پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-06T18:14:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2738,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاستفاده پنهانی گوگل از عکس‌ها و ویدیوهای شما برای آموزش هوش مصنوعی!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگوگل به‌تازگی تنظیمات حریم خصوصی خود را تغییر داده است. با این تغییر، فایل‌های صوتی، تصاویر و ویدیوهایی که در سرویس‌های مختلف گوگل (مثل جستجو، مپس، ترنسلیت و...) آپلود می‌کنید، ممکن است برای آموزش مدل‌های هوش مصنوعی این شرکت استفاده شوند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eچگونه این قابلیت را متوقف کنیم؟\u003c/b\u003e\u003cbr/\u003eخوشبختانه امکان مسدود کردن این دسترسی وجود دارد. برای جلوگیری از استفاده شدن داده‌هایتان مراحل زیر را طی کنید:\u003cbr/\u003e۱. در تنظیمات حساب کاربری گوگل خود به بخش \u003cb\u003eSearch Services History\u003c/b\u003e بروید.\u003cbr/\u003e۲. تیک گزینه \u003cb\u003eSave Media\u003c/b\u003e را بردارید.\u003cbr/\u003e۳. در همین بخش می‌توانید کل سابقه جستجو را غیرفعال کنید یا یک زمان مشخص برای حذف خودکار (Auto-delete) اطلاعات تعیین کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-07-07T15:37:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2739,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e دوستان عزیز، همون‌طور که قبلاً هم اشاره کردم، کامنت‌های یوتیوب به دلیل جلوگیری از اسپم، به‌صورت دستی تایید میشن. چند ماه پیش یه عده شروع به فرستادن پیام‌های اسپم و نامربوط زیر ویدیوها کردن و برای اینکه مشکلی برای کانال پیش نیاد، مجبور شدم تایید کامنت‌ها رو دستی کنم. \u003cbr/\u003e\u003cbr/\u003eتا الان پیام‌ها هر ۲۴ تا ۴۸ ساعت بررسی می‌شدن، اما از این به بعد \u003cb\u003eهر شب\u003c/b\u003e کامنت‌ها رو بررسی و تایید می‌کنم. البته در تلاشیم تا راهی پیدا کنیم که این محدودیت به‌زودی کمتر بشه. از درک و همراهی همیشگی شما ممنونم.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-07T16:12:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
       "id": 2740,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاعتراض ۱۱۵ هزار نفری به سونی؛ دیسک‌های فیزیکی را حذف نکنید!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیک خرده‌فروش کانادایی (PNP Games) کمپینی با نام «Don\u0026#39;t Kill the Disc» به راه انداخته که تاکنون بیش از ۱۱۵ هزار امضا برای توقف برنامه جدید سونی جمع‌آوری کرده است. سونی قصد دارد تا سال ۲۰۲۸ درایو نوری را به طور کامل از کنسول‌های پلی‌استیشن حذف کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eجزئیات این ماجرا:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنگرانی معترضان:\u003c/b\u003e به گفته راه‌اندازان این کارزار، حذف دیسک‌های فیزیکی به معنای نابودی کامل زنجیره‌ای از مشاغل (خرده‌فروشان، توزیع‌کنندگان و تولیدکنندگان)، از بین رفتن بازار بازی‌های دست‌دوم و نادیده گرفتن جامعه کلکسیونرها است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدلیل سونی برای این تصمیم:\u003c/b\u003e همسویی با ترجیحات کاربران و رشد خیره‌کننده فروش دیجیتال. آمارها نشان می‌دهد سهم فروش دیجیتال بازی‌ها از ۱۳ درصد در سال ۲۰۱۳ به حدود ۸۰ درصد در سال ۲۰۲۵ رسیده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنظر تحلیلگران:\u003c/b\u003e به دلیل سودآوری بسیار بالاتر فروش دیجیتال و کاهش هزینه‌های تولید سخت‌افزار برای سونی، کارشناسان اقتصادی احتمال تغییر موضع این شرکت را با وجود این اعتراضات گسترده، بسیار اندک می‌دانند.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e\u003cb\u003e@iaghapour\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-07-07T17:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,85 +30,7 @@
       "date": "2026-07-08T16:10:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2743,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e نسخه 0.11.0 مسنجر سانگبرد منتشر شد\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبا این اسکریپت میتونید در سرور خودتون یک مسنجر شخصی بالا بیارید و با دوستان خودتون چت کنید.\u003cbr/\u003e\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e پنل ادمین با مدیریت کامل یوزر ها و چت ها\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e رول owner برای بالاترین سطح دسترسی\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A94.png\u0026#39;)\"\u003e\u003cb\u003e⚔️\u003c/b\u003e\u003c/i\u003e رول admin برای دسترسی محدود به پنل ادمین\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e دسترسی به تنطیمات برنامه از طریق پنل ادمین\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e بخش لاگ برای مانیتور از چند منبع مختلف\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e ساخت یا ادیت یوزر از طریق پنل ادمین \u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e پاک کردن کل پیام ها یا ریست کامل دیتابیس از طریق پنل ادمین\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9396.png\u0026#39;)\"\u003e\u003cb\u003e📖\u003c/b\u003e\u003c/i\u003e وبسایت ویکی سانگبرد در \u003ca href=\"http://docs.songbird.website/\" target=\"_blank\" rel=\"noopener\"\u003edocs.songbird.website\u003c/a\u003e\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9591.png\u0026#39;)\"\u003e\u003cb\u003e🕑\u003c/b\u003e\u003c/i\u003e نشان دادن آخرین بازدید کاربران\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e انتخاب Songbird به عنوان سورس Remote channel \u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A8.png\u0026#39;)\"\u003e\u003cb\u003e💨\u003c/b\u003e\u003c/i\u003e بهبود عملکرد قابلیت Remote channel\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e رفع باگ های گزارش شده\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/bllackbull/Songbird\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e اطلاعات بیشتر در گیت‌هاب پروژه\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-08T16:49:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2744,
-      "message": ".\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e ببینید، اینکه بیایم مصرف کاربر رو چند برابر حساب کنیم (مثلاً طرف ۱ گیگ مصرف کرده ولی ۲ گیگ از حجمش کم کنیم)، اسمش زرنگی نیست، رسماً دزدی و کم‌فروشی تو روز روشنه! اینجور کارا فقط گند می‌زنه به اعتماد مردم و باعث میشه مشتری به بقیه فروشنده‌هایی که دارن سالم کار می‌کنن هم به چشم دزد نگاه کنه.\u003cbr/\u003e\u003cbr/\u003eاگه خرج سرور و هزینه‌ها بالا رفته، خیلی روراست قیمت‌ها رو ببرید بالا. مشتری ترجیح میده گرون‌تر بخره ولی بدونه دقیقاً داره بابت چی پول میده، تا اینکه یواشکی از حجمش دزدیده بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e\u003cb\u003e@iaghapour\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-07-08T17:09:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2746,
-      "message": "\u003cb\u003eیک تشکر ویژه از همراهان همیشگی\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CBA.png\u0026#39;)\"\u003e\u003cb\u003e🌺\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدوست داشتم از این فرصت استفاده کنم و از تمام کسانی که تو این مدت اخیر که درگیر محدودیت‌های شدید اینترنت بودیم، به هر شکلی پشت ما ایستادند و کمک کردند، از صمیم قلب تشکر کنم. حمایت‌های شما باعث شد تا تیم ما بتونه هر کاری که از دستش برمیاد رو در این رابطه انجام بده.\u003cbr/\u003e\u003cbr/\u003eاز دوستانی که کانفیگ‌ در اختیار ما قرار دادن، تا عزیزانی که اکانت سایت‌های مختلف از سرویس‌های هاستینگ گرفته تا ابزارهای هوش مصنوعی و... رو به دست ما رسوندن تا کارها لنگ نمونه؛ واقعاً ازتون ممنونم.\u003cbr/\u003e\u003cbr/\u003eو یک تشکر ویژه از دوستانی که با کامنت‌هاشون و دفاع از کار ما در گروه‌ها، سنگ تمام گذاشتند و بزرگ‌ترین حمایت رو از ما کردند.\u003cbr/\u003e\u003cbr/\u003eخیلی دلم می‌خواست اسم تک‌تک شما عزیزان رو اینجا بیارم و شخصاً قدردانی کنم، اما به دلایل مشخص و برای اینکه برای خودتون بهتر و امن‌تره، از این کار صرف‌نظر می‌کنم. ولی بدونید که تک‌تک کمک‌های شما برای ما ارزشمنده.\u003cbr/\u003e\u003cbr/\u003eدقیقاً تو همین زمان‌های سخت و بحرانیه که باید کنار هم باشیم و بدون هیچ چشم‌داشتی به همدیگه کمک کنیم تا از این شرایط عبور کنیم. (البته بماند که در این میون، کانفیگ‌های میلیونی هم به پست ما خورد که خب... بگذریم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9884.png\u0026#39;)\"\u003e\u003cb\u003e😄\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e\u003cbr/\u003eامیدوارم دیگه در هیچ زمانی دچار مشکلاتی شبیه به این نشیم و روزهای بدون محدودیتی رو پیش رو داشته باشیم.\u003cbr/\u003e\u003cbr/\u003eدم همتون گرم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8C.png\u0026#39;)\"\u003e\u003cb\u003e✌️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-09T11:52:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2747,
-      "message": ".\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eیکی از کاربران کانال دیدگاه متفاوتی درباره پست بالا که منتشر کردیم داشته که خواندنش خالی از لطف نیست:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eسلام\u003cbr/\u003eیه موضوعی خواستم راجب پیام اخر کانال بگم\u003cbr/\u003eمن خودم همیشه با مشتری هام روراستم و اصلا از این روش های کلاه گذاشتن سر مشتری استفاده نمیکنم\u003cbr/\u003eولی ضریب گذاشتن فقط برای دزدی و کلاهبرداری نیست \u003cbr/\u003eبشخصه خودم نیاز به این قابلیت رو ثنایی نیاز دارم چرا که دو یا سه تا نود دارم که یکیش تانله و دوتای دیگه مستقیم\u003cbr/\u003eو روی روش های مستقیم می خوام که ضریب نیم یا حتی ۰.۳ بزارم که مشتری اگر خواست روش مستقیم استفاده کنه حجم کمتر براش محاسبه بشه \u003cbr/\u003eو با اطلاع روی اسم کانفیگ که مثلا این کانفیگ ضریبش یک هست و این یکی ۱.۵ و این یکی مثلا ۰.۳ هست \u003cbr/\u003eپس ضریب گذاشتن همیشه برای دزدی نیست \u003cbr/\u003eاگر درست ازش استفاده بشه به نفع مشتری هست.\u003c/blockquote\u003e",
-      "date": "2026-07-09T14:33:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2748,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e مسدود شدن ناگهانی پنل‌های رایگان روی کلادفلر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگزارش‌های متعددی از کاربران دریافت کرده‌ایم مبنی بر اینکه پنل‌های رایگان (مانند نووا و BPB) به‌طور ناگهانی بن شدن.\u003cbr/\u003e\u003cbr/\u003eسر اینکه چرا این اتفاق افتاده دو تا بحث هست؛ یه عده میگن خیلیا از قصد رفتن این پنل‌ها رو به کلادفلر ریپورت کردن تا بسته بشن. یه عده هم میگن نه، خود سیستم هوشمند کلادفلر تشخیص داده و بن کرده. خلاصه دلیلش هر چی که هست، تو استفاده از این ابزارها همیشه ریسک بسته شدن وجود داره.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eیه توصیه خیلی مهم:\u003c/b\u003e بچه‌ها، واسه ساخت و راه‌اندازی این پنل‌ها اصلاً و ابداً از اکانت و ایمیل اصلی خودتون استفاده نکنید! همیشه یه حساب فرعی بسازید و با اون کارتون رو راه بندازید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید پنل نووا (Nova):\u003c/b\u003e توسعه‌دهنده پروژه نووا خبر داده که کدهای این پنل رو دوباره بازنویسی کرده و تو آپدیت جدید، مشکل ارورهای مختلف (مثل همون ارور رو اعصاب 1101) کلاً برطرف شده.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-07-09T16:32:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,24 +43,30 @@
       ]
     },
     {
-      "id": 2749,
-      "message": "",
-      "date": "2026-07-09T17:18:32Z",
+      "id": 2743,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e نسخه 0.11.0 مسنجر سانگبرد منتشر شد\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبا این اسکریپت میتونید در سرور خودتون یک مسنجر شخصی بالا بیارید و با دوستان خودتون چت کنید.\u003cbr/\u003e\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e پنل ادمین با مدیریت کامل یوزر ها و چت ها\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e رول owner برای بالاترین سطح دسترسی\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A94.png\u0026#39;)\"\u003e\u003cb\u003e⚔️\u003c/b\u003e\u003c/i\u003e رول admin برای دسترسی محدود به پنل ادمین\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e دسترسی به تنطیمات برنامه از طریق پنل ادمین\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e بخش لاگ برای مانیتور از چند منبع مختلف\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e ساخت یا ادیت یوزر از طریق پنل ادمین \u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e پاک کردن کل پیام ها یا ریست کامل دیتابیس از طریق پنل ادمین\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9396.png\u0026#39;)\"\u003e\u003cb\u003e📖\u003c/b\u003e\u003c/i\u003e وبسایت ویکی سانگبرد در \u003ca href=\"http://docs.songbird.website/\" target=\"_blank\" rel=\"noopener\"\u003edocs.songbird.website\u003c/a\u003e\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9591.png\u0026#39;)\"\u003e\u003cb\u003e🕑\u003c/b\u003e\u003c/i\u003e نشان دادن آخرین بازدید کاربران\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e انتخاب Songbird به عنوان سورس Remote channel \u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A8.png\u0026#39;)\"\u003e\u003cb\u003e💨\u003c/b\u003e\u003c/i\u003e بهبود عملکرد قابلیت Remote channel\u003cbr/\u003e- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e رفع باگ های گزارش شده\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/bllackbull/Songbird\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e اطلاعات بیشتر در گیت‌هاب پروژه\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-08T16:49:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+        }
+      ]
     },
     {
-      "id": 2751,
-      "message": "فقط بعضی افراد میدونن این چیه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988A.png\u0026#39;)\"\u003e\u003cb\u003e😊\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-10T15:55:54Z",
+      "id": 2744,
+      "message": ".\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e ببینید، اینکه بیایم مصرف کاربر رو چند برابر حساب کنیم (مثلاً طرف ۱ گیگ مصرف کرده ولی ۲ گیگ از حجمش کم کنیم)، اسمش زرنگی نیست، رسماً دزدی و کم‌فروشی تو روز روشنه! اینجور کارا فقط گند می‌زنه به اعتماد مردم و باعث میشه مشتری به بقیه فروشنده‌هایی که دارن سالم کار می‌کنن هم به چشم دزد نگاه کنه.\u003cbr/\u003e\u003cbr/\u003eاگه خرج سرور و هزینه‌ها بالا رفته، خیلی روراست قیمت‌ها رو ببرید بالا. مشتری ترجیح میده گرون‌تر بخره ولی بدونه دقیقاً داره بابت چی پول میده، تا اینکه یواشکی از حجمش دزدیده بشه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e\u003cb\u003e@iaghapour\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-08T17:09:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 16400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,24 +79,36 @@
       ]
     },
     {
-      "id": 2752,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e نوا کلاینت (Nova Client) منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاز همین حالا می‌تونید کلاینت بهینه‌شده، و قدرتمند پروکسی رو با رابط کاربری اختصاصی «نوا» روی تمام دستگاه‌هاتون نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبرخی از قابلیت‌های کلیدی:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eظاهر مدرن و Dark-first:\u003c/b\u003e طراحی چشم‌نواز با زبان بصری نوا و گرادیان‌های نئونی اختصاصی.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرادار نوا (Nova Radar):\u003c/b\u003e اسکنر فوق‌پیشرفته و یکپارچه برای پیدا کردن سریع آی‌پی‌های تمیز کلاودفلر.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی کامل از زبان‌ها:\u003c/b\u003e سازگاری بی‌نقص با زبان‌های فارسی و انگلیسی به‌صورت کاملاً راست‌چین (RTL).\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت هوشمند:\u003c/b\u003e دسترسی به داشبورد زنده، روتینگ، مدیریت پروفایل‌ها و سابسکریپشن‌ها.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقدرت‌گرفته از Flutter:\u003c/b\u003e فوق‌العاده سریع، سبک و هماهنگ روی تمام پلتفرم‌ها (Multi-platform).\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e لینک‌های دانلود (نسخه v1.0.0-beta):\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e macOS (Apple Silicon)\u003c/b\u003e:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/Nova-macOS-arm64.dmg\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eNova-macOS-arm64.dmg\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA9F.png\u0026#39;)\"\u003e\u003cb\u003e🪟\u003c/b\u003e\u003c/i\u003e Windows\u003c/b\u003e:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/Nova-Windows.zip\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eNova-Windows.zip\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e Android\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e \u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/nova-client.apk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003enova-client.apk\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D8E.png\u0026#39;)\"\u003e\u003cb\u003e🍎\u003c/b\u003e\u003c/i\u003e iOS / iPadOS\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e \u003ca href=\"https://testflight.apple.com/join/bxfK3MyF\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eTestFlight\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://novaproxy.online/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e وبسایت رسمی\u003c/b\u003e \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/IRNova/Nova-Client\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e گیت‌هاب پروژه\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنکته مهم برای macOS:\u003c/b\u003e اگر سیستم بلاک کرد، این دستور رو در ترمینال اجرا کنید: \u003cbr/\u003e\u003cblockquote\u003exattr -dr com.apple.quarantine /Applications/\u003ca href=\"http://Nova.app/\" target=\"_blank\" rel=\"noopener\"\u003eNova.app\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👈🏻\u003c/b\u003e\u003c/i\u003e نکته: Nova Client در واقع یک فورک بهینه‌شده از Karing هست که کاملاً با طراحی Nova Proxy هماهنگ شده و رادار قدرتمندش هم داخلش ادغام شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-07-10T17:34:58Z",
+      "id": 2746,
+      "message": "\u003cb\u003eیک تشکر ویژه از همراهان همیشگی\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CBA.png\u0026#39;)\"\u003e\u003cb\u003e🌺\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدوست داشتم از این فرصت استفاده کنم و از تمام کسانی که تو این مدت اخیر که درگیر محدودیت‌های شدید اینترنت بودیم، به هر شکلی پشت ما ایستادند و کمک کردند، از صمیم قلب تشکر کنم. حمایت‌های شما باعث شد تا تیم ما بتونه هر کاری که از دستش برمیاد رو در این رابطه انجام بده.\u003cbr/\u003e\u003cbr/\u003eاز دوستانی که کانفیگ‌ در اختیار ما قرار دادن، تا عزیزانی که اکانت سایت‌های مختلف از سرویس‌های هاستینگ گرفته تا ابزارهای هوش مصنوعی و... رو به دست ما رسوندن تا کارها لنگ نمونه؛ واقعاً ازتون ممنونم.\u003cbr/\u003e\u003cbr/\u003eو یک تشکر ویژه از دوستانی که با کامنت‌هاشون و دفاع از کار ما در گروه‌ها، سنگ تمام گذاشتند و بزرگ‌ترین حمایت رو از ما کردند.\u003cbr/\u003e\u003cbr/\u003eخیلی دلم می‌خواست اسم تک‌تک شما عزیزان رو اینجا بیارم و شخصاً قدردانی کنم، اما به دلایل مشخص و برای اینکه برای خودتون بهتر و امن‌تره، از این کار صرف‌نظر می‌کنم. ولی بدونید که تک‌تک کمک‌های شما برای ما ارزشمنده.\u003cbr/\u003e\u003cbr/\u003eدقیقاً تو همین زمان‌های سخت و بحرانیه که باید کنار هم باشیم و بدون هیچ چشم‌داشتی به همدیگه کمک کنیم تا از این شرایط عبور کنیم. (البته بماند که در این میون، کانفیگ‌های میلیونی هم به پست ما خورد که خب... بگذریم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9884.png\u0026#39;)\"\u003e\u003cb\u003e😄\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e\u003cbr/\u003eامیدوارم دیگه در هیچ زمانی دچار مشکلاتی شبیه به این نشیم و روزهای بدون محدودیتی رو پیش رو داشته باشیم.\u003cbr/\u003e\u003cbr/\u003eدم همتون گرم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8C.png\u0026#39;)\"\u003e\u003cb\u003e✌️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-09T11:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "iAghapour | Digital Freedom 🎯"
     },
     {
-      "id": 2754,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e قهرمان گمنام دنیای ویدیو؛ چرا VLC هیچ‌وقت پولی و تبلیغاتی نشد؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبیشتر از ۲۰ ساله که پلیر محبوب VLC هر فرمت و فایلی که بهش دادیم رو بدون حتی یک ثانیه تبلیغ پخش کرده! دلیل این اتفاق شگفت‌انگیز، شخصی است به نام Jean-Baptiste Kempf که از سال ۲۰۰۳ به این پروژه پیوست.\u003cbr/\u003e\u003cbr/\u003eبا وجود اینکه VLC تا حالا بیشتر از 10 میلیارد بار دانلود شده، او پیشنهادهای تبلیغاتی چند میلیون یورویی رو قاطعانه رد کرد تا این برنامه برای همیشه کاملاً رایگان و بدون تبلیغ باقی بمونه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاما شاهکار این افراد فقط به ساخت نرم‌افزار VLC ختم نمیشه! در واقع، تقریباً هر جایی از اینترنت که ما در حال تماشای ویدیو هستیم، روی پایه تکنولوژی همین تیم استوار شده است.\u003cbr/\u003e\u003cbr/\u003eانکودر معروف \u003cb\u003ex264\u003c/b\u003e که سال‌ها استاندارد اصلی پخش ویدیو در وب بوده و همچنین دیکودر \u003cb\u003edav1d\u003c/b\u003e برای فرمت جدید و بهینه‌ی **AV1**، دقیقاً دست‌پخت همین تیم و جامعه متن‌باز (Open-Source) است. غول‌های فناوری مثل یوتیوب، نتفلیکس و تمام مرورگرهای مدرنی که امروز استفاده می‌کنیم، همگی در حال استفاده از همین تکنولوژی‌ها هستند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©️\u003c/b\u003e\u003c/i\u003ebehrad javed\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-07-10T21:33:35Z",
+      "id": 2747,
+      "message": ".\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eیکی از کاربران کانال دیدگاه متفاوتی درباره پست بالا که منتشر کردیم داشته که خواندنش خالی از لطف نیست:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eسلام\u003cbr/\u003eیه موضوعی خواستم راجب پیام اخر کانال بگم\u003cbr/\u003eمن خودم همیشه با مشتری هام روراستم و اصلا از این روش های کلاه گذاشتن سر مشتری استفاده نمیکنم\u003cbr/\u003eولی ضریب گذاشتن فقط برای دزدی و کلاهبرداری نیست \u003cbr/\u003eبشخصه خودم نیاز به این قابلیت رو ثنایی نیاز دارم چرا که دو یا سه تا نود دارم که یکیش تانله و دوتای دیگه مستقیم\u003cbr/\u003eو روی روش های مستقیم می خوام که ضریب نیم یا حتی ۰.۳ بزارم که مشتری اگر خواست روش مستقیم استفاده کنه حجم کمتر براش محاسبه بشه \u003cbr/\u003eو با اطلاع روی اسم کانفیگ که مثلا این کانفیگ ضریبش یک هست و این یکی ۱.۵ و این یکی مثلا ۰.۳ هست \u003cbr/\u003eپس ضریب گذاشتن همیشه برای دزدی نیست \u003cbr/\u003eاگر درست ازش استفاده بشه به نفع مشتری هست.\u003c/blockquote\u003e",
+      "date": "2026-07-09T14:33:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2748,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e مسدود شدن ناگهانی پنل‌های رایگان روی کلادفلر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگزارش‌های متعددی از کاربران دریافت کرده‌ایم مبنی بر اینکه پنل‌های رایگان (مانند نووا و BPB) به‌طور ناگهانی بن شدن.\u003cbr/\u003e\u003cbr/\u003eسر اینکه چرا این اتفاق افتاده دو تا بحث هست؛ یه عده میگن خیلیا از قصد رفتن این پنل‌ها رو به کلادفلر ریپورت کردن تا بسته بشن. یه عده هم میگن نه، خود سیستم هوشمند کلادفلر تشخیص داده و بن کرده. خلاصه دلیلش هر چی که هست، تو استفاده از این ابزارها همیشه ریسک بسته شدن وجود داره.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eیه توصیه خیلی مهم:\u003c/b\u003e بچه‌ها، واسه ساخت و راه‌اندازی این پنل‌ها اصلاً و ابداً از اکانت و ایمیل اصلی خودتون استفاده نکنید! همیشه یه حساب فرعی بسازید و با اون کارتون رو راه بندازید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید پنل نووا (Nova):\u003c/b\u003e توسعه‌دهنده پروژه نووا خبر داده که کدهای این پنل رو دوباره بازنویسی کرده و تو آپدیت جدید، مشکل ارورهای مختلف (مثل همون ارور رو اعصاب 1101) کلاً برطرف شده.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-09T16:32:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,12 +121,72 @@
       ]
     },
     {
+      "id": 2749,
+      "message": "",
+      "date": "2026-07-09T17:18:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2751,
+      "message": "فقط بعضی افراد میدونن این چیه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988A.png\u0026#39;)\"\u003e\u003cb\u003e😊\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-10T15:55:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2752,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e نوا کلاینت (Nova Client) منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاز همین حالا می‌تونید کلاینت بهینه‌شده، و قدرتمند پروکسی رو با رابط کاربری اختصاصی «نوا» روی تمام دستگاه‌هاتون نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبرخی از قابلیت‌های کلیدی:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eظاهر مدرن و Dark-first:\u003c/b\u003e طراحی چشم‌نواز با زبان بصری نوا و گرادیان‌های نئونی اختصاصی.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرادار نوا (Nova Radar):\u003c/b\u003e اسکنر فوق‌پیشرفته و یکپارچه برای پیدا کردن سریع آی‌پی‌های تمیز کلاودفلر.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی کامل از زبان‌ها:\u003c/b\u003e سازگاری بی‌نقص با زبان‌های فارسی و انگلیسی به‌صورت کاملاً راست‌چین (RTL).\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت هوشمند:\u003c/b\u003e دسترسی به داشبورد زنده، روتینگ، مدیریت پروفایل‌ها و سابسکریپشن‌ها.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقدرت‌گرفته از Flutter:\u003c/b\u003e فوق‌العاده سریع، سبک و هماهنگ روی تمام پلتفرم‌ها (Multi-platform).\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e لینک‌های دانلود (نسخه v1.0.0-beta):\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e macOS (Apple Silicon)\u003c/b\u003e:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/Nova-macOS-arm64.dmg\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eNova-macOS-arm64.dmg\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA9F.png\u0026#39;)\"\u003e\u003cb\u003e🪟\u003c/b\u003e\u003c/i\u003e Windows\u003c/b\u003e:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/Nova-Windows.zip\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eNova-Windows.zip\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e Android\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e \u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/nova-client.apk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003enova-client.apk\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D8E.png\u0026#39;)\"\u003e\u003cb\u003e🍎\u003c/b\u003e\u003c/i\u003e iOS / iPadOS\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e \u003ca href=\"https://testflight.apple.com/join/bxfK3MyF\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eTestFlight\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://novaproxy.online/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e وبسایت رسمی\u003c/b\u003e \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/IRNova/Nova-Client\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e گیت‌هاب پروژه\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنکته مهم برای macOS:\u003c/b\u003e اگر سیستم بلاک کرد، این دستور رو در ترمینال اجرا کنید: \u003cbr/\u003e\u003cblockquote\u003exattr -dr com.apple.quarantine /Applications/\u003ca href=\"http://Nova.app/\" target=\"_blank\" rel=\"noopener\"\u003eNova.app\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👈🏻\u003c/b\u003e\u003c/i\u003e نکته: Nova Client در واقع یک فورک بهینه‌شده از Karing هست که کاملاً با طراحی Nova Proxy هماهنگ شده و رادار قدرتمندش هم داخلش ادغام شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-07-10T17:34:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2754,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e قهرمان گمنام دنیای ویدیو؛ چرا VLC هیچ‌وقت پولی و تبلیغاتی نشد؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبیشتر از ۲۰ ساله که پلیر محبوب VLC هر فرمت و فایلی که بهش دادیم رو بدون حتی یک ثانیه تبلیغ پخش کرده! دلیل این اتفاق شگفت‌انگیز، شخصی است به نام Jean-Baptiste Kempf که از سال ۲۰۰۳ به این پروژه پیوست.\u003cbr/\u003e\u003cbr/\u003eبا وجود اینکه VLC تا حالا بیشتر از 10 میلیارد بار دانلود شده، او پیشنهادهای تبلیغاتی چند میلیون یورویی رو قاطعانه رد کرد تا این برنامه برای همیشه کاملاً رایگان و بدون تبلیغ باقی بمونه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاما شاهکار این افراد فقط به ساخت نرم‌افزار VLC ختم نمیشه! در واقع، تقریباً هر جایی از اینترنت که ما در حال تماشای ویدیو هستیم، روی پایه تکنولوژی همین تیم استوار شده است.\u003cbr/\u003e\u003cbr/\u003eانکودر معروف \u003cb\u003ex264\u003c/b\u003e که سال‌ها استاندارد اصلی پخش ویدیو در وب بوده و همچنین دیکودر \u003cb\u003edav1d\u003c/b\u003e برای فرمت جدید و بهینه‌ی **AV1**، دقیقاً دست‌پخت همین تیم و جامعه متن‌باز (Open-Source) است. غول‌های فناوری مثل یوتیوب، نتفلیکس و تمام مرورگرهای مدرنی که امروز استفاده می‌کنیم، همگی در حال استفاده از همین تکنولوژی‌ها هستند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©️\u003c/b\u003e\u003c/i\u003ebehrad javed\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-10T21:33:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+        }
+      ]
+    },
+    {
       "id": 2755,
       "message": "",
       "date": "2026-07-10T21:59:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 13100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +198,7 @@
       "date": "2026-07-11T12:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +216,7 @@
       "date": "2026-07-11T17:31:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9380,
+      "views": 9950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +228,7 @@
       "date": "2026-07-11T18:03:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8780,
+      "views": 9590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +240,7 @@
       "date": "2026-07-11T18:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8130,
+      "views": 9260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +248,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
         }
       ]
     },
@@ -306,11 +258,53 @@
       "date": "2026-07-12T16:42:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2190,
+      "views": 5050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2761,
+      "message": "سلام بچه‌ها. یه مدتیه دوست دارم واسه تشکر از اینکه هم تو یوتیوب هم تلگرام کنار ما هستید، ماهی چند بار یه هدیه کوچیک بهتون بدم. \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003eبه نظرتون چی باشه بهتره؟ \u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاکانت هوش مصنوعی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eکانفیگ فیلترشکن\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eپول به صورت کریپتو؟\u003cbr/\u003e\u003cbr/\u003eالبته این وسط دوباره درگیری‌ها زیاد شده و فقط امیدوارم باز قطعی اینترنت شروع نشه که تمام انرژی و وقتمون رو بگیره :(",
+      "date": "2026-07-12T18:13:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2029,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2762,
+      "message": "",
+      "date": "2026-07-12T18:14:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2763,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e سرور مجازی ایران | پارس آپتایم\u003cbr/\u003e\u003cbr/\u003eمیزبانی روی دیتاسنتر برج میلاد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e سرعت و پایداری واقعی!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دسترسی به اینترنت بین الملل! \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پهنای باند ۱۰ گیگابیت\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تحویل فوری و آنی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e پنل مدیریت سرور\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e آپلود رایگان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ترافیک مازاد دانلود \u003cb\u003eهر ترابایت 500ت\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان تعویض آی‌پی \u003cb\u003e (250ت)\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بیش از ۱۵ سال تجربه در میزبانی\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-linux-vps/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسرور مجازی لینوکس ایران:\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-linux-vps/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parsuptime.com/vps/iran-vps/iran-linux-vps/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-windows-vps/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسرور مجازی ویندوز ایران:\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-windows-vps/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parsuptime.com/vps/iran-vps/iran-windows-vps/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-mikrotik-vps/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسرور مجازی میکروتیک ایران:\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-mikrotik-vps/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parsuptime.com/vps/iran-vps/iran-mikrotik-vps/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://parsuptime.com/\" target=\"_blank\" rel=\"noopener\"\u003eparsuptime.com\u003c/a\u003e | پشتیبانی ۲۴ ساعته",
+      "date": "2026-07-12T18:28:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 261,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
