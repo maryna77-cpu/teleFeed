@@ -24,7 +24,7 @@
       "date": "2026-07-10T15:55:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -32,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "date": "2026-07-11T12:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "date": "2026-07-12T18:13:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +162,7 @@
       "date": "2026-07-13T12:37:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +182,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
         }
       ]
     },
@@ -192,7 +192,7 @@
       "date": "2026-07-14T09:43:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
     },
@@ -236,7 +236,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
         }
       ]
     },
@@ -246,43 +246,7 @@
       "date": "2026-07-15T12:04:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2772,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eانتقال بی‌دردسر پنل 3x-ui بین سرورها با پروژه 3xui-mover\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگه تا حالا مجبور شدید پنل 3x-ui رو به یه سرور جدید منتقل کنید، حتماً می‌دونید که روش‌های سنتی (مثل کپی کردن پوشه‌های x-ui و cert) همیشه جواب نمیده؛ مخصوصاً اگه دیتابیس شما روی حالت PostgreSQL باشه، پنل تو سرور جدید بالا میاد ولی کاملاً خالیه! \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eویژگی‌های اصلی این ابزار:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e پشتیبانی PostgreSQL و SQLite\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e بکاپ دیتابیس، تنظیمات و SSL\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e انتقال خودکار با SSH\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e جلوگیری از ریستور اشتباه\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e بررسی صحت انتقال و لاگ کامل \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/alionthecode/xui-mover\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-15T17:26:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2773,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cb\u003e دور زدن رایگان فیلترینگ در ویندوز\u003c/b\u003e با \u003cb\u003eUAC SNI Spoofer\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاگه دنبال یه ابزار بی‌دردسر و قوی واسه ویندوز هستید، این برنامه که با هسته Xray و متد SNI Spoofing کار می‌کنه یه گزینه فوق‌العاده‌ست. این ابزار با مدیریت هوشمند مسیرها، بهترین و پایدارترین اتصال رو براتون ردیف می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقابلیت‌های کلیدی برنامه:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e دارای حالت‌های اختصاصی همراه اول، ایرانسل و حالت هوشمند Auto.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e تست و رتبه‌بندی خودکار SNIها و Edgeها برای پیدا کردن سریع‌ترین مسیر ارتباطی.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e مجهز به سیستم شروع سریع TLS برای همراه اول و قابلیت «گرم‌سازی مسیر یوتیوب» برای پخش بدون بافر ویدیوها.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e تنظیم خودکار پروکسی سیستم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e با قابلیت App Bypass (عبور برنامه‌های دلخواه از پروکسی) و نمایش لاگ زنده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eبرای کارهای حساس استفاده نکنید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e دانلود از گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-15T17:45:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6690,
+      "views": 9830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,12 +259,12 @@
       ]
     },
     {
-      "id": 2774,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4994513465885328223\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفروش ویژه اشتراک‌های هوش مصنوعی \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4956721670690702265\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفعال‌سازی سریع و مطمئن انواع اشتراک‌های پریمیوم:\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5310259124817134249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e ChatGPT Plus\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5321197740800120767\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Gemini AI Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5319288443153445517\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Super Grok\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6273793612715138423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B5.png\u0026#39;)\"\u003e\u003cb\u003e😵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Cursor Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6174520215376763867\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B6.png\u0026#39;)\"\u003e\u003cb\u003e🤶\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Claude Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5082478549340783285\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BB.png\u0026#39;)\"\u003e\u003cb\u003e👻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Kiro Ai Pro \u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6136464120779638846\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Telegram Premium \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eاکانت اختصاصی Gemini AI Pro یک‌ساله فقط: ۹۴۵ هزار تومان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5978692865142822115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اکانت اختصاصی ChatGPT همراه با ضمانت\u003c/b\u003e کامل\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5382194935057372936\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB1.png\u0026#39;)\"\u003e\u003cb\u003e⏱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال‌سازی سریع\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6026057596979385040\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همراه با ضمانت و پشتیبانی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5269501182258205420\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت خرید همین الان ربات مارو استارت کن و خریدت را انجام بده.\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6269136309093143551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/SubMarketAi_bot\" target=\"_blank\"\u003e@SubMarketAi_bot\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5413677723941884214\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Channel:\u003c/b\u003e\u003ca href=\"https://t.me/SubMarket_IR\" target=\"_blank\"\u003e@SubMarket_IR\u003c/a\u003e",
-      "date": "2026-07-15T17:55:03Z",
+      "id": 2772,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eانتقال بی‌دردسر پنل 3x-ui بین سرورها با پروژه 3xui-mover\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگه تا حالا مجبور شدید پنل 3x-ui رو به یه سرور جدید منتقل کنید، حتماً می‌دونید که روش‌های سنتی (مثل کپی کردن پوشه‌های x-ui و cert) همیشه جواب نمیده؛ مخصوصاً اگه دیتابیس شما روی حالت PostgreSQL باشه، پنل تو سرور جدید بالا میاد ولی کاملاً خالیه! \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eویژگی‌های اصلی این ابزار:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e پشتیبانی PostgreSQL و SQLite\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e بکاپ دیتابیس، تنظیمات و SSL\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e انتقال خودکار با SSH\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e جلوگیری از ریستور اشتباه\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e بررسی صحت انتقال و لاگ کامل \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/alionthecode/xui-mover\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-15T17:26:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 7260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,6 +273,42 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2773,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cb\u003e دور زدن رایگان فیلترینگ در ویندوز\u003c/b\u003e با \u003cb\u003eUAC SNI Spoofer\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاگه دنبال یه ابزار بی‌دردسر و قوی واسه ویندوز هستید، این برنامه که با هسته Xray و متد SNI Spoofing کار می‌کنه یه گزینه فوق‌العاده‌ست. این ابزار با مدیریت هوشمند مسیرها، بهترین و پایدارترین اتصال رو براتون ردیف می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقابلیت‌های کلیدی برنامه:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e دارای حالت‌های اختصاصی همراه اول، ایرانسل و حالت هوشمند Auto.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e تست و رتبه‌بندی خودکار SNIها و Edgeها برای پیدا کردن سریع‌ترین مسیر ارتباطی.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e مجهز به سیستم شروع سریع TLS برای همراه اول و قابلیت «گرم‌سازی مسیر یوتیوب» برای پخش بدون بافر ویدیوها.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e تنظیم خودکار پروکسی سیستم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e با قابلیت App Bypass (عبور برنامه‌های دلخواه از پروکسی) و نمایش لاگ زنده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eبرای کارهای حساس استفاده نکنید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e دانلود از گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-15T17:45:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2774,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4994513465885328223\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفروش ویژه اشتراک‌های هوش مصنوعی \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4956721670690702265\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفعال‌سازی سریع و مطمئن انواع اشتراک‌های پریمیوم:\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5310259124817134249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e ChatGPT Plus\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5321197740800120767\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Gemini AI Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5319288443153445517\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Super Grok\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6273793612715138423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B5.png\u0026#39;)\"\u003e\u003cb\u003e😵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Cursor Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6174520215376763867\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B6.png\u0026#39;)\"\u003e\u003cb\u003e🤶\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Claude Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5082478549340783285\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BB.png\u0026#39;)\"\u003e\u003cb\u003e👻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Kiro Ai Pro \u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6136464120779638846\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Telegram Premium \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eاکانت اختصاصی Gemini AI Pro یک‌ساله فقط: ۹۴۵ هزار تومان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5978692865142822115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اکانت اختصاصی ChatGPT همراه با ضمانت\u003c/b\u003e کامل\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5382194935057372936\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB1.png\u0026#39;)\"\u003e\u003cb\u003e⏱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال‌سازی سریع\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6026057596979385040\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همراه با ضمانت و پشتیبانی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5269501182258205420\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت خرید همین الان ربات مارو استارت کن و خریدت را انجام بده.\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6269136309093143551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/SubMarketAi_bot\" target=\"_blank\"\u003e@SubMarketAi_bot\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5413677723941884214\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Channel:\u003c/b\u003e\u003ca href=\"https://t.me/SubMarket_IR\" target=\"_blank\"\u003e@SubMarket_IR\u003c/a\u003e",
+      "date": "2026-07-15T17:55:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
         }
       ]
     }
