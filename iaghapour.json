@@ -7,24 +7,12 @@
   },
   "posts": [
     {
-      "id": 2752,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e نوا کلاینت (Nova Client) منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاز همین حالا می‌تونید کلاینت بهینه‌شده، و قدرتمند پروکسی رو با رابط کاربری اختصاصی «نوا» روی تمام دستگاه‌هاتون نصب کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبرخی از قابلیت‌های کلیدی:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eظاهر مدرن و Dark-first:\u003c/b\u003e طراحی چشم‌نواز با زبان بصری نوا و گرادیان‌های نئونی اختصاصی.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرادار نوا (Nova Radar):\u003c/b\u003e اسکنر فوق‌پیشرفته و یکپارچه برای پیدا کردن سریع آی‌پی‌های تمیز کلاودفلر.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی کامل از زبان‌ها:\u003c/b\u003e سازگاری بی‌نقص با زبان‌های فارسی و انگلیسی به‌صورت کاملاً راست‌چین (RTL).\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت هوشمند:\u003c/b\u003e دسترسی به داشبورد زنده، روتینگ، مدیریت پروفایل‌ها و سابسکریپشن‌ها.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقدرت‌گرفته از Flutter:\u003c/b\u003e فوق‌العاده سریع، سبک و هماهنگ روی تمام پلتفرم‌ها (Multi-platform).\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e لینک‌های دانلود (نسخه v1.0.0-beta):\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e macOS (Apple Silicon)\u003c/b\u003e:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/Nova-macOS-arm64.dmg\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eNova-macOS-arm64.dmg\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA9F.png\u0026#39;)\"\u003e\u003cb\u003e🪟\u003c/b\u003e\u003c/i\u003e Windows\u003c/b\u003e:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/Nova-Windows.zip\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eNova-Windows.zip\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e Android\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e \u003ca href=\"https://github.com/IRNova/Nova-Client/releases/latest/download/nova-client.apk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003enova-client.apk\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D8E.png\u0026#39;)\"\u003e\u003cb\u003e🍎\u003c/b\u003e\u003c/i\u003e iOS / iPadOS\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e \u003ca href=\"https://testflight.apple.com/join/bxfK3MyF\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003eTestFlight\u003c/u\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://novaproxy.online/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e وبسایت رسمی\u003c/b\u003e \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://github.com/IRNova/Nova-Client\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e گیت‌هاب پروژه\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنکته مهم برای macOS:\u003c/b\u003e اگر سیستم بلاک کرد، این دستور رو در ترمینال اجرا کنید: \u003cbr/\u003e\u003cblockquote\u003exattr -dr com.apple.quarantine /Applications/\u003ca href=\"http://Nova.app/\" target=\"_blank\" rel=\"noopener\"\u003eNova.app\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👈🏻\u003c/b\u003e\u003c/i\u003e نکته: Nova Client در واقع یک فورک بهینه‌شده از Karing هست که کاملاً با طراحی Nova Proxy هماهنگ شده و رادار قدرتمندش هم داخلش ادغام شده.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-07-10T17:34:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
       "id": 2754,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e قهرمان گمنام دنیای ویدیو؛ چرا VLC هیچ‌وقت پولی و تبلیغاتی نشد؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبیشتر از ۲۰ ساله که پلیر محبوب VLC هر فرمت و فایلی که بهش دادیم رو بدون حتی یک ثانیه تبلیغ پخش کرده! دلیل این اتفاق شگفت‌انگیز، شخصی است به نام Jean-Baptiste Kempf که از سال ۲۰۰۳ به این پروژه پیوست.\u003cbr/\u003e\u003cbr/\u003eبا وجود اینکه VLC تا حالا بیشتر از 10 میلیارد بار دانلود شده، او پیشنهادهای تبلیغاتی چند میلیون یورویی رو قاطعانه رد کرد تا این برنامه برای همیشه کاملاً رایگان و بدون تبلیغ باقی بمونه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eاما شاهکار این افراد فقط به ساخت نرم‌افزار VLC ختم نمیشه! در واقع، تقریباً هر جایی از اینترنت که ما در حال تماشای ویدیو هستیم، روی پایه تکنولوژی همین تیم استوار شده است.\u003cbr/\u003e\u003cbr/\u003eانکودر معروف \u003cb\u003ex264\u003c/b\u003e که سال‌ها استاندارد اصلی پخش ویدیو در وب بوده و همچنین دیکودر \u003cb\u003edav1d\u003c/b\u003e برای فرمت جدید و بهینه‌ی **AV1**، دقیقاً دست‌پخت همین تیم و جامعه متن‌باز (Open-Source) است. غول‌های فناوری مثل یوتیوب، نتفلیکس و تمام مرورگرهای مدرنی که امروز استفاده می‌کنیم، همگی در حال استفاده از همین تکنولوژی‌ها هستند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©️\u003c/b\u003e\u003c/i\u003ebehrad javed\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-07-10T21:33:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19100,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -32,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
     },
@@ -42,7 +30,7 @@
       "date": "2026-07-10T21:59:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,97 +42,7 @@
       "date": "2026-07-11T12:24:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2757,
-      "message": "قشنگ 2 ساعت با خودم درگیر بودم تا بالاخره حسش بیاد بشینم پای سیستم و کارای خودم رو انجام بدم. تا اومدم استارت بزنم، برقا رفت.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدوباره این داستان قطعی برقا شروع شد. رسماً دهن سیستم و وسایل برقی خونه سرویس شد رفت!\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-11T17:31:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2758,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003eسوال یکی از کاربران:\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eمن یه سرور دارم رو همراه اول فوق‌العاده عالی کار می‌کنه اما رو ایرانسل نه. چطوری می‌تونم بفهمم مشکلم از کجاست؟\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e پاسخ و بررسی مشکل:\u003c/b\u003e\u003cbr/\u003eدلیل اصلی این اتفاق برمی‌گرده به تفاوت سیستم‌های فیلترینگ (DPI) اپراتورها. تجهیزات و محدودیت‌هایی که هر اپراتور اعمال می‌کنه با بقیه فرق داره؛ در نتیجه یه کانفیگ یا پروتکل خاص ممکنه روی همراه اول عالی باشه، اما روی ایرانسل اختلال داشته باشه یا اصلاً وصل نشه.\u003cbr/\u003e\u003cbr/\u003eبه جز این مورد، چند تا دلیل مهم دیگه هم وجود داره که باعث این مشکل می‌شه:\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eوضعیت آی‌پی سرور:\u003c/b\u003e خیلی وقت‌ها آی‌پی یه سرور روی یک اپراتور خاص شناسایی و محدود (کثیف) می‌شه، در حالی که همون آی‌پی روی اپراتور دیگه کاملاً تمیزه و عالی کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمسیریابی شبکه (Routing):\u003c/b\u003e مسیر اینترنتی که شبکه ایرانسل تا دیتاسنترِ سرور شما طی می‌کنه، ممکنه با مسیر همراه اول متفاوت باشه. گاهی شبکه یه اپراتور با یه دیتاسنتر خارجی به مشکل می‌خوره و باعث افت سرعت شدید یا پکت‌لاست می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحساسیت روی SNI و دامنه:\u003c/b\u003e الگوریتم‌های تشخیص ترافیک اپراتورها با هم متفاوته. ممکنه ایرانسل روی دامنه یا SNI خاصی که برای کانفیگ استفاده می‌کنید حساس شده باشه و ارتباط رو همون اول قطع کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآی‌پی تمیز و شبکه توزیع محتوا (CDN):\u003c/b\u003e اگه ترافیک سرورتون رو از پشت کلودفلر عبور می‌دید، احتمال خیلی زیاد اون آی‌پی تمیزی که ست کردید روی ایرانسل محدود و کند شده، ولی روی همراه اول هنوز جوابه. تو این حالت معمولاً با اسکن کردن و جایگزین کردن یه آی‌پی تمیز جدید مخصوص همون اپراتور، مشکل حل می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-07-11T18:03:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2760,
-      "message": "",
-      "date": "2026-07-12T16:42:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2761,
-      "message": "سلام بچه‌ها. یه مدتیه دوست دارم واسه تشکر از اینکه هم تو یوتیوب هم تلگرام کنار ما هستید، ماهی چند بار یه هدیه کوچیک بهتون بدم. \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003eبه نظرتون چی باشه بهتره؟ \u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاکانت هوش مصنوعی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eکانفیگ فیلترشکن\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eپول به صورت کریپتو؟\u003cbr/\u003e\u003cbr/\u003eالبته این وسط دوباره درگیری‌ها زیاد شده و فقط امیدوارم باز قطعی اینترنت شروع نشه که تمام انرژی و وقتمون رو بگیره :(",
-      "date": "2026-07-12T18:13:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2762,
-      "message": "",
-      "date": "2026-07-12T18:14:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2764,
-      "message": "متاسفانه به بیشتر از ۱۰ نقطه از کشور حمله شده که بیشترینش سهم بوشهر عزیز بوده. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9294.png\u0026#39;)\"\u003e\u003cb\u003e💔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eشاید خیلیا در نگاه اول بگن خب مناطق نظامی بوده و به مردم عادی آسیبی نرسیده، ولی واقعیت اینه که پشت پرده یه اتفاقایی می‌فته که آدم تعجب میکنه از شنیدنش!\u003cbr/\u003e\u003cbr/\u003eمثلاً امروز یکی از بچه‌ها می‌گفت توی شرایط جنگی، حتی اگه اینترنت هم قطع نشه، کلی از فروش‌های ما کنسل می‌شه؛ چون مشتری می‌ترسه و فکر می‌کنه مثلاً ما که از جنوب آنلاین‌شاپ داریم، دیگه نمی‌تونیم بار رو برسونیم تهران یا شهرهای دیگه... \u003cbr/\u003e\u003cbr/\u003eخلاصه که فقط بحث قطعی اینترنت نیست که به کسب‌وکارها ضربه می‌زنه، خود جنگ، ترس از خرید و این ریسک‌ها هم کلی به مردم آسیب می‌رسونه.\u003cbr/\u003e\u003cbr/\u003eدمتون گرم تا جایی که می‌تونید از این کسب‌وکارهای بومی حمایت کنید. قبل از اینکه نگران بشید و عقب بکشید، اول با پشتیبانیشون هماهنگ کنید؛ چون توی خیلی از همین شهرها و استان‌ها پست و تیپاکس دارن مثل قبل کارشون رو انجام می‌دن و جابه‌جایی بار بسته‌ نشده. پس با خیال راحت می‌تونید از این آنلاین‌شاپ‌ها و سایت‌هایی که توی این مناطق هستن خرید کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-07-13T12:37:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2765,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش تانل معکوس با انواع پروتکل (BackPack) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eدر این ویدیو به آموزش صفر تا صد راه‌اندازی تانل معکوس (Reverse Tunnel) بین سرور ایران و خارج می‌پردازیم. اگه به دنبال روشی هستید که ترافیک شما را شبیه به وب‌گردی عادی کند و کمترین ردپا را برای سیستم‌های محدودکننده به جا بگذارد، این آموزش دقیقاً برای شماست. \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/W31f__63PM4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D8%A7%D9%86%D9%84\"\u003e#تانل\u003c/a\u003e \u003ca href=\"?q=%23%D8%B1%DB%8C%D9%88%D8%B1%D8%B3\"\u003e#ریورس\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e",
-      "date": "2026-07-13T13:55:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,12 +55,102 @@
       ]
     },
     {
+      "id": 2757,
+      "message": "قشنگ 2 ساعت با خودم درگیر بودم تا بالاخره حسش بیاد بشینم پای سیستم و کارای خودم رو انجام بدم. تا اومدم استارت بزنم، برقا رفت.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدوباره این داستان قطعی برقا شروع شد. رسماً دهن سیستم و وسایل برقی خونه سرویس شد رفت!\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-11T17:31:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2758,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003eسوال یکی از کاربران:\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eمن یه سرور دارم رو همراه اول فوق‌العاده عالی کار می‌کنه اما رو ایرانسل نه. چطوری می‌تونم بفهمم مشکلم از کجاست؟\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e پاسخ و بررسی مشکل:\u003c/b\u003e\u003cbr/\u003eدلیل اصلی این اتفاق برمی‌گرده به تفاوت سیستم‌های فیلترینگ (DPI) اپراتورها. تجهیزات و محدودیت‌هایی که هر اپراتور اعمال می‌کنه با بقیه فرق داره؛ در نتیجه یه کانفیگ یا پروتکل خاص ممکنه روی همراه اول عالی باشه، اما روی ایرانسل اختلال داشته باشه یا اصلاً وصل نشه.\u003cbr/\u003e\u003cbr/\u003eبه جز این مورد، چند تا دلیل مهم دیگه هم وجود داره که باعث این مشکل می‌شه:\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eوضعیت آی‌پی سرور:\u003c/b\u003e خیلی وقت‌ها آی‌پی یه سرور روی یک اپراتور خاص شناسایی و محدود (کثیف) می‌شه، در حالی که همون آی‌پی روی اپراتور دیگه کاملاً تمیزه و عالی کار می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمسیریابی شبکه (Routing):\u003c/b\u003e مسیر اینترنتی که شبکه ایرانسل تا دیتاسنترِ سرور شما طی می‌کنه، ممکنه با مسیر همراه اول متفاوت باشه. گاهی شبکه یه اپراتور با یه دیتاسنتر خارجی به مشکل می‌خوره و باعث افت سرعت شدید یا پکت‌لاست می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحساسیت روی SNI و دامنه:\u003c/b\u003e الگوریتم‌های تشخیص ترافیک اپراتورها با هم متفاوته. ممکنه ایرانسل روی دامنه یا SNI خاصی که برای کانفیگ استفاده می‌کنید حساس شده باشه و ارتباط رو همون اول قطع کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآی‌پی تمیز و شبکه توزیع محتوا (CDN):\u003c/b\u003e اگه ترافیک سرورتون رو از پشت کلودفلر عبور می‌دید، احتمال خیلی زیاد اون آی‌پی تمیزی که ست کردید روی ایرانسل محدود و کند شده، ولی روی همراه اول هنوز جوابه. تو این حالت معمولاً با اسکن کردن و جایگزین کردن یه آی‌پی تمیز جدید مخصوص همون اپراتور، مشکل حل می‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-11T18:03:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2760,
+      "message": "",
+      "date": "2026-07-12T16:42:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2761,
+      "message": "سلام بچه‌ها. یه مدتیه دوست دارم واسه تشکر از اینکه هم تو یوتیوب هم تلگرام کنار ما هستید، ماهی چند بار یه هدیه کوچیک بهتون بدم. \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003eبه نظرتون چی باشه بهتره؟ \u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاکانت هوش مصنوعی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eکانفیگ فیلترشکن\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eپول به صورت کریپتو؟\u003cbr/\u003e\u003cbr/\u003eالبته این وسط دوباره درگیری‌ها زیاد شده و فقط امیدوارم باز قطعی اینترنت شروع نشه که تمام انرژی و وقتمون رو بگیره :(",
+      "date": "2026-07-12T18:13:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2762,
+      "message": "",
+      "date": "2026-07-12T18:14:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2764,
+      "message": "متاسفانه به بیشتر از ۱۰ نقطه از کشور حمله شده که بیشترینش سهم بوشهر عزیز بوده. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9294.png\u0026#39;)\"\u003e\u003cb\u003e💔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eشاید خیلیا در نگاه اول بگن خب مناطق نظامی بوده و به مردم عادی آسیبی نرسیده، ولی واقعیت اینه که پشت پرده یه اتفاقایی می‌فته که آدم تعجب میکنه از شنیدنش!\u003cbr/\u003e\u003cbr/\u003eمثلاً امروز یکی از بچه‌ها می‌گفت توی شرایط جنگی، حتی اگه اینترنت هم قطع نشه، کلی از فروش‌های ما کنسل می‌شه؛ چون مشتری می‌ترسه و فکر می‌کنه مثلاً ما که از جنوب آنلاین‌شاپ داریم، دیگه نمی‌تونیم بار رو برسونیم تهران یا شهرهای دیگه... \u003cbr/\u003e\u003cbr/\u003eخلاصه که فقط بحث قطعی اینترنت نیست که به کسب‌وکارها ضربه می‌زنه، خود جنگ، ترس از خرید و این ریسک‌ها هم کلی به مردم آسیب می‌رسونه.\u003cbr/\u003e\u003cbr/\u003eدمتون گرم تا جایی که می‌تونید از این کسب‌وکارهای بومی حمایت کنید. قبل از اینکه نگران بشید و عقب بکشید، اول با پشتیبانیشون هماهنگ کنید؛ چون توی خیلی از همین شهرها و استان‌ها پست و تیپاکس دارن مثل قبل کارشون رو انجام می‌دن و جابه‌جایی بار بسته‌ نشده. پس با خیال راحت می‌تونید از این آنلاین‌شاپ‌ها و سایت‌هایی که توی این مناطق هستن خرید کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-13T12:37:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2765,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش تانل معکوس با انواع پروتکل (BackPack) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eدر این ویدیو به آموزش صفر تا صد راه‌اندازی تانل معکوس (Reverse Tunnel) بین سرور ایران و خارج می‌پردازیم. اگه به دنبال روشی هستید که ترافیک شما را شبیه به وب‌گردی عادی کند و کمترین ردپا را برای سیستم‌های محدودکننده به جا بگذارد، این آموزش دقیقاً برای شماست. \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/W31f__63PM4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D8%A7%D9%86%D9%84\"\u003e#تانل\u003c/a\u003e \u003ca href=\"?q=%23%D8%B1%DB%8C%D9%88%D8%B1%D8%B3\"\u003e#ریورس\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iaghapour\" target=\"_blank\"\u003e@iaghapour\u003c/a\u003e",
+      "date": "2026-07-13T13:55:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+        }
+      ]
+    },
+    {
       "id": 2767,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e بعضی از بچه‌ها خبر دادن مثل اینکه کج‌دار و مریز \u003cb\u003eIPv6\u003c/b\u003e روی یه سری از اپراتورها فعال شده. البته هنوز دقیق مشخص نیست که این داستان موقتی و بخاطر اختلالات شبکه‌ست، یا اینکه واقعاً خبریه و دارن یه کارهایی انجام می‌دن. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eاز اون طرف هم عده‌ ای از دوستان از جنوب کشور پیام دادن و گفتن که اوضاع اینترنتشون خوب نیست و قطعی و اختلال شدیدی رو دارن تجربه می‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-07-14T09:43:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +168,7 @@
       "date": "2026-07-14T15:57:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +176,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
         }
       ]
     },
@@ -198,7 +186,7 @@
       "date": "2026-07-14T17:54:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
+      "views": 12300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +194,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
         }
       ]
     },
@@ -216,7 +204,7 @@
       "date": "2026-07-15T12:04:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +222,43 @@
       "date": "2026-07-15T17:26:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8390,
+      "views": 9100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2773,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cb\u003e دور زدن رایگان فیلترینگ در ویندوز\u003c/b\u003e با \u003cb\u003eUAC SNI Spoofer\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاگه دنبال یه ابزار بی‌دردسر و قوی واسه ویندوز هستید، این برنامه که با هسته Xray و متد SNI Spoofing کار می‌کنه یه گزینه فوق‌العاده‌ست. این ابزار با مدیریت هوشمند مسیرها، بهترین و پایدارترین اتصال رو براتون ردیف می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقابلیت‌های کلیدی برنامه:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e دارای حالت‌های اختصاصی همراه اول، ایرانسل و حالت هوشمند Auto.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e تست و رتبه‌بندی خودکار SNIها و Edgeها برای پیدا کردن سریع‌ترین مسیر ارتباطی.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e مجهز به سیستم شروع سریع TLS برای همراه اول و قابلیت «گرم‌سازی مسیر یوتیوب» برای پخش بدون بافر ویدیوها.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e تنظیم خودکار پروکسی سیستم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e با قابلیت App Bypass (عبور برنامه‌های دلخواه از پروکسی) و نمایش لاگ زنده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eبرای کارهای حساس استفاده نکنید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e دانلود از گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-15T17:45:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2774,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4994513465885328223\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفروش ویژه اشتراک‌های هوش مصنوعی \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4956721670690702265\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفعال‌سازی سریع و مطمئن انواع اشتراک‌های پریمیوم:\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5310259124817134249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e ChatGPT Plus\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5321197740800120767\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Gemini AI Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5319288443153445517\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Super Grok\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6273793612715138423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B5.png\u0026#39;)\"\u003e\u003cb\u003e😵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Cursor Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6174520215376763867\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B6.png\u0026#39;)\"\u003e\u003cb\u003e🤶\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Claude Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5082478549340783285\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BB.png\u0026#39;)\"\u003e\u003cb\u003e👻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Kiro Ai Pro \u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6136464120779638846\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Telegram Premium \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eاکانت اختصاصی Gemini AI Pro یک‌ساله فقط: ۹۴۵ هزار تومان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5978692865142822115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اکانت اختصاصی ChatGPT همراه با ضمانت\u003c/b\u003e کامل\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5382194935057372936\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB1.png\u0026#39;)\"\u003e\u003cb\u003e⏱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال‌سازی سریع\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6026057596979385040\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همراه با ضمانت و پشتیبانی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5269501182258205420\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت خرید همین الان ربات مارو استارت کن و خریدت را انجام بده.\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6269136309093143551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/SubMarketAi_bot\" target=\"_blank\"\u003e@SubMarketAi_bot\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5413677723941884214\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Channel:\u003c/b\u003e\u003ca href=\"https://t.me/SubMarket_IR\" target=\"_blank\"\u003e@SubMarket_IR\u003c/a\u003e",
+      "date": "2026-07-15T17:55:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,48 +271,12 @@
       ]
     },
     {
-      "id": 2773,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cb\u003e دور زدن رایگان فیلترینگ در ویندوز\u003c/b\u003e با \u003cb\u003eUAC SNI Spoofer\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاگه دنبال یه ابزار بی‌دردسر و قوی واسه ویندوز هستید، این برنامه که با هسته Xray و متد SNI Spoofing کار می‌کنه یه گزینه فوق‌العاده‌ست. این ابزار با مدیریت هوشمند مسیرها، بهترین و پایدارترین اتصال رو براتون ردیف می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقابلیت‌های کلیدی برنامه:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e دارای حالت‌های اختصاصی همراه اول، ایرانسل و حالت هوشمند Auto.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e تست و رتبه‌بندی خودکار SNIها و Edgeها برای پیدا کردن سریع‌ترین مسیر ارتباطی.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e مجهز به سیستم شروع سریع TLS برای همراه اول و قابلیت «گرم‌سازی مسیر یوتیوب» برای پخش بدون بافر ویدیوها.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e تنظیم خودکار پروکسی سیستم\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e با قابلیت App Bypass (عبور برنامه‌های دلخواه از پروکسی) و نمایش لاگ زنده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eبرای کارهای حساس استفاده نکنید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e دانلود از گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-15T17:45:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8220,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2774,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4994513465885328223\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفروش ویژه اشتراک‌های هوش مصنوعی \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4956721670690702265\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eفعال‌سازی سریع و مطمئن انواع اشتراک‌های پریمیوم:\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5310259124817134249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e ChatGPT Plus\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5321197740800120767\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Gemini AI Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5319288443153445517\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Super Grok\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6273793612715138423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B5.png\u0026#39;)\"\u003e\u003cb\u003e😵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Cursor Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6174520215376763867\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B6.png\u0026#39;)\"\u003e\u003cb\u003e🤶\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Claude Pro\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5082478549340783285\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BB.png\u0026#39;)\"\u003e\u003cb\u003e👻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Kiro Ai Pro \u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6136464120779638846\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Telegram Premium \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eاکانت اختصاصی Gemini AI Pro یک‌ساله فقط: ۹۴۵ هزار تومان\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5978692865142822115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اکانت اختصاصی ChatGPT همراه با ضمانت\u003c/b\u003e کامل\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5382194935057372936\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB1.png\u0026#39;)\"\u003e\u003cb\u003e⏱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال‌سازی سریع\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6026057596979385040\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همراه با ضمانت و پشتیبانی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5269501182258205420\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جهت خرید همین الان ربات مارو استارت کن و خریدت را انجام بده.\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6269136309093143551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/SubMarketAi_bot\" target=\"_blank\"\u003e@SubMarketAi_bot\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5413677723941884214\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e Channel:\u003c/b\u003e\u003ca href=\"https://t.me/SubMarket_IR\" target=\"_blank\"\u003e@SubMarket_IR\u003c/a\u003e",
-      "date": "2026-07-15T17:55:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
-        }
-      ]
-    },
-    {
       "id": 2775,
       "message": "دیگه واسه چی غصه بخوریم؟ از اینکه حتی نمی‌شه یه آینده‌ی خوب رو تو ذهنمون تصور کنیم؟ از اینکه هر روز باید با قطعی برق سر و کله بزنیم؟ از اینکه وسط جنگیم؟ یا از اینکه تهش قراره آرزوهامون رو با خودمون به گور ببریم؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A4.png\u0026#39;)\"\u003e\u003cb\u003e🖤\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eخدایی دیگه چه انرژی و انگیزه‌ای واسه آدم می‌مونه؟ اصلاً نمی‌خوام نق بزنم یا فاز ناامیدی بدم، ولی واقعاً یه جاهایی آدم کم میاره و رسماً می‌بره... کشته شدن این سربازهای بی‌گناه هم که دیگه مثل یه تیر وسط قلب همه‌مون بود. آخه چرا باید پژو پارس بشه آرزو؟ چرا باید یه ۲۰۷ مشکی بشه سقف رویای یه جوون ایرانی؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9894.png\u0026#39;)\"\u003e\u003cb\u003e😔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eخدایا... فقط بزرگیتو شکر.",
       "date": "2026-07-16T16:11:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3440,
+      "views": 6010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,11 +288,29 @@
       "date": "2026-07-16T16:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1240,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2777,
+      "message": "بالاخره یه روز لو میره که مسی اصلاً آدمیزاد نیست!\u003cbr/\u003e\u003cbr/\u003eیه فضاییه که اومده زمین تا کلاس درس فوتبال برامون بذاره و برگرده سیاره خودش :)",
+      "date": "2026-07-16T17:59:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
