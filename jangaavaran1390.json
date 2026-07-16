@@ -7,61 +7,12 @@
   },
   "posts": [
     {
-      "id": 135917,
-      "message": "همچنین دیشب پدافند تهران نیز فعال شد که بر اساس گفته رسانه‌های داخلی برای مقابله با هواگردهای دشمن بوده ولی مشخصاً جایی در تهران هدف قرار گرفته نشده",
-      "date": "2026-07-16T03:03:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 135918,
-      "message": "فیلمی از یک شاهد انتحاری در آسمان منطقه",
-      "date": "2026-07-16T03:23:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 135919,
-      "message": "یک \u003ca href=\"https://jangaavaran.ir/b737-awes/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآواکس ایی۷ \u003c/a\u003eدر اردن؟!؟!\u003cbr/\u003eمشخصا نباید متعلق به ارتش آمریکا باشد زیرا این نسخه آواکس بوئینگ ۷۳۷ هنوز در ارتش آمریکا عملیاتی نشده\u003cbr/\u003eاسترالیا،کره جنوبی و ترکیه آنها دارندگان عملیاتی این هواپیما هستند",
-      "date": "2026-07-16T03:26:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
-        }
-      ]
-    },
-    {
       "id": 135920,
       "message": "فعالیت پاتریوت در بحرین ساعتی پیش",
       "date": "2026-07-16T03:27:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
         },
         {
           "type": "video",
@@ -83,7 +34,7 @@
       "date": "2026-07-16T03:31:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +53,7 @@
       "date": "2026-07-16T03:44:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +65,7 @@
       "date": "2026-07-16T03:54:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +77,7 @@
       "date": "2026-07-16T04:43:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +89,7 @@
       "date": "2026-07-16T06:27:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +107,7 @@
       "date": "2026-07-16T06:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +119,7 @@
       "date": "2026-07-16T06:55:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +131,7 @@
       "date": "2026-07-16T07:19:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +143,7 @@
       "date": "2026-07-16T07:58:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +151,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg",
           "width": 640
         }
       ]
@@ -211,7 +162,7 @@
       "date": "2026-07-16T08:10:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 18600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +184,7 @@
       "date": "2026-07-16T08:13:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +196,7 @@
       "date": "2026-07-16T08:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9580,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +208,7 @@
       "date": "2026-07-16T08:32:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8950,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +220,7 @@
       "date": "2026-07-16T08:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5880,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,6 +231,60 @@
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
         }
       ]
+    },
+    {
+      "id": 135937,
+      "message": "رویترز: اعتراضات به برکناری وزیر دفاع اوکراین در حداقل ۱۰ شهر گسترش یافت. معترضان دولت زلنسکی را به تضعیف رهبری نظامی در جنگ متهم می‌کنند. این اعتراضات پس از برکناری وزیر دفاع در کی‌یف آغاز و سپس به سراسر کشور گسترش یافت. معترضان لغو این تصمیم را خواستارند، در حالی که دولت اعلام کرده این تغییرات برای تقویت ساختار اداری اوکراین در زمان جنگ انجام شده است.",
+      "date": "2026-07-16T09:29:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135938,
+      "message": "نیروی هوایی آمریکا در مسیر خرید ۲۸ هزار موشک کروز ارزان‌قیمت.\u003cbr/\u003e\u003cbr/\u003eنیروی هوایی آمریکا قصد دارد طی پنج سال آینده نزدیک به ۲۸ هزار موشک کروز و مهمات دورایستای ارزان‌قیمت را در قالب برنامه  (FAMM) خریداری کند. ارزش این برنامه بیش از ۱۲ میلیارد دلار برآورد شده و هدف آن افزایش چشمگیر توان حملات دوربرد با هزینه‌ای بسیار کمتر از موشک‌های کروز متداول است. \u003cbr/\u003e\u003cbr/\u003eهم‌زمان، پنتاگون با چند شرکت دفاعی از  توافق‌نامه‌های جدیدی امضا کرده است تا روند توسعه و تولید انبوه این تسلیحات را تسریع کند. این برنامه به دنبال تولید موشک‌هایی است که با وجود قیمت پایین، برد و دقت کافی برای حملات گسترده در نبردهای آینده را داشته باشند. \u003cbr/\u003e\u003cbr/\u003eتجربیات جنگ‌های اخیر، از جمله در اوکراین و خاورمیانه، نشان داده است که ذخایر موشک‌های گران‌قیمت به‌سرعت کاهش می‌یابد. به همین دلیل، آمریکا به‌دنبال ایجاد انبوهی از مهمات دوربرد ارزان‌تر است تا در صورت وقوع یک جنگ بزرگ، به‌ویژه در منطقه هند-آرام، بتواند هزاران هدف را بدون اتکا به موشک‌های چند میلیون دلاری مورد حمله قرار دهد. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#آمریکا\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%DB%8C%D8%B1%D9%88%DB%8C_%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#نیروی_هوایی_آمریکا\u003c/a\u003e \u003ca href=\"?q=%23FAMM\"\u003e#FAMM\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D9%88%D8%B4%DA%A9_%DA%A9%D8%B1%D9%88%D8%B2\"\u003e#موشک_کروز\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86\"\u003e#پنتاگون\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86\"\u003e#جنگاوران\u003c/a\u003e",
+      "date": "2026-07-16T09:41:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 135939,
+      "message": "نیروهای ارتش  اسرائیل  شروع به ساخت پایگاه‌های دائمی در جنوب لبنان کرده‌اند، اقدامی که می‌تواند به طور بالقوه منجر به تنش‌هایی بین رئیس‌جمهور آمریکا، دونالد ترامپ، و نخست‌وزیر اسرائیل، بنیامین نتانیاهو، شود.\u003cbr/\u003e\u003cbr/\u003e— ماعاریو",
+      "date": "2026-07-16T10:13:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 135940,
+      "message": "روزنامه «تلگراف» با استناد به منابعی در یمن، گزارش می‌دهد که گروه حوثی در حال تدوین طرح‌های اضطراری برای بستن تنگه باب‌المندب است. این طرح‌ها با هماهنگی ایران انجام می‌شود، در صورتی که تهران تصمیم به تشدید درگیری‌ها بگیرد. بر اساس این گزارش، حوثی‌ها روابط خود را با گروه «الشباب» در سومالی گسترش می‌دهند، از جمله انتقال فناوری پهپادهای ایرانی، با هدف نفوذ بر هر دو طرف این آبراه استراتژیک. «تلگراف» بیان می‌کند که این اقدام، مشابه استراتژی ایران در تنگه هرمز خواهد بود و به طور بالقوه به تهران این امکان را می‌دهد که همزمان دو نقطه حیاتی مهم در مسیرهای دریایی جهان را تهدید کند.",
+      "date": "2026-07-16T10:33:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
     }
   ],
   "last_updated": 0
