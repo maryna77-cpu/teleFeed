@@ -7,119 +7,12 @@
   },
   "posts": [
     {
-      "id": 6511,
-      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e کارگران «چوکا» مدیرعامل را از کارخانه بیرون کردند\u003cbr/\u003e\u003cbr/\u003eکارگران شرکت صنایع چوب و کاغذ ایران (چوکا) در گیلان در اعتراض به معوقات مزدی، حذف اضافه‌کاری و پرداخت ناقص حقوق تجمع کردند. \u003cbr/\u003e\u003cbr/\u003eبه گفته منابع منتشرکننده ویدئوها، پس از انتشار فیش حقوقی مدیرعامل و تهدید کارگران به اخراج، اعتراض‌ها شدت گرفت و معترضان مدیرعامل را از محوطه کارخانه بیرون کردند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%DA%86%D9%88%DA%A9%D8%A7\"\u003e#چوکا\u003c/a\u003e \u003ca href=\"?q=%23%D8%B5%D9%86%D8%A7%DB%8C%D8%B9_%DA%86%D9%88%D8%A8\"\u003e#صنایع_چوب\u003c/a\u003e \u003ca href=\"?q=%23%DA%AF%DB%8C%D9%84%D8%A7%D9%86\"\u003e#گیلان\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-15T16:52:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_18.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 6512,
-      "message": "\u003ctg-emoji emoji-id=\"5949286409478082944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9598.png\u0026#39;)\"\u003e\u003cb\u003e🕘\u003c/b\u003e\u003c/i\u003e خبر ۲۱\u003cbr/\u003eچهارشنبه ۲۴ تیر ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\"\u003e#خبر۲۱\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-15T19:07:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_6.jpg",
-          "width": 852
-        }
-      ]
-    },
-    {
-      "id": 6513,
-      "message": "\u003ctg-emoji emoji-id=\"5186162212372218744\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برگزاری تجمع «نه به اعدام» و یادبود سناتور «لیندسی گراهام» توسط هم میهنان در شهر هانوفر آلمان\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%86%D9%87_%D8%A8%D9%87_%D8%A7%D8%B9%D8%AF%D8%A7%D9%85\"\u003e#نه_به_اعدام\u003c/a\u003e \u003ca href=\"?q=%23%D9%87%D8%A7%D9%86%D9%88%D9%81%D8%B1\"\u003e#هانوفر\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-15T19:12:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2070,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_15.jpg",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 6514,
-      "message": "\u003ctg-emoji emoji-id=\"5186162212372218744\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4911490704376596665\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  مادر جاویدنام آیدا رستمی، پزشک شجاعی که در پی درمان معترضان مجروح به دست جمهوری اسلامی کشته شد، تأکید می‌کند: ایستاده‌ایم، به امید، برای آزادی ایران، عدالت و کرامت انسانی، در کنار خاندان پهلوی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%DB%8C%D8%AF%D8%A7_%D8%B1%D8%B3%D8%AA%D9%85%DB%8C\"\u003e#آیدا_رستمی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87_%D8%B1%D8%B6%D8%A7_%D9%BE%D9%87%D9%84%D9%88%DB%8C\"\u003e#شاهزاده_رضا_پهلوی\u003c/a\u003e  \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%B1%D8%A7_%D9%BE%D8%B3_%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C%D9%85\"\u003e#ایران_را_پس_میگیریم\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-15T19:16:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_1.jpg",
-          "width": 576
-        }
-      ]
-    },
-    {
-      "id": 6515,
-      "message": "\u003ctg-emoji emoji-id=\"5186162212372218744\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برگزاری تجمع «نه به اعدام» و «نه به جمهوری اسلامی» توسط ایرانیان مقیم سیدنی \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%86%D9%87_%D8%A8%D9%87_%D8%A7%D8%B9%D8%AF%D8%A7%D9%85\"\u003e#نه_به_اعدام\u003c/a\u003e  \u003ca href=\"?q=%23%D8%B3%DB%8C%D8%AF%D9%86%DB%8C\"\u003e#سیدنی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-15T19:21:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_9.jpg",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 6516,
-      "message": "\u003ctg-emoji emoji-id=\"5949629152163271756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5807938374341760679\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بر اساس گزارش‌های منتشر شده، در پی حملات هوایی ایالات متحده، دو انفجار مهیب در اهواز رخ داده است که یکی از آنها مربوط به هدف قرار گرفتن «سپاه ولیعصر» اهواز در محله زیتون بوده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D9%87%D9%88%D8%A7%D8%B2\"\u003e#اهواز\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1\"\u003e#انفجار\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-15T19:26:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2250,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ"
-    },
-    {
       "id": 6517,
       "message": "\u003ctg-emoji emoji-id=\"5186162212372218744\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4911490704376596665\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خواهر جاویدنام ابوالفضل آدینه‌زاده، نوجوان کشته‌شده توسط جمهوری اسلامی در مشهد در خیزش مهسا امینی: خانوادگی عهد بسته‌ایم تا سرنگونی جمهوری اسلامی و آزادی ایران راه ابوالفضل را ادامه دهیم و نگذاریم خونش پایمال شود. در کنار شاهزاده رضا پهلوی هستیم تا ایران عزیزمان را آزاد کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84_%D8%A2%D8%AF%DB%8C%D9%86%D9%87_%D8%B2%D8%A7%D8%AF%D9%87\"\u003e#ابوالفضل_آدینه_زاده\u003c/a\u003e  \u003ca href=\"?q=%23%D8%B4%D8%A7%D9%87%D8%B2%D8%A7%D8%AF%D9%87_%D8%B1%D8%B6%D8%A7_%D9%BE%D9%87%D9%84%D9%88%DB%8C\"\u003e#شاهزاده_رضا_پهلوی\u003c/a\u003e  \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%B1%D8%A7_%D9%BE%D8%B3_%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C%D9%85\"\u003e#ایران_را_پس_میگیریم\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-07-15T19:31:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2490,
+      "views": 2530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_14.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_16.jpg",
           "width": 640
         }
       ]
@@ -138,7 +31,7 @@
       "date": "2026-07-16T01:51:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1930,
+      "views": 2000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +39,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_15.jpg",
           "width": 640
         }
       ]
@@ -157,7 +50,7 @@
       "date": "2026-07-16T01:52:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1920,
+      "views": 1990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +58,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_17.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_18.jpg",
           "width": 640
         }
       ]
@@ -176,7 +69,7 @@
       "date": "2026-07-16T07:08:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1510,
+      "views": 1590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +77,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_11.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg",
           "width": 1080
         }
       ]
@@ -195,7 +88,7 @@
       "date": "2026-07-16T07:12:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1570,
+      "views": 1650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +96,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_9.jpg"
         }
       ]
     },
@@ -213,7 +106,141 @@
       "date": "2026-07-16T07:16:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1600,
+      "views": 1670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_14.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6524,
+      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e در جریان حملات هوایی آمریکا به مراکز نظامی تعداد زیادی از سربازان وظیفه کشته و زخمی شدند. \u003cbr/\u003e\u003cbr/\u003eدر شرایطی که نیروهای مسلح بدون پدافند و نیروی هوایی توان مقابله با حملات را ندارند عملا ماندن در پادگان‌ها برای پرسنل (کادر و وظیفه) مصداق «خـ.ـودکـ.ـشی» است. \u003cbr/\u003e\u003cbr/\u003eفریبرز کرمی‌زند از پرسنل پیشین پلیس به خانواده‌ها می‌گوید اجازه ندهید فرزندانتان به خدمت سربازی بروند زیرا جانشان برای حکومت ارزشی ندارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%BE%D8%B1_%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C\"\u003e#سپر_انسانی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C\"\u003e#سربازی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-16T07:19:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_20.jpg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 6525,
+      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e فعال شدن پدافند پارچین برای مقابله با پهپادها و ریزگردها\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%BE%D8%B1_%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C\"\u003e#سپر_انسانی\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D8%A7%D8%B1%DA%86%DB%8C%D9%86\"\u003e#پارچین\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-16T07:39:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_6.jpg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 6526,
+      "message": "\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد آخرین موج حملات نیروهای آمریکایی علیه جمهوری اسلامی، شامگاه چهارشنبه ۱۵ژوئیه، ساعت ۹شب به وقت شرق آمریکا، به پایان رسیده است.\u003cbr/\u003eبه گفتۀ سنتکام، در این عملیات مراکز فرماندهی، سامانه‌های پدافند هوایی، توانمندی‌های موشکی و پهپادی و همچنین تأسیسات پایش ساحلی جمهوری اسلامی هدف حملات دقیق قرار گرفت تا توانایی تهران برای تهدید کشتی‌های تجاری عبوری از تنگه هرمز بیش از پیش کاهش یابد.\u003cbr/\u003eسنتکام افزود در این حملات از مهمات هدایت‌شونده دقیق استفاده شده و اهدافی در چندین منطقه، از جمله بندرعباس، مورد اصابت قرار گرفته‌اند.\u003cbr/\u003eاین فرماندهی همچنین اعلام کرد نیروهای آمریکایی بامداد همان روز، در عملیاتی ۹۰دقیقه‌ای، مواضع دفاع ساحلی و سایت‌های موشک کروز در جزیره تنب بزرگ را هدف قرار داده‌اند.\u003cbr/\u003eسنتکام در پایان تأکید کرد ارتش ایالات متحده به دستور رئیس‌جمهوری آمریکا، جمهوری اسلامی را در قبال اقداماتش پاسخگو خواهد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85\"\u003e#سنتکام\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87\"\u003e#حمله\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%86%DA%AF%D9%87_%D9%87%D8%B1%D9%85%D8%B2\"\u003e#تنگه_هرمز\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-16T09:23:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_8.jpg",
+          "width": 848
+        }
+      ]
+    },
+    {
+      "id": 6527,
+      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e «جنگ قدرت در رأس جمهوری اسلامی؛ نماینده مجلس به «سوپر انقلابی‌ها»: اگر مرد عملید، به جبهه بروید\u003cbr/\u003e\u003cbr/\u003eدر حالی که درگیری‌های نظامی در جنوب ایران ادامه دارد، اختلافات درون حاکمیت جمهوری اسلامی هم آشکارتر شده است.\u003cbr/\u003e\u003cbr/\u003eمجید نصیرپور، عضو کمیسیون اجتماعی مجلس، گفته شماری از نمایندگان تندرو که قصد برگزاری تحصن مقابل مجلس را داشتند، احضار و به آن‌ها تذکر جدی داده شده است.\u003cbr/\u003e\u003cbr/\u003eاما بخش جنجالی اظهارات او، خطاب مستقیم‌اش به جریان موسوم به «سوپر انقلابی» بود.\u003cbr/\u003e\u003cbr/\u003eنصیرپور گفت اگر این نمایندگان واقعا به شعارهای خود باور دارند، به‌جای موضع‌گیری سیاسی و تحصن در تهران، خودشان را به یگان‌های رزمی در مناطق عملیاتی، از جمله قشم، خارک و بندرعباس، معرفی کنند.\u003cbr/\u003e\u003cbr/\u003eاین اظهارات، در شرایطی مطرح می‌شود که هم‌زمان با افزایش فشارهای نظامی و سیاسی علیه جمهوری اسلامی، شکاف و اختلاف میان جریان‌های مختلف درون حاکمیت نیز بیش از گذشته علنی شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF_%D9%82%D8%AF%D8%B1%D8%AA\"\u003e#جنگ_قدرت\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%AC%D9%84%D8%B3\"\u003e#مجلس\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-16T11:18:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6528,
+      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e تهدید صریح عضو شورای عالی انقلاب فرهنگی به ترور رهبران  مخالف جمهوری اسلامی در آمریکا\u003cbr/\u003e\u003cbr/\u003e​ انتشار ویدئویی از اظهارات حسن رحیم‌پور ازغدی، عضو شورای عالی انقلاب فرهنگی جمهوری اسلامی، موج تازه‌ای از واکنش‌ها را برانگیخته است. وی در این سخنان به‌طور صریح و تهدیدآمیزی خواهان «ترور» رهبران مخالفان حکومت ایران در خاک آمریکا شد.\u003cbr/\u003e\u003cbr/\u003e​رحیم‌پور ازغدی در این اظهارات مدعی شد که اگر این افراد در ایالات متحده ترور نشوند، بار دیگر برای سازماندهی و برنامه‌ریزی «اغتشاشات داخلی» در ایران اقدام خواهند کرد.\u003cbr/\u003e\u003cbr/\u003e​اگرچه تاریخ دقیق ضبط و مکان این سخنرانی هنوز به‌طور رسمی مشخص نشده است، اما این اولین بار نیست که چهره‌های شاخص و وابسته به حکومت ایران، مواضعی مبنی بر حذف فیزیکی و ترور مقامات خارجی یا مخالفان سیاسی اتخاذ می‌کنند. \u003cbr/\u003e\u003cbr/\u003eپیش از این نیز بارها نهادها و چهره‌های تندرو اسلامی برای ترور مقامات ارشد آمریکایی و اسرائیلی، از جمله دونالد ترامپ و بنیامین نتانیاهو، اقدام به تعیین جایزه یا انتشار ویدئوهای شبیه‌سازی‌شده کرده بودند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D9%87%D8%AF%DB%8C%D8%AF\"\u003e#تهدید\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\"\u003e#جمهوری_اسلامی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE\"\u003e#ترامپ\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-16T13:09:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_7.jpg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 6529,
+      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B7.png\u0026#39;)\"\u003e\u003cb\u003e📷\u003c/b\u003e\u003c/i\u003e ادامه ارسال تسلیحات جمهوری اسلامی برای نیروهای نیابتی؛ کشف محموله بزرگ سلاح در سوریه\u003cbr/\u003e\u003cbr/\u003eنیروهای امنیتی وزارت کشور سوریه اعلام کردند که صبح پنجشنبه ۲۵ تیر ۱۴۰۵ یک محموله بزرگ قاچاق سلاح را که از عراق و از مسیر گذرگاه «التنف» وارد سوریه شده بود، کشف و توقیف کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eبر اساس اعلام منابع سوری، این محموله در یک کامیون حامل سوخت جاسازی شده بود و شامل ده‌ها پهپاد انتحاری FPV، از جمله نمونه‌های مجهز به فیبر نوری، همچنین ده‌ها موشک ضدتانک و سرجنگی‌های تاندم بوده است.\u003cbr/\u003e\u003cbr/\u003eتصاویر منتشرشده از این محموله نشان می‌دهد چندین موشک ضدتانک «الماس» ساخت جمهوری اسلامی نیز در میان تسلیحات کشف‌شده وجود دارد. موشک «الماس» نسخه ایرانی سامانه ضدتانک «اسپایک» محسوب می‌شود.\u003cbr/\u003e\u003cbr/\u003eبر اساس تصاویر منتشرشده، تاریخ تولید برخی از این موشک‌ها سال ۲۰۲۶ ثبت شده است؛ موضوعی که می‌تواند نشان دهد جمهوری اسلامی همچنان به تولید و انتقال تسلیحات پیشرفته برای گروه‌های نیابتی خود، از جمله حزب‌الله لبنان، ادامه می‌دهد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85\"\u003e#تروریسم\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D8%B2%D8%A8_%D8%A7%D9%84%D9%84%D9%87_%D9%84%D8%A8%D9%86%D8%A7%D9%86\"\u003e#حزب_الله_لبنان\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%DB%8C%D8%A7%D8%A8%D8%AA%DB%8C\"\u003e#نیابتی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-16T13:13:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_10.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_17.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6531,
+      "message": "\u003ctg-emoji emoji-id=\"5767388969624936602\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e خسارت سنگین به فرودگاه سمنان در پی اصابت موشک‌های تاماهاوک\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87\"\u003e#حمله\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%85%D9%86%D8%A7%D9%86\"\u003e#سمنان\u003c/a\u003e",
+      "date": "2026-07-16T14:14:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,12 +253,46 @@
       ]
     },
     {
-      "id": 6524,
-      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e در جریان حملات هوایی آمریکا به مراکز نظامی تعداد زیادی از سربازان وظیفه کشته و زخمی شدند. \u003cbr/\u003e\u003cbr/\u003eدر شرایطی که نیروهای مسلح بدون پدافند و نیروی هوایی توان مقابله با حملات را ندارند عملا ماندن در پادگان‌ها برای پرسنل (کادر و وظیفه) مصداق «خـ.ـودکـ.ـشی» است. \u003cbr/\u003e\u003cbr/\u003eفریبرز کرمی‌زند از پرسنل پیشین پلیس به خانواده‌ها می‌گوید اجازه ندهید فرزندانتان به خدمت سربازی بروند زیرا جانشان برای حکومت ارزشی ندارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%BE%D8%B1_%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C\"\u003e#سپر_انسانی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C\"\u003e#سربازی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-16T07:19:22Z",
+      "id": 6532,
+      "message": "‏در حالی که جنگ‌افروزان جمهوری اسلامی در تهران و پناهگاه‌های امن خود پنهان شده‌اند، سربازان وظیفه و نیروهای جوان را در پادگان‌هایی بی‌دفاع رها کرده‌اند، بی‌آنکه حتی توان حفاظت از این نیروها را داشته باشند. این رژیم بار دیگر نشان داده است که میان جان فرزندان ایران و بقای خود، همواره بقای خود را انتخاب می‌کند.\u003cbr/\u003e\u003cbr/\u003e‏جمهوری اسلامی این جنگ را بر ملت ایران تحمیل کرده است و مسئولیت جان همه قربانیان آن، از جمله‌ سربازان در پادگان بمپور، بر عهده همین حکومت است. آرزوی همه ما، صلح، امنیت و آرامش برای تمامی ایرانیان است، اما تا زمانی که این رژیم بر سر کار باشد، نه امنیتی پایدار ممکن است و نه صلحی واقعی.\u003cbr/\u003e\u003cbr/\u003e‏این رژیم تبهکار بیش از آنکه دل‌نگران امنیت مردم ایران باشد، نگران حفظ حزب‌الله لبنان و دیگر نیروهای نیابتی خود در منطقه است. برای این رژیم، بقای بازوهای تروریستی‌اش از امنیت و جان مردم اهواز، زاهدان، بندرعباس، بوشهر، چابهار و سراسر ایران مهم‌تر است.\u003cbr/\u003e\u003cbr/\u003e‏خطاب من به سربازان، افسران و همه نیروهای میهن‌دوست است. جان خود را برای بقای جمهوری اسلامی به خطر نیندازید. سوگند شما به ایران است، نه به رژیمی که در لحظه خطر، سرکردگانش می‌گریزند و شما را بی‌پناه رها می‌کنند.\u003cbr/\u003e\u003cbr/\u003e‏من با خانواده‌های داغدار سربازان وظیفه که در حملات اخیر به مراکز نظامی جمهوری اسلامی جان باختند، عمیقأ هم‌دردی می‌‌کنم، و از خانواده‌های همه سربازان وظیفه می‌خواهم تا آنجا که در توان دارند، اجازه ندهند فرزندانشان در این شرایط خطرناک به خدمت سربازی اعزام شوند. هیچ پدر و مادری نباید فرزند خود را به پادگان‌هایی بفرستد که امروز به جای محل خدمت، به میدان مرگ تبدیل شده‌اند.\u003cbr/\u003e\u003cbr/\u003e‏این جوانان، فرزندان این سرزمین هستند، نه سپر انسانی جمهوری اسلامی. آنها نباید بهای بقای حکومتی درمانده را با جان خود بپردازند.\u003cbr/\u003e\u003cbr/\u003e‏هم‌چنین از مردم شریف ایرانشهر و زاهدان که برای اهدای خون و یاری رساندن به سربازان مجروح پادگان بمپور شتافتند، صمیمانه سپاسگزارم. این همبستگی ملی یادآور این حقیقت است که مردم ایران، حتی در سخت‌ترین روزها، فرزندان خود را تنها نمی‌گذارند.\u003cbr/\u003e\u003cbr/\u003e‏ایران به فرزندانش زنده نیاز دارد، برای ساختن آینده‌ای آزاد، آباد و سربلند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/OfficialRezaPahlavi\" target=\"_blank\"\u003e@OfficialRezaPahlavi\u003c/a\u003e",
+      "date": "2026-07-16T15:43:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2029,
+      "views": 320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6537,
+      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e پرواز پهپاد اماراتی \u0026#34;یابهون\u0026#34; برفراز بندرعباس\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3\"\u003e#بندرعباس\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-07-16T15:53:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 612,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,122 +301,7 @@
         {
           "type": "video",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_19.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 6525,
-      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e فعال شدن پدافند پارچین برای مقابله با پهپادها و ریزگردها\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%BE%D8%B1_%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C\"\u003e#سپر_انسانی\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D8%A7%D8%B1%DA%86%DB%8C%D9%86\"\u003e#پارچین\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-16T07:39:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_2.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 6526,
-      "message": "\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد آخرین موج حملات نیروهای آمریکایی علیه جمهوری اسلامی، شامگاه چهارشنبه ۱۵ژوئیه، ساعت ۹شب به وقت شرق آمریکا، به پایان رسیده است.\u003cbr/\u003eبه گفتۀ سنتکام، در این عملیات مراکز فرماندهی، سامانه‌های پدافند هوایی، توانمندی‌های موشکی و پهپادی و همچنین تأسیسات پایش ساحلی جمهوری اسلامی هدف حملات دقیق قرار گرفت تا توانایی تهران برای تهدید کشتی‌های تجاری عبوری از تنگه هرمز بیش از پیش کاهش یابد.\u003cbr/\u003eسنتکام افزود در این حملات از مهمات هدایت‌شونده دقیق استفاده شده و اهدافی در چندین منطقه، از جمله بندرعباس، مورد اصابت قرار گرفته‌اند.\u003cbr/\u003eاین فرماندهی همچنین اعلام کرد نیروهای آمریکایی بامداد همان روز، در عملیاتی ۹۰دقیقه‌ای، مواضع دفاع ساحلی و سایت‌های موشک کروز در جزیره تنب بزرگ را هدف قرار داده‌اند.\u003cbr/\u003eسنتکام در پایان تأکید کرد ارتش ایالات متحده به دستور رئیس‌جمهوری آمریکا، جمهوری اسلامی را در قبال اقداماتش پاسخگو خواهد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85\"\u003e#سنتکام\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87\"\u003e#حمله\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%86%DA%AF%D9%87_%D9%87%D8%B1%D9%85%D8%B2\"\u003e#تنگه_هرمز\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-16T09:23:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_4.jpg",
-          "width": 848
-        }
-      ]
-    },
-    {
-      "id": 6527,
-      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e «جنگ قدرت در رأس جمهوری اسلامی؛ نماینده مجلس به «سوپر انقلابی‌ها»: اگر مرد عملید، به جبهه بروید\u003cbr/\u003e\u003cbr/\u003eدر حالی که درگیری‌های نظامی در جنوب ایران ادامه دارد، اختلافات درون حاکمیت جمهوری اسلامی هم آشکارتر شده است.\u003cbr/\u003e\u003cbr/\u003eمجید نصیرپور، عضو کمیسیون اجتماعی مجلس، گفته شماری از نمایندگان تندرو که قصد برگزاری تحصن مقابل مجلس را داشتند، احضار و به آن‌ها تذکر جدی داده شده است.\u003cbr/\u003e\u003cbr/\u003eاما بخش جنجالی اظهارات او، خطاب مستقیم‌اش به جریان موسوم به «سوپر انقلابی» بود.\u003cbr/\u003e\u003cbr/\u003eنصیرپور گفت اگر این نمایندگان واقعا به شعارهای خود باور دارند، به‌جای موضع‌گیری سیاسی و تحصن در تهران، خودشان را به یگان‌های رزمی در مناطق عملیاتی، از جمله قشم، خارک و بندرعباس، معرفی کنند.\u003cbr/\u003e\u003cbr/\u003eاین اظهارات، در شرایطی مطرح می‌شود که هم‌زمان با افزایش فشارهای نظامی و سیاسی علیه جمهوری اسلامی، شکاف و اختلاف میان جریان‌های مختلف درون حاکمیت نیز بیش از گذشته علنی شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF_%D9%82%D8%AF%D8%B1%D8%AA\"\u003e#جنگ_قدرت\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%AC%D9%84%D8%B3\"\u003e#مجلس\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-16T11:18:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 6528,
-      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e تهدید صریح عضو شورای عالی انقلاب فرهنگی به ترور رهبران  مخالف جمهوری اسلامی در آمریکا\u003cbr/\u003e\u003cbr/\u003e​ انتشار ویدئویی از اظهارات حسن رحیم‌پور ازغدی، عضو شورای عالی انقلاب فرهنگی جمهوری اسلامی، موج تازه‌ای از واکنش‌ها را برانگیخته است. وی در این سخنان به‌طور صریح و تهدیدآمیزی خواهان «ترور» رهبران مخالفان حکومت ایران در خاک آمریکا شد.\u003cbr/\u003e\u003cbr/\u003e​رحیم‌پور ازغدی در این اظهارات مدعی شد که اگر این افراد در ایالات متحده ترور نشوند، بار دیگر برای سازماندهی و برنامه‌ریزی «اغتشاشات داخلی» در ایران اقدام خواهند کرد.\u003cbr/\u003e\u003cbr/\u003e​اگرچه تاریخ دقیق ضبط و مکان این سخنرانی هنوز به‌طور رسمی مشخص نشده است، اما این اولین بار نیست که چهره‌های شاخص و وابسته به حکومت ایران، مواضعی مبنی بر حذف فیزیکی و ترور مقامات خارجی یا مخالفان سیاسی اتخاذ می‌کنند. \u003cbr/\u003e\u003cbr/\u003eپیش از این نیز بارها نهادها و چهره‌های تندرو اسلامی برای ترور مقامات ارشد آمریکایی و اسرائیلی، از جمله دونالد ترامپ و بنیامین نتانیاهو، اقدام به تعیین جایزه یا انتشار ویدئوهای شبیه‌سازی‌شده کرده بودند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D9%87%D8%AF%DB%8C%D8%AF\"\u003e#تهدید\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\"\u003e#جمهوری_اسلامی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE\"\u003e#ترامپ\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-16T13:09:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 967,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_3.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 6529,
-      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B7.png\u0026#39;)\"\u003e\u003cb\u003e📷\u003c/b\u003e\u003c/i\u003e ادامه ارسال تسلیحات جمهوری اسلامی برای نیروهای نیابتی؛ کشف محموله بزرگ سلاح در سوریه\u003cbr/\u003e\u003cbr/\u003eنیروهای امنیتی وزارت کشور سوریه اعلام کردند که صبح پنجشنبه ۲۵ تیر ۱۴۰۵ یک محموله بزرگ قاچاق سلاح را که از عراق و از مسیر گذرگاه «التنف» وارد سوریه شده بود، کشف و توقیف کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eبر اساس اعلام منابع سوری، این محموله در یک کامیون حامل سوخت جاسازی شده بود و شامل ده‌ها پهپاد انتحاری FPV، از جمله نمونه‌های مجهز به فیبر نوری، همچنین ده‌ها موشک ضدتانک و سرجنگی‌های تاندم بوده است.\u003cbr/\u003e\u003cbr/\u003eتصاویر منتشرشده از این محموله نشان می‌دهد چندین موشک ضدتانک «الماس» ساخت جمهوری اسلامی نیز در میان تسلیحات کشف‌شده وجود دارد. موشک «الماس» نسخه ایرانی سامانه ضدتانک «اسپایک» محسوب می‌شود.\u003cbr/\u003e\u003cbr/\u003eبر اساس تصاویر منتشرشده، تاریخ تولید برخی از این موشک‌ها سال ۲۰۲۶ ثبت شده است؛ موضوعی که می‌تواند نشان دهد جمهوری اسلامی همچنان به تولید و انتقال تسلیحات پیشرفته برای گروه‌های نیابتی خود، از جمله حزب‌الله لبنان، ادامه می‌دهد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85\"\u003e#تروریسم\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D8%B2%D8%A8_%D8%A7%D9%84%D9%84%D9%87_%D9%84%D8%A8%D9%86%D8%A7%D9%86\"\u003e#حزب_الله_لبنان\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%DB%8C%D8%A7%D8%A8%D8%AA%DB%8C\"\u003e#نیابتی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-07-16T13:13:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_7.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_16.jpg"
-        }
-      ]
-    },
-    {
-      "id": 6531,
-      "message": "\u003ctg-emoji emoji-id=\"5767388969624936602\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e خسارت سنگین به فرودگاه سمنان در پی اصابت موشک‌های تاماهاوک\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87\"\u003e#حمله\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%85%D9%86%D8%A7%D9%86\"\u003e#سمنان\u003c/a\u003e",
-      "date": "2026-07-16T14:14:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 632,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_10.jpg"
+          "width": 1080
         }
       ]
     }
