@@ -7,98 +7,12 @@
   },
   "posts": [
     {
-      "id": 136045,
-      "message": "ارزووووووو...بر جوانان عیب نیست",
-      "date": "2026-07-17T07:40:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136046,
-      "message": "جان راتکلیف، مدیر سازمان سیا، گفته است که تخمین زده می‌شود سربازان روسی که به تازگی در خطوط مقدم در اوکراین مستقر شده‌اند، تنها ۲۰ تا ۳۰ دقیقه پس از رسیدن به آنجا، جان خود را از دست می‌دهند. این موضوع به دلیل کارآمدی جنگ‌افزارهای بدون سرنشین (پهپاد) مجهز به هوش مصنوعی اوکراین است.",
-      "date": "2026-07-17T07:54:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136047,
-      "message": "متاسفانه شاهد هستیم که یک پهپاد آرش ارتش در میانه راه عملیات یه جای باصفا زده کنار و پیک نیک گرفته",
-      "date": "2026-07-17T08:45:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg",
-          "width": 268
-        }
-      ]
-    },
-    {
-      "id": 136048,
-      "message": "پایگاه هوایی  عقاب  در جنوب که در زیر کوه ساخته شده و قرار بود از جنگنده‌های نیروی هوایی ایران در مقابل حملات هوایی دشمن محافظت کند با حمله مواجه شده و تونل‌های ورودی و خروجی بسته شده",
-      "date": "2026-07-17T09:02:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 136049,
-      "message": "رویترز: تحلیلگران معتقدند تشدید حملات، ایران را وادار به عقب‌نشینی نخواهد کرد\u003cbr/\u003e\u003cbr/\u003eپس از شکست آتش‌بس موقت، گزارش رویترز حاکی از آن است که دولت ترامپ برای رسیدن به اهداف خود در برابر ایران با چالش‌های جدی روبه‌رو شده است.\u003cbr/\u003e\u003cbr/\u003eبر اساس این گزارش، گزینه‌هایی مانند گسترش حملات به زیرساخت‌های انرژی، پل‌ها، جزیره نفتی خارک و همچنین هدف قرار دادن تأسیسات عمیق زیرزمینی موسوم به Pickaxe Mountain در حال بررسی است.\u003cbr/\u003e\u003cbr/\u003eبا این حال، شماری از تحلیلگران معتقدند که تشدید حملات، بدون ورود به یک جنگ زمینی گسترده، بعید است بتواند ایران را به تغییر موضع وادار کند و حتی ممکن است نتیجه‌ای معکوس داشته باشد.\u003cbr/\u003e\u003cbr/\u003e«جاناتان پانیکوف»، معاون پیشین اطلاعات ملی آمریکا در امور خاورمیانه، به رویترز گفت:\u003cbr/\u003e\u003cbr/\u003e\u0026gt; «دلیلی وجود ندارد که تصور کنیم این حملات بتواند محاسبات ایران را تغییر دهد؛ حتی احتمال دارد موضع تهران را سرسخت‌تر کند.»",
-      "date": "2026-07-17T09:04:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136050,
-      "message": "وزارت نیرو، آب و انرژی‌های تجدیدپذیر کویت اعلام کرد که یک حمله از سوی ایران به یک مجتمع تولید برق و تصفیه آب وارد شده است که منجر به خسارت به زیرساخت‌ها، وقوع آتش‌سوزی و از کار افتادن چندین واحد تولید برق شده است.\u003cbr/\u003e\u003cbr/\u003eوزارتخانه اعلام کرد که طرح‌های اضطراری فورا فعال شدند و آتش‌سوزی مهار شد.",
-      "date": "2026-07-17T09:09:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 136051,
       "message": "تصاویر ماهواره‌ای از انهدام تعدادی از اهداف در پایگاه هوایی ملک فیل اردن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Military_Tweet\" target=\"_blank\"\u003e@Military_Tweet\u003c/a\u003e",
       "date": "2026-07-17T09:09:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,11 +24,11 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
         }
       ]
     },
@@ -124,7 +38,7 @@
       "date": "2026-07-17T09:19:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +50,7 @@
       "date": "2026-07-17T09:35:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +62,7 @@
       "date": "2026-07-17T09:57:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +81,7 @@
       "date": "2026-07-17T10:03:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +93,7 @@
       "date": "2026-07-17T10:04:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +105,7 @@
       "date": "2026-07-17T10:17:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +123,7 @@
       "date": "2026-07-17T10:30:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +142,7 @@
       "date": "2026-07-17T10:31:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +154,7 @@
       "date": "2026-07-17T10:32:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +166,7 @@
       "date": "2026-07-17T10:55:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,11 +178,114 @@
       "date": "2026-07-17T11:36:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136065,
+      "message": "کیپلر: تعداد کشتی‌هایی که از تنگه هرمز عبور کردند، در ۱۶ جولای به کمترین میزان در سه هفته اخیر، یعنی هشت کشتی، رسید.\u003cbr/\u003e\u003cbr/\u003eاز این تعداد، هفت کشتی از مسیر ایران عبور کردند، که این چهارمین روز متوالی بود که ترافیک عمدتاً در آن مسیر متمرکز شده بود.",
+      "date": "2026-07-17T13:31:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136066,
+      "message": "نخست‌وزیر اسرائیل، بنیامین نتانیاهو، بیش از دو هفته است که تلاش می‌کند تا یک دیدار با دونالد ترامپ، رئیس‌جمهور ایالات متحده، در کاخ سفید ترتیب دهد، اما هنوز هیچ زمانی برای این دیدار تعیین نشده است.",
+      "date": "2026-07-17T13:31:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136067,
+      "message": "دیشب مطلبی درخصوص احمقانه بودن پیگیری پروژه انتقام نوشتم، در آن اشاره کردم که طرف تا ترکیه یعنی بغل گوش ما اومده بود و نتونستید کاری کنید. الآن که فکر می‌کنم می‌بینم چقدر مثال بدی زدم وقتی ماجرای خلبان ها در اصفهان وجود دارد!\u003cbr/\u003eدو روز آمریکایی ها در مرکز ایران برای خودشون گشت و گذار کردند، شما داخل خود ایران دستتان به هیچ‌کس نرسید، الآن فاز انتقام برداشتید به قیمت جان مردم و جوانان بی‌گناه ما؟",
+      "date": "2026-07-17T13:58:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136068,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23%D8%AE%D8%A8%D8%B1_%D9%81%D9%88%D8%B1%DB%8C\"\u003e#خبر_فوری\u003c/a\u003e\u003cbr/\u003eهم اکنون ادعای آکسیوس:\u003cbr/\u003eموج بعدی حملات آمریکا به ایران،\u003cbr/\u003eشدیدتر خواهد بود و ممکن است تهران و شهرهای دیگر را هدف قرار دهد.\u003cbr/\u003e\u003ca href=\"https://t.me/iran_jahan_darlahze\" target=\"_blank\"\u003e@iran_jahan_darlahze\u003c/a\u003e",
+      "date": "2026-07-17T14:04:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136069,
+      "message": "رویترز: پاکستان در حال مذاکره برای یک توافق دفاعی گسترده‌تر با کویت است، در ازای همکاری و سرمایه‌گذاری در زمینه انرژی. این مذاکرات هنوز در مراحل اولیه قرار دارند و ممکن است همچنان به دلیل افزایش تنش‌ها بین ایالات متحده و ایران پیچیده شوند، زیرا هرگونه توافق دفاعی با کویت، سوالاتی را در مورد نقش پاکستان در میانجی‌گری‌های آینده بین ایالات متحده و ایران مطرح خواهد کرد.",
+      "date": "2026-07-17T14:20:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136070,
+      "message": "سنتکام گزارش سپاه پاسدران مبنی بر حمله به پایگاه التنف در سوریه و کشته  شدن پرسنل آمریکایی را رد کرد.",
+      "date": "2026-07-17T14:21:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136071,
+      "message": "سنتکام در بیانیه خود می‌گوید نه تنها در سوریه بلکه در کل منطقه هیچ آمریکایی در اثر حملات اخیر سپاه کشته نشده است.",
+      "date": "2026-07-17T14:21:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136072,
+      "message": "ماهیگیران ایرانی یک \u003ca href=\"https://jangaavaran.ir/lucas-drone/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپهپاد انتحاری لوکاس\u003c/a\u003e آمریکایی را در جایی در نزدیکی تنگه هرمز پیدا کردند",
+      "date": "2026-07-17T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg",
+          "width": 360
+        }
+      ]
     }
   ],
   "last_updated": 0
