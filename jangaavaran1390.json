@@ -7,122 +7,12 @@
   },
   "posts": [
     {
-      "id": 136143,
-      "message": "حمله پهپاد انتحاری هورنت نیروهای مسلح اوکراین به یک نمونه ماکت متحرک از سیستم پدافند هوایی «تور-ام2» ارتش روسیه",
-      "date": "2026-07-18T05:21:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 136147,
-      "message": "حملات همچنان به کویت ادامه دارد",
-      "date": "2026-07-18T05:21:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136148,
-      "message": "کویت",
-      "date": "2026-07-18T05:44:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_15.jpg"
-        }
-      ]
-    },
-    {
-      "id": 136149,
-      "message": "وزارت برق کویت گزارش داد که صبح امروز، یک نیروگاه تولید برق و کارخانه نمک‌زدایی آب، در یک حمله از سوی ایران مورد هدف قرار گرفت.",
-      "date": "2026-07-18T06:16:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136150,
-      "message": "خبرگزاری تسنیم ، گزارش داد که حمله هوایی آمریکا، کارخانه آب شیرین‌کن بونجی در نزدیکی جاسک در استان هرمزگان را هدف قرار داد و ایستگاه پمپاژ آب دریا و ترانسفورماتور برق آن را منهدم کرد. این خبرگزاری اعلام کرد که این حمله، تامین آب آشامیدنی ۲۰ روستا با جمعیتی حدود ۱۰ هزار نفر را مختل کرده است.",
-      "date": "2026-07-18T06:17:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136151,
-      "message": "ارتش کلمبیا گزارش داد که یک پهپاد قصد حمله به یک بالگرد UH-1H Huey را در پایگاه نظامی خوزه هیلاریو لوپز در شهر پاپایان، واقع در ایالت کاوکا، داشته است. دستگاه انفجاری مورد استفاده در این حمله، منفجر نشد و خدمه و خود بالگرد آسیبی ندیدند.",
-      "date": "2026-07-18T06:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_13.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_17.jpg"
-        }
-      ]
-    },
-    {
       "id": 136154,
       "message": "\u003cb\u003eتصاویری از تخریب آب شیرین کن جاسک در جنوب ایران در اثر حمله هوایی آمریکا به این منطقه صبح امروز\u003c/b\u003e",
       "date": "2026-07-18T06:56:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,23 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_16.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
         },
         {
           "type": "photo",
@@ -154,7 +28,23 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_15.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_13.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
         }
       ]
     },
@@ -164,7 +54,7 @@
       "date": "2026-07-18T06:57:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +62,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg",
           "width": 584
         }
       ]
@@ -183,7 +73,7 @@
       "date": "2026-07-18T07:27:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9880,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +85,7 @@
       "date": "2026-07-18T07:33:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9270,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +93,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
         }
       ]
     },
@@ -213,11 +103,152 @@
       "date": "2026-07-18T08:10:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3700,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136165,
+      "message": "صبح امروز، دو منبع حرارتی در منطقه ذخیره‌سازی پایگاه هوایی مووافک سالتی در اردن شناسایی شد. این اتفاق پس از حمله موشکی ایران شب گذشته رخ داد.",
+      "date": "2026-07-18T08:28:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_14.jpg"
+        }
+      ]
+    },
+    {
+      "id": 136166,
+      "message": "وزارت امور خارجه آمریکا: ما به شهروندان آمریکایی توصیه می‌کنیم که در مورد سفر به خاورمیانه تجدید نظر کنند.",
+      "date": "2026-07-18T08:30:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136167,
+      "message": "‏\u003ctg-emoji emoji-id=\"5904701625288626442\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e محسن رضایی: امریکایی‌ها فقط ۴۸ ساعت فرصت دارند که به دیپلماسی بازگردند بعد از این زمان، دیگر فرصت دیپلماسی به پایان رسیده و نوبت به جنگ بی‌امان خواهد رسید که تبعات ویرانگرش را نه تنها مردم منطقه، که همه کشورهای جهان خواهند دید.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e‎\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iran_eghtesadi\" target=\"_blank\"\u003e\u003cb\u003e@iran_eghtesadi\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e",
+      "date": "2026-07-18T08:30:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg",
+          "width": 696
+        }
+      ]
+    },
+    {
+      "id": 136168,
+      "message": "آخرالزمان به روایت تصویر",
+      "date": "2026-07-18T08:31:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136169,
+      "message": "شرکت پارامونت آفریقای جنوبی از نسخه جدید \u003ca href=\"https://jangaavaran.ir/mori/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eهواپیمای Mwari Counter-UAS\u003c/a\u003e رونمایی کرده است؛ پلتفرمی که برای کشف و انهدام پهپادهای انتحاری و یک‌بارمصرف طراحی شده و با هدف حفاظت از نیروگاه‌ها، بنادر، پایگاه‌های نظامی و زیرساخت‌های حیاتی توسعه یافته است.\u003cbr/\u003e\u003cbr/\u003eاین هواپیمای دوموتوره ملخی با بهره‌گیری از سامانه‌های الکترواپتیکی روز و شب، امکان شناسایی و رهگیری بصری پهپادها را فراهم می‌کند و برخلاف بسیاری از سامانه‌های ضدپهپادی، تصمیم نهایی برای درگیری همچنان توسط خدمه انسانی اتخاذ می‌شود.\u003cbr/\u003e\u003cbr/\u003eیکی از مهم‌ترین ویژگی‌های Mwari، توانایی گشت‌زنی طولانی‌مدت بر فراز مناطق حساس است. این هواپیما می‌تواند بدون نیاز به شبکه گسترده رادارهای زمینی، نقش «رادار هوایی» را ایفا کرده و پس از کشف هدف، مستقیماً برای انهدام آن وارد عمل شود.\u003cbr/\u003e\u003cbr/\u003eاین هواپیما از یک محفظه مأموریتی ماژولار بهره می‌برد که امکان تعویض حسگرها و تجهیزات را در کمتر از دو ساعت فراهم می‌کند. همچنین شش نقطه حمل سلاح زیر بال‌ها به آن اجازه می‌دهد بسته به نیاز مأموریت به توپ، راکت‌های هدایت‌شونده یا سایر تسلیحات ضدپهپاد مجهز شود.",
+      "date": "2026-07-18T08:32:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 136172,
+      "message": "اکسیوس\u003cbr/\u003e\u003cbr/\u003eحملات پهپادی اوکراین به پالایشگاه‌های نفت روسیه، این کشور را مجبور کرده است تا بیشتر صادرات گازوئیل را ممنوع کند. این اقدام، فشار فزاینده بر اقتصاد روسیه را آشکار کرده و به افزایش قیمت‌های جهانی گازوئیل کمک کرده است.\u003cbr/\u003e\u003cbr/\u003eسازمان بین‌المللی انرژی اعلام کرده است که از ماه اوت ۲۰۲۵، حداقل ۱۰۰ حمله به پالایشگاه‌های روسیه صورت گرفته است. این حملات در ماه‌های اخیر شدت یافته و تقریباً تمام پالایشگاه‌های بزرگ در غرب روسیه مورد حمله قرار گرفته‌اند.",
+      "date": "2026-07-18T09:46:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136173,
+      "message": "آژیر در اردن",
+      "date": "2026-07-18T09:46:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136174,
+      "message": "رویترز: کویت یکی از بدترین شب‌های خود را از زمان آغاز درگیری‌ها در خاورمیانه، سپری کرد. در این شب، یک ایستگاه تولید برق دیگر در عرض دو روز مورد هدف قرار گرفت و پروازها به حالت تعلیق درآمد.",
+      "date": "2026-07-18T09:47:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136175,
+      "message": "شلیک از خمین",
+      "date": "2026-07-18T09:47:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
