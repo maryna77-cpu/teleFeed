@@ -7,55 +7,12 @@
   },
   "posts": [
     {
-      "id": 136333,
-      "message": "یک یادی هم بکنیم از یکی از کودکان مظلوم مدرسه میناب که هرگز پیکرش پیدا نشد و به گفته مسئولین موشک مستقیماً به بدن وی برخورد کرده",
-      "date": "2026-07-19T19:15:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136334,
-      "message": "ارتش امریکا می‌گوید یک سرباز دیگر آنها نیز در شمال عراق کشته شده.. در جریان خنثی سازی یک پهپاد ایرانی که با کلاهک عمل نکرده سقوط کرده بود این سرباز کشته شده و یک نفر دیگر نیز زخمی شده \u003cbr/\u003eبا این حساب طی ۴۸ ساعت گذشته ۴ سرباز آمریکایی کشته شده است",
-      "date": "2026-07-19T19:26:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136335,
-      "message": "فیلمش",
-      "date": "2026-07-19T19:33:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg",
-          "width": 352
-        }
-      ]
-    },
-    {
       "id": 136336,
       "message": "موتور یک پهپاد MQ-9 ارتش ایالات متحده در عسلویه سوار بر الاغ",
       "date": "2026-07-19T19:43:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -63,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
         },
         {
           "type": "photo",
@@ -77,7 +34,7 @@
       "date": "2026-07-19T19:46:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +46,7 @@
       "date": "2026-07-19T19:47:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +58,7 @@
       "date": "2026-07-19T19:55:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +70,7 @@
       "date": "2026-07-19T19:58:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +104,7 @@
       "date": "2026-07-19T20:00:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +123,7 @@
       "date": "2026-07-19T20:16:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +135,7 @@
       "date": "2026-07-19T20:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7200,
+      "views": 12100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +143,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
         }
       ]
     },
@@ -196,7 +153,7 @@
       "date": "2026-07-19T20:45:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +161,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
         },
         {
           "type": "video",
@@ -218,7 +175,7 @@
       "date": "2026-07-19T20:50:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +187,43 @@
       "date": "2026-07-19T20:55:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
+      "views": 21400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136353,
+      "message": "اینجوری که قیمت نفت درحال تغییر است، گویا بسیاری از کارشناسان منتظرند ترامپ کاپ جام جهانی رو تحویل بده و بلافاصله نگاهش رو معطوف محبوبینش در ایران بکنه.",
+      "date": "2026-07-19T22:39:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136354,
+      "message": "گزارشات از انفجار و حملات هوایی به تبریز",
+      "date": "2026-07-19T23:18:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136355,
+      "message": "سنتکام انجام موج جدیدی از حملات علیه ایران را اعلام کرد.",
+      "date": "2026-07-19T23:19:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
