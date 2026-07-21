@@ -7,62 +7,12 @@
   },
   "posts": [
     {
-      "id": 136537,
-      "message": "بحرین یه چیزی ترکید",
-      "date": "2026-07-21T17:42:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg",
-          "width": 268
-        }
-      ]
-    },
-    {
-      "id": 136538,
-      "message": "کانال ۱۲ اسرائیل \u003cbr/\u003eبر اساس تخمین‌ها در اسرائیل، رهبری ایران معتقد است که نیازی به مصالحه نیست، با این فرض که ترامپ عقب‌نشینی خواهد کرد و به ایران اجازه می‌دهد تا کنترل خود را بر تنگه هرمز حفظ کند.",
-      "date": "2026-07-21T17:43:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136539,
-      "message": "شلیک موشک‌های رهگیر در شمال عراق",
-      "date": "2026-07-21T17:58:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg",
-          "width": 336
-        }
-      ]
-    },
-    {
       "id": 136540,
       "message": "رویترز: سه پهپاد در نزدیکی کنسولگری آمریکا در اربیل، عراق، مورد رهگیری قرار گرفتند.",
       "date": "2026-07-21T18:29:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +24,7 @@
       "date": "2026-07-21T18:30:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +36,7 @@
       "date": "2026-07-21T18:32:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +48,7 @@
       "date": "2026-07-21T18:38:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
         }
       ]
     },
@@ -116,7 +66,7 @@
       "date": "2026-07-21T19:11:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +78,7 @@
       "date": "2026-07-21T19:17:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +90,7 @@
       "date": "2026-07-21T19:18:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +102,7 @@
       "date": "2026-07-21T19:30:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +114,7 @@
       "date": "2026-07-21T19:34:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +126,7 @@
       "date": "2026-07-21T19:43:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +144,7 @@
       "date": "2026-07-21T19:44:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +156,7 @@
       "date": "2026-07-21T20:00:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +168,7 @@
       "date": "2026-07-21T20:01:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +180,7 @@
       "date": "2026-07-21T20:11:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 15600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +192,7 @@
       "date": "2026-07-21T20:16:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
+      "views": 16500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +204,7 @@
       "date": "2026-07-21T20:16:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 16400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +212,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
         }
       ]
     },
@@ -272,7 +222,43 @@
       "date": "2026-07-21T20:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7700,
+      "views": 15100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136557,
+      "message": "هگسث در جلسه شهادت‌دهی در کنگره:\u003cbr/\u003e\u003cbr/\u003eما این جنگ را آغاز نکردیم. این ایران است که از 47 سال پیش جنگ را آغاز کرد و از آن زمان هزاران آمریکایی از جمله برادران رزمنده ما در عراق را کشته است.",
+      "date": "2026-07-21T21:33:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136558,
+      "message": "پاسخ هگزث به سناتور دموکرات مخالف جنگ:\u003cbr/\u003e\u003cbr/\u003eسناتور گلیبراند: بالاخره مردم آمریکا باید کدام حرف را باور کنند، اینکه برنامه هسته ای ایران در حمله چکش نیمه شب با خاک یکسان شد، یا اینکه نابود نشده و بخاطر همین دوباره وارد جنگ شدیم؟\u003cbr/\u003e\u003cbr/\u003eهگزث: تاسیسات هسته ای آن ها در عملیات چکش نیمه شب نابود شد اما آن ها به شکل جاهلانه ای به سمت ساخت توانایی های هسته ای اقدام کردند، به همین خاطر است که ما بنیاد صنعت دفاعی و برخی دیگر صنایع آن ها را نابود کردیم تا مطمئن شویم که هرگز نمی‌توانند به سلاح هسته ای دست پیدا کنند.",
+      "date": "2026-07-21T21:39:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136559,
+      "message": "کویت می گوید پدافند هوایی این کشور در حال درگیری با پهپاد های ایرانی هستند.",
+      "date": "2026-07-21T22:02:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
