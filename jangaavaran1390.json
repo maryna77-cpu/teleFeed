@@ -7,107 +7,12 @@
   },
   "posts": [
     {
-      "id": 136513,
-      "message": "تصاویر ماهواره‌ای دیروز، خسارات گسترده اسکله شمالی شرکت ملی نفت کویت در بندر الماهدی (محل صادرات نفت خام) را پس از حمله ایران در ۱۸ جولای نشان می‌دهند.",
-      "date": "2026-07-21T13:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 136514,
-      "message": "وزارت جنگ آمریکا تصویر مایکل سوینتون، سرباز 26 ساله آمریکایی که دو روز پیش در حین امحای پهپاد عمل نکرده ایرانی کشته شد را منتشر کرد.",
-      "date": "2026-07-21T13:30:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 136515,
-      "message": "ارتش کویت اعلام کرده است که سامانه‌های پدافند هوایی این کشور در حال حاضر در حال مقابله با موجی از موشک‌ها و پهپادهای تهاجمی ایرانی هستند.",
-      "date": "2026-07-21T14:02:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136516,
-      "message": "سی‌ان‌ان:\u003cbr/\u003e\u003cbr/\u003eایالات متحده معتقد است که ایران بخشی از اورانیوم موجود در اختیار خود را به این تأسیسات بسیار امن منتقل کرده است.",
-      "date": "2026-07-21T14:23:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136517,
-      "message": "رویترز: حداقل سه تانکر حامل یا در حال بارگیری نفت خام عربستان، مسیر خود را تغییر دادند، این اتفاق پس از اعلام محاصره دریایی عربستان توسط جنبش انصارالله رخ داد.",
-      "date": "2026-07-21T14:48:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136518,
-      "message": "از جمله مزخرفاتی که دائم تکرار می‌کردند",
-      "date": "2026-07-21T14:58:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
-        }
-      ]
-    },
-    {
       "id": 136520,
       "message": "کارشناسی برای تمام فصول",
       "date": "2026-07-21T15:08:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +30,7 @@
       "date": "2026-07-21T15:09:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +42,7 @@
       "date": "2026-07-21T15:26:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +54,7 @@
       "date": "2026-07-21T15:27:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +66,7 @@
       "date": "2026-07-21T15:28:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 18600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +78,7 @@
       "date": "2026-07-21T15:33:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +90,7 @@
       "date": "2026-07-21T15:41:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +102,7 @@
       "date": "2026-07-21T15:42:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +114,7 @@
       "date": "2026-07-21T15:49:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 18600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +126,7 @@
       "date": "2026-07-21T15:52:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +138,7 @@
       "date": "2026-07-21T16:18:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8060,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +146,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
         }
       ]
     },
@@ -251,7 +156,7 @@
       "date": "2026-07-21T16:19:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8060,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,11 +168,115 @@
       "date": "2026-07-21T16:45:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4030,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136533,
+      "message": "اکسیوس: ترامپ وعده داد که ایالات متحده به زودی کوه کلنگ در ایران را بمباران خواهد کرد.",
+      "date": "2026-07-21T17:04:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136534,
+      "message": "یه مشت آدم الدنگ هر روز راه می‌افتن میگن این برنامه هسته‌ای جمهوری اسلامی چه تاثیری بر زندگی مردم داشت \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحاجی می‌خوای چه تاثیری داشته باشه... پارمون کرده.. چه جوری حسش نمی‌کنی",
+      "date": "2026-07-21T17:15:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136535,
+      "message": "اوکراین در نمایشگاه هوایی فارنبرو از \u003ca href=\"https://jangaavaran.ir/sh3-sea-king/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبالگرد سی کینگ  \u003c/a\u003eمجهز به پرتابگر پهپادهای رهگیر رونمایی کرد؛ قابلیتی که می‌تواند آن را به یکی از نخستین بالگردهای جهان با توان شکار پهپادهای انتحاری مانند شاهد تبدیل کند. هر ریل پرتاب توان حمل سه پهپاد رهگیر را دارد و این سامانه برای دفاع از سواحل، بنادر و مقابله با حملات پهپادی طراحی شده است. این بالگردها بخشی از شش فروند سی‌کینگ اهدایی آلمان به نیروی دریایی اوکراین هستند که توسط شرکت HeliOperations بازسازی و ارتقا یافته‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86\"\u003e#جنگاوران\u003c/a\u003e \u003ca href=\"https://t.me/jangaavaran1390\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/jangaavaran1390\u003c/a\u003e",
+      "date": "2026-07-21T17:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 136536,
+      "message": "علم شنگه در بحرین و شمال عراق در منطقه اربیل",
+      "date": "2026-07-21T17:34:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136537,
+      "message": "بحرین یه چیزی ترکید",
+      "date": "2026-07-21T17:42:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg",
+          "width": 268
+        }
+      ]
+    },
+    {
+      "id": 136538,
+      "message": "کانال ۱۲ اسرائیل \u003cbr/\u003eبر اساس تخمین‌ها در اسرائیل، رهبری ایران معتقد است که نیازی به مصالحه نیست، با این فرض که ترامپ عقب‌نشینی خواهد کرد و به ایران اجازه می‌دهد تا کنترل خود را بر تنگه هرمز حفظ کند.",
+      "date": "2026-07-21T17:43:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136539,
+      "message": "شلیک موشک‌های رهگیر در شمال عراق",
+      "date": "2026-07-21T17:58:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
+          "width": 336
+        }
+      ]
     }
   ],
   "last_updated": 0
