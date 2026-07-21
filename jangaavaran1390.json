@@ -7,97 +7,12 @@
   },
   "posts": [
     {
-      "id": 136492,
-      "message": "برای چندین بار از صبح آژیر خطر در بحرین به صدا در آمده",
-      "date": "2026-07-21T09:35:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136493,
-      "message": "و هم‌اکنون قطر",
-      "date": "2026-07-21T09:46:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136494,
-      "message": "تصاویر ماهواره‌ای نشان می‌دهند که حملات آمریکا، اهدافی را مورد اصابت قرار داده است که به نظر می‌رسد ورودی یک تونل زیرزمینی در نزدیکی پایگاه دریایی سپاه پاسداران انقلاب اسلامی در منطقه کُنارک، استان سیستان و بلوچستان، در جنوب شرقی ایران است.",
-      "date": "2026-07-21T10:31:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 136495,
-      "message": "پیامدهای یک حمله موشکی ایران به یکی از پایگاه‌های نظامی آمریکا در منطقه، که توسط سربازان آمریکایی فیلم‌برداری شده است.",
-      "date": "2026-07-21T10:31:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
-        }
-      ]
-    },
-    {
-      "id": 136499,
-      "message": "وزارت برق و آب کویت:\u003cbr/\u003e\u003cbr/\u003e«امروز، نیروگاه‌ها و تاسیسات نمک‌زدایی آب توسط ایران مورد حمله قرار گرفتند.»",
-      "date": "2026-07-21T11:11:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 136500,
       "message": "کانال 14 اسرائیل:\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر، ایالات متحده نمی‌تواند پایگاه‌های خود را در منطقه در برابر حملات ایران محافظت کند، به همین دلیل در حال تخلیه این پایگاه‌ها و انتقال هواپیماهای تانکردار و اسکادران‌های جنگنده‌های خود به اسرائیل است.",
       "date": "2026-07-21T11:12:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +24,7 @@
       "date": "2026-07-21T11:13:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +42,25 @@
       "date": "2026-07-21T11:36:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 17100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 136503,
+      "message": "پهپاد رزمی Ghost Bat با \u003ca href=\"https://jangaavaran.ir/7393-2/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eموشک میتئور\u003c/a\u003e وارد مرحله جدید شد\u003cbr/\u003e\u003cbr/\u003eبوئینگ و MBDA در نمایشگاه فارنبرو ۲۰۲۶ پهپاد رزمی خودمختار MQ-28 Ghost Bat را با موشک هوا‌به‌هوای دوربرد میتئور نمایش دادند.\u003cbr/\u003eاین پهپاد قابلیت حمل موشک‌های AIM-120، Meteor و بمب‌های هدایت‌شونده را دارد و شلیک امرام را تست کرده\u003cbr/\u003e معماری باز آن اجازه می‌دهد تسلیحات جدید سریع‌تر روی آن نصب شوند.\u003cbr/\u003e هدف کلی ایجاد نسل جدیدی از «همراهان بدون سرنشین» برای جنگنده‌های پیشرفته مانند F-35.\u003cbr/\u003e\u003cbr/\u003eآینده نبرد هوایی به سمت ترکیب جنگنده‌های سرنشین‌دار و پهپادهای مسلح خودمختار در حرکت است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23MQ28\"\u003e#MQ28\u003c/a\u003e \u003ca href=\"?q=%23GhostBat\"\u003e#GhostBat\u003c/a\u003e \u003ca href=\"?q=%23Meteor\"\u003e#Meteor\u003c/a\u003e \u003ca href=\"?q=%23CCA\"\u003e#CCA\u003c/a\u003e \u003ca href=\"?q=%23DroneWarfare\"\u003e#DroneWarfare\u003c/a\u003e",
+      "date": "2026-07-21T12:01:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,30 +73,12 @@
       ]
     },
     {
-      "id": 136503,
-      "message": "پهپاد رزمی Ghost Bat با \u003ca href=\"https://jangaavaran.ir/7393-2/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eموشک میتئور\u003c/a\u003e وارد مرحله جدید شد\u003cbr/\u003e\u003cbr/\u003eبوئینگ و MBDA در نمایشگاه فارنبرو ۲۰۲۶ پهپاد رزمی خودمختار MQ-28 Ghost Bat را با موشک هوا‌به‌هوای دوربرد میتئور نمایش دادند.\u003cbr/\u003eاین پهپاد قابلیت حمل موشک‌های AIM-120، Meteor و بمب‌های هدایت‌شونده را دارد و شلیک امرام را تست کرده\u003cbr/\u003e معماری باز آن اجازه می‌دهد تسلیحات جدید سریع‌تر روی آن نصب شوند.\u003cbr/\u003e هدف کلی ایجاد نسل جدیدی از «همراهان بدون سرنشین» برای جنگنده‌های پیشرفته مانند F-35.\u003cbr/\u003e\u003cbr/\u003eآینده نبرد هوایی به سمت ترکیب جنگنده‌های سرنشین‌دار و پهپادهای مسلح خودمختار در حرکت است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23MQ28\"\u003e#MQ28\u003c/a\u003e \u003ca href=\"?q=%23GhostBat\"\u003e#GhostBat\u003c/a\u003e \u003ca href=\"?q=%23Meteor\"\u003e#Meteor\u003c/a\u003e \u003ca href=\"?q=%23CCA\"\u003e#CCA\u003c/a\u003e \u003ca href=\"?q=%23DroneWarfare\"\u003e#DroneWarfare\u003c/a\u003e",
-      "date": "2026-07-21T12:01:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
-        }
-      ]
-    },
-    {
       "id": 136504,
       "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5298839605640967919\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94AE.png\u0026#39;)\"\u003e\u003cb\u003e🔮\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e چرا هزاران نفر کانال آریان آسترولوژر را دنبال می‌کنند؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://t.me/arianastrologer\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003et.me/arianastrologer\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5325547803936572038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eیکی از شناخته‌شده‌ترین کانال‌های آسترولوژی فارسی\u003c/b\u003e با تحلیل‌های عمیق نجومی و بررسی رویدادهای مهم ایران و جهان.\u003cbr/\u003eدر این کانال، تحلیل‌هایی درباره موضوعاتی مانند:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5248966320845768373\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سقوط بالگرد رئیس‌جمهور ایران\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5248966320845768373\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترورهای مهم در ایران\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5248966320845768373\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جنگ ۱۲ روزه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5248966320845768373\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سناریوهای مربوط به جنگ اسفند\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5248966320845768373\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنشانه‌های ظهور یک زن تأثیرگذار در تحولات آینده\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5248966320845768373\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e نماد «شیر ایرانی» و ارتباط آن با مفهوم سلطنت\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://t.me/arianastrologer\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003et.me/arianastrologer\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5219736654624868918\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AA.png\u0026#39;)\"\u003e\u003cb\u003e🤪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eروش بررسی نجومی آریان مبتنی بر روش منجمین قدیم ایران همچون ابوریحان بیرونی و ابومعشر بلخی است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5197474438970363734\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2A4B5.png\u0026#39;)\"\u003e\u003cb\u003e⤵️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eجدیدترین بررسی هایی که انجام شده \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5197474438970363734\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2A4B5.png\u0026#39;)\"\u003e\u003cb\u003e⤵️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206479194388713063\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آیا پادشاهی به ایران بازمیگردد؟\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206479194388713063\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آینده حاکمیت ایران چطور خواهد شد؟ \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206479194388713063\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D93.png\u0026#39;)\"\u003e\u003cb\u003e❓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eآیا منجی زن از راه می رسد؟ \u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5197545864276495943\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5BA.png\u0026#39;)\"\u003e\u003cb\u003e🥺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eمطالب کانال آریان آسترولوژر با کمترین خطا درست پیش بینی شده است. \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://t.me/arianastrologer\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003et.me/arianastrologer\u003c/b\u003e\u003c/a\u003e",
       "date": "2026-07-21T12:04:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9310,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +86,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg",
           "width": 1280
         }
       ]
@@ -194,7 +109,7 @@
       "date": "2026-07-21T12:25:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
+      "views": 16400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +128,7 @@
       "date": "2026-07-21T12:28:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +136,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
         },
         {
           "type": "photo",
@@ -235,7 +150,7 @@
       "date": "2026-07-21T12:45:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3720,
+      "views": 16800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +162,7 @@
       "date": "2026-07-21T12:48:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2790,
+      "views": 16700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,11 +174,118 @@
       "date": "2026-07-21T12:48:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2480,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136512,
+      "message": "خبرگزاری آسوشیتدپرس: اسکندر مومنی، وزیر کشور ایران، در مذاکرات با میانجیگران شرکت کرد. تلاش‌های دیپلماتیک برای احیای توافق موقت فروپاشیده ایران و آمریکا، علی‌رغم دهمین روز متوالی درگیری، ادامه دارد. پاکستان اخیراً تلاش‌های دیپلماتیک خود برای از سرگیری مذاکرات را افزایش داده، اما هنوز مشخص نیست که توافق جدید چه شکلی خواهد داشت یا آیا برای توقف درگیری کافی است یا خیر.",
+      "date": "2026-07-21T13:04:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136513,
+      "message": "تصاویر ماهواره‌ای دیروز، خسارات گسترده اسکله شمالی شرکت ملی نفت کویت در بندر الماهدی (محل صادرات نفت خام) را پس از حمله ایران در ۱۸ جولای نشان می‌دهند.",
+      "date": "2026-07-21T13:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 136514,
+      "message": "وزارت جنگ آمریکا تصویر مایکل سوینتون، سرباز 26 ساله آمریکایی که دو روز پیش در حین امحای پهپاد عمل نکرده ایرانی کشته شد را منتشر کرد.",
+      "date": "2026-07-21T13:30:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 136515,
+      "message": "ارتش کویت اعلام کرده است که سامانه‌های پدافند هوایی این کشور در حال حاضر در حال مقابله با موجی از موشک‌ها و پهپادهای تهاجمی ایرانی هستند.",
+      "date": "2026-07-21T14:02:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136516,
+      "message": "سی‌ان‌ان:\u003cbr/\u003e\u003cbr/\u003eایالات متحده معتقد است که ایران بخشی از اورانیوم موجود در اختیار خود را به این تأسیسات بسیار امن منتقل کرده است.",
+      "date": "2026-07-21T14:23:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136517,
+      "message": "رویترز: حداقل سه تانکر حامل یا در حال بارگیری نفت خام عربستان، مسیر خود را تغییر دادند، این اتفاق پس از اعلام محاصره دریایی عربستان توسط جنبش انصارالله رخ داد.",
+      "date": "2026-07-21T14:48:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136518,
+      "message": "از جمله مزخرفاتی که دائم تکرار می‌کردند",
+      "date": "2026-07-21T14:58:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
