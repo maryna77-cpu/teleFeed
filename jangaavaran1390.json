@@ -3,154 +3,16 @@
     "id": 0,
     "title": "جنگاوران",
     "username": "jangaavaran1390",
-    "photo_url": "https://cdn4.telesco.pe/file/onWs74HcGCb0PgiMIz1mnmpa0cRBvIRdeYvr0FcgDbGix6i4GVNyNfNrCcRjGtArjDhLO-o_zA6QiOYJ5vMt9tHUuC7pRixxpkYXTafR8iVXeOyKZoKLjvcC7HeHCg_AurnAt1mH8C4l4KLCTLpPbYeV249K5Jcu5q1WxtOmAixf7EHxL4zVQVIC2ssdq_XBudhHCf-r5zrPTFuf-cPSbZYqkUUlXG0neW-dhUaXEqmSE9CDJ7BwS-vX0Bl8bVcbbaF4XkyDRnyw85kt9gP3yDpWIDem0ztKKE_Dol1eATDb2AsyT9dT6tsCoWfKuNMBtLl78rlxdybzjeIdVTfHgg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/O3fh9DJeQUfb3g8oJtTBh4X0WuOR7FIclr_5F3DjtHZSOl15jpfmAKXVKatPVKKqIsiQfetyU5vWH_2MvHp18bpP1ncHqiWA-VdTGICZsclSRjbzLOmNre_ot3ZiBnFtnvjagr7QnhTK9gqgC3CmL4eJHF8b8TO5RtJtzsVAU6O3BgS5tGH-1K6h-55ICXpfFiaaIoihIVvTg5a0gAXNkgGkAx7WuM9j2SkMPs_VYPRgF8b5clKatdIzu-r02NkKFAeWkbze34h7cnD8pHWwTk4CHx92SU9Z5w2htchGMuPHUEYQF2tyWzG2kLiyemKE6T2LZgBPa9Sat06nUDW0hQ.jpg"
   },
   "posts": [
-    {
-      "id": 136451,
-      "message": "دو موشک بالستیک نیز از ارومیه شلیک شد که هدف آن‌ها فرودگاه بین‌المللی حسین پادشاه بود.",
-      "date": "2026-07-20T18:20:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136452,
-      "message": "فیلمی از شلیک پاتریوت در اردن برای مقابله با موشک‌های بالستیک",
-      "date": "2026-07-20T18:22:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg",
-          "width": 268
-        }
-      ]
-    },
-    {
-      "id": 136453,
-      "message": "بر اساس گزارش‌ها، نیروهای اوکراینی در هفته‌های اخیر به‌طور گسترده از پهپادهای هورنت برای هدف قرار دادن تیم‌های متحرک پدافند هوایی روسیه که وظیفه حفاظت از مسیرهای لجستیکی را بر عهده دارند، استفاده می‌کنند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e بسیاری از این پهپادها به سامانه هدایت خودکار و قابلیت‌های مبتنی بر هوش مصنوعی برای رهگیری اهداف متحرک مجهز هستند که دقت آن‌ها را در درگیری با خودروها و تیم‌های پدافندی افزایش می‌دهد.",
-      "date": "2026-07-20T18:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg",
-          "width": 268
-        }
-      ]
-    },
-    {
-      "id": 136454,
-      "message": "ارتش اردن: سه موشک شلیک شده از ایران رهگیری شدند.",
-      "date": "2026-07-20T18:39:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136455,
-      "message": "اصابت موشک ایرانی به پایگاه نیروهای ویژه آمریکا در مرز اردن و سوریه؟\u003cbr/\u003e\u003cbr/\u003eبر اساس تصاویر و گزارش‌های منتشرشده، حمله اخیر موشکی ایران به منطقه برج ۲۲ (Tower 22)؛ یک پایگاه کوچک نیروهای ویژه آمریکا در نزدیکی مرز اردن و سوریه، آسیب‌هایی به همراه داشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eگزارش‌ها حاکی از آن است که یک آشیانه نظامی و بخشی از محل استقرار نیروهای آمریکایی در این پایگاه آسیب دیده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eسپاه پاسداران پیش‌تر اعلام کرده بود که پایگاه التنف در سوریه هدف حمله قرار گرفته، اما سنتکام (فرماندهی مرکزی آمریکا) اعلام کرد نیروهای آمریکایی در سوریه هدف قرار نگرفته‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eبرج ۲۲ یکی از نقاط پشتیبانی آمریکا برای عملیات ضدتروریسم و کنترل مرزهای منطقه محسوب می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#آمریکا\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\"\u003e#ایران\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D9%88%D8%B4%DA%A9\"\u003e#موشک\u003c/a\u003e \u003ca href=\"?q=%23%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87\"\u003e#خاورمیانه\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF_%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%86%DB%8C%DA%A9\"\u003e#جنگ_الکترونیک\u003c/a\u003e.",
-      "date": "2026-07-20T18:50:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 136457,
-      "message": "شرکت هواپیمایی ایرفرانس، به دلیل تشدید تنش‌ها، پروازهای خود به دبی و ریاض را یک هفته آینده لغو می‌کند.",
-      "date": "2026-07-20T19:04:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136458,
-      "message": "وال استریت ژورنال \u003cbr/\u003e\u003cbr/\u003eحمله موشکی بالستیک ایران به یک پایگاه هوایی اردنی، که منجر به کشته شدن دو سرباز آمریکایی شد، به بخش‌های مسکونی آسیب رساند که سربازان در آنجا زندگی و استراحت می‌کردند.\u003cbr/\u003e\u003cbr/\u003eایران در طول ۲۴ ساعت، سه بار به پایگاه آمریکایی در اردن حمله کرد. در هر بار، پرسنل به سرعت به پناهگاه‌های امن پناه بردند، اما همیشه نتوانستند به موقع به آنجا برسند.",
-      "date": "2026-07-20T19:16:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136459,
-      "message": "سپاه پاسداران انقلاب اسلامی اعلام کرد که شب گذشته یک موشک کروز آمریکایی را در آسمان، استان کرمان،  رهگیری کرده است.\u003cbr/\u003e\u003cbr/\u003eبقایای این موشک با بقایای \u003ca href=\"https://jangaavaran.ir/tomahawk-missile/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eموشک کروز BGM-109 تاماهاوک که از ناوهای جنگی\u003c/a\u003e نیروی دریایی ایالات متحده در اقیانوس هند شلیک شده بود، مطابقت دارد.",
-      "date": "2026-07-20T19:29:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
-        }
-      ]
-    },
-    {
-      "id": 136460,
-      "message": "خبرگزاری اکسیوس به نقل از یک مسئول آمریکایی در مورد احتمال برگزاری مذاکرات برای برقراری آتش‌بس با ایران: \u0026#34;در حال حاضر، ترامپ بر این تمرکز دارد که ایران را مجبور کند تا بهای نقض توافق‌نامه‌ها و اقدامات مداومش در تنگه هرمز را بپردازد.\u0026#34;",
-      "date": "2026-07-20T19:41:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
     {
       "id": 136461,
       "message": "آقا بگو هزینه‌اش چقدره چک ۶ ماهه بدیم",
       "date": "2026-07-20T19:41:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +24,7 @@
       "date": "2026-07-20T19:42:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +36,7 @@
       "date": "2026-07-20T19:51:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +48,7 @@
       "date": "2026-07-20T20:07:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16900,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +60,7 @@
       "date": "2026-07-20T20:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +68,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg",
           "width": 720
         }
       ]
@@ -217,7 +79,7 @@
       "date": "2026-07-20T20:19:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +91,7 @@
       "date": "2026-07-20T20:20:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +103,7 @@
       "date": "2026-07-20T20:26:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +115,7 @@
       "date": "2026-07-20T20:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,11 +127,143 @@
       "date": "2026-07-20T20:30:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136471,
+      "message": "سلام صبح بخیر",
+      "date": "2026-07-21T03:04:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 136472,
+      "message": "شب گذشته \u003cb\u003e شهر هایی\u003c/b\u003e، بندرعباس، جزیره قشم ، سیریک، بندر لنگه ، بوشهر   ، چابهار،کنارک، شیراز ، آبدانان  هدف قرار گرفته..همچنین باز عملیات به شدن محدود بوده و به نظر می‌رسد طی سه روز گذشته از شدن حملات کاسته شده.هیچ گذارشی از هدف قرار رفتن تاسیسات زیر ساختی مخابره نشده",
+      "date": "2026-07-21T03:10:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136473,
+      "message": "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد که دو تانکر نفتی که چند ساعت پیش در تلاش برای عبور از مسیر جنوبی تنگه هرمز بودند، پس از مورد هدف قرار گرفتن دچار آتش‌سوزی شدند و مجبور به توقف شدند.",
+      "date": "2026-07-21T03:15:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136474,
+      "message": "همچنین شب گذشته ایران به اهدافی در کویت و بحرین حمله کرد از شدت و دامن این حملات نیز  کمتر بوده.. دست کم نسبت به چند شب گذشته",
+      "date": "2026-07-21T03:19:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136475,
+      "message": "مقامات به واشنگتن پست گفته‌اند که طبق آخرین ارزیابی جامعه اطلاعاتی ایالات متحده، بعید است که دولت ایران در نتیجه دور جدید حملات نظامی ایالات متحده، تأثیر قابل توجهی احساس کند یا موضع مذاکره خود را نرم‌تر کند، زیرا تهران و واشنگتن فعلاً در برزخ نامعلومی بین صلح و جنگ گیر افتاده‌اند.",
+      "date": "2026-07-21T03:20:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136476,
+      "message": "گزارش شده در وال استریت ژورنال: اطلاعات اسرائیل حاکی است که ایران در ماه‌های پاییز، هزاران سانتریفیوژ برای غنی‌سازی اورانیوم را به تونل‌های تاسیسات هسته‌ای مرموز در کوه ، نزدیک به تاسیسات نطنز، منتقل کرده است. این تحول می‌تواند نگرانی‌ها را در مورد اینکه تهران در حال فعالیت و آماده‌سازی برای احیای برنامه هسته‌ای خود است، افزایش دهد.",
+      "date": "2026-07-21T03:26:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136477,
+      "message": "یک مقام آمریکایی به فاکس نیوز\u003cbr/\u003e\u003cbr/\u003eاگر ترامپ تصمیم به گسترش دامنه جنگ با ایران بگیرد، اسرائیل ممکن است در آن شرکت کند.\u003cbr/\u003e\u003cbr/\u003eاگر ترامپ دستور بازگشت به عملیات نظامی گسترده علیه ایران را بدهد، این عملیات شدیدتر و گسترده‌تر از حملات فعلی خواهد بود.\u003cbr/\u003e\u003cbr/\u003eاستقرار هواپیماهای نظامی بیشتر به خاورمیانه یک گام مقدماتی است که در انتظار تصمیم نهایی ترامپ است.",
+      "date": "2026-07-21T03:35:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136478,
+      "message": "نماینده آمریکا در سازمان ملل طی مصاحبه‌ای\u003cbr/\u003e\u003cbr/\u003eشاید چیزی که باعث شود ایران به میز مذاکره بیاید، این باشد که ما بخشی از خاک آن را تصرف کنیم و بگوییم: \u0026#34;خب، این دیگر متعلق به ایران نیست.\u0026#34;",
+      "date": "2026-07-21T03:36:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136479,
+      "message": "اکسیوس:\u003cbr/\u003e\u003cbr/\u003eترامپ به نقطه‌ای سرنوشت‌ساز در جنگ با ایران نزدیک می‌شود، و مقامات آمریکایی و اسرائیلی معتقدند که دو گزینه اصلی وجود دارد:\u003cbr/\u003e\u003cbr/\u003e1.  آتش‌بس 10 روزه برای بازگشایی تنگه هرمز.\u003cbr/\u003e2.  یک عملیات نظامی گسترده با همکاری اسرائیل.",
+      "date": "2026-07-21T03:42:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136480,
+      "message": "شرکت X-Bow از رهگیر مافوق‌صوت ارزان برای مقابله با پهپادها رونمایی کرد\u003cbr/\u003e\u003cbr/\u003eشرکت آمریکایی X-Bow Systems از سامانه جدید بوکلر رونمایی کرده است؛ یک موشک رهگیر ضدپهپاد که برای مقابله با پهپادهای بزرگ مانند خانواده شاهد-۱۳۶ طراحی شده و هدف اصلی آن حل مشکل هزینه بالای دفاع هوایی در برابر تهدیدات ارزان‌قیمت است. این سیستم جدید با قیمت هر تیر ۱۰۰ هزار دلار و سرعت مافوق صوت برای شکار پهپادها چون شاهد مناسب است که قیمت کمی دارند \u003cbr/\u003eاهمیت این سلاح در تغییر معادله اقتصادی جنگ پهپادی است؛ زیرا در جنگ‌های اخیر، استفاده از موشک‌های چندمیلیون‌دلاری برای سرنگونی پهپادهای چند ده هزار دلاری به یک مشکل جدی تبدیل شده است. سامانه‌هایی مانند Buckler تلاش می‌کنند یک لایه دفاعی ارزان‌تر بین توپ‌های ضدپهپاد، جنگ الکترونیک و موشک‌های گران‌تر ایجاد کنند. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#آمریکا\u003c/a\u003e \u003ca href=\"?q=%23X_Bow\"\u003e#X_Bow\u003c/a\u003e \u003ca href=\"?q=%23Buckler\"\u003e#Buckler\u003c/a\u003e \u003ca href=\"?q=%23%D8%B6%D8%AF%D9%BE%D9%87%D9%BE%D8%A7%D8%AF\"\u003e#ضدپهپاد\u003c/a\u003e \u003ca href=\"?q=%23%D8%B4%D8%A7%D9%87%D8%AF136\"\u003e#شاهد136\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF_%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%DB%8C\"\u003e#جنگ_پهپادی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%D9%81%D8%A7%D8%B9_%D9%87%D9%88%D8%A7%DB%8C%DB%8C\"\u003e#دفاع_هوایی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86\"\u003e#جنگاوران\u003c/a\u003e \u003ca href=\"https://t.me/jangaavaran1390\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/jangaavaran1390\u003c/a\u003e",
+      "date": "2026-07-21T03:45:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
