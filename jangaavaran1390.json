@@ -3,131 +3,16 @@
     "id": 0,
     "title": "جنگاوران",
     "username": "jangaavaran1390",
-    "photo_url": "https://cdn4.telesco.pe/file/ukFBsCU1exBXYhKhXKtN-8Frs80VgfsGjQDuAisih1oQrFhw2V_QlYDqqVfVoqLq3lH3HvOIzwLVaLj-4Zmp1nh7nZUg68Lwv6Q1VdO4wq3ay6ISju7fi5Rw7JHP9OQfwgCPUIoAMSStEv8l4Mp3biPO3iF-xgJgdaBcks87xGpxEpCoLEFNF-TKya4JlpKibMgndFxNS-F_jSGcY2RRyV3Pk82wIIcdzw1lVAgmcw8Dsjp82rzuHoBQ3wwHX-og8Nlni-_gTfSP6YoUGaYP3vrojQUBpjvCtvehfK_Vdaj1ZGe0qm6PFNXTQ3MlfMLCTUUFhWL3YHdBQG4jYZ1Now.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/qaAogBKwDHRniIVWRKbjbx4rJx1fQGm8jOjmGx4ZLNQjz3ykaQ6kLqu7iM2SsKayKzr2QOhjeltdXk4Nq7vawUhB7286F6YdokQZLtzEdhkiEXse9ZnOznFbAjBtdIoOlt_nMCE_RQ56aCoNRmAoJ1iiaRHeNN6Nsk_OxeZwpVdt8adTv_HHoeNr1q8bVGF1DQz8rsMqyQTK1_nJ-7Jhr8Sj0dJUiw-AcQTN2jFqcoROxFBPNgdMA_VXvezp-Iiocw8TufTVdvbfIVE1JDUi5BprTSPqfeKL-5SIqMxS8wFVZXPU0JjThBvMzAAYUXJlHyIvBtg6Nx6_llr0tUzYOA.jpg"
   },
   "posts": [
-    {
-      "id": 136648,
-      "message": "باز سی رم",
-      "date": "2026-07-22T19:39:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
-          "width": 352
-        }
-      ]
-    },
-    {
-      "id": 136649,
-      "message": "سفراهای پاکستان، عربستان سعودی و چین در ایران، در سفارت پاکستان در تهران گرد هم آمدند.",
-      "date": "2026-07-22T19:44:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136650,
-      "message": "وزارت امور خارجه بریتانیا:\u003cbr/\u003e\u003cbr/\u003eبه شهروندانمان در خاورمیانه توصیه می‌شود برای احتمال لغو پروازها آمادگی داشته باشند.",
-      "date": "2026-07-22T19:44:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136651,
-      "message": "ترامپ می‌گوید که ما به تنگه هرمز نیاز نداریم و اگر هم اکنون آنجا هستیم چون مجبوریم",
-      "date": "2026-07-22T19:47:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136652,
-      "message": "به خدا شما که نیازی نداری خب بکش بیرون برو، ما راضی نیستیم به اجبار کاری بکنی..",
-      "date": "2026-07-22T19:47:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136653,
-      "message": "وزارت امور خارجه بریتانیا از شهروندان خود خواسته است که اسرائیل را ترک کنند، از سفر به آنجا خودداری کنند و کارکنان سفارت بریتانیا در تهران و تل‌آویو را ترک کنند.",
-      "date": "2026-07-22T19:48:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136654,
-      "message": "بر اساس اخباری که میاد به نظر می‌رسه که ما وارد دور جدیدی از جنگ خواهیم شد که مشابه جنگ ۴۰ روزه با حضور افتخاری بنیامین نتانیاهو خواهیم بود ...",
-      "date": "2026-07-22T19:53:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136655,
-      "message": "آرمین پاپگر، مدیرعامل شرکت راین‌متال آلمان:\u003cbr/\u003e\u003cbr/\u003eفکر می‌کنم باید اینجا در اروپا بیشتر تولید کنیم، چون ذخایر آمریکا پر نشده است.\u003cbr/\u003e\u003cbr/\u003eذخایر آمریکا فقط حدود ۲۰ تا ۳۰ درصد است و آنها باید خودشان تولید کنند.\u003cbr/\u003e\u003cbr/\u003eایالات متحده نیز در حال حاضر در حال افزایش ظرفیت تولید خود است و ما نیز باید ظرفیت تولید خود را افزایش دهیم.\u003cbr/\u003e\u003cbr/\u003eبنابراین من معتقدم که طی ۱۰ سال آینده، کارهای زیادی برای انجام دادن و تولید زیادی در اینجا خواهیم داشت.",
-      "date": "2026-07-22T19:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136656,
-      "message": "ترامپ می‌گوید آمریکا یک درگیری کوچک با ایران دارد و آنها به دنبال توافقند ولی من معتقدم که آنها هنوز آماده توافق نیستند ولی به زودی آماده می‌شوند",
-      "date": "2026-07-22T20:08:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
     {
       "id": 136657,
       "message": "فرماندهی مرکزی ایالات متحده:\u003cbr/\u003eایران کنترل تنگه هرمز را در دست ندارد. این آبراه بین‌المللی، صرف‌نظر از تهدیدها و حملات سپاه پاسداران انقلاب اسلامی، برای تردد باز است.\u003cbr/\u003e\u003cbr/\u003eکشتی‌های تجاری همچنان از این تنگه با حمایت نظامی ایالات متحده استفاده می‌کنند.\u003cbr/\u003e\u003cbr/\u003eاز اوایل ماه مه، نیروهای آمریکایی به عبور بیش از ۹۰۰ کشتی از این تنگه کمک کرده‌اند.",
       "date": "2026-07-22T20:08:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +24,7 @@
       "date": "2026-07-22T20:09:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +36,7 @@
       "date": "2026-07-22T20:10:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16900,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +48,7 @@
       "date": "2026-07-22T20:10:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +60,7 @@
       "date": "2026-07-22T20:17:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
         }
       ]
     },
@@ -193,7 +78,7 @@
       "date": "2026-07-22T20:19:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +90,7 @@
       "date": "2026-07-22T20:19:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +102,7 @@
       "date": "2026-07-22T20:21:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +114,49 @@
       "date": "2026-07-22T20:29:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 22100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 136666,
+      "message": "دسترسی نامحدود | NoLimit VPN\u003cbr/\u003e\u003cbr/\u003eطراحی‌شده برای اتصال پایدار و پرسرعت\u003cbr/\u003eبدون سقف مصرف\u003cbr/\u003eبدون افت سرعت\u003cbr/\u003eبدون قطع‌های آزاردهنده\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e پلن‌های نامحدود یکماهه :\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eتک‌کاربره  → 200\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eدوکاربره   → 350\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eسه‌کاربره  → 500\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eچهارکاربره→ 750\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eپنج‌کاربره → 950\u003cbr/\u003e\u003cbr/\u003eتخصص ما نامحدوده ، نامحدودِ واقعی\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبرای کاربرانی که\u003cbr/\u003eکیفیت براشون انتخاب نیست، استاندارده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003eخرید و فعال‌سازی :\u003cbr/\u003e\u003ca href=\"https://t.me/NoLimit_Service\" target=\"_blank\"\u003e@NoLimit_Service\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/NoLimit_Net\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/NoLimit_Net\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-22T20:33:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136668,
+      "message": "خبرگزاری تسنیم از شنیده شدن صدای انفجار در جنوب کشور و منطقه سیریک خبر می دهد.",
+      "date": "2026-07-22T21:29:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136669,
+      "message": "سلام صبح بخیر",
+      "date": "2026-07-23T02:04:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,28 +169,113 @@
       ]
     },
     {
-      "id": 136666,
-      "message": "دسترسی نامحدود | NoLimit VPN\u003cbr/\u003e\u003cbr/\u003eطراحی‌شده برای اتصال پایدار و پرسرعت\u003cbr/\u003eبدون سقف مصرف\u003cbr/\u003eبدون افت سرعت\u003cbr/\u003eبدون قطع‌های آزاردهنده\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e پلن‌های نامحدود یکماهه :\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eتک‌کاربره  → 200\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eدوکاربره   → 350\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eسه‌کاربره  → 500\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eچهارکاربره→ 750\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾️\u003c/b\u003e\u003c/i\u003eپنج‌کاربره → 950\u003cbr/\u003e\u003cbr/\u003eتخصص ما نامحدوده ، نامحدودِ واقعی\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبرای کاربرانی که\u003cbr/\u003eکیفیت براشون انتخاب نیست، استاندارده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003eخرید و فعال‌سازی :\u003cbr/\u003e\u003ca href=\"https://t.me/NoLimit_Service\" target=\"_blank\"\u003e@NoLimit_Service\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/NoLimit_Net\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/NoLimit_Net\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-07-22T20:33:40Z",
+      "id": 136670,
+      "message": "شب گذشته چندین نقطه در اندیمشک شلمچه جاسک بوشهر  مورد هدف قرار گرفت..هیچ فعالیتی در زمینه حمله موشکی و پهبادی توسط ایران ثبت نشده( غیر یک هشدار در کویت در سال ۱.۳۰ دقیقه).. همچنین سپاه پاسداران اعلام کرد که سه نفتکش قصد داشتند از آب‌های مین‌گذاری شده عبور کنند که یکی از آنها به مین برخورد کرده و دو تای دیگر تغییر مسیر دادند",
+      "date": "2026-07-23T02:07:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 7890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
     },
     {
-      "id": 136668,
-      "message": "خبرگزاری تسنیم از شنیده شدن صدای انفجار در جنوب کشور و منطقه سیریک خبر می دهد.",
-      "date": "2026-07-22T21:29:58Z",
+      "id": 136671,
+      "message": "طبق گزارش وال‌استریت ژورنال،  ترامپ در حال بررسی گسترش عملیات نظامی علیه ایران و اعزام نیروها، هواپیماها و پرسنل پزشکی بیشتر به خاورمیانه است. این افزایش شامل نیروهای عملیات ویژه، اسکادران‌های جت جنگنده، هواپیماهای بمب‌افکن در حالت آماده‌باش بالا از ایالات متحده و بریتانیا، و بیش از ۱۵۰ پزشک مستقر در مرکز پزشکی منطقه‌ای لندشتول در آلمان—مرکز درمانی اصلی برای نیروهای آمریکایی مجروح در خاورمیانه—می‌شود.",
+      "date": "2026-07-23T02:10:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 7870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136672,
+      "message": "سازمان دریایی بریتانیا (UKMTO) گزارش داده است که یک تانکر در فاصله ۷۰ مایل دریایی جنوب غربی شهر الشوقایق، واقع در عربستان سعودی، مورد اصابت یک پرتابه قرار گرفته است.\u003cbr/\u003e\u003cbr/\u003e این حمله باعث ایجاد آتش‌سوزی در داخل کشتی شده است که در حال حاضر خدمه در تلاش برای مهار آن هستند.",
+      "date": "2026-07-23T02:11:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136673,
+      "message": "وزارت امور خارجه آمریکا یک هشدار جهانی صادر کرد و اعلام نمود که ایران و گروه‌های دیگر ممکن است تاسیسات و شرکت‌های آمریکایی را هدف قرار دهند.",
+      "date": "2026-07-23T02:13:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136674,
+      "message": "وزارت امور خارجه آمریکا:\u003cbr/\u003e\u003cbr/\u003eاحتمال افزایش ناگهانی تنش‌ها در خاورمیانه وجود دارد.",
+      "date": "2026-07-23T02:14:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136675,
+      "message": "ولی الله حیاتی معاون امنیتی و انتظامی استانداری خوزستان اعلام کرد: در حمله موشکی ارتش تروریستی آمریکا به مرز شلمچه ۲ نفر از هموطنانمان شهید و ۱۱ نفر مجروح شدند.\u003cbr/\u003e\u003cbr/\u003eحیاتی افزود: تردد زائران اربعین حسینی بصورت روان در حال انجام است و همه دستگاه های اجرایی و خدمت رسان بصورت کامل در حال خدمات رسانی به زائران هستند.",
+      "date": "2026-07-23T02:15:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136676,
+      "message": "سنتکام تصاویری از حملات دیشب خود را منتشر کرد",
+      "date": "2026-07-23T03:05:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg",
+          "width": 478
+        }
+      ]
+    },
+    {
+      "id": 136677,
+      "message": "بریتانیا از پهپاد رزمی Brontanax رونمایی کرد\u003cbr/\u003e\u003cbr/\u003eشرکت BAE Systems از پهپاد رزمی Brontanax، نخستین پهپاد کلاس «همرزم وفادار» (CCA) بریتانیا رونمایی کرد؛ پهپادی که قرار است در کنار جنگنده‌های Typhoon و Tempest عملیات انجام دهد.\u003cbr/\u003e\u003cbr/\u003eاین پهپاد برای مأموریت‌هایی مانند اسکورت جنگنده‌ها، حملات دقیق، شناسایی، جنگ الکترونیک و سرکوب پدافند طراحی شده و با هزینه‌ای بسیار کمتر از یک جنگنده سرنشین‌دار، بخش عمده‌ای از توان رزمی آن را ارائه می‌دهد.\u003cbr/\u003e\u003cbr/\u003eنخستین پرواز Brontanax برای سال ۲۰۲۷ برنامه‌ریزی شده و انتظار می‌رود تا پایان دهه جاری وارد خدمت شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7\"\u003e#بریتانیا\u003c/a\u003e \u003ca href=\"?q=%23Brontanax\"\u003e#Brontanax\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D9%87%D9%BE%D8%A7%D8%AF_%D8%B1%D8%B2%D9%85%DB%8C\"\u003e#پهپاد_رزمی\u003c/a\u003e \u003ca href=\"?q=%23CCA\"\u003e#CCA\u003c/a\u003e \u003ca href=\"?q=%23BAESystems\"\u003e#BAESystems\u003c/a\u003e",
+      "date": "2026-07-23T03:31:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
