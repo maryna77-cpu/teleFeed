@@ -3,118 +3,16 @@
     "id": 0,
     "title": "جنگاوران",
     "username": "jangaavaran1390",
-    "photo_url": "https://cdn4.telesco.pe/file/rcT2EHpbTScF4Paxu_oUreyjW9lW8lkx2OTcJFp9G48-rtVAeuy3hMhPZyL-UcoqvQdUQmg9joxHmZ5a4HNAODAk8Ox0j366LK3DDEBuTjXvXY9nSJ9WpNcXkQbyB6D542T3HK0had4gUQ_fjhTtehNeaiWWqABMNcxAtJwLih2gk83DmtKGuRx1WDSeedcV9X8PnYhn4sbQ1mF9wpH9DIQpaB8bysE3tj5bdf2i-KJSUPlYJ55s74MjdElLlm8qCB9EIbV81E6IzWXTP-em--4GI5xpkMDcFgQfxteoFosu-Q5EunXDqQvzQ-tOlEYLAb63uBRVO9wuXAse6TVV8Q.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/I_ZdT3YZ0VMOLAXth2tGyU2kpxG-APxUvWK2I-8Iz8P6a8XKdo9RdNI2H59aZKOFVhVkHMm64Sj0oPXXEr3bz8lqrb7DSpOC0CRU23P0tMPDCYpgzyMMN3cEw_1YuPC9FDOVCgT1QMIWS7QyI8SXSW0gksMJeoOyGHCpXenu2WuiVp-Dz_-3nUyFjh7PzX3PN583uvgJf4Hyqzwn-TgMZkO6exjnd_LhoteZSXatOHdYKAnVGFVE59qe6rMe8Cl9WTyzSpppddXSRns9W-edT_AglrEo9MEHkjQZXIDbOosD485i8gBA0E0XwFx4hnF7scfaHEqgMaybCMt89X2XeA.jpg"
   },
   "posts": [
-    {
-      "id": 136855,
-      "message": "ترامپ:\u003cbr/\u003e\u003cbr/\u003eوقتی در یک جنگ پیروز می‌شوید، آیا باید به جنگیدن ادامه دهید؟\u003cbr/\u003e\u003cbr/\u003eما در این جنگ پیشرفت‌های بزرگی داشته‌ایم. ما اکنون با ایران در حال مذاکره هستیم و آن‌ها آماده انجام کارهایی هستند که قبلاً فکر نمی‌کردیم آن‌ها را بپذیرند.",
-      "date": "2026-07-24T20:01:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136856,
-      "message": "گزارشگر: چه زمانی ایران تسلیم خواهد شد و واقعاً پای میز مذاکره خواهد آمد؟\u003cbr/\u003e\u003cbr/\u003eترامپ: شاید آن‌ها تسلیم شوند، یا شاید فقط به یک غار بروند و مخفی شوند.\u003cbr/\u003e\u003cbr/\u003eآن‌ها غارهای بسیار عمیقی دارند که می‌توانند در آنجا پنهان شوند.",
-      "date": "2026-07-24T20:01:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136857,
-      "message": "به نظر می‌رسد در پی حمله یمنی‌ها به یک کشتی عربستانی آنها نیز مخازن سوخت بندرگاه بندر حدیده را هدف قرار دادند",
-      "date": "2026-07-24T20:02:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136858,
-      "message": "به ترامپ:\u003cbr/\u003e\u003cbr/\u003eیکی از خبرنگاران: شما به خبرگزاری اکسیوس گفته‌اید که در حال بررسی یک \u0026#34;حمله گسترده\u0026#34; به ایران هستید. چه خط قرمزی وجود دارد که اگر آن را رد کنند، شما را به انجام چنین اقدامی سوق دهد؟\u003cbr/\u003e\u003cbr/\u003eترامپ: ما با آنها در حال گفتگو هستیم. شاید خط قرمزی وجود نداشته باشد که رد شود، یا شاید هم وجود داشته باشد.",
-      "date": "2026-07-24T20:02:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136859,
-      "message": "ترامپ:\u003cbr/\u003e\u003cbr/\u003eوقت آن رسیده که عربستان سعودی به توافقنامه‌های ابراهام بپیوندد، زیرا بدون آن، این کشور توافق هسته‌ای با ایالات متحده نخواهد داشت.",
-      "date": "2026-07-24T20:14:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136860,
-      "message": "اظهارات رئیس جمهور ترامپ درباره ایران:\u003cbr/\u003eاگر من رئیس جمهور نبودم، اسرائیل وجود نداشت.\u003cbr/\u003e\u003cbr/\u003eایران، به طرز شگفت انگیزی، شروع به شلیک به همه جا در سراسر خاورمیانه کرد.\u003cbr/\u003e\u003cbr/\u003eاگر آنها سلاح هسته‌ای داشتند، از آن استفاده می‌کردند.",
-      "date": "2026-07-24T20:14:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136861,
-      "message": "یعنی ترامپ از اون آدمان که یه قدم برای یکی ورداره ۱۰۰ سال سرش منت می‌ذاره\u003cbr/\u003eروزی ۱۰۰ بار میگه من نبودم اسرائیل نبود",
-      "date": "2026-07-24T20:15:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 136862,
-      "message": "بندر حدیده",
-      "date": "2026-07-24T20:15:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
-        }
-      ]
-    },
     {
       "id": 136863,
       "message": "نگرانی آمریکا از کاهش ذخایر مهمات پیشرفته در پی جنگ ایران\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش CBS، دولت ترامپ نسبت به سرعت مصرف مهمات پیشرفته آمریکا در درگیری با ایران ابراز نگرانی کرده است. استفاده گسترده از سامانه‌ها و موشک‌های گران‌قیمت باعث فشار بر ذخایر تسلیحاتی پنتاگون شده است.\u003cbr/\u003e\u003cbr/\u003e مواردی که بیشترین فشار را متحمل شده‌اند:\u003cbr/\u003e\u003cbr/\u003e موشک‌های رهگیر پاتریوت و \u003ca href=\"https://jangaavaran.ir/thaad-missile/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتاد (THAAD)\u003c/a\u003e\u003cbr/\u003eبرای مقابله با تهدیدات موشکی، مصرف بالایی داشته‌اند.\u003cbr/\u003e\u003cbr/\u003e موشک‌های کروز \u003ca href=\"https://jangaavaran.ir/tomahawk-missile/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتاماهاوک (Tomahawk\u003c/a\u003e)\u003cbr/\u003eدر حملات دقیق علیه اهداف زمینی استفاده شده‌اند.\u003cbr/\u003e\u003cbr/\u003e موشک‌های هواپرتاب \u003ca href=\"https://jangaavaran.ir/agm-158/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eJASSM\u003c/a\u003e\u003cbr/\u003eاز جمله مهمات دقیق و گران‌قیمت نیروی هوایی آمریکا هستند.\u003cbr/\u003e\u003cbr/\u003e طبق این گزارش، پنتاگون برای حفظ ذخایر مهمات راهبردی خود به سمت استفاده بیشتر از گزینه‌های ارزان‌تر مانند:\u003cbr/\u003e\u003cbr/\u003eبمب \u003ca href=\"https://jangaavaran.ir/jdam-bomb/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eJDAM\u003c/a\u003e (کیت تبدیل بمب‌های معمولی به بمب هدایت‌شونده)\u003cbr/\u003e\u003ca href=\"https://jangaavaran.ir/7650-2/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبمب SDB\u003c/a\u003e (بمب قطر کوچک هدایت‌شونده)\u003cbr/\u003e\u003cbr/\u003eحرکت کرده است.\u003cbr/\u003e\u003cbr/\u003eمقام‌های آمریکایی هشدار داده‌اند که ادامه این روند می‌تواند آمادگی ارتش آمریکا برای یک درگیری احتمالی بزرگ‌تر، به‌ویژه در منطقه اقیانوس آرام و سناریوی چین، را کاهش دهد.\u003cbr/\u003e\u003cbr/\u003eیکی از مشکلات اصلی، زمان طولانی تولید دوباره این تسلیحات است؛ زیرا ساخت برخی موشک‌های پیشرفته ممکن است ماه‌ها تا چند سال زمان ببرد و افزایش سریع ذخایر امکان‌پذیر نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86\"\u003e#جنگاوران\u003c/a\u003e \u003ca href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#آمریکا\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\"\u003e#ایران\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D9%88%D8%B4%DA%A9\"\u003e#موشک\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF\"\u003e#پدافند\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF_%D9%85%D8%AF%D8%B1%D9%86\"\u003e#جنگ_مدرن\u003c/a\u003e \u003ca href=\"https://t.me/jangaavaran1390\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/jangaavaran1390\u003c/a\u003e",
       "date": "2026-07-24T20:27:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +24,7 @@
       "date": "2026-07-24T20:28:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +32,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg",
           "width": 480
         }
       ]
@@ -145,7 +43,7 @@
       "date": "2026-07-24T20:35:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +55,7 @@
       "date": "2026-07-25T02:20:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1250,
+      "views": 13600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +73,7 @@
       "date": "2026-07-25T02:21:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +85,7 @@
       "date": "2026-07-25T02:22:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 13600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +97,7 @@
       "date": "2026-07-25T02:24:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 731,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +105,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg",
           "width": 264
         }
       ]
@@ -218,7 +116,7 @@
       "date": "2026-07-25T02:25:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 668,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +124,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
         }
       ]
     },
@@ -236,7 +134,7 @@
       "date": "2026-07-25T02:27:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 635,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +146,7 @@
       "date": "2026-07-25T02:30:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +162,123 @@
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 136876,
+      "message": "حمله جدیدی باز به جیزان انجام شده \u003cbr/\u003eزیرساخت‌های نفتی شرکت آرامکو هدف حمله قبلی بود و احتمالاً هدف این حمله نیز همین بوده است.",
+      "date": "2026-07-25T03:28:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136877,
+      "message": "اگرچه ترامپ بارها هدف از جنگ علیه ایران را جلوگیری از دستیابی تهران به سلاح هسته‌ای عنوان کرده است، اما به گزارش نیویورک‌تایمز بنابر ارزیابی‌های اطلاعاتی آمریکا، ایت الله مجتبی خامنه‌ای، رهبر جدید جمهوری اسلامی در مقایسه با پدرش تمایل بیشتری برای دستیابی به سلاح هسته‌ای دارد.",
+      "date": "2026-07-25T03:29:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136878,
+      "message": "رشد چشمگیر لاکهید مارتین با افزایش تقاضا برای سامانه‌های موشکی\u003cbr/\u003e\u003cbr/\u003eشرکت آمریکایی لاکهید مارتین در گزارش مالی سه‌ماهه دوم سال ۲۰۲۶ از جهش قابل‌توجه درآمد و سود خود خبر داد؛ موضوعی که نشان‌دهنده افزایش بی‌سابقه تقاضا برای سامانه‌های دفاع موشکی و تسلیحات دقیق در پی بحران‌های اوکراین، خاورمیانه و تنش‌های فزاینده در منطقه هند-اقیانوسیه است.\u003cbr/\u003e\u003cbr/\u003e درآمد شرکت به ۲۰.۱ میلیارد دلار رسید که نسبت به مدت مشابه سال قبل ۱۱ درصد رشد داشته است.\u003cbr/\u003e\u003cbr/\u003e سود خالص نیز به ۱.۸ میلیارد دلار افزایش یافت و سفارش‌های جدید ثبت‌شده طی این دوره به ۶۵ میلیارد دلار رسید؛ رقمی که ارزش سفارش‌های معوق این شرکت را به رکورد ۲۳۰ میلیارد دلار رسانده است.\u003cbr/\u003e\u003cbr/\u003eمهم‌ترین قرارداد جدید، توافق ۳۵.۳ میلیارد دلاری با آژانس دفاع موشکی آمریکا برای تولید رهگیرهای سامانه تاد است. بر اساس این قرارداد، تولید سالانه موشک‌های تاد از حدود ۹۶ فروند به ۴۰۰ فروند افزایش خواهد یافت.\u003cbr/\u003e\u003cbr/\u003eهمچنین بخش موشکی لاکهید مارتین با رشد ۱۹ درصدی فروش، بهترین عملکرد را در میان واحدهای این شرکت ثبت کرد؛ رشدی که عمدتاً ناشی از افزایش تولید موشک‌های تاد، پاتریوت-3 و پرسام بوده است.\u003cbr/\u003e\u003cbr/\u003eمدیرعامل لاکهید مارتین اعلام کرد که این شرکت علاوه بر توسعه تولید موشک‌ها، در حال گسترش همکاری‌های صنعتی با شرکای آمریکایی و اروپایی برای افزایش ظرفیت تولید تسلیحات است؛ اقدامی که با هدف پاسخگویی به تقاضای فزاینده ارتش آمریکا و متحدانش انجام می‌شود.",
+      "date": "2026-07-25T03:43:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136879,
+      "message": "تصاویری که منتسب به آتش سوزی در تاسیسات آرامکو عربستان در پی حمله یمنی‌ها است",
+      "date": "2026-07-25T04:13:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg",
+          "width": 504
+        }
+      ]
+    },
+    {
+      "id": 136880,
+      "message": "از حملات عربستان سعودی به شهر حدیده و جزیره کاماران، حوثی‌ها حملات موشکی متعددی را علیه استان‌های یَنبو و جازان عربستان سعودی انجام دادند.\u003cbr/\u003e\u003cbr/\u003eهدف این حملات، تاسیسات و زیرساخت‌های نفتی سعودی بود که توسط شرکت آرامکو اداره می‌شوند، و احتمالاً یکی از آن‌ها خط لوله استراتژیک شرق-غرب بود که به عربستان سعودی اجازه می‌دهد تا از محدودیت‌های ایران در تنگه هرمز عبور کند.\u003cbr/\u003e\u003cbr/\u003eاین حملات بسیار گسترده‌تر از دور قبلی تشدید تنش بین دو طرف بودند، زیرا حوثی‌ها چندین موج موشکی را در طول تقریباً دو ساعت شلیک کردند.",
+      "date": "2026-07-25T05:12:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136881,
+      "message": "\u003ctg-emoji emoji-id=\"5440660757194744323\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمراد ویسی؛ کارشناس و تحلیلگر ارشد اینترنشنال:\u003cb\u003e آماری که من دارم تعداد جاویدنام ها ۳۲۲۲ نفر هست!! اگه آمار بیشتر هم باشه اسمی ازشون نیست.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/AkhbarTelFori\" target=\"_blank\"\u003e@AkhbarTelFori\u003c/a\u003e",
+      "date": "2026-07-25T05:16:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 136882,
+      "message": "ما بدون هیچ شرحی گفته ایشونو گذاشتیم \u003cbr/\u003eعین صحبت ایشون همینه که می‌بینید \u003cbr/\u003eما نتیجه‌گیری در موردش نمی‌کنیم تنها چیزی که می‌خوایم بگیم اینکه به شکل کلی هر چیزی با گذشته  تاریخ مشخص میشه\u003cbr/\u003eتاریخ نمیشه گول زد",
+      "date": "2026-07-25T05:26:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 136883,
+      "message": "پنجمین نمونه آزمایشی جنگنده نسل ششم J-36 چین دیده شد\u003cbr/\u003e\u003cbr/\u003eتصاویر و ویدئوهای جدید منتشرشده در شبکه‌های اجتماعی چین، احتمالاً پنجمین نمونه پروازی جنگنده نسل ششم J-36 را نشان می‌دهد. اگرچه پکن هنوز به‌صورت رسمی این پروژه را تأیید نکرده، اما تغییرات ظاهری این نمونه نشان می‌دهد برنامه آزمایش‌های پروازی با سرعت در حال پیشرفت است.\u003cbr/\u003e\u003cbr/\u003eبر اساس تحلیل‌ها، نمونه جدید از ورودی‌های هوای DSI با طراحی پنهانکار بهره می‌برد و در بخش خروجی موتور نیز از اگزوزهای فرورفته استفاده شده است؛ ترکیبی که با هدف کاهش سطح مقطع راداری و امضای حرارتی، در کنار حفظ کنترل‌پذیری پرواز، در حال ارزیابی است.\u003cbr/\u003e\u003cbr/\u003eجنگنده J-36 یک جنگنده سه‌موتوره و بدون دم با ابعاد بزرگ محسوب می‌شود که انتظار می‌رود برای مأموریت‌های برد بلند، حمل حجم زیادی از تسلیحات در محفظه داخلی، جنگ الکترونیک و شکار اهداف راهبردی مانند هواپیماهای آواکس، سوخت‌رسان و مراکز فرماندهی هوایی طراحی شده باشد.\u003cbr/\u003e\u003cbr/\u003eبا وجود برخی گمانه‌زنی‌ها درباره ورود این جنگنده به مرحله تولید اولیه (LRIP)، تغییرات مستمر در طراحی ورودی هوا، اگزوز و سایر بخش‌های بدنه نشان می‌دهد",
+      "date": "2026-07-25T05:27:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
         }
       ]
     }
