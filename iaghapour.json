@@ -7,66 +7,12 @@
   },
   "posts": [
     {
-      "id": 2790,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eساخت کد ۲ مرحله‌ای بدون نیاز به اپلیکیشن با پروژه 2FA\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگه دنبال یه جایگزین شخصی واسه اپلیکیشن‌های Authenticator هستید، این پروژه اوپن‌سورس که روی ورکر کلودفلر (Cloudflare Workers) اجرا میشه فوق‌العاده‌ست. این ابزار بدون نیاز به سرور یا دیتابیس، کدهای ۶ رقمی TOTP رو با امنیت بالا مستقیماً داخل مرورگر جنریت می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eویژگی‌های کلیدی:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسرورلس و سریع:\u003c/b\u003e دپلوی چند ثانیه‌ای روی شبکه جهانی کلودفلر بدون نیاز به VPS.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبدون ذخیره داده:\u003c/b\u003e ساختار مستقل بدون نیاز به دیتابیس برای امنیت بیشتر.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB1.png\u0026#39;)\"\u003e\u003cb\u003e⏱️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاستاندارد و هوشمند:\u003c/b\u003e تولید کدهای امن با آپدیت خودکار هر ۳۰ ثانیه یک‌بار.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپ.ن:\u003c/b\u003e با اینکه پروژه کاملاً اوپن‌سورس و امن هست، پیشنهاد می‌کنم برای اطمینان کامل خودتون، کدهای سورس رو بدید هوش مصنوعی تا براتون بررسی و آنالیز کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/DevURANIUM/2FA\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-19T17:55:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2792,
-      "message": "بدون شرح...",
-      "date": "2026-07-20T12:37:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_17.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2793,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش استفاده از TOR در سرور ایران یا خارج (دسترسی به لوکیشن های مختلف در X-UI)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eما حدودا 2 سال پیش همچین ویدیویی رو ساختیم و پروژه ای که توش آموزش دادیم حذف شده به اسم torsina و البته پروژه های مختلفی بعدش ساخته شدن مشابه این پروژه که یکی از اونها رو زیر معرفی کردم.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/JrCDcBSC650?si=gg-VFxhxcWNR3dY9\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e آموزش ویدیو این روش \u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/petrovveaceslav43-pixel/tor-automate/tree/main\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👈🏻\u003c/b\u003e\u003c/i\u003e اسکریپت Tor automate\u003c/a\u003e (مشابه پروژه torsina)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-20T15:03:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
-        }
-      ]
-    },
-    {
       "id": 2794,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید پروژه iran-dev-tools؛ ابزارهای جدید برای رفع تحریم \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه اوپن‌سورس \u003cb\u003eiran-dev-tools\u003c/b\u003e که مجموعه‌ای از اسکریپت‌های هوشمند برای حل مشکلات روزمره برنامه‌نویس‌ها توی شبکه ایرانه، آپدیت شد. برعکس لیست‌های ثابت میرور، این اسکریپت‌ها سیستم‌عامل شما رو تشخیص میدن، گزینه‌ها رو بنچمارک و تست می‌کنن و بهترین تنظیمات رو اعمال می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی آپدیت اخیر، ۳ ابزار جدید به این مجموعه اضافه شده:\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاسکریپت android-fix:\u003c/b\u003e تنظیم و بازگردانی هوشمند میرورهای \u003cb\u003eGradle\u003c/b\u003e، \u003cb\u003eMaven\u003c/b\u003e و \u003cb\u003eFlutter\u003c/b\u003e برای ویندوز و لینوکس (حل مشکلات برطرف‌نشدنی توسعه‌دهنده‌های اندروید).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاسکریپت proxy-switch:\u003c/b\u003e تست و تنظیم مجزای پروکسی برای تک‌تک ابزارهای روزمره توسعه‌دهندگان روی ویندوز و لینوکس.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاسکریپت pkg-pack:\u003c/b\u003e باندل کردن پکیج‌های APT، ایمیج‌های داکر یا حتی خود Docker Engine روی سیستم آنلاین و نصب کاملاً آفلاین روی سیستم‌های بدون اینترنت یا دارای دسترسی محدود.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/ShahinDadashpour/iran-dev-tools\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
       "date": "2026-07-20T17:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
+      "views": 16400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
         }
       ]
     },
@@ -84,7 +30,7 @@
       "date": "2026-07-21T14:31:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +48,7 @@
       "date": "2026-07-21T17:14:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
         }
       ]
     },
@@ -120,7 +66,7 @@
       "date": "2026-07-22T14:12:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +84,7 @@
       "date": "2026-07-22T14:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
         }
       ]
     },
@@ -156,7 +102,7 @@
       "date": "2026-07-23T11:06:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +120,7 @@
       "date": "2026-07-23T11:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
         }
       ]
     },
@@ -192,7 +138,7 @@
       "date": "2026-07-24T14:11:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +150,7 @@
       "date": "2026-07-24T14:37:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +162,7 @@
       "date": "2026-07-24T15:40:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +180,7 @@
       "date": "2026-07-24T18:33:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +192,7 @@
       "date": "2026-07-24T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +210,43 @@
       "date": "2026-07-25T14:24:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8530,
+      "views": 8940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2812,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآنتروپیک از Claude Opus 5 رونمایی کرد؛ غول کدنویسی با نصف قیمت Fable 5\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eآنتروپیک مدل جدید \u003cb\u003eClaude Opus 5\u003c/b\u003e رو معرفی کرد. این مدل توی انجام کارهای پیچیده برنامه‌نویسی حتی از مدل پرچمدار Fable 5 هم قوی‌تره، ولی با قیمت خیلی مناسب‌تر!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eویژگی‌های مهم:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسلطان برنامه‌نویسی:\u003c/b\u003e رتبه اول بنچمارک Frontier-Bench و عملکرد فوق‌العاده در CursorBench با نصف هزینه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحالت Fast mode:\u003c/b\u003e سرعت ۲.۵ برابری برای کارهای فوری (با ۲ برابر قیمت).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسیستم Automatic Fallbacks:\u003c/b\u003e ارجاع خودکار به مدل‌های دیگر در صورت رد درخواست توسط ایمنی، جهت جلوگیری از ارور.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A9.png\u0026#39;)\"\u003e\u003cb\u003e🧩\u003c/b\u003e\u003c/i\u003e \u003cb\u003eهوش برتر و علوم:\u003c/b\u003e عملکرد ۳ برابری در حل مسائل جدید (ARC-AGI 3) و پیشتازی در علوم زیستی و شیمی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eامن‌ترین مدل:\u003c/b\u003e بیشترین مقاومت در برابر فریب‌های سایبری و کمترین میزان رفتار ناهماهنگ.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-25T15:01:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2813,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e فقط با یک سرور، 3 لوکیشن مختلف داشته باش! (با پنل پاسارگارد)\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاگه می‌خواید تو هزینه‌های خرید سرور صرفه‌جویی کنید ولی همزمان به آی‌پی‌ با لوکیشن های مختلف نیاز دارید، این آموزش دقیقاً همون چیزیه که دنبالشید. بهتون آموزش میدم که چطور فقط با داشتن یک سرور، ۳ لوکیشن و خروجی کاملاً متفاوت رو روی پنل پاسارگارد ستاپ کنید. (این آی‌پی ها اختصاصی هستن و نمیشه با تور و سایفون مقایسه کرد).\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/_Ip5SndyFGA\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86\"\u003e#لوکیشن\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%A7%D9%84%D8%AA%DB%8C_%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86\"\u003e#مالتی_لوکیشن\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-25T15:25:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,48 +259,12 @@
       ]
     },
     {
-      "id": 2812,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآنتروپیک از Claude Opus 5 رونمایی کرد؛ غول کدنویسی با نصف قیمت Fable 5\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eآنتروپیک مدل جدید \u003cb\u003eClaude Opus 5\u003c/b\u003e رو معرفی کرد. این مدل توی انجام کارهای پیچیده برنامه‌نویسی حتی از مدل پرچمدار Fable 5 هم قوی‌تره، ولی با قیمت خیلی مناسب‌تر!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eویژگی‌های مهم:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسلطان برنامه‌نویسی:\u003c/b\u003e رتبه اول بنچمارک Frontier-Bench و عملکرد فوق‌العاده در CursorBench با نصف هزینه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحالت Fast mode:\u003c/b\u003e سرعت ۲.۵ برابری برای کارهای فوری (با ۲ برابر قیمت).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسیستم Automatic Fallbacks:\u003c/b\u003e ارجاع خودکار به مدل‌های دیگر در صورت رد درخواست توسط ایمنی، جهت جلوگیری از ارور.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A9.png\u0026#39;)\"\u003e\u003cb\u003e🧩\u003c/b\u003e\u003c/i\u003e \u003cb\u003eهوش برتر و علوم:\u003c/b\u003e عملکرد ۳ برابری در حل مسائل جدید (ARC-AGI 3) و پیشتازی در علوم زیستی و شیمی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eامن‌ترین مدل:\u003c/b\u003e بیشترین مقاومت در برابر فریب‌های سایبری و کمترین میزان رفتار ناهماهنگ.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-25T15:01:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8630,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2813,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e فقط با یک سرور، 3 لوکیشن مختلف داشته باش! (با پنل پاسارگارد)\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاگه می‌خواید تو هزینه‌های خرید سرور صرفه‌جویی کنید ولی همزمان به آی‌پی‌ با لوکیشن های مختلف نیاز دارید، این آموزش دقیقاً همون چیزیه که دنبالشید. بهتون آموزش میدم که چطور فقط با داشتن یک سرور، ۳ لوکیشن و خروجی کاملاً متفاوت رو روی پنل پاسارگارد ستاپ کنید. (این آی‌پی ها اختصاصی هستن و نمیشه با تور و سایفون مقایسه کرد).\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/_Ip5SndyFGA\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86\"\u003e#لوکیشن\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%A7%D9%84%D8%AA%DB%8C_%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86\"\u003e#مالتی_لوکیشن\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-25T15:25:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8430,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
-        }
-      ]
-    },
-    {
       "id": 2814,
       "message": "\u003ctg-emoji emoji-id=\"5807689339253038218\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e10% تخفیف دائم سرور مجازی تک و چندکشوره\u003c/b\u003e \u003ctg-emoji emoji-id=\"5807689339253038218\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848184700396376824\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F919C.png\u0026#39;)\"\u003e\u003cb\u003e👜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بجای 6 تا سرور مجازی، \u003cb\u003e2\u003c/b\u003e تا بخر با\u003cb\u003e 6\u003c/b\u003e آیپی \u003ctg-emoji emoji-id=\"5418053913364423507\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5384146886024259087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e با \u003c/b\u003e\u003ca href=\"http://check-host.net/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003echeck-host.net\u003c/b\u003e\u003c/a\u003e\u003cb\u003e سالم\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247121181420575838\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AF.png\u0026#39;)\"\u003e\u003cb\u003e🤯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتغییر آیپی و تنظیم PTR از\u003c/b\u003e \u003cb\u003eکنترل پنل\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5215499540538340336\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB7.png\u0026#39;)\"\u003e\u003cb\u003e🏷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکد تخفیف دائمی:\u003c/b\u003e \u003ccode\u003eAKO58\u003c/code\u003e",
       "date": "2026-07-25T19:05:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6870,
+      "views": 8090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +272,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
         }
       ]
     },
@@ -336,7 +282,7 @@
       "date": "2026-07-26T16:32:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2080,
+      "views": 4920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -345,6 +291,60 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2816,
+      "message": "مردم ما در هر شرایطی نمک خاص خودشونو دارن :)",
+      "date": "2026-07-26T17:10:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_17.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2817,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت نسخه 1.0.4 نرم‌افزار UAC SNI Spoofer Desktop منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه، ابزارهای مدیریت کانفیگ، هسته اتصال و رابط کاربری به شکل چشم‌گیری ارتقا یافته‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمهم‌ترین تغییرات و قابلیت‌های جدید:\u003c/b\u003e\u003cbr/\u003e• دریافت کانفیگ از لینک، فایل، کلیپ‌بورد یا ورودی دستی (با رمزگشایی خودکار Base64).\u003cbr/\u003e• پشتیبانی از کانفیگ‌های \u003cb\u003eVLESS\u003c/b\u003e و \u003cb\u003eTrojan\u003c/b\u003e به همراه مخزن پیش‌فرض دریافت کانفیگ.\u003cbr/\u003e• \u003cb\u003eپشتیبانی از هسته sing-box و حالت TUN:\u003c/b\u003e برای تونل کردن کامل و گسترده‌تر ترافیک سیستم.\u003cbr/\u003e• \u003cb\u003eبهینه‌سازی کلی:\u003c/b\u003e بهبود سرعت پردازش کانفیگ‌ها، پایداری اتصال و چیدمان رابط کاربری.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases/tag/1.0.4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک دریافت نسخه 1.0.4\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://floxu1.github.io/UAC-SNI-Spoofer-Windows/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eآموزش کار با برنامه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-26T17:29:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2818,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e یادگیری برنامه‌نویسی، بدون تماشای ویدیو!\u003cbr/\u003e\u003cbr/\u003eخسته شدی از سایت‌های آموزش ویدیویی که فقط تماشا می‌کنی و چیزی یادت نمی‌مونه؟ برای یادگیری واقعی برنامه‌نویسی به تمرین عملی نیاز داری؛ نه یک دوره‌ی ویدیویی دیگه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e دینا کد، اولین و تنها پلتفرم دانش‌بنیان آموزش تعاملی برنامه‌نویسی در ایران، با بازخورد آنی، بدون نیاز به نصب و مستقیم توی مرورگر، مسیر یادگیری گام‌به‌گام برات فراهم می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بنویس، اجرا کن، یاد بگیر — نه فقط تماشا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e بازخورد آنی روی هر خط کد!!\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E93.png\u0026#39;)\"\u003e\u003cb\u003e🎓\u003c/b\u003e\u003c/i\u003e گواهینامه پایان دوره\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e روی هر دستگاهی، پیشرفتت همیشه همراهته\u003cbr/\u003e\u003cbr/\u003eکد تخفیف ۲۰٪:\u003cbr/\u003eWELCOME20\u003cbr/\u003e\u003cbr/\u003eشروع رایگان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"http://b2n.ir/dinacode1\" target=\"_blank\" rel=\"noopener\"\u003ehttp://b2n.ir/dinacode1\u003c/a\u003e",
+      "date": "2026-07-26T17:39:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
         }
       ]
     }
