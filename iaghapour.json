@@ -3,9 +3,27 @@
     "id": 0,
     "title": "iAghapour | Digital Freedom 🎯",
     "username": "iaghapour",
-    "photo_url": "https://cdn4.telesco.pe/file/spkVONEnkC-s8C1EIkQoM8lqUZ-Kgddcsswwz5YhUtijo9ksw8FK0gP5k50ncrpDmD_VX_mXXFjJcSmkZ1VLQDFDBFdX1_w5QSFoCRTQJBO25Im95W2h1qSNtGGUP--X7bFXSoAFWekobgJfFoBczTjfKyGIK3VgGpkwn2OhaG9_KpgZv1cHiN6ADtwgMrXedolbOCG688Kq96tXZnHTJ7U11qjFPDwEQQTd_0j4XADNo_4OGGQ-cDYs0I8wQ8Y1Gvdo5Jtw7MoUw1xye7sbuGLfO3jxBeFrwZHmT3lRC6D4jQXF5pFrqxFpiwzVSiJmF0Ht9yjOsHp2YNvWjFhBPw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/S8a0rsM3zhwC20t8K7x5oEcgRnxHYe7S2kfy7OUNPXrLFO_-dRy4UEGgnb1V4UlvCzsJlQBkzbA66DVCe3NfnpcmZcU_Im4ck8fCzUUKgPRELoTmBJhKsbNmmpZG8hjCYUENQnjoWNDSl_HqMciXEXZLU3wMct4E2e3BGhc_IS4ZwaMy8A7D94H3Fym2kZa7Fn4r0UQeb9rLqEAgNf9hAgjXRly-bmd6o0sqTFZW-YrWfCZQwLOvdrDj60MNEeciRsZE6fuO4souZclEqquTjGgYy0sSIDcaxNgcV8ZfBjYjL8eWjsZcmf-pXcvv77SOHy8NKs1oHJWi9yLxFoV9Jw.jpg"
   },
   "posts": [
+    {
+      "id": 2796,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرخداد امنیتی در Hugging Face: سرقت دیتابیس و کلیدهای دسترسی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپلتفرم \u003cb\u003eHugging Face\u003c/b\u003e (بزرگ‌ترین میزبان مدل‌ها و دیتاست‌های هوش مصنوعی) وقوع یک رخنه‌ی امنیتی گسترده را تأیید کرد.\u003cbr/\u003e\u003cbr/\u003eدر این حمله، مهاجمان با بارگذاری یک دیتاست مخرب و سوءاستفاده از یک آسیب‌پذیری، موفق به اجرای کد روی سرورها، ارتقای سطح دسترسی و سرقت دیتابیس‌های داخلی و کلیدهای دسترسی شدند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eجزئیات و اقدامات انجام‌شده:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eابطال کلیدها:\u003c/b\u003e هاگینگ فیس تمامی کلیدهای دسترسی افشاشده را باطل کرده و از کاربران خواسته سریعاً کلیدهای امنیتی خود را بازنشانی کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتحلیل با مدل بومی:\u003c/b\u003e برای بررسی لاگ‌های حساس سرور، از مدل زبانی بومی استفاده شده تا نیازی به ارسال اطلاعات به سرورهای خارجی نباشد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A96.png\u0026#39;)\"\u003e\u003cb\u003e⚖️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپیگیری قانونی:\u003c/b\u003e موضوع به نهادهای مجری قانون و تیم‌های جرم‌شناسی سایبری برای بررسی دقیق‌تر ارجاع داده شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-21T14:31:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
+        }
+      ]
+    },
     {
       "id": 2798,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی SIMORGH VPN؛ کلاینت چند‌موتوره اندروید برای شبکه‌های محدود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبرنامه \u003cb\u003eSIMORGH VPN\u003c/b\u003e یک کلاینت قدرتمند برای اندروید است که اختصاصی برای اتصال در شرایط اینترنت ملی، محدودیت‌های شدید و اختلالات بین‌المللی طراحی شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنکات و قابلیت‌های مهم:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BB0.png\u0026#39;)\"\u003e\u003cb\u003e🛰\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحالت MSP:\u003c/b\u003e اتصال ویژه در شرایط اینترنت ملی و اختلالات شدید شبکه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A9.png\u0026#39;)\"\u003e\u003cb\u003e🧩\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفرگمنت (Fragment) پیشرفته:\u003c/b\u003e قابلیت تنظیم پارامترهای فرگمنت برای عبور از فیلترینگ و بازیابی آی‌پی‌های کلودفلر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA3.png\u0026#39;)\"\u003e\u003cb\u003e🟣\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی از NipoVPN و MasterDNS:\u003c/b\u003e امکان وارد کردن لینک‌های \u003ccode\u003enipovpn://\u003c/code\u003e و مدیریت کامل مسیرهای DNS.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسیستم هوشمند:\u003c/b\u003e استثنا کردن خود برنامه از تونل VPN (برای جلوگیری از لوپ) و پشتیبانی از پروکسی‌های محلی SOCKS5/HTTP.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/rezakhosh78/SIMORGH\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/rezakhosh78/SIMORGH-Scanner\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک اسکنر پروژه\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
@@ -20,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
         }
       ]
     },
@@ -38,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
         }
       ]
     },
@@ -56,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
         }
       ]
     },
@@ -74,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
     },
@@ -84,7 +102,7 @@
       "date": "2026-07-23T11:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +120,7 @@
       "date": "2026-07-24T14:11:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +132,7 @@
       "date": "2026-07-24T14:37:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +144,7 @@
       "date": "2026-07-24T15:40:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +162,7 @@
       "date": "2026-07-24T18:33:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +192,7 @@
       "date": "2026-07-25T15:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 10700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
         }
       ]
     },
@@ -200,17 +218,35 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
         }
       ]
     },
     {
-      "id": 2814,
-      "message": "\u003ctg-emoji emoji-id=\"5807689339253038218\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e10% تخفیف دائم سرور مجازی تک و چندکشوره\u003c/b\u003e \u003ctg-emoji emoji-id=\"5807689339253038218\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848184700396376824\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F919C.png\u0026#39;)\"\u003e\u003cb\u003e👜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بجای 6 تا سرور مجازی، \u003cb\u003e2\u003c/b\u003e تا بخر با\u003cb\u003e 6\u003c/b\u003e آیپی \u003ctg-emoji emoji-id=\"5418053913364423507\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5384146886024259087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e با \u003c/b\u003e\u003ca href=\"http://check-host.net/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003echeck-host.net\u003c/b\u003e\u003c/a\u003e\u003cb\u003e سالم\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247121181420575838\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AF.png\u0026#39;)\"\u003e\u003cb\u003e🤯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتغییر آیپی و تنظیم PTR از\u003c/b\u003e \u003cb\u003eکنترل پنل\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5215499540538340336\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB7.png\u0026#39;)\"\u003e\u003cb\u003e🏷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکد تخفیف دائمی:\u003c/b\u003e \u003ccode\u003eAKO58\u003c/code\u003e",
-      "date": "2026-07-25T19:05:04Z",
+      "id": 2815,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e آپدیت امنیتی کلاینت دسکتاپ v2rayN\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eکلاینت دسکتاپ v2rayN یه آپدیت امنیتی اضطراری داده و از همه کاربرا خواسته هرچه سریع‌تر برنامه‌شون رو بروزرسانی کنن. این هشدار توی چند تا ریلیز اخیر هم مدام تکرار شده و توسعه‌دهنده‌ها خیلی تأکید کردن که نسخه‌های قدیمی حتماً باید به آخرین نسخه ارتقا پیدا کنن.\u003cbr/\u003e\u003cbr/\u003eتوی توضیحات این آپدیت اومده که «یه آسیب‌پذیری خیلی بحرانی توی دانلودر داخلی نسخه‌های قدیمی حل شده؛ مشکلی که به مهاجم اجازه می‌داد فایل در حال دانلود رو وسط راه دستکاری کنه و به جای فایل اصلی، بدافزار یا فایل مخرب به خورد کاربر بده.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eمیتونید تو V2rayN از قسمت Help آپدیت کنید.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©️\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-07-26T16:32:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 9610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2816,
+      "message": "مردم ما در هر شرایطی نمک خاص خودشونو دارن :)",
+      "date": "2026-07-26T17:10:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,48 +259,12 @@
       ]
     },
     {
-      "id": 2815,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e آپدیت امنیتی کلاینت دسکتاپ v2rayN\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eکلاینت دسکتاپ v2rayN یه آپدیت امنیتی اضطراری داده و از همه کاربرا خواسته هرچه سریع‌تر برنامه‌شون رو بروزرسانی کنن. این هشدار توی چند تا ریلیز اخیر هم مدام تکرار شده و توسعه‌دهنده‌ها خیلی تأکید کردن که نسخه‌های قدیمی حتماً باید به آخرین نسخه ارتقا پیدا کنن.\u003cbr/\u003e\u003cbr/\u003eتوی توضیحات این آپدیت اومده که «یه آسیب‌پذیری خیلی بحرانی توی دانلودر داخلی نسخه‌های قدیمی حل شده؛ مشکلی که به مهاجم اجازه می‌داد فایل در حال دانلود رو وسط راه دستکاری کنه و به جای فایل اصلی، بدافزار یا فایل مخرب به خورد کاربر بده.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eمیتونید تو V2rayN از قسمت Help آپدیت کنید.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©️\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-07-26T16:32:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9490,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2816,
-      "message": "مردم ما در هر شرایطی نمک خاص خودشونو دارن :)",
-      "date": "2026-07-26T17:10:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
-        }
-      ]
-    },
-    {
       "id": 2817,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت نسخه 1.0.4 نرم‌افزار UAC SNI Spoofer Desktop منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه، ابزارهای مدیریت کانفیگ، هسته اتصال و رابط کاربری به شکل چشم‌گیری ارتقا یافته‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمهم‌ترین تغییرات و قابلیت‌های جدید:\u003c/b\u003e\u003cbr/\u003e• دریافت کانفیگ از لینک، فایل، کلیپ‌بورد یا ورودی دستی (با رمزگشایی خودکار Base64).\u003cbr/\u003e• پشتیبانی از کانفیگ‌های \u003cb\u003eVLESS\u003c/b\u003e و \u003cb\u003eTrojan\u003c/b\u003e به همراه مخزن پیش‌فرض دریافت کانفیگ.\u003cbr/\u003e• \u003cb\u003eپشتیبانی از هسته sing-box و حالت TUN:\u003c/b\u003e برای تونل کردن کامل و گسترده‌تر ترافیک سیستم.\u003cbr/\u003e• \u003cb\u003eبهینه‌سازی کلی:\u003c/b\u003e بهبود سرعت پردازش کانفیگ‌ها، پایداری اتصال و چیدمان رابط کاربری.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases/tag/1.0.4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک دریافت نسخه 1.0.4\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://floxu1.github.io/UAC-SNI-Spoofer-Windows/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eآموزش کار با برنامه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
       "date": "2026-07-26T17:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8790,
+      "views": 8980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +272,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
     },
@@ -282,7 +282,7 @@
       "date": "2026-07-26T17:39:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9230,
+      "views": 9400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +300,7 @@
       "date": "2026-07-27T13:35:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6810,
+      "views": 7240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +312,7 @@
       "date": "2026-07-27T17:22:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3850,
+      "views": 4700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +320,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
         }
       ]
     },
@@ -330,7 +330,7 @@
       "date": "2026-07-27T17:45:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
+      "views": 3570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,

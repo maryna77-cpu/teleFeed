@@ -7,132 +7,12 @@
   },
   "posts": [
     {
-      "id": 137088,
-      "message": "سنتکام در مورد محاصره ایران\u003cbr/\u003e مسیر ۱۷ فروند کشتی تجاری را تغییر دادیم، دو فروند را متوقف کردیم و دو فروند دیگر را بازرسی کردیم",
-      "date": "2026-07-27T16:00:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137089,
-      "message": "نیویورک تایمز \u003cbr/\u003e\u003cbr/\u003eترامپ در حال بررسی سه گزینه اصلی در مورد ایران است: تشدید اقدامات نظامی، تشدید تحریم‌های اقتصادی، یا اعلام پیروزی و عقب‌نشینی نیروها.",
-      "date": "2026-07-27T16:08:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137090,
-      "message": "گفته شده احتمالا قطعات یک پهپاد ام کیو ۹ است",
-      "date": "2026-07-27T16:30:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137091,
-      "message": "اظهارات  ترامپ درباره ایران:\u003cbr/\u003eایران در طول ۱۴ روز گذشته، ضربات سختی متحمل شد.\u003cbr/\u003e\u003cbr/\u003eآنها به ما درخواست بسیار مؤدبانه دادند و گفتند: \u0026#34;لطفاً دست از این کارها بردارید. بیایید ملاقات کنیم.\u0026#34;\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر، ما در این مرحله قرار داریم. باید ببینیم چه اتفاقی می‌افتد.",
-      "date": "2026-07-27T16:46:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137092,
-      "message": "احتمالاً گفتن لطفاً دیگه ما رو نزنید، اه مرسی",
-      "date": "2026-07-27T16:46:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137093,
-      "message": "ما در حال انجام مذاکرات خوبی هستیم. احتمال اینکه اتفاقات خوبی رخ دهد، وجود دارد.\u003cbr/\u003e\u003cbr/\u003eاگر این اتفاق نیفتد، ما به همان کاری که دو روز پیش انجام می‌دادیم، باز خواهیم گشت.",
-      "date": "2026-07-27T16:47:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137094,
-      "message": "ترامپ در مورد این مسئله که برخی از گزارشات می‌گوید روسیه تصاویر ماهواره‌ای در اختیار ایران قرار داده می‌گوید که،این موضوع را بررسی می‌کند و از پوتین خواهد پرسید و اگر هم قرار داده شده باشد تاثیر زیادی ندارد",
-      "date": "2026-07-27T16:48:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137095,
-      "message": "ترامپ بار دیگر گفت که از پول بلوکه شده ایران برای جبران خسارت کشتی‌ها استفاده خواهد کرد",
-      "date": "2026-07-27T16:49:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137096,
-      "message": "ترامپ دوباره اعلام کرد که اسرائیل بدون آمریکا زنده نمی‌ماند",
-      "date": "2026-07-27T16:50:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137097,
-      "message": "ترامپ در مورد فروش جنگنده اف ۳۵ به ترکیه می‌گوید هیچکس به او نمی‌گوید چه چیز را بفروشد و یا نفروشد \u003cbr/\u003eوی همچنین اضافه کرد که ترکیه کشوری با ارتش قدرتمند و تجهیزات پیشرفته است",
-      "date": "2026-07-27T16:51:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 137098,
       "message": "ترامپ در جواب این سوال که چقدر برای ایران زمان گذاشته است گفت که من زمان زیاد دارم",
       "date": "2026-07-27T17:07:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +24,7 @@
       "date": "2026-07-27T17:14:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +36,7 @@
       "date": "2026-07-27T17:22:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +48,7 @@
       "date": "2026-07-27T17:41:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
         }
       ]
     },
@@ -186,7 +66,7 @@
       "date": "2026-07-27T17:54:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +78,7 @@
       "date": "2026-07-27T18:02:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +90,7 @@
       "date": "2026-07-27T18:05:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9610,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +102,7 @@
       "date": "2026-07-27T18:35:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5570,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +114,7 @@
       "date": "2026-07-27T18:35:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,11 +126,140 @@
       "date": "2026-07-27T18:37:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137108,
+      "message": "طی جنگ اول خلیج فارس در سال ۱۹۹۱ بیش از ۷۰ درصد از هواپیماهای ائتلاف غربی که در جنگ توسط عراق سرنگون شد توسط سامانه‌ها ارتفاع پایین فروسرخ در انواع کششی و خودکششی سرنگون شدند. \u003cbr/\u003eدلیل این مسئله این است که این سامانه‌ها به واسطه تکیه به دید بصری و یا اپتیکی و نداشتن رادار توسط سامانه‌های ضد رادار سرکوب نمی‌شدند و کشف آنها سخت‌تر بود و موشک‌های فروسرخ آنها نیز در فضای پر از جنگ الکترونیک کارهای بسیار بهتری داشتند \u003cbr/\u003eتصویر \u003ca href=\"https://jangaavaran.ir/sa13-missile/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسامانه پدافند هوایی سام ۱۳ \u003c/a\u003eساخت شوروی که یک سامانه پدافند هوای با موشک‌های فرو سرخ سوار شده بر روی شاسی نفربر زرهی است",
+      "date": "2026-07-27T19:02:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137109,
+      "message": "قرارگاه خاتم الانبیا تهدید کرد که اگر قرار باشد محاصره دریایی ادامه پیدا کند و ایالات متحده جلوی  تردد دریایی ایران را بگیرد اقدامات مقتضی انجام خواهد داد",
+      "date": "2026-07-27T19:04:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137110,
+      "message": "ترامپ می‌گوید \u003cbr/\u003eایرانی‌ها به آن گفته‌اند که... لطفاً لطفاً هیچ محاصره‌ای اعمال نکن...",
+      "date": "2026-07-27T19:36:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137111,
+      "message": "والا از نظر من داره دروغ میگه \u003cbr/\u003eطبیعتاً باید ایرانی می‌گفت که تو رو به ابوالفضل بکش بیرون",
+      "date": "2026-07-27T19:36:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137112,
+      "message": "پوتین در جریان بازدید خود از کارخانه هواپیماسازی (IAZ) در ۲۴ جولای، از روند نوسازی \u003ca href=\"https://jangaavaran.ir/yak-130/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eهواپیمای یاک۱۳۰ ام\u003c/a\u003e مطلع شد.\u003cbr/\u003e\u003cbr/\u003eیاک۱۳۰ ام برای انجام ماموریت‌های جنگنده، تهاجمی و ضربتی مورد استفاده قرار خواهد گرفت، از جمله نابودی پهپادهای انتحاری سنگین و قایق‌های بدون سرنشین دشمن.",
+      "date": "2026-07-27T19:51:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137115,
+      "message": "کمپانی ساب اعلام کرد که یک کشور خاورمیانه ۲ فروند آواکس از این کمپانی به ارزش یک میلیارد دلار خرید است \u003cbr/\u003eنام کشور خریدار اعلام نشده.. امارات پیش از این چند فروند \u003ca href=\"https://jangaavaran.ir/saab-aewc/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآواکس‌های ساخت سوئد\u003c/a\u003e را در خدمت خود داشت\u003cbr/\u003eدرگیری‌های اخیر خاورمیانه و استفاده یران از پهپادهای پرواز کننده در ارتفاع پایین به نظر می‌رسد کشورهای بیشتری را به سمت خرید آواکس متمایل کرده است",
+      "date": "2026-07-27T19:52:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137116,
+      "message": "ترامپ می‌گوید که نمی‌توان ایرانیان را با رشوه راضی کرد بلکه باید آنها را به شدت شکست داد",
+      "date": "2026-07-27T20:05:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137117,
+      "message": "تصاویر منتشر شده در فضای مجازی از فرودگاه شیراز",
+      "date": "2026-07-27T20:15:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg",
+          "width": 478
+        }
+      ]
     }
   ],
   "last_updated": 0
