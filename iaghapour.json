@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 2793,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش استفاده از TOR در سرور ایران یا خارج (دسترسی به لوکیشن های مختلف در X-UI)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eما حدودا 2 سال پیش همچین ویدیویی رو ساختیم و پروژه ای که توش آموزش دادیم حذف شده به اسم torsina و البته پروژه های مختلفی بعدش ساخته شدن مشابه این پروژه که یکی از اونها رو زیر معرفی کردم.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/JrCDcBSC650?si=gg-VFxhxcWNR3dY9\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e آموزش ویدیو این روش \u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/petrovveaceslav43-pixel/tor-automate/tree/main\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👈🏻\u003c/b\u003e\u003c/i\u003e اسکریپت Tor automate\u003c/a\u003e (مشابه پروژه torsina)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-20T15:03:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
-        }
-      ]
-    },
-    {
       "id": 2794,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید پروژه iran-dev-tools؛ ابزارهای جدید برای رفع تحریم \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه اوپن‌سورس \u003cb\u003eiran-dev-tools\u003c/b\u003e که مجموعه‌ای از اسکریپت‌های هوشمند برای حل مشکلات روزمره برنامه‌نویس‌ها توی شبکه ایرانه، آپدیت شد. برعکس لیست‌های ثابت میرور، این اسکریپت‌ها سیستم‌عامل شما رو تشخیص میدن، گزینه‌ها رو بنچمارک و تست می‌کنن و بهترین تنظیمات رو اعمال می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتوی آپدیت اخیر، ۳ ابزار جدید به این مجموعه اضافه شده:\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاسکریپت android-fix:\u003c/b\u003e تنظیم و بازگردانی هوشمند میرورهای \u003cb\u003eGradle\u003c/b\u003e، \u003cb\u003eMaven\u003c/b\u003e و \u003cb\u003eFlutter\u003c/b\u003e برای ویندوز و لینوکس (حل مشکلات برطرف‌نشدنی توسعه‌دهنده‌های اندروید).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاسکریپت proxy-switch:\u003c/b\u003e تست و تنظیم مجزای پروکسی برای تک‌تک ابزارهای روزمره توسعه‌دهندگان روی ویندوز و لینوکس.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاسکریپت pkg-pack:\u003c/b\u003e باندل کردن پکیج‌های APT، ایمیج‌های داکر یا حتی خود Docker Engine روی سیستم آنلاین و نصب کاملاً آفلاین روی سیستم‌های بدون اینترنت یا دارای دسترسی محدود.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/ShahinDadashpour/iran-dev-tools\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
       "date": "2026-07-20T17:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 16700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,43 +30,7 @@
       "date": "2026-07-21T14:31:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2798,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی SIMORGH VPN؛ کلاینت چند‌موتوره اندروید برای شبکه‌های محدود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبرنامه \u003cb\u003eSIMORGH VPN\u003c/b\u003e یک کلاینت قدرتمند برای اندروید است که اختصاصی برای اتصال در شرایط اینترنت ملی، محدودیت‌های شدید و اختلالات بین‌المللی طراحی شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنکات و قابلیت‌های مهم:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BB0.png\u0026#39;)\"\u003e\u003cb\u003e🛰\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحالت MSP:\u003c/b\u003e اتصال ویژه در شرایط اینترنت ملی و اختلالات شدید شبکه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A9.png\u0026#39;)\"\u003e\u003cb\u003e🧩\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفرگمنت (Fragment) پیشرفته:\u003c/b\u003e قابلیت تنظیم پارامترهای فرگمنت برای عبور از فیلترینگ و بازیابی آی‌پی‌های کلودفلر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA3.png\u0026#39;)\"\u003e\u003cb\u003e🟣\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی از NipoVPN و MasterDNS:\u003c/b\u003e امکان وارد کردن لینک‌های \u003ccode\u003enipovpn://\u003c/code\u003e و مدیریت کامل مسیرهای DNS.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسیستم هوشمند:\u003c/b\u003e استثنا کردن خود برنامه از تونل VPN (برای جلوگیری از لوپ) و پشتیبانی از پروکسی‌های محلی SOCKS5/HTTP.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/rezakhosh78/SIMORGH\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/rezakhosh78/SIMORGH-Scanner\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک اسکنر پروژه\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-21T17:14:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2800,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت نسخه 1.0.3 نرم‌افزار UAC SNI Spoofer Windows منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003eنسخه جدید این ابزار با قابلیت‌ها و بهینه‌سازی‌های جدیدی همراه شده که در زیر میتونید برخی از این ویژگی ها رو مشاهده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eانتخاب کشور:\u003c/b\u003e امکان انتخاب کشور دلخواه برای متصل شدن به موقعیت مکانی موردنظر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبهبود سرعت:\u003c/b\u003e افزایش سرعت بارگذاری صفحات و برقراری سریع‌تر اتصال.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکنترل پروکسی ویندوز:\u003c/b\u003e اضافه شدن گزینه فعال یا غیرفعال کردن پروکسی سیستم.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرابط کاربری بهینه‌شده:\u003c/b\u003e جمع‌وجورتر شدن منوی خانه برای دسترسی راحت‌تر و یک‌جای تمامی گزینه‌ها.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک دریافت نسخه 1.0.3 از گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-22T14:12:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,9 +43,9 @@
       ]
     },
     {
-      "id": 2801,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e بهترین پنل‌ها برای نمایندگی فروش کانفیگ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👌🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eدر این ویدیو به معرفی و بررسی ۲ پنل قدرتمند می‌پردازیم که دارای سیستم نمایندگی فروش و قابلیت‌ مالتی اینباند هستند. با استفاده از این پنل‌ها می‌توانید به راحتی برای مدیران خود سطح دسترسی‌های مختلفی به عنوان نماینده تعریف کنید. اگر قصد دارید سیستم فروش خود را گسترش دهید و نمایندگان جدیدی اضافه کنید، این ویدیو دقیقاً برای شماست. \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/yan0Qf-g9eA\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D9%86%D9%84\"\u003e#پنل\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C\"\u003e#نمایندگی\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%D8%B1%D9%88%D8%B4\"\u003e#فروش\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-07-22T14:31:55Z",
+      "id": 2798,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی SIMORGH VPN؛ کلاینت چند‌موتوره اندروید برای شبکه‌های محدود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبرنامه \u003cb\u003eSIMORGH VPN\u003c/b\u003e یک کلاینت قدرتمند برای اندروید است که اختصاصی برای اتصال در شرایط اینترنت ملی، محدودیت‌های شدید و اختلالات بین‌المللی طراحی شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنکات و قابلیت‌های مهم:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BB0.png\u0026#39;)\"\u003e\u003cb\u003e🛰\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحالت MSP:\u003c/b\u003e اتصال ویژه در شرایط اینترنت ملی و اختلالات شدید شبکه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A9.png\u0026#39;)\"\u003e\u003cb\u003e🧩\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفرگمنت (Fragment) پیشرفته:\u003c/b\u003e قابلیت تنظیم پارامترهای فرگمنت برای عبور از فیلترینگ و بازیابی آی‌پی‌های کلودفلر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA3.png\u0026#39;)\"\u003e\u003cb\u003e🟣\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی از NipoVPN و MasterDNS:\u003c/b\u003e امکان وارد کردن لینک‌های \u003ccode\u003enipovpn://\u003c/code\u003e و مدیریت کامل مسیرهای DNS.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسیستم هوشمند:\u003c/b\u003e استثنا کردن خود برنامه از تونل VPN (برای جلوگیری از لوپ) و پشتیبانی از پروکسی‌های محلی SOCKS5/HTTP.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/rezakhosh78/SIMORGH\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/rezakhosh78/SIMORGH-Scanner\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک اسکنر پروژه\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-21T17:14:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 14600,
@@ -110,7 +56,43 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2800,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت نسخه 1.0.3 نرم‌افزار UAC SNI Spoofer Windows منتشر شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003eنسخه جدید این ابزار با قابلیت‌ها و بهینه‌سازی‌های جدیدی همراه شده که در زیر میتونید برخی از این ویژگی ها رو مشاهده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eانتخاب کشور:\u003c/b\u003e امکان انتخاب کشور دلخواه برای متصل شدن به موقعیت مکانی موردنظر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبهبود سرعت:\u003c/b\u003e افزایش سرعت بارگذاری صفحات و برقراری سریع‌تر اتصال.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکنترل پروکسی ویندوز:\u003c/b\u003e اضافه شدن گزینه فعال یا غیرفعال کردن پروکسی سیستم.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرابط کاربری بهینه‌شده:\u003c/b\u003e جمع‌وجورتر شدن منوی خانه برای دسترسی راحت‌تر و یک‌جای تمامی گزینه‌ها.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک دریافت نسخه 1.0.3 از گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-22T14:12:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2801,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e بهترین پنل‌ها برای نمایندگی فروش کانفیگ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👌🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eدر این ویدیو به معرفی و بررسی ۲ پنل قدرتمند می‌پردازیم که دارای سیستم نمایندگی فروش و قابلیت‌ مالتی اینباند هستند. با استفاده از این پنل‌ها می‌توانید به راحتی برای مدیران خود سطح دسترسی‌های مختلفی به عنوان نماینده تعریف کنید. اگر قصد دارید سیستم فروش خود را گسترش دهید و نمایندگان جدیدی اضافه کنید، این ویدیو دقیقاً برای شماست. \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/yan0Qf-g9eA\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D9%86%D9%84\"\u003e#پنل\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C\"\u003e#نمایندگی\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%D8%B1%D9%88%D8%B4\"\u003e#فروش\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
+      "date": "2026-07-22T14:31:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
         }
       ]
     },
@@ -120,7 +102,7 @@
       "date": "2026-07-23T11:06:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
     },
@@ -138,7 +120,7 @@
       "date": "2026-07-23T11:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +138,7 @@
       "date": "2026-07-24T14:11:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 12200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-07-24T14:37:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +162,7 @@
       "date": "2026-07-24T15:40:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +170,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
         }
       ]
     },
@@ -198,7 +180,7 @@
       "date": "2026-07-24T18:33:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +192,7 @@
       "date": "2026-07-25T14:24:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9510,
+      "views": 9800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
         }
       ]
     },
@@ -228,7 +210,7 @@
       "date": "2026-07-25T15:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9950,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +218,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
         }
       ]
     },
@@ -246,7 +228,7 @@
       "date": "2026-07-25T15:25:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9880,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +246,7 @@
       "date": "2026-07-25T19:05:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9210,
+      "views": 9610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +254,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
         }
       ]
     },
@@ -282,7 +264,7 @@
       "date": "2026-07-26T16:32:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7980,
+      "views": 8860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +282,7 @@
       "date": "2026-07-26T17:10:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
+      "views": 8290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +290,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_17.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_16.jpg"
         }
       ]
     },
@@ -318,7 +300,25 @@
       "date": "2026-07-26T17:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6330,
+      "views": 7740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2818,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e یادگیری برنامه‌نویسی، بدون تماشای ویدیو!\u003cbr/\u003e\u003cbr/\u003eخسته شدی از سایت‌های آموزش ویدیویی که فقط تماشا می‌کنی و چیزی یادت نمی‌مونه؟ برای یادگیری واقعی برنامه‌نویسی به تمرین عملی نیاز داری؛ نه یک دوره‌ی ویدیویی دیگه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e دینا کد، اولین و تنها پلتفرم دانش‌بنیان آموزش تعاملی برنامه‌نویسی در ایران، با بازخورد آنی، بدون نیاز به نصب و مستقیم توی مرورگر، مسیر یادگیری گام‌به‌گام برات فراهم می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بنویس، اجرا کن، یاد بگیر — نه فقط تماشا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e بازخورد آنی روی هر خط کد!!\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E93.png\u0026#39;)\"\u003e\u003cb\u003e🎓\u003c/b\u003e\u003c/i\u003e گواهینامه پایان دوره\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e روی هر دستگاهی، پیشرفتت همیشه همراهته\u003cbr/\u003e\u003cbr/\u003eکد تخفیف ۲۰٪:\u003cbr/\u003eWELCOME20\u003cbr/\u003e\u003cbr/\u003eشروع رایگان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"http://b2n.ir/dinacode1\" target=\"_blank\" rel=\"noopener\"\u003ehttp://b2n.ir/dinacode1\u003c/a\u003e",
+      "date": "2026-07-26T17:39:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,22 +331,16 @@
       ]
     },
     {
-      "id": 2818,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e یادگیری برنامه‌نویسی، بدون تماشای ویدیو!\u003cbr/\u003e\u003cbr/\u003eخسته شدی از سایت‌های آموزش ویدیویی که فقط تماشا می‌کنی و چیزی یادت نمی‌مونه؟ برای یادگیری واقعی برنامه‌نویسی به تمرین عملی نیاز داری؛ نه یک دوره‌ی ویدیویی دیگه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e دینا کد، اولین و تنها پلتفرم دانش‌بنیان آموزش تعاملی برنامه‌نویسی در ایران، با بازخورد آنی، بدون نیاز به نصب و مستقیم توی مرورگر، مسیر یادگیری گام‌به‌گام برات فراهم می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بنویس، اجرا کن، یاد بگیر — نه فقط تماشا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e بازخورد آنی روی هر خط کد!!\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E93.png\u0026#39;)\"\u003e\u003cb\u003e🎓\u003c/b\u003e\u003c/i\u003e گواهینامه پایان دوره\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e روی هر دستگاهی، پیشرفتت همیشه همراهته\u003cbr/\u003e\u003cbr/\u003eکد تخفیف ۲۰٪:\u003cbr/\u003eWELCOME20\u003cbr/\u003e\u003cbr/\u003eشروع رایگان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"http://b2n.ir/dinacode1\" target=\"_blank\" rel=\"noopener\"\u003ehttp://b2n.ir/dinacode1\u003c/a\u003e",
-      "date": "2026-07-26T17:39:58Z",
+      "id": 2819,
+      "message": ".\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e وقتی پنل \u003ca href=\"?q=%23%D9%BE%D8%A7%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AF\"\u003e#پاسارگاد\u003c/a\u003e رو برای بار دوم معرفی کردیم، خیلیا شاکی بودن که چرا آموزش اضافه کردن نود و تانل زدن رو نمی‌ذاری.\u003cbr/\u003e\u003cbr/\u003eدر صورتی که ما همون چند ماه پیش، وقتی برای اولین بار این پنل رو معرفی کردیم، آموزش نود و تانل رو هم براتون ضبط و منتشر کردیم.\u003cbr/\u003e\u003cbr/\u003eمی‌تونید از لینک زیر اون آموزش رو ببینید.\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/GyduDMukwb8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-27T13:35:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6190,
+      "views": 4010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
-        }
-      ]
+      "sender_name": "iAghapour | Digital Freedom 🎯"
     }
   ],
   "last_updated": 0
