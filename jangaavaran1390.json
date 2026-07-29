@@ -3,73 +3,13 @@
     "id": 0,
     "title": "جنگاوران",
     "username": "jangaavaran1390",
-    "photo_url": "https://cdn4.telesco.pe/file/ng91rFHPCxPoILiwmjrl_mO69mso-Ar_khvIOaXztsFjOYrND_35G75Tq2wmuguonrpQWBvsmCn6AWKUHPKdoT30c9CCDziU1NLLzH-5vPX2_T8WNsWriwAxrwTt3z1RUNwL-nKn36RCJsAZSD9vIpxF7YsiVnQlxRNyYOFne8cMYuO765PzWW-fOOugMJRxh95dWAHPv-Zjjk-MStebOrbxAsybzKY4-_W5R2G4vmH1XWUBWPB_0PzOn-lJebdTVu_qu7NiuGm_vcUmTr73p-IBw-XnLORWiCJFsjIueBkA6nhVkxI3nrhlxXrqg2wzQPre25-UeXytcgytbvCx_Q.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/nvIgznWZFTIDQ7UCwOq-n6CeSWMq4uY0X7Mmk2rZTN-7sH0hocuEXAtsWcRNL_I1_fTNmAANrJMYG-OAcF_lkiOlFrrUvWYEC7vjOdLFpOTFqFgEXfR6D6cjPCt39eqK6dK7PPpkiT8WqdGuGbEbTo8TS2sSnbnaDsOiBpYDQTcuTRP3Wa4hghXMeQu-XQkYNFjna7zgwQsent4M1hUn1Vk4Rzwx-Rm6-mHCVY5CRKxBHEYIR_rt5HX87AaFRS3Q1slN8TIXZ8CqtA4lCSCYkVCByNhj0gcL2kBzEnYirViVyJkzWCxOeYQDSL4DI4_JT8N7YwcxwmnOpcr7RnjjSw.jpg"
   },
   "posts": [
     {
-      "id": 137181,
-      "message": "ادعای  حوثی ها\u003cbr/\u003eحوثی‌ها با موشک‌های بالستیک به تانکر نفتی سعودی NCC Ghazal حمله کردند. دلیل حمله، نقض محاصره دریایی عربستان و عدم توجه کشتی به هشدارهای صوتی بوده است. این حمله باعث عقب‌نشینی کشتی شد.",
-      "date": "2026-07-28T17:15:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137182,
-      "message": "فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد که نیروهای آمریکایی مسیر ۱۸ فروند کشتی تجاری را تغییر داده‌اند، ۲ فروند را غیرفعال کرده‌اند و ۲ فروند دیگر را بازرسی کرده‌اند تا از رعایت مقررات از زمان از سرگیری محاصره بنادر ایران اطمینان حاصل کنند.",
-      "date": "2026-07-28T17:35:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137183,
-      "message": "کانال ۱۲ اسرائیلی:\u003cbr/\u003e\u003cbr/\u003eترامپ در جریان ملاقات با نتانیاهو، خواستار عقب‌نشینی اسرائیل از هیچ یک از مناطق در لبنان نشد.",
-      "date": "2026-07-28T17:45:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137184,
-      "message": "رویترز می‌گوید که چین در حال صحبت با یمنی‌ها است تا کشتی‌های خود را از دریای سرخ رد کند",
-      "date": "2026-07-28T17:47:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137185,
-      "message": "نتانیاهو گفتگو با ترامپ را یک گفتگو فوق العاده عالی توصیف کرد",
-      "date": "2026-07-28T18:07:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137186,
-      "message": "یک میگ ۲۹ اوکراینی یک پهپاد روسی را با شلیک موشک سرنگون می‌کند",
-      "date": "2026-07-28T18:12:21Z",
+      "id": 137198,
+      "message": "روسیه با ثبت یک پتنت، جزئیات سامانه جدید دفاع نزدیک ZAK-30 Citadel را منتشر کرده است؛ سامانه‌ای که برای حفاظت از تأسیسات ثابت در برابر حملات پهپادهای کوچک طراحی شده است.\u003cbr/\u003e\u003cbr/\u003e این سامانه از رادار جستجو، رادار رهگیری، مرکز فرماندهی و کنترل، سامانه کنترل آتش و ماژول‌های رزمی تشکیل شده و می‌تواند به مسلسل‌های ۷.۶۲ و ۱۲.۷ میلی‌متری، توپ ۳۰ میلی‌متری با مهمات قابل برنامه‌ریزی و موشک‌های عمودپرتاب مجهز شود.\u003cbr/\u003e\u003cbr/\u003e طبق اطلاعات منتشرشده، هر هدف هوایی به‌صورت خودکار رهگیری و درگیر می‌شود. در صورت عدم اصابت، سامانه با تحلیل خطای شلیک، پارامترهای آتش را اصلاح کرده و در فرصت بعدی دوباره هدف را درگیر می‌کند.\u003cbr/\u003e\u003cbr/\u003e روسیه مدعی است استفاده از چند رادار و کنترل متمرکز، امکان مقابله هم‌زمان با تعداد زیادی پهپاد کوچک را به‌صورت شبانه‌روزی فراهم می‌کند. همچنین این سامانه می‌تواند با شبکه پدافند هوایی منطقه‌ای تبادل اطلاعات کرده و از داده‌های سایر سامانه‌ها برای کشف و درگیری با اهداف استفاده کند.\u003cbr/\u003e\u003cbr/\u003e خبر توسعه ZAK-30 نخستین بار در ماه مه توسط شرکت دولتی روستک اعلام شد و اکنون با انتشار پتنت، جزئیات بیشتری از طراحی آن فاش شده است.",
+      "date": "2026-07-28T20:15:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 19000,
@@ -79,19 +19,18 @@
       "sender_name": "جنگاوران",
       "media": [
         {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg",
-          "width": 288
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
         }
       ]
     },
     {
-      "id": 137187,
-      "message": "تصاویر منتشرشده از سامانه پدافند هوایی نسبتاً کمیاب اوکراینی STASH، مجهز به رادار و \u003ca href=\"https://jangaavaran.ir/agm-114-hellfire/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eموشک‌های AGM-114 هلفایر،\u003c/a\u003e این بار بر روی شاسی خودروی Ford F-350 نصب شده است.\u003cbr/\u003e\u003cbr/\u003eسامانه STASH یک راهکار متحرک دفاع هوایی کوتاه‌برد به شمار می‌رود که برای مقابله با پهپادها، بالگردها و اهداف پروازی کم‌ارتفاع توسعه یافته است. استفاده از موشک‌های هلفایر در نقش پدافندی و نصب سامانه روی خودروهای سبک، نشان‌دهنده تلاش برای افزایش تحرک و واکنش سریع در میدان نبرد است.\u003cbr/\u003e\u003cbr/\u003e رادارهای ساخت شرکت RADA وظیفه کشف و رهگیری اهداف را بر عهده دارند و اطلاعات لازم را برای درگیری موشک‌ها فراهم می‌کنند.",
-      "date": "2026-07-28T18:50:05Z",
+      "id": 137199,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاشتراک‌ اختصاصی - V2rayNG VIP\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5244837092042750681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاگه از سرویس‌ های بی‌ کیفیت خسته شدی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5409048419211682843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eماهانه‌کلی پول‌اضافه برای فیلترشکن میدی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدنبال یه پشتیبانی 24ساعته و آنلاین هستی\u003cbr/\u003e\u003c/blockquote\u003e\u003ctg-emoji emoji-id=\"5274099962655816924\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کافیه؛ به اندازه کافی پولت دور ریختی!\u003cbr/\u003eوقتشه سرویس‌های ENETVPN رایگان تست‌کنی\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e وارد ربات بشید و تست رایگان بزنید\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5373141891321699086\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988E.png\u0026#39;)\"\u003e\u003cb\u003e😎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eقبل از خرید همیشه اول تست کن\u003c/b\u003e …\u003cbr/\u003eبرای دریافت تست و خرید سریع سرویس\u003cbr/\u003e\u003cbr/\u003e        ‌\u003ca href=\"https://t.me/ENET_VPNBOT\" target=\"_blank\"\u003e@ENET_VPNBOT\u003c/a\u003e \u003ctg-emoji emoji-id=\"5800853525139297489\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5801028459157263272\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5803192963760657634\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-28T20:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,69 +38,137 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://t.me/jangaavaran1390/137188?single"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
         }
       ]
     },
     {
-      "id": 137189,
-      "message": "وزیر امور خارجه اوکراین، آندری سیبیها، با همتای ایرانی خود، عباس عراقچی، گفتگو کرد.\u003cbr/\u003eوی اعلام کرد هدف از این تماس کاهش تنش بین دو کشور بوده",
-      "date": "2026-07-28T18:53:00Z",
+      "id": 137200,
+      "message": "فوری\u003cbr/\u003e\u003cbr/\u003eشلیک غافلگیرانه موشک های بالستیک از سمت ایران به نیرو های آمریکایی مستقر در اردن\u003cbr/\u003e\u003cbr/\u003eسنتکام می گوید دقایقی پیش سپاه پاسداران برای حمله غافلگیرانه علیه آمریکا چندین موشک بالستیک به سمت اردن شلیک کرده است و به گفته سنتکام تمامی موشک ها رهگیری شده اند.",
+      "date": "2026-07-28T22:41:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
     },
     {
-      "id": 137191,
-      "message": "وزیر امور خارجه  در حساب کاربری خود در شبکه X (توییتر سابق) نوشت: \u0026#34;از وزیر امور خارجه اوکراین اطمینان گرفتم که حمله به کشتی ایرانی، تصادفی بوده است و اوکراین تمایلی به تشدید تنش‌ها ندارد.\u0026#34; او همچنین افزود که ایران نیز تمایلی به درگیری ندارد، اما تاکید کرد: \u0026#34;هرگونه آسیب به شهروندان یا منافع ما، غیرقابل قبول است و جبران خسارت ها باید انجام شود.",
-      "date": "2026-07-28T19:00:30Z",
+      "id": 137201,
+      "message": "تصویر از آسمان اردن و شلیک موشک های پدافندی پاتریوت",
+      "date": "2026-07-28T22:43:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 17300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137202,
+      "message": "سلام صبح بخیر",
+      "date": "2026-07-29T02:35:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137203,
+      "message": "خوب همان طور که میدانید ایران دیشب به سمت پایگاه آمریکایی ها در اردن موشک شلیک کرده و خوب ......از طرفی عربستان نیز دست به عملیات نظامی هوایی و زدن برخی از اهداف و انبارهای تسلیحات نیروی‌های بسیج مردمی عراق در چندین منطقه تر جمله استان بصره زده است.. برخی گروههای عراقی طی دو روز گذشته به سمت عربستان پهپاد پرتاب میکردند",
+      "date": "2026-07-29T02:37:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
     },
     {
-      "id": 137192,
-      "message": "به نقل از اکسیوس طی جلسه ۹۰ دقیقه ترامپ و نتانیاهو آنها در مورد ایران، عادی سازی رابطه با عربستان و همچنین موضوع خرید اف ۳۵ توسط ترکیه بحث شده است",
-      "date": "2026-07-28T19:25:41Z",
+      "id": 137204,
+      "message": "— نیروهای بسیج مردمی عراق (PMF) اعلام کرد که چندین مقر رسمی این نیرو در سراسر کشور، هدف قرار گرفته‌اند که توسط نیروهای ایالات متحده و عربستان سعودی انجام شده است.",
+      "date": "2026-07-29T02:39:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
     },
     {
-      "id": 137193,
-      "message": "وزارت دفاع عربستان سعودی اعلام کرد سامانه‌های پدافندی این کشور، چندین پهپاد که از خاک عراق توسط گروه‌های شبه‌نظامی وابسته به ایران برای حمله به تاسیسات نفتی استان شرقی پرتاب شده بودند، رهگیری و منهدم کردند. سرتیپ ترکی المالکی، سخنگوی وزارت دفاع، تاکید کرد عربستان حق دفاع از خود را دارد و در زمان و مکانی که انتخاب کند پاسخ خواهد داد.",
-      "date": "2026-07-28T19:35:55Z",
+      "id": 137205,
+      "message": "دو روز پیش سخنگوی نیروهای مسلح گفت که اگر آمریکا به ما حمله نکنه ما هم متعاقباً این کارو نمی‌کنیم دقیقاً مشخص نیست داستان دیشب چی بود\u003cbr/\u003eبه شکل کلی اصلاً مشخص نیست تو ایران کی به کی است",
+      "date": "2026-07-29T03:03:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
     },
     {
-      "id": 137194,
-      "message": "تصاویر ماهواره‌ای جدیدی که دیروز گرفته شده‌اند، نشان می‌دهند که موشک‌های حوثی  به تاسیسات پالایش نفت در شهر یَنبو، عربستان سعودی، اصابت کرده‌اند.",
-      "date": "2026-07-28T19:45:10Z",
+      "id": 137206,
+      "message": "همچنین سپاه پاسداران طی بیانیه‌ای گفته که سه نفتکش متخلف را هدف قرار داده ولی توسط نهادهای نظارتی دریایی بین المللی این مسئله تایید نشده و خبری ازش نیست",
+      "date": "2026-07-29T03:03:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15100,
+      "views": 10500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137207,
+      "message": "فرماندهی مرکزی ایالات متحده اعلام کرد که نیروهای ایالات متحده و عربستان سعودی امشب به چندین نقطه مرتبط با گروه‌های  مورد حمایت ایران در شرق عراق حمله کردند. این اقدام در پاسخ به بیش از 30 حمله هوایی با استفاده از پهپاد که در 72 ساعت گذشته توسط سپاه پاسداران انقلاب اسلامی انجام شده است، صورت گرفته است.",
+      "date": "2026-07-29T03:04:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137208,
+      "message": "سنای ایالات متحده با ۸۶ رأی موافق در برابر ۱۲ رأی مخالف، لایحه دو حزبی مورد حمایت سناتور فقید لیندسی گراهام را که تحریم‌های شدیدتری را علیه روسیه و ایران اعمال می‌کند، تصویب کرد.",
+      "date": "2026-07-29T03:08:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137209,
+      "message": "فیلمی از حملات دیشب ایران به اردن که نشان می‌دهد برای شلیک ۵ موشک دست کم ۱۰ موشک پاترو شلیک شده",
+      "date": "2026-07-29T03:23:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,18 +176,42 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg",
-          "width": 480
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg",
+          "width": 478
         }
       ]
     },
     {
-      "id": 137195,
-      "message": "روس ها طی یک اقدام جالب دست به استقرار مسلسل‌های سنگین ۱۲.۷ میلیمتری   و مسلسل‌های ۷.۶۲ میلیمتری برای دفاع از شناورهای جنگی خود در برابر پهپادها کردند \u003cbr/\u003eبه عبارت روشن‌تر به جای رفتن به سمت سیستم‌های هدایت شونده پیشرفته به عقب رفتند",
-      "date": "2026-07-28T20:00:37Z",
+      "id": 137210,
+      "message": "طبق گزارش نشریه پولیتیکو، متحدان اروپایی تمایلی به حمایت از گشت‌های دریایی تحت رهبری ایالات متحده در تنگه هرمز ندارند، مگر اینکه اطمینان حاصل شود که آتش‌بس با ایران پایدار خواهد بود.",
+      "date": "2026-07-29T03:24:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 9940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137211,
+      "message": "حالا فقط فردا اگر آمریکا زیر ساخت های کشور زدی نیاین بگید کار ارتش کودککش بوده \u003cbr/\u003eارتش کودککش  مغز نداره شماها خودتونو علامه دهر می‌دونید",
+      "date": "2026-07-29T03:33:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137212,
+      "message": "نگاهی به زرادخانه رو‌به‌رشد موشک‌های هسته‌ای دوربرد چین\u003cbr/\u003e\u003cbr/\u003eگزارش جدید TWZ به بررسی جامع موشک‌های بالستیک دوربرد هسته‌ای چین و روند نوسازی سریع این زرادخانه پرداخته است.\u003cbr/\u003e\u003cbr/\u003eبر اساس این گزارش، چین در حال توسعه هم‌زمان سه مؤلفه اصلی بازدارندگی هسته‌ای خود (زمین‌پایه، زیردریایی‌پایه و هواپایه) است. موشک‌های قاره‌پیمای متحرک، سیلوهای جدید پرتاب، زیردریایی‌های مجهز به موشک بالستیک و بمب‌افکن‌های دوربرد، همگی بخشی از این برنامه هستند. \u003cbr/\u003e\u003cbr/\u003eاین گزارش همچنین به\u003ca href=\"https://jangaavaran.ir/df-41-missile/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e خانواده موشک‌های DF-31 ، DF-41\u003c/a\u003e و موشک‌های بالستیک زیردریایی‌پرتاب JL-2 و JL-3 اشاره می‌کند و توضیح می‌دهد که این سامانه‌ها توان هدف قرار دادن اهداف دوردست، از جمله خاک ایالات متحده، را به چین می‌دهند. \u003cbr/\u003e\u003cbr/\u003eکارشناسان معتقدند سرعت گسترش زرادخانه هسته‌ای چین در سال‌های اخیر از هر کشور دیگری بیشتر بوده و این روند می‌تواند موازنه راهبردی میان پکن، واشنگتن و مسکو را بیش از پیش تحت تأثیر قرار دهد.",
+      "date": "2026-07-29T03:40:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,92 +224,64 @@
       ]
     },
     {
-      "id": 137196,
-      "message": "اوکراین پهپاد رهگیر «Cyclops» را به‌طور رسمی وارد خدمت کرد\u003cbr/\u003e\u003cbr/\u003eوزارت دفاع اوکراین از تأیید و ورود رسمی پهپاد رهگیر Cyclops به خدمت نیروهای مسلح این کشور خبر داد؛ سامانه‌ای که برای مقابله با پهپادهای شناسایی و انتحاری روسیه، به‌ویژه شاهد ، توسعه یافته است.\u003cbr/\u003e\u003cbr/\u003e این پهپاد در دو نسخه تولید شده است:\u003cbr/\u003e\u003cbr/\u003e نسخه پایه: برای انهدام اهداف زمینی و پهپادهای کندپرواز در ارتفاع پایین.\u003cbr/\u003e- نسخه Cyclops V2: با توانایی رهگیری و انهدام پهپادهای پرسرعت شاهد در ارتفاع بالا.\u003cbr/\u003e\u003cbr/\u003e بر اساس اعلام وزارت دفاع اوکراین، پهپاد Cyclops دارای دهانه بالی بیش از یک متر، مداومت پروازی نزدیک به ۹۰ دقیقه و سقف پروازی بالاتر از ارتفاع عملیاتی پهپادهای شناسایی و تهاجمی روسیه است.\u003cbr/\u003e\u003cbr/\u003e  اوکراین مدعی هستند نسخه Cyclops V2 تاکنون بیش از ۱۰۰ هدف هوایی را منهدم کرده \u003cbr/\u003eیکی از نسخه‌های این پهپاد بر روی بال خود مجهز به یک لوله با چند گلوله ساچمه‌ای است که پشت سر پهپاد انتحاری قرار گرفته و با گلوله ساچمه به طرف آن شلیک می‌کند تا سرنگون شود\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86\"\u003e#اوکراین\u003c/a\u003e \u003ca href=\"?q=%23%D8%B1%D9%88%D8%B3%DB%8C%D9%87\"\u003e#روسیه\u003c/a\u003e \u003ca href=\"?q=%23Cyclops\"\u003e#Cyclops\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D9%87%D9%BE%D8%A7%D8%AF\"\u003e#پهپاد\u003c/a\u003e \u003ca href=\"?q=%23Shahed\"\u003e#Shahed\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF_%D9%87%D9%88%D8%A7%DB%8C%DB%8C\"\u003e#پدافند_هوایی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF_%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%DB%8C\"\u003e#جنگ_پهپادی\u003c/a\u003e",
-      "date": "2026-07-28T20:09:02Z",
+      "id": 137213,
+      "message": "حوثی‌ها مدعی شده‌اند که بامداد امروز، یک پهپاد سعودی  را در آسمان استان صعده در یمن سرنگون کرده‌اند.",
+      "date": "2026-07-29T04:05:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 137198,
-      "message": "روسیه با ثبت یک پتنت، جزئیات سامانه جدید دفاع نزدیک ZAK-30 Citadel را منتشر کرده است؛ سامانه‌ای که برای حفاظت از تأسیسات ثابت در برابر حملات پهپادهای کوچک طراحی شده است.\u003cbr/\u003e\u003cbr/\u003e این سامانه از رادار جستجو، رادار رهگیری، مرکز فرماندهی و کنترل، سامانه کنترل آتش و ماژول‌های رزمی تشکیل شده و می‌تواند به مسلسل‌های ۷.۶۲ و ۱۲.۷ میلی‌متری، توپ ۳۰ میلی‌متری با مهمات قابل برنامه‌ریزی و موشک‌های عمودپرتاب مجهز شود.\u003cbr/\u003e\u003cbr/\u003e طبق اطلاعات منتشرشده، هر هدف هوایی به‌صورت خودکار رهگیری و درگیر می‌شود. در صورت عدم اصابت، سامانه با تحلیل خطای شلیک، پارامترهای آتش را اصلاح کرده و در فرصت بعدی دوباره هدف را درگیر می‌کند.\u003cbr/\u003e\u003cbr/\u003e روسیه مدعی است استفاده از چند رادار و کنترل متمرکز، امکان مقابله هم‌زمان با تعداد زیادی پهپاد کوچک را به‌صورت شبانه‌روزی فراهم می‌کند. همچنین این سامانه می‌تواند با شبکه پدافند هوایی منطقه‌ای تبادل اطلاعات کرده و از داده‌های سایر سامانه‌ها برای کشف و درگیری با اهداف استفاده کند.\u003cbr/\u003e\u003cbr/\u003e خبر توسعه ZAK-30 نخستین بار در ماه مه توسط شرکت دولتی روستک اعلام شد و اکنون با انتشار پتنت، جزئیات بیشتری از طراحی آن فاش شده است.",
-      "date": "2026-07-28T20:15:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
-        }
-      ]
-    },
-    {
-      "id": 137199,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاشتراک‌ اختصاصی - V2rayNG VIP\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5244837092042750681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاگه از سرویس‌ های بی‌ کیفیت خسته شدی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5409048419211682843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eماهانه‌کلی پول‌اضافه برای فیلترشکن میدی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدنبال یه پشتیبانی 24ساعته و آنلاین هستی\u003cbr/\u003e\u003c/blockquote\u003e\u003ctg-emoji emoji-id=\"5274099962655816924\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کافیه؛ به اندازه کافی پولت دور ریختی!\u003cbr/\u003eوقتشه سرویس‌های ENETVPN رایگان تست‌کنی\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e وارد ربات بشید و تست رایگان بزنید\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5373141891321699086\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988E.png\u0026#39;)\"\u003e\u003cb\u003e😎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eقبل از خرید همیشه اول تست کن\u003c/b\u003e …\u003cbr/\u003eبرای دریافت تست و خرید سریع سرویس\u003cbr/\u003e\u003cbr/\u003e        ‌\u003ca href=\"https://t.me/ENET_VPNBOT\" target=\"_blank\"\u003e@ENET_VPNBOT\u003c/a\u003e \u003ctg-emoji emoji-id=\"5800853525139297489\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5801028459157263272\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5803192963760657634\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-28T20:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 137200,
-      "message": "فوری\u003cbr/\u003e\u003cbr/\u003eشلیک غافلگیرانه موشک های بالستیک از سمت ایران به نیرو های آمریکایی مستقر در اردن\u003cbr/\u003e\u003cbr/\u003eسنتکام می گوید دقایقی پیش سپاه پاسداران برای حمله غافلگیرانه علیه آمریکا چندین موشک بالستیک به سمت اردن شلیک کرده است و به گفته سنتکام تمامی موشک ها رهگیری شده اند.",
-      "date": "2026-07-28T22:41:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7600,
+      "views": 7440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
     },
     {
-      "id": 137201,
-      "message": "تصویر از آسمان اردن و شلیک موشک های پدافندی پاتریوت",
-      "date": "2026-07-28T22:43:28Z",
+      "id": 137214,
+      "message": "سه منبع آگاه از این قرارداد به رویترز گفتند: «انتظار می‌رود ایران ظرف چند هفته اولین محموله از ۴۰۰ موشک‌انداز دوش‌پرتاب ساخت چین را دریافت کند، چرا که این کشور در بحبوحه جنگ با ایالات متحده، در حال بازسازی دفاع خود است.»\u003cbr/\u003e\u003cbr/\u003eاین خرید که ارزش آن ۶۰ تا ۷۰ میلیون دلار است، یکی از بزرگترین تلاش‌های شناخته‌شده تهران برای تقویت دفاع هوایی کوتاه‌برد خود از زمان آغاز جنگ با ایالات متحده و اسرائیل است که شکاف‌هایی را در توانایی ایران برای محافظت از اماکن نظامی و زیرساخت‌های استراتژیک آشکار کرد.\u003cbr/\u003e\u003cbr/\u003eاین منابع گفتند که این قرارداد شامل خرید بین ۳۰۰ تا ۴۰۰ سامانه دفاع هوایی قابل حمل توسط نفر (MANPADS)، از جمله موشک‌های QW-12 و \u003ca href=\"https://jangaavaran.ir/fn-6-missile/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eFN-16\u003c/a\u003e ساخت چین است.» \u003cbr/\u003eاگرچه این گزارش تایید نشده ولی بر اساس گفته ترامپ،چینی‌ها به ان قول دادن سلاح‌هایی در اختیار ایران قرار ندهند",
+      "date": "2026-07-29T04:12:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 6840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
-        }
-      ]
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137215,
+      "message": "اساس گزارش نیویورک تایمز، ایران برای حمله به یک بندر در اوکراین با استفاده از یک موشک بالستیک با سر جنگی کوچک، آماده‌سازی‌هایی انجام داده است. هدف اصلی این حمله، ارسال یک پیام نمادین است، پس از حمله‌ای که اوکراین علیه یک کشتی ایرانی در دریای خزر انجام داد.",
+      "date": "2026-07-29T04:29:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137216,
+      "message": "نیروی هوایی جمهوری اسلامی ایران اعلام کرد که پیکر سرتیپ خلبان مجید کاظمی، خلبان \u003ca href=\"https://jangaavaran.ir/su24/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eجنگنده تهاجمی Su-24MK\u003c/a\u003e، که در تاریخ ۲ مارس توسط جنگنده‌های F-15QA نیروی هوایی قطر در حین تلاش برای حمله به پایگاه هوایی العدید سرنگون شد، پیدا شده و ظرف ساعات آینده به ایران بازگردانده می‌شود. نیروی هوایی ایران افزود که مقامات همچنان در حال تعیین محل سه خلبان دیگر Su-24MK سرنگون شده هستند و جزئیات مراسم تشییع جنازه مجید کاظمی متعاقباً اعلام خواهد شد.",
+      "date": "2026-07-29T04:32:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137217,
+      "message": "همچنان پهپادهای سعودی و آمریکایی بر فراز عراق پرواز میکنند",
+      "date": "2026-07-29T04:45:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 934,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
     }
   ],
   "last_updated": 0
