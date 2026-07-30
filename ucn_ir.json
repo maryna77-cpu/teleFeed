@@ -3,122 +3,16 @@
     "id": 0,
     "title": "اخبار بدون سانسور",
     "username": "ucn_ir",
-    "photo_url": "https://cdn4.telesco.pe/file/bAk66Sb_V8q28gVMq4dTr3oanO9eXFUCgBqPXEgXwth3_8RmShQpOHjyIo8JcJTvGCqomwKs2t58D8wEGgXB0O1Z_qB_8KyaJVsXYqFMeMFeZoFdDyHIxTVFhWFUFgBoQgJTVnWTbuCAuPBnOGNz_Evx1Uskq7Wxn8NITDwvbd0k7g2SNfg6PvdNeas4yDmHgJrLAS0ujmqVS6i1HAnC8tKdJ-g9HvCqdaKSLRCu4jVkeCUiDWDES-G-XivrHBZEL08nNS2TCWoBFsRxysAQCRz8e1mGqu8Htv4A7ckwj10tKshExjMZzdMYSfkCuoR8hpFtL9iwQaB0DeEjv2et8A.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/k8ba08N9yqf7K8OS7x4MgmhojOK7ZrkTp9f0tdqWmjuOOaV1EYjokOXFLTdp1ifJCZT3cadVigqRA845BErCEpEcN19vK-ydclgpFQOUZZJUkbw2eMRwHXsrz6UDkfee_T645O9RjORndG7u8uylJOGgCGVo7nAMaQeyDgSwYKCwS67JoxUp7ZTsVS8GEz-jKOBxohO9MIU_0sWitnaWYiyqovZvGCVPxU1kQHXCJkYYurBYgrhgZCyxIQKM9NJcRI4pKLEHIAXF_1tDmYRptG_YHFXVeStLT76OTbiogzdwVenzJtbNaHQDZ9UKOZHqJFjowDGfcmaM-d1HnVFv6g.jpg"
   },
   "posts": [
-    {
-      "id": 37485,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e صحنه‌هایی از آبادان پس از حمله‌های موشکی آمریکا، بامداد امروز \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-30T07:30:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 37486,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e صحنه‌هایی از آبادان پس از حمله‌های موشکی آمریکا، بامداد امروز \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-30T07:31:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_6.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg"
-        }
-      ]
-    },
-    {
-      "id": 37488,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eعملیات امداد در محله چاه‌تنگو شهر قشم پس از حمله هوایی آمریکا به یک ساختمان مسکونی ادامه دارد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eدو کودک از زیر آوار نجات یافته و به بیمارستان منتقل شده‌اند. تلاش برای نجات سه عضو دیگر خانواده که هنگام حمله در خانه بودند، همچنان ادامه دارد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-30T07:37:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4910,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_3.jpg",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 37489,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eحملات مرتبط با آمریکا\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eموشک‌های بیشتری از نوع ATACMS از کویت به‌سوی ایران، احتمالاً آبادان، شلیک شدند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eانفجارهایی در آبادان گزارش شده و موشک‌های شلیک‌شده از کویت این منطقه را هدف قرار داده‌اند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eمعاون استاندار هرمزگان اعلام کرد ساعتی پیش چند منطقه در نزدیکی جزیره قشم هدف حمله‌های هوایی آمریکا قرار گرفت.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eمعاون امنیتی استاندار خوزستان اعلام کرد چند نقطه در آبادان هدف حمله‌های آمریکا قرار گرفته است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eخبرگزاری تسنیم: منطقه‌ای در حومه کازرون هدف حمله هوایی آمریکا قرار گرفت.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eایرنا: یک حمله هوایی آمریکا یک ساختمان مسکونی در محله چاه‌تنگو شهر قشم را هدف قرار داد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eگروه‌های امداد در حال جست‌وجوی دو نفر گرفتار زیر آوار هستند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eانفجارهای تازه‌ای در جزیره قشم گزارش شده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eانفجارهایی در بندرعباس گزارش شده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eانفجارهای شدید در اهواز گزارش شده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eمعاون استاندار خوزستان اعلام کرد مناطقی در نزدیکی شادگان هدف حمله‌های هوایی آمریکا قرار گرفته‌اند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eمعاون استاندار خوزستان اعلام کرد مناطقی در نزدیکی اروندکنار و اهواز هدف حمله‌های هوایی آمریکا قرار گرفته‌اند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-30T07:42:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور"
-    },
-    {
-      "id": 37490,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eحملات مرتبط با جمهوری اسلامی ایران در حوالی صبح\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eموشک‌های بالستیک از خمین و تبریز نیز شلیک شدند. این موشک‌ها احتمالاً نیروهای آمریکایی در اردن را هدف قرار داده‌اند.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eتصاویری از خمین و تبریز، محل شلیک موشک‌های بالستیک، منتشر شده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eپایگاه هوایی موفق السلتی در اردن هدف قرار گرفت.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eهمزمان با حمله موشکی ایران به پایگاه هوایی موفق السلتی، رهگیری موشک‌ها بر فراز اردن گزارش شد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eارتش اردن اعلام کرد پنج موشک بالستیک ایرانی شلیک‌شده به‌سوی اردن را رهگیری کرده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eپنج یا شش موشک شلیک شده بود؛ بنابراین یا همه آن‌ها رهگیری شده‌اند یا یکی از آن‌ها به هدف اصابت کرده است. تاکنون هیچ تصویری از اصابت به پایگاه هوایی موفق السلتی منتشر نشده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eنرخ رهگیری آمریکا نسبت به دو حمله پیشین بهبود یافته است. احتمال می‌رود شمار بیشتری از موشک‌های رهگیر PAC-3 به پایگاه‌های آمریکا در اردن تحویل داده شده باشد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eنیروی دریایی سپاه اعلام کرد دو نفتکش که با پشتیبانی هواپیماهای آمریکایی قصد عبور از مسیر جنوبی تنگه هرمز را داشتند، پس از وقوع یک «آتش‌سوزی شدید» در یکی از نفتکش‌ها، مجبور به بازگشت شدند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاحتمال می‌رود «آتش‌سوزی شدید» بر اثر یک حمله ایران رخ داده باشد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-30T07:45:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_18.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_12.jpg"
-        }
-      ]
-    },
     {
       "id": 37495,
       "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eسپاه اعلام کرد امروز مجدد حمله شدیدی به مواضع آمریکا انجام خواهد داد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-07-30T07:47:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5480,
+      "views": 8810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +24,7 @@
       "date": "2026-07-30T08:43:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2560,
+      "views": 7310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +32,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg"
         },
         {
           "type": "video",
@@ -146,19 +40,19 @@
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_6.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_17.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_16.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_12.jpg"
         }
       ]
     },
@@ -168,7 +62,7 @@
       "date": "2026-07-30T08:49:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2130,
+      "views": 7540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +81,7 @@
       "date": "2026-07-30T09:01:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1520,
+      "views": 7670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,9 +93,147 @@
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg"
         }
       ]
+    },
+    {
+      "id": 37505,
+      "message": "\u003ctg-emoji emoji-id=\"5785322240497160767\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eفرماندهی مرکزی آمریکا (سنتکام) اعلام کرد نیروهایش در پاسخ به تلاش ایران برای حمله موشکی به نیروهای آمریکایی در اردن، موج گسترده‌ای از حمله‌ها را در سراسر ایران انجام داده‌اند.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eسنتکام اعلام کرد این حمله‌ها ده‌ها موضع سپاه، از جمله مراکز فرماندهی، تأسیسات موشکی و پهپادی، مواضع دیده‌بانی ساحلی و پدافند هوایی و همچنین دارایی‌های دریایی را هدف قرار داده است.\u003cbr/\u003e\u003cbr/\u003eبه گفته سنتکام، هدف از این حمله‌ها کاهش بیشتر توان ایران برای تهدید نیروهای آمریکایی، کشتیرانی بازرگانی، کشورهای همسایه خلیج فارس و همچنین گروه‌های هم‌پیمان ایران بوده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-30T09:37:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6540,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 37506,
+      "message": "\u003ctg-emoji emoji-id=\"5210952531676504517\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاظهارات نوید زیادخان:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e«از همه عذرخواهی می‌کنم. اشتباه کردم. اجازه بدهید درمان شوم، توبه کنم و به زندگی‌ام برگردم.\u003cbr/\u003e\u003cbr/\u003eاتفاق‌هایی را که میان من و آن خانم‌ها رخ می‌داد، در ذهنم بزرگ می‌کردم و دیگر کنترلم را از دست می‌دادم.\u003cbr/\u003e\u003cbr/\u003eخانم‌هایی که آن‌ها را کتک می‌زدم، از من شکایتی نمی‌کردند.\u003cbr/\u003e\u003cbr/\u003eواکنش مردم باعث شد به خودم بیایم و تصمیم بگیرم این رفتارها را برای همیشه کنار بگذارم.\u003cbr/\u003e\u003cbr/\u003eاز صمیم قلب از همه مردم عذرخواهی می‌کنم.»\u003cbr/\u003e\u003cbr/\u003eهمچنین، صفحه اینستاگرام او نشان می‌دهد که خود را «مهندس فناوری اطلاعات» معرفی کرده است.\u003cbr/\u003e\u003c/blockquote\u003e﻿\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-30T09:57:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 37509,
+      "message": "\u003ca href=\"?q=%23%D8%AA%D9%88%D8%A8%D9%87_%DA%AF%D8%B1%DA%AF_%D9%85%D8%B1%DA%AF%D9%87\"\u003e#توبه_گرگ_مرگه\u003c/a\u003e \u003ctg-emoji emoji-id=\"5395517004486551976\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B7.png\u0026#39;)\"\u003e\u003cb\u003e🤷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-30T10:07:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور"
+    },
+    {
+      "id": 37510,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دانشگاه علوم پزشکی هرمزگان اعلام کرد در پی حمله شب گذشته آمریکا به یک منزل مسکونی در منطقه چاه‌تنگوی قشم، سه عضو یک خانواده جان باختند و دو نفر دیگر زخمی شدند.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eجان‌باختگان:\u003c/b\u003e\u003cbr/\u003eپدر\u003cbr/\u003eمادر\u003cbr/\u003eکودک ۲ ساله\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eزخمی‌ها:\u003c/b\u003e\u003cbr/\u003eکودک ۷ ساله\u003cbr/\u003eکودک ۹ ساله\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-30T10:43:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_3.jpg",
+          "width": 352
+        }
+      ]
+    },
+    {
+      "id": 37511,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ویدیویی از لحظه بازداشت نوید زیادخان قره‌داغی در خیابان منتشر شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تماشای این محتوا به همگان توصیه نمی‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-30T10:45:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_11.jpg",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 37512,
+      "message": "\u003ctg-emoji emoji-id=\"6016951188275074419\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بنیامین نتانیاهو، نخست‌وزیر اسرائیل:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e«به دیگر متحدان به‌اصطلاح خود نگاه کنید. وقتی ما با ایران می‌جنگیم، در واقع به‌جای آن‌ها می‌جنگیم. ما با حکومتی می‌جنگیم که دیگران را مرعوب می‌کند. ما در حال جنگِ جهان متمدن هستیم، اما بیشتر کشورها بیش از حد ضعیف هستند.»\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-30T11:01:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 37513,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eوزارت دفاع کویت اعلام کرد حمله امروز ایران ساختمانی متعلق به یک شرکت چینی در شمال این کشور را هدف قرار داد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبه گفته این وزارتخانه، در این حمله یک کارگر کشته شد و خسارت سنگینی به ساختمان وارد آمد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-30T11:03:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور"
+    },
+    {
+      "id": 37514,
+      "message": "\u003ctg-emoji emoji-id=\"5440660757194744323\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سپاه در بیانیه‌ای اعلام کرد:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eدر پاسخ به حمله هوایی آمریکا به منازل مسکونی در قشم، با حمله موشکی به پایگاه هوایی الازرق در اردن، سه فروند جنگنده F-35 را به‌طور کامل منهدم و به سه فروند دیگر آسیب سنگین وارد کرده است. سپاه همچنین مدعی کشته شدن چند افسر و نیروی فنی آمریکایی در این حمله شد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-30T11:04:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور"
     }
   ],
   "last_updated": 0
