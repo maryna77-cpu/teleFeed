@@ -12,7 +12,7 @@
       "date": "2026-07-30T17:57:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,11 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_4.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg"
         },
         {
           "type": "video",
@@ -32,7 +28,11 @@
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_12.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_2.jpg"
         }
       ]
     },
@@ -42,7 +42,7 @@
       "date": "2026-07-30T17:57:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 12500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-07-30T18:13:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +62,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_3.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_4.jpg",
           "width": 1320
         }
       ]
@@ -73,7 +73,7 @@
       "date": "2026-07-30T19:09:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +81,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_6.jpg",
           "width": 852
         }
       ]
@@ -92,7 +92,7 @@
       "date": "2026-07-30T19:58:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9760,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +100,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg"
         }
       ]
     },
@@ -110,7 +110,7 @@
       "date": "2026-07-30T20:27:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9280,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,15 +118,15 @@
       "media": [
         {
           "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_9.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg"
+        },
+        {
+          "type": "video",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_12.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg"
         }
       ]
     },
@@ -136,7 +136,7 @@
       "date": "2026-07-30T21:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8029,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_16.jpg",
           "width": 720
         }
       ]
@@ -155,7 +155,7 @@
       "date": "2026-07-30T21:25:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7040,
+      "views": 9890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +167,7 @@
       "date": "2026-07-30T22:08:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5250,
+      "views": 8420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,15 +175,15 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_3.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg"
         }
       ]
     },
@@ -193,7 +193,7 @@
       "date": "2026-07-30T22:28:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 8210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +205,7 @@
       "date": "2026-07-30T23:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2860,
+      "views": 6820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +217,7 @@
       "date": "2026-07-30T23:20:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2740,
+      "views": 6840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +229,7 @@
       "date": "2026-07-30T23:26:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2510,
+      "views": 6750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,8 +237,27 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg",
           "width": 976
+        }
+      ]
+    },
+    {
+      "id": 37557,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eادامه موج ورود مهاجران مراکشی به سئوتا\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eتصاویر تازه‌ای از ادامه موج ورود غیرقانونی مهاجران مراکشی به شهر سئوتا، منطقه خودمختار اسپانیا در شمال آفریقا، منتشر شده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-31T04:34:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_1.jpg",
+          "width": 848
         }
       ]
     }
