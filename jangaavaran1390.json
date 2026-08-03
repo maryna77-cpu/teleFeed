@@ -7,114 +7,12 @@
   },
   "posts": [
     {
-      "id": 137623,
-      "message": "ترامپ: ما حمله ای را برنامه ریزی کرده بودیم که از زمان جنگ جهانی دوم بی سابقه بود. اگر انجام میشد برایشان فاجعه بار بود. آن ها از ما خواستند که این کار را نکنیم، اگر بخواهم صادق باشم عربستان سعودی هم از ما خواست که این کار را نکنیم. به نظر آن ها توافق در دسترس بود.",
-      "date": "2026-08-02T22:00:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137624,
-      "message": "ترامپ هنوز هیچی نشده در حال دفاع از مذاکره و انتقاد از برنامه حمله خودش:\u003cbr/\u003e\u003cbr/\u003eکسی نمی‌داند نتیجه این حمله به کجا ختم می‌شد. شاید مردم ایران به سمت کشور های همسایه سرازیر می‌شدند. فاجعه می‌شد، خیلی اتفاقات بدی ممکن بود بیفتد.\u003cbr/\u003e\u003cbr/\u003eپ‌ن: خب مرد حساب خودت برنامه حمله رو چیدی، اگه انقدر بده خب نکن.",
-      "date": "2026-08-02T22:09:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137625,
-      "message": "ترامپ: من ترجیح می‌دهم توافق بکنم. من دنبال آدم کشتن نیستم.",
-      "date": "2026-08-02T22:10:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137626,
-      "message": "سازمان عملیات تجارت دریایی بریتانیا UKMTO از احتمال وقوع یک حادثه در آب های عمان خبر داد. گفته شده یک ناخدای یک نفت کش صدای انفجار شنیده است اما خود تانکر سالم و سلامت است.",
-      "date": "2026-08-02T22:22:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137627,
-      "message": "واقعیتش دیگه جای تحلیل هم وجود نداره، خود ترامپ داره رسما اعلام می کنه که هیچ علاقه ای به پیش بردن راه نظامی نداره و این حتی بعد از سفر نتانیاهو و نهایت زور زدن اسرائیل برای جنگ هست. از اینجا به بعد اگر جنگی بشه فقط هنر تصمیم گیران نظام هست.",
-      "date": "2026-08-02T22:28:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137628,
-      "message": "سلام صبح بخیر",
-      "date": "2026-08-03T03:05:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 137629,
-      "message": "رویترز: دو تانکر نفت خام عربستان سعودی با خاموش کردن سیستم‌های شناسایی خودکار (AIS)، در تعطیلات آخر هفته از تنگه باب‌المندب عبور کردند، علی‌رغم اعلام تحریم دریایی توسط حوثی‌ها. حجم ترافیک تجاری در تنگه‌های باب‌المندب و هرمز پس از حملات اخیر کاهش یافته است.",
-      "date": "2026-08-03T03:06:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137630,
-      "message": "شرکت ملی برق کوبا اعلام کرد که شبکه برق سراسری این کشور دچار قطعی شده است.",
-      "date": "2026-08-03T03:16:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 137631,
       "message": "امشب، چندین پهپاد اوکراینی به دانشگاه دولتی فناوری بلگورود در روسیه حمله کردند. هدف این حمله، ساختمانی بود که برای توسعه، آزمایش و آموزش اپراتورهای پهپاد استفاده می‌شد.\u003cbr/\u003e\u003cbr/\u003eاین مرکز در حال حاضر در آتش است و خسارات جدی وارد شده است.",
       "date": "2026-08-03T03:17:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +20,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_13.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
         },
         {
           "type": "video",
@@ -130,11 +32,7 @@
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
         }
       ]
     },
@@ -144,7 +42,7 @@
       "date": "2026-08-03T03:26:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 17500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +54,7 @@
       "date": "2026-08-03T03:27:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +66,7 @@
       "date": "2026-08-03T03:34:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 19300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
         }
       ]
     },
@@ -186,7 +84,7 @@
       "date": "2026-08-03T03:37:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +96,7 @@
       "date": "2026-08-03T04:45:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +108,7 @@
       "date": "2026-08-03T05:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7860,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,11 +116,11 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_14.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
         }
       ]
     },
@@ -232,7 +130,112 @@
       "date": "2026-08-03T05:42:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
+      "views": 17100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137643,
+      "message": "در روزهای اخیر، پهپادهای Geran-2 روسی به طور مکرر حریم هوایی رومانی را نقض کرده و باعث رهگیری آن‌ها توسط جنگنده‌های F-16AM نیروی هوایی رومانی شده‌اند. این پهپادها برای حمله به اهداف اوکراینی وارد حریم هوایی رومانی می‌شوند. آخرین حادثه چند ساعت پیش رخ داد؛ پدافند هوایی اوکراین یک پهپاد Geran-2 را پس از ۲۰ دقیقه پرواز در خاک رومانی سرنگون کرد و بقایای آن در یک مزرعه سقوط کرد.",
+      "date": "2026-08-03T06:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137644,
+      "message": "اوکراین با استفاده از پهپادهای خود، مرکز توزیع محصولات شرکت Wildberries را در شهر خراستوو، استان ولادیمیر مورد هدف قرار داد.",
+      "date": "2026-08-03T06:46:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137650,
+      "message": "سی‌ان‌ان: یک افسر ارشد سنتکام هفته گذشته ایمیلی به گروه بزرگی از تحلیلگران ارسال کرد و در آن نوشت: «ما به دنبال راه‌های جدید، خلاقانه و غیرمتعارف برای فشار و مجازات ایران هستیم.» به گفته دو منبع، این اقدامی نسبتاً غیرمعمول است که در آن تصمیم گرفته شد از طریق ایمیل یک «طوفان فکری» گسترده انجام شود.",
+      "date": "2026-08-03T06:58:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137651,
+      "message": "سخنگوی وزارت امور خارجه ایران گفته است که در حال حاضر هیچ مذاکره‌ای با ایالات متحده آمریکا وجود ندارد. مذاکرات فقط با عمان در مورد تنگه هرمز در جریان است. او همچنین گفت که ایران با عمان در تلاش است تا یک مسیر موقت و امن در این تنگه ایجاد کند. سخنگو افزود که دستیابی به توافقی با عمان در مورد این مسیر، به تنهایی کافی نیست تا تنگه هرمز دوباره باز شود. تا زمانی که تهاجمات آمریکا ادامه داشته باشد، وضعیت به همین منوال باقی خواهد ماند.",
+      "date": "2026-08-03T07:34:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137652,
+      "message": "بایکار از پهپاد تهاجمی K2 با برد بیش از ۲۰۰۰ کیلومتر رونمایی کرد\u003cbr/\u003e\u003cbr/\u003eشرکت ترکیه‌ای Baykar ویدیویی از پرواز هماهنگ ۱۰ فروند پهپاد K2 در قالب یک گله (Swarm) منتشر کرد. این پهپاد جدید دارای بردی بیش از ۲۰۰۰ کیلومتر و توان حمل ۲۰۰ کیلوگرم محموله یا سرجنگی است و برای ادامه مأموریت در شرایط اخلال شدید GPS و جنگ الکترونیک طراحی شده است.\u003cbr/\u003e\u003cbr/\u003eبا این حال، کارشناسان معتقدند فناوری‌های پیشرفته و قابلیت بازگشت به پایگاه، هزینه ساخت K2 را افزایش می‌دهد و ممکن است استفاده گسترده از آن در حملات انبوه را با چالش روبه‌رو کند. تجربه جنگ اوکراین نیز نشان داده که در بسیاری از موارد، تعداد زیاد پهپادهای ارزان‌قیمت می‌تواند مؤثرتر از تعداد محدودی پهپاد پیشرفته و گران‌قیمت باشد.",
+      "date": "2026-08-03T08:50:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9720,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 137653,
+      "message": "سپاه پاسداران مدعی سرنگونی یک پهپاد ام کیو۹ برفراز تنگه هرمز شده است",
+      "date": "2026-08-03T09:34:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
