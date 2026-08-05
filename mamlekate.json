@@ -12,7 +12,7 @@
       "date": "2026-08-02T18:10:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150000,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-08-02T18:12:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 160000,
+      "views": 161000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +36,7 @@
       "date": "2026-08-03T00:30:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156000,
+      "views": 157000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +48,7 @@
       "date": "2026-08-03T08:30:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 139000,
+      "views": 140000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +80,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_4.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_9.jpg",
           "width": 640
         }
       ]
@@ -91,7 +91,7 @@
       "date": "2026-08-03T19:19:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 140000,
+      "views": 141000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +99,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_5.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_2.jpg",
           "width": 640
         }
       ]
@@ -110,7 +110,7 @@
       "date": "2026-08-03T19:23:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150000,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +118,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_7.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_6.jpg",
           "width": 864
         }
       ]
@@ -129,7 +129,7 @@
       "date": "2026-08-04T07:55:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 140000,
+      "views": 141000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +141,7 @@
       "date": "2026-08-04T17:34:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 127000,
+      "views": 129000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,11 +149,11 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_3.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_4.jpg"
         },
         {
           "type": "video",
@@ -171,7 +171,7 @@
       "date": "2026-08-05T03:53:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 112000,
+      "views": 115000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +190,7 @@
       "date": "2026-08-05T04:25:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107000,
+      "views": 111000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +202,7 @@
       "date": "2026-08-05T13:46:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 65600,
+      "views": 75300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +214,25 @@
       "date": "2026-08-05T13:47:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70100,
+      "views": 81100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 104078,
+      "message": "\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جاویدنام امیر حسین صفری معلول اعدام شده در اصفهان پسر جاویدنام ناصر صفری بوده که جانباز جنگ ایران و عراق بوده است‌. پدرش چند سال برای ایران جنگید، بعد جمهوری اسلامی پسرش رو اعدام کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جاوید نام امیرحسین صفری بخاطر یک تصادف دستش قرار بوده قطع بشه اما برادرشون اجازشو ندادن و دست راستش فکر میکنم فلج بود. مادرشون توی مراسم ختمش میگفتن من خودم غذای بچمو لقمه لقمه میگذاشتم توی دهنش چطور ممکنه بچه من با قمه زده باشه توی سر یک مامور\u003cbr/\u003eهمچنین این بچه زادگاهش حسین اباد مهردشت توی استان اصفهانه اما سپاه بردتش یک جای دور افتاده نزدیکای طبس توی یک روستا که حداکثر ده تا خانواده توش زندگی میکنن و اسم اون روستا هم حسین اباده دفنش کرده همچنین به خانوادشون گفتن که حق ندارید به هیچ عنوان روی سنگ قبر پسرتون جاویدنام بنویسید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-08-05T13:47:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 83700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,30 +245,12 @@
       ]
     },
     {
-      "id": 104078,
-      "message": "\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جاویدنام امیر حسین صفری معلول اعدام شده در اصفهان پسر جاویدنام ناصر صفری بوده که جانباز جنگ ایران و عراق بوده است‌. پدرش چند سال برای ایران جنگید، بعد جمهوری اسلامی پسرش رو اعدام کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جاوید نام امیرحسین صفری بخاطر یک تصادف دستش قرار بوده قطع بشه اما برادرشون اجازشو ندادن و دست راستش فکر میکنم فلج بود. مادرشون توی مراسم ختمش میگفتن من خودم غذای بچمو لقمه لقمه میگذاشتم توی دهنش چطور ممکنه بچه من با قمه زده باشه توی سر یک مامور\u003cbr/\u003eهمچنین این بچه زادگاهش حسین اباد مهردشت توی استان اصفهانه اما سپاه بردتش یک جای دور افتاده نزدیکای طبس توی یک روستا که حداکثر ده تا خانواده توش زندگی میکنن و اسم اون روستا هم حسین اباده دفنش کرده همچنین به خانوادشون گفتن که حق ندارید به هیچ عنوان روی سنگ قبر پسرتون جاویدنام بنویسید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
-      "date": "2026-08-05T13:47:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 72400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_9.jpg"
-        }
-      ]
-    },
-    {
       "id": 104079,
       "message": "\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مناقصه شرکت سهامی برق هرمزگان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://t.me/mamlekate/104077\" target=\"_blank\" rel=\"noopener\"\u003et.me/mamlekate/104077\u003c/a\u003e",
       "date": "2026-08-05T14:19:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67000,
+      "views": 80000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +258,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_5.jpg"
         }
       ]
     },
@@ -268,7 +268,7 @@
       "date": "2026-08-05T14:46:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60300,
+      "views": 74300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
