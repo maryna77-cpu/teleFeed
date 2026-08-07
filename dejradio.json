@@ -12,7 +12,7 @@
       "date": "2026-08-07T06:58:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 1830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_17.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_18.jpg"
         },
         {
           "type": "photo",
@@ -32,19 +32,19 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_14.jpg"
-        },
-        {
-          "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_15.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_18.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_16.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_22.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_19.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_24.jpg"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "date": "2026-08-07T07:09:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1540,
+      "views": 1550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg"
         }
       ]
     },
@@ -72,7 +72,7 @@
       "date": "2026-08-07T07:44:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1670,
+      "views": 1690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +91,62 @@
       "date": "2026-08-07T08:51:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1580,
+      "views": 1600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7093,
+      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e یمن؛ حمله موشکی حوثی‌ها به نیروهای سعودی در فرودگاه سیئون \u003cbr/\u003e\u003cbr/\u003eیک هفته پس از آنکه دونالد ترامپ به درخواست بن سلمان ولیعهد عربستان حمله به جمهوری اسلامی را متوقف کرد، شبه نظامیان حوثی مورد حمایت سـ.ـپاه پاسداران، با موشک و پهپاد مقر نیروهای عربستان در فرودگاه سیئون یمن در استان حضرموت یمن را هدف قرار داد. \u003cbr/\u003e\u003cbr/\u003eدر این حمله که آدینه ۱۶ امرداد ۱۴۰۵ رخ داد، ده‌ها نیرو کشته و زخمی شدند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AD%D9%88%D8%AB%DB%8C\"\u003e#حوثی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B9%D9%88%D8%AF%DB%8C\"\u003e#عربستان_سعودی\u003c/a\u003e \u003ca href=\"?q=%23IRGCterrorists\"\u003e#IRGCterrorists\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-07T10:08:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_22.jpg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 7094,
+      "message": "\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5938304994145998707\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e منابع دژ در ایران نامه‌ای را به تاریخ سه‌شنبه ۱۵ اردیبهشت ۱۴۰۵ افشا کردند که نشان می‌دهد نیروی انتظامی پس از جنگ در نامه‌ای به شورای‌عالی امنیت ملی هشدار داد که به علت بمباران، مراکز اقتصادی و جریان تولید کالا و واردات کالاهای اساسی مختل شده، کارگران زیادی بیکار شدند و در بازار اعتراض‌هایی شکل گرفته است و اگر با آن مقابله نشود، اعتراضات گسترده‌تر از اعتراضات دی‌ماه ۱۴۰۴ اتفاق خواهد افتاد.\u003cbr/\u003e\u003cbr/\u003eاین نامه نشان می‌دهد تا چه اندازه حکومت از شعله‌ور شدن اعتراضات ضدحکومتی بیم دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%DB%8C%DB%B1%DB%B4%DB%B0%DB%B4\"\u003e#دی۱۴۰۴\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%D8%A8%D8%B4_%D9%85%D9%84%DB%8C\"\u003e#جنبش_ملی\u003c/a\u003e \u003ca href=\"?q=%23IRGCterrorists\"\u003e#IRGCterrorists\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-07T10:14:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_14.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7095,
+      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5949629152163271756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سناتور تد کروز در پادکست «School of War» گفت که دونالد ترامپ باید معترضان ایرانی را مسلح کند تا «خودشان حکومت خود را سرنگون کنند». \u003cbr/\u003eاو افزود: «هدف ما باید فروپاشی حکومت باشد.»\u003cbr/\u003e\u003cbr/\u003eکروز در این گفت‌وگو توضیح نداد که چنین حمایتی چگونه باید به معترضان ایرانی منتقل شود یا ایالات متحده، فراتر از ترغیب دولت ترامپ به حمایت از ایرانیانی که به دنبال سرنگونی حکومت خود هستند، چه نقشی باید ایفا کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE\"\u003e#ترامپ\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D9%85%D9%84%DB%8C\"\u003e#انقلاب_ملی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D8%B1%D9%86%DA%AF%D9%88%D9%86%DB%8C\"\u003e#سرنگونی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-07T10:55:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,86 +159,12 @@
       ]
     },
     {
-      "id": 7093,
-      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e یمن؛ حمله موشکی حوثی‌ها به نیروهای سعودی در فرودگاه سیئون \u003cbr/\u003e\u003cbr/\u003eیک هفته پس از آنکه دونالد ترامپ به درخواست بن سلمان ولیعهد عربستان حمله به جمهوری اسلامی را متوقف کرد، شبه نظامیان حوثی مورد حمایت سـ.ـپاه پاسداران، با موشک و پهپاد مقر نیروهای عربستان در فرودگاه سیئون یمن در استان حضرموت یمن را هدف قرار داد. \u003cbr/\u003e\u003cbr/\u003eدر این حمله که آدینه ۱۶ امرداد ۱۴۰۵ رخ داد، ده‌ها نیرو کشته و زخمی شدند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AD%D9%88%D8%AB%DB%8C\"\u003e#حوثی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B9%D9%88%D8%AF%DB%8C\"\u003e#عربستان_سعودی\u003c/a\u003e \u003ca href=\"?q=%23IRGCterrorists\"\u003e#IRGCterrorists\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-08-07T10:08:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_20.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 7094,
-      "message": "\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5938304994145998707\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e منابع دژ در ایران نامه‌ای را به تاریخ سه‌شنبه ۱۵ اردیبهشت ۱۴۰۵ افشا کردند که نشان می‌دهد نیروی انتظامی پس از جنگ در نامه‌ای به شورای‌عالی امنیت ملی هشدار داد که به علت بمباران، مراکز اقتصادی و جریان تولید کالا و واردات کالاهای اساسی مختل شده، کارگران زیادی بیکار شدند و در بازار اعتراض‌هایی شکل گرفته است و اگر با آن مقابله نشود، اعتراضات گسترده‌تر از اعتراضات دی‌ماه ۱۴۰۴ اتفاق خواهد افتاد.\u003cbr/\u003e\u003cbr/\u003eاین نامه نشان می‌دهد تا چه اندازه حکومت از شعله‌ور شدن اعتراضات ضدحکومتی بیم دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AF%DB%8C%DB%B1%DB%B4%DB%B0%DB%B4\"\u003e#دی۱۴۰۴\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%D8%A8%D8%B4_%D9%85%D9%84%DB%8C\"\u003e#جنبش_ملی\u003c/a\u003e \u003ca href=\"?q=%23IRGCterrorists\"\u003e#IRGCterrorists\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-08-07T10:14:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg"
-        }
-      ]
-    },
-    {
-      "id": 7095,
-      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5949629152163271756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سناتور تد کروز در پادکست «School of War» گفت که دونالد ترامپ باید معترضان ایرانی را مسلح کند تا «خودشان حکومت خود را سرنگون کنند». \u003cbr/\u003eاو افزود: «هدف ما باید فروپاشی حکومت باشد.»\u003cbr/\u003e\u003cbr/\u003eکروز در این گفت‌وگو توضیح نداد که چنین حمایتی چگونه باید به معترضان ایرانی منتقل شود یا ایالات متحده، فراتر از ترغیب دولت ترامپ به حمایت از ایرانیانی که به دنبال سرنگونی حکومت خود هستند، چه نقشی باید ایفا کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE\"\u003e#ترامپ\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D9%85%D9%84%DB%8C\"\u003e#انقلاب_ملی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D8%B1%D9%86%DA%AF%D9%88%D9%86%DB%8C\"\u003e#سرنگونی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-08-07T10:55:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_10.jpg"
-        }
-      ]
-    },
-    {
       "id": 7096,
       "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e اعتراض یک شهروند:\u003cbr/\u003eقیمت‌ها ساعت به ساعت که گاهی هر دقیقه تغییر می‌کند!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4_%D9%82%DB%8C%D9%85%D8%AA\"\u003e#افزایش_قیمت\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D8%B1%D9%85\"\u003e#تورم\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-08-07T11:44:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_19.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 7097,
-      "message": "\u003ctg-emoji emoji-id=\"5215484787325676090\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9590.png\u0026#39;)\"\u003e\u003cb\u003e🕐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خانم محمودی و معشوق در زیردریایی (قسمت دوم)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%B2%DB%8C%D8%B1%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C\"\u003e#زیردریایی\u003c/a\u003e \u003ca href=\"?q=%23%DA%A9%D9%85%D8%AF%DB%8C\"\u003e#کمدی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-08-07T11:47:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1490,
+      "views": 1640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,12 +178,31 @@
       ]
     },
     {
+      "id": 7097,
+      "message": "\u003ctg-emoji emoji-id=\"5215484787325676090\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9590.png\u0026#39;)\"\u003e\u003cb\u003e🕐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خانم محمودی و معشوق در زیردریایی (قسمت دوم)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%B2%DB%8C%D8%B1%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C\"\u003e#زیردریایی\u003c/a\u003e \u003ca href=\"?q=%23%DA%A9%D9%85%D8%AF%DB%8C\"\u003e#کمدی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-07T11:47:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_23.jpg",
+          "width": 720
+        }
+      ]
+    },
+    {
       "id": 7098,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e امام جمعه اهواز:\u003cbr/\u003eبرای افزایش بُرد موشک‌هایمان تا ۱۵ هزار کیلومتر آماده می‌شویم\u003cbr/\u003e\u003cbr/\u003eامام جمعه اهواز تهدید کرد جمهوری اسلامی در حال آماده‌سازی برای افزایش برد موشک‌های خود تا ۱۵ هزار کیلومتر است تا بتواند «عمق آمریکا» را هدف قرار دهد.  \u003cbr/\u003e\u003cbr/\u003eموسوی‌فرد در خطبه‌های نماز جمعه اهواز توضیح داد: «خود را مهیا می‌کنیم تا مردم آمریکا نیز موشک‌خوردن را ببینند و بدانند به خاک و خون کشیده شدن یعنی چه.»\u003cbr/\u003e\u003cbr/\u003eموسوی‌فرد در خطبه‌های نماز جمعه اهواز گفت جمهوری اسلامی به جایی رسیده که دشمنان را از عراق به سوریه و از سوریه به مرزهای اردن و عربستان سعودی عقب رانده است و افزود: «موشک به عمق اورشلیم که حدود دو هزار کیلومتر فاصله دارد می‌رسد.»\u003cbr/\u003e\u003cbr/\u003eنماینده مجتبی خامنه‌ای در خوزستان با بیان شعار «انتقام، انتقام» گفت، «مردم در این مسئله جدی هستند و ابراز امیدواری کرد بنیامین نتانیاهو و دیگر مقام‌های اسرائیل و همه قدرت‌های منطقه به دست نیروهای جمهوری اسلامی نابود شوند».\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D8%B3%D8%AE%D8%AA\"\u003e#انتقام_سخت\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84\"\u003e#اسرائیل\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-08-07T13:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +220,7 @@
       "date": "2026-08-07T14:20:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +238,7 @@
       "date": "2026-08-07T15:09:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 1350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +246,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_9.jpg"
         }
       ]
     },
@@ -256,7 +256,7 @@
       "date": "2026-08-07T18:10:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 800,
+      "views": 954,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +264,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_17.jpg"
         }
       ]
     },
@@ -274,7 +274,7 @@
       "date": "2026-08-07T18:21:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 753,
+      "views": 928,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +292,7 @@
       "date": "2026-08-07T18:53:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 437,
+      "views": 679,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +311,7 @@
       "date": "2026-08-07T19:21:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 218,
+      "views": 569,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +319,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_23.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_25.jpg",
           "width": 854
         }
       ]
@@ -330,7 +330,7 @@
       "date": "2026-08-07T19:23:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170,
+      "views": 570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,8 +338,45 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_9.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_10.jpg",
           "width": 640
+        }
+      ]
+    },
+    {
+      "id": 7106,
+      "message": "\u003ctg-emoji emoji-id=\"5951842387465605469\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://home.treasury.gov/news/press-releases/sb0596\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e \u003cb\u003eآمریکا شبکه بین‌المللی انتقال صدها میلیون دلار برای جمهوری اسلامی را هدف تحریم قرار داد\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eوزارت خزانه‌داری آمریکا روز جمعه اعلام کرد دفتر کنترل دارایی‌های خارجی این وزارتخانه چند شبکه فعال در کشورهای مختلف را به‌دلیل کمک به «بانکداری سایه» جمهوری اسلامی برای انتقال صدها میلیون دلار هدف تحریم قرار داده است.\u003cbr/\u003eوزارت خزانه‌داری می‌گوید این شبکه‌ها از شرکت‌های پوششی،صرافی‌ها و حساب‌های واسطه در امارات متحده عربی،هنگ‌کنگ،سنگاپور و دیگر کشورها برای انتقال درآمدهای ارزی جمهوری اسلامی،از جمله درآمد حاصل از فروش نفت،استفاده می‌کردند.\u003cbr/\u003eبر اساس این بیانیه،بانک شهر و شرکت‌های وابسته به آن از جمله بازیگران اصلی این شبکه بوده‌اند و یکی از صرافی‌های مستقر در امارات تنها در سال ۲۰۲۶ صدها میلیون دلار تراکنش در چند ارز مختلف انجام داده است.\u003cbr/\u003eاسکات بسنت،وزیر خزانه‌داری آمریکا،گفت شبکه بانکداری سایه جمهوری اسلامی زیر فشار کارزار «خشم اقتصادی» در حال تضعیف است و حکومت راه‌های کمتری برای جابه‌جایی پول در اختیار دارد.\u003cbr/\u003eوزارت خزانه‌داری همچنین اعلام کرد جمهوری اسلامی در حالی با کمبود ارز خارجی روبه‌روست که فساد و سوءمدیریت در شبکه مالی مخفی خود نیز زیان‌های قابل توجهی به آن وارد کرده است. این هشتمین اقدام آمریکا در سال جاری علیه شبکه بانکداری سایه جمهوری اسلامی است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D8%AD%D8%B1%DB%8C%D9%85\"\u003e#تحریم\u003c/a\u003e \u003ca href=\"?q=%23%D8%A8%D8%A7%D9%86%DA%A9\"\u003e#بانک\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-07T19:57:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 273,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_20.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7107,
+      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e  سقوط امپراتوری نفت آبادان و ورشکستگی صنعتی\u003cbr/\u003e\u003cbr/\u003e*عظا حسینیان، روزنامه‌نگار اقتصادی \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%88%D8%B1%D8%B4%DA%A9%D8%B3%D8%AA%DA%AF%DB%8C_%D8%B5%D9%86%D8%B9%D8%AA%DB%8C\"\u003e#ورشکستگی_صنعتی\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%D9%81%D8%AA\"\u003e#نفت\u003c/a\u003e \u003ca href=\"?q=%23%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86\"\u003e#آبادان\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-07T20:03:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 154,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_8.jpg",
+          "width": 852
         }
       ]
     }
