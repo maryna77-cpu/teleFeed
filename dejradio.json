@@ -7,31 +7,12 @@
   },
   "posts": [
     {
-      "id": 7081,
-      "message": "\u003ctg-emoji emoji-id=\"5949286409478082944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9598.png\u0026#39;)\"\u003e\u003cb\u003e🕘\u003c/b\u003e\u003c/i\u003e خبر ۲۱\u003cbr/\u003eپنجشنبه ۱۵ امرداد ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\"\u003e#خبر۲۱\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-08-06T18:35:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2130,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_1.jpg",
-          "width": 852
-        }
-      ]
-    },
-    {
       "id": 7082,
       "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5949629152163271756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بر اساس گزارش منابع محلی چهارشنبه شب ششم امرداد ۱۴۰۵، صدای دست‌کم ۴ انفجار در نواحی مختلف جزیره قشم از جمله حوالی اسکله «بهمن» شنیده شد. \u003cbr/\u003e\u003cbr/\u003eبرخی اهالی می‌گویند این انفجارها ناشی از اصابت موشک بوده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D9%85%D9%84%D9%87_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#حمله_آمریکا\u003c/a\u003e \u003ca href=\"?q=%23%D9%82%D8%B4%D9%85\"\u003e#قشم\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-08-06T19:02:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2150,
+      "views": 2160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +30,7 @@
       "date": "2026-08-07T06:58:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1660,
+      "views": 1690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,19 +42,19 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_2.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_11.jpg"
         },
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_12.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg"
         },
         {
           "type": "photo",
@@ -91,44 +72,7 @@
       "date": "2026-08-07T07:09:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1470,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_10.jpg"
-        }
-      ]
-    },
-    {
-      "id": 7091,
-      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5949629152163271756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تیراندازی مأموران در دشتیاری؛ دست‌کم دو شهروند جان باختند\u003cbr/\u003e\u003cbr/\u003eمنابع محلی استان سیستان و بلوچستان، آدینه ۱۶ امرداد ۱۴۰۵ گزارش دادند دست‌کم دو شهروند در پی تیراندازی نیروهای نظامی به یک خودروی تویوتا لندکروز در محدوده بین روستاهای گز و سنگان از توابع شهرستان دشتیاری جان خود را از دست دادند.\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش‌ها، نیروهای نظامی این خودرو را هدف تیراندازی قرار دادند و به گفته منابع محلی، پس از توقف خودرو نیز سرنشینان آن هنگام خروج هدف شلیک قرار گرفتند. \u003cbr/\u003eهمچنین گفته می‌شود خودروی لندکروز پس از پایان تیراندازی به آتش کشیده شده و اجساد توسط نیروهای امنیتی به چابهار منتقل شده‌اند. هویت جان‌باختگان و شمار دقیق قربانیان تاکنون به‌صورت مستقل تأیید نشده است.\u003cbr/\u003e\u003cbr/\u003eدر مقابل، برخی رسانه‌های حکومتی مدعی شده‌اند افراد حاضر در این خودرو اعضای یک «تیم تروریستی» بوده‌اند که هنگام ورود به کشور شناسایی و با آنان درگیر شده‌اند. با این حال، تاکنون هیچ سند یا اطلاعات مستقلی برای تأیید این ادعا منتشر نشده و گزارش‌های محلی حاکی از آن است که سرنشینان خودرو از سوخت‌بران بلوچ بوده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1\"\u003e#کشتار\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%88%D8%AE%D8%AA%D8%A8%D8%B1%D8%A7%D9%86_%D8%A8%D9%84%D9%88%DA%86\"\u003e#سوختبران_بلوچ\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%D8%B4%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C\"\u003e#دشتیاری\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-08-07T07:44:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_4.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 7092,
-      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B7.png\u0026#39;)\"\u003e\u003cb\u003e📷\u003c/b\u003e\u003c/i\u003e کارزار شناسایی سرکوبگران؛\u003cbr/\u003eعادل رزاقی کادر یگان امداد ساری، از عوامل قتل‌عام خیزش دی‌ماه\u003cbr/\u003e\u003cbr/\u003eعادل رزاقی کادر یگان امداد ساری است که در جریان قتل‌عام و سرکوب معترضان در ۱۸ و ۱۸ دی‌ماه نقش داشت. \u003cbr/\u003e\u003cbr/\u003eاو به عنوان درجه‌دار با اوباش، خلافکارها و عرق‌فروش‌ها در ارتباط است و از آنها باج‌گیری می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C\"\u003e#شناسایی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D8%A7%D8%AF%D9%84_%D8%B1%D8%B2%D8%A7%D9%82%DB%8C\"\u003e#عادل_رزاقی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%DB%8C%DB%B1%DB%B4%DB%B0%DB%B4\"\u003e#دی۱۴۰۴\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-08-07T08:51:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1480,
+      "views": 1490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,12 +85,49 @@
       ]
     },
     {
+      "id": 7091,
+      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5949629152163271756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تیراندازی مأموران در دشتیاری؛ دست‌کم دو شهروند جان باختند\u003cbr/\u003e\u003cbr/\u003eمنابع محلی استان سیستان و بلوچستان، آدینه ۱۶ امرداد ۱۴۰۵ گزارش دادند دست‌کم دو شهروند در پی تیراندازی نیروهای نظامی به یک خودروی تویوتا لندکروز در محدوده بین روستاهای گز و سنگان از توابع شهرستان دشتیاری جان خود را از دست دادند.\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش‌ها، نیروهای نظامی این خودرو را هدف تیراندازی قرار دادند و به گفته منابع محلی، پس از توقف خودرو نیز سرنشینان آن هنگام خروج هدف شلیک قرار گرفتند. \u003cbr/\u003eهمچنین گفته می‌شود خودروی لندکروز پس از پایان تیراندازی به آتش کشیده شده و اجساد توسط نیروهای امنیتی به چابهار منتقل شده‌اند. هویت جان‌باختگان و شمار دقیق قربانیان تاکنون به‌صورت مستقل تأیید نشده است.\u003cbr/\u003e\u003cbr/\u003eدر مقابل، برخی رسانه‌های حکومتی مدعی شده‌اند افراد حاضر در این خودرو اعضای یک «تیم تروریستی» بوده‌اند که هنگام ورود به کشور شناسایی و با آنان درگیر شده‌اند. با این حال، تاکنون هیچ سند یا اطلاعات مستقلی برای تأیید این ادعا منتشر نشده و گزارش‌های محلی حاکی از آن است که سرنشینان خودرو از سوخت‌بران بلوچ بوده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1\"\u003e#کشتار\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%88%D8%AE%D8%AA%D8%A8%D8%B1%D8%A7%D9%86_%D8%A8%D9%84%D9%88%DA%86\"\u003e#سوختبران_بلوچ\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%D8%B4%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C\"\u003e#دشتیاری\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-07T07:44:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_3.jpg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 7092,
+      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B7.png\u0026#39;)\"\u003e\u003cb\u003e📷\u003c/b\u003e\u003c/i\u003e کارزار شناسایی سرکوبگران؛\u003cbr/\u003eعادل رزاقی کادر یگان امداد ساری، از عوامل قتل‌عام خیزش دی‌ماه\u003cbr/\u003e\u003cbr/\u003eعادل رزاقی کادر یگان امداد ساری است که در جریان قتل‌عام و سرکوب معترضان در ۱۸ و ۱۸ دی‌ماه نقش داشت. \u003cbr/\u003e\u003cbr/\u003eاو به عنوان درجه‌دار با اوباش، خلافکارها و عرق‌فروش‌ها در ارتباط است و از آنها باج‌گیری می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C\"\u003e#شناسایی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D8%A7%D8%AF%D9%84_%D8%B1%D8%B2%D8%A7%D9%82%DB%8C\"\u003e#عادل_رزاقی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AF%DB%8C%DB%B1%DB%B4%DB%B0%DB%B4\"\u003e#دی۱۴۰۴\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-07T08:51:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_8.jpg"
+        }
+      ]
+    },
+    {
       "id": 7093,
       "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e یمن؛ حمله موشکی حوثی‌ها به نیروهای سعودی در فرودگاه سیئون \u003cbr/\u003e\u003cbr/\u003eیک هفته پس از آنکه دونالد ترامپ به درخواست بن سلمان ولیعهد عربستان حمله به جمهوری اسلامی را متوقف کرد، شبه نظامیان حوثی مورد حمایت سـ.ـپاه پاسداران، با موشک و پهپاد مقر نیروهای عربستان در فرودگاه سیئون یمن در استان حضرموت یمن را هدف قرار داد. \u003cbr/\u003e\u003cbr/\u003eدر این حمله که آدینه ۱۶ امرداد ۱۴۰۵ رخ داد، ده‌ها نیرو کشته و زخمی شدند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AD%D9%88%D8%AB%DB%8C\"\u003e#حوثی\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%B9%D9%88%D8%AF%DB%8C\"\u003e#عربستان_سعودی\u003c/a\u003e \u003ca href=\"?q=%23IRGCterrorists\"\u003e#IRGCterrorists\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-08-07T10:08:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +146,7 @@
       "date": "2026-08-07T10:14:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1580,
+      "views": 1630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_10.jpg"
         }
       ]
     },
@@ -183,7 +164,7 @@
       "date": "2026-08-07T10:55:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1500,
+      "views": 1560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +172,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_7.jpg"
         }
       ]
     },
@@ -201,7 +182,7 @@
       "date": "2026-08-07T11:44:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1370,
+      "views": 1420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +201,7 @@
       "date": "2026-08-07T11:47:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1300,
+      "views": 1350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +220,7 @@
       "date": "2026-08-07T13:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 1190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +228,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_4.jpg"
         }
       ]
     },
@@ -257,7 +238,7 @@
       "date": "2026-08-07T14:20:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 956,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +246,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_1.jpg"
         }
       ]
     },
@@ -275,7 +256,7 @@
       "date": "2026-08-07T15:09:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 798,
+      "views": 975,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +264,25 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7101,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5951842387465605469\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سنای آمریکا طرح گسترده تحریم روسیه و جمهوری اسلامی را با ۸۶ رأی تصویب کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسنای ایالات متحده روز آدینـه با ۸۶ رأی موافق در برابر ۱۱ رأی مخالف،طرح گسترده‌ای برای تشدید تحریم‌ها علیه روسیه و تمدید تحریم‌های جمهوری اسلامی را تصویب کرد؛ طرحی که به افتخار لیندسی گراهام،سناتور فقید جمهوری‌خواه،نام‌گذاری شده است.\u003cbr/\u003eاین طرح به رئیس‌جمهوری آمریکا اختیار می‌دهد بر واردات کالا از پنج کشور بزرگ خریدار نفت خام یا گاز طبیعی روسیه،تعرفه‌هایی تا سقف ۱۰۰درصد اعمال کند. همچنین تحریم‌های مستقیم علیه مقام‌های ارشد روسیه،نهادهای مالی،شرکت‌های دولتی و شبکه موسوم به «ناوگان سایه» روسیه را گسترش می‌دهد و برای برخی واردات مستقیم از روسیه تعرفه‌هایی تا سقف ۵۰۰درصد در نظر گرفته است.\u003cbr/\u003eبخش دیگری از این مصوبه به جمهوری اسلامی اختصاص دارد و با تمدید «قانون تحریم‌های ایران» مصوب سال ۱۹۹۶،از پایان یافتن اختیارات تحریمی آمریکا علیه بخش‌های انرژی و تسلیحاتی جمهوری اسلامی جلوگیری می‌کند.\u003cbr/\u003eاین طرح پس از تصویب در سنا اکنون باید به تصویب مجلس نمایندگان برسد. مجلس نمایندگان آمریکا در تعطیلات تابستانی به‌سر می‌برد و پس از بازگشت اعضا در پایان ماه اوت،امکان بررسی این مصوبه را خواهد داشت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D8%AD%D8%B1%DB%8C%D9%85\"\u003e#تحریم\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%86%D8%A7\"\u003e#سنا\u003c/a\u003e \u003ca href=\"?q=%23%D8%B1%D9%88%D8%B3%DB%8C%D9%87\"\u003e#روسیه\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\"\u003e#جمهوری_اسلامی\u003c/a\u003e \u003cbr/\u003e@ DEJradio",
+      "date": "2026-08-07T18:10:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 106,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/dejradio/media_13.jpg"
         }
       ]
     }
