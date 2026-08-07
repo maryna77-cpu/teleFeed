@@ -7,192 +7,12 @@
   },
   "posts": [
     {
-      "id": 137901,
-      "message": "کمی پیش پهپادهای دوربرد اوکراینی در حال حمله به انبار شرکت روسی \u0026#34;وایلدبریز\u0026#34; در شهر یکاترینبورگ، واقع در منطقه سوردلوفسک، هستند. این انبار حدود ۱۷۰۰ کیلومتر از مرز اوکراین فاصله دارد.",
-      "date": "2026-08-07T04:50:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 137904,
-      "message": "سخنگوی فرمانده نیروهای مسلح عراق به شبکه العربیه گفت که عراق اجرای یک طرح امنیتی را آغاز کرده است تا از حملات گروه‌های مقاومت اسلامی عراق به عربستان سعودی جلوگیری کند.",
-      "date": "2026-08-07T04:51:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137905,
-      "message": "ترامپ،  مقاله‌ای را در شبکه اجتماعی Truth Social بازنشر کرد که عنوان آن \u0026#34;دونالد ترامپ در جنگ با ایران پیروز شد\u0026#34; است.",
-      "date": "2026-08-07T04:52:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137906,
-      "message": "اسکات بیزنت، وزیر خزانه‌داری ایالات متحده، درباره ایران:\u003cbr/\u003eما از این وضعیت عبور خواهیم کرد. امیدوارم در چند روز آینده به توافقی برسیم و پیشرفت کنیم.\u003cbr/\u003e\u003cbr/\u003eقیمت‌ها دوباره کاهش خواهند یافت.",
-      "date": "2026-08-07T04:53:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137907,
-      "message": "عمان با چارچوب توافق موقت با ایران برای بازگشایی تنگه هرمز موافقت کرده است، توافقی که قرار است راه را برای آتش‌بس جدید و از سرگیری مذاکرات هسته‌ای ایالات متحده و ایران هموار کند.\u003cbr/\u003e\u003cbr/\u003eانتظار می‌رود سازمان بین‌المللی دریانوردی سازمان ملل و ایالات متحده، به همراه تأیید شورای همکاری خلیج فارس، در اعلام رسمی این خبر شرکت کنند.\u003cbr/\u003e\u003cbr/\u003eمقامات هنوز اعلام نکرده‌اند که این توافق چه زمانی رسماً اعلام خواهد شد.",
-      "date": "2026-08-07T04:55:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137908,
-      "message": "رویترز: حجم تردد کشتی‌ها از تنگه هرمز به طور چشمگیری کاهش یافته است. بین دوشنبه و پنجشنبه، تنها 33 کشتی از این تنگه عبور کردند، در حالی که در مدت مشابه هفته گذشته، این تعداد 50 کشتی بود.",
-      "date": "2026-08-07T06:29:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137909,
-      "message": "رویترز: شش ماه از آغاز جنگ با ایران می‌گذرد و دونالد ترامپ، رئیس‌جمهور ایالات متحده، با انتخاب‌های دشوارتر روبرو است، زیرا او باید در مورد پذیرش توافقی در حال شکل‌گیری بین ایران و عمان در مورد تنگه هرمز، تشدید اقدامات نظامی، یا حفظ وضعیت فعلی تصمیم‌گیری کند.",
-      "date": "2026-08-07T06:30:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137910,
-      "message": "گشتی مسلح Falaj 3 امارات به‌دلیل ترکیب کم‌نظیر تسلیحاتش، از سوی برخی تحلیلگران «مسلح‌ترین شناور گشتی جهان» توصیف شده است.\u003cbr/\u003e\u003cbr/\u003eاین شناور ۶۲ متری، با وجود ابعاد نسبتاً کوچک، به توپ ۷۶ میلی‌متری، موشک‌های \u003ca href=\"https://jangaavaran.ir/exocet/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eضدکشتی اکزوسه \u003c/a\u003eBlock 3، سامانه‌های \u003ca href=\"https://jangaavaran.ir/mica-missile/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپدافند هوایی VL میکا\u003c/a\u003e و \u003ca href=\"https://jangaavaran.ir/sea-ram-rim-116/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eRIM-116 رم،\u003c/a\u003e توپ‌های کنترل از راه دور ۳۰ میلی‌متری و سامانه‌های جنگ الکترونیک مجهز است؛ ترکیبی که معمولاً روی ناوچه‌های بزرگ‌تر دیده می‌شود، نه یک شناور گشتی.\u003cbr/\u003e\u003cbr/\u003eشناور Falaj 3 برای عملیات در آب‌های ساحلی و فراساحلی طراحی شده و نخستین فروند آن در سال ۲۰۲۵ وارد خدمت نیروی دریایی امارات شد.",
-      "date": "2026-08-07T06:40:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
-        }
-      ]
-    },
-    {
-      "id": 137915,
-      "message": "بوئینگ قرارداد توسعه بمب دورایستای JDAM-LR را دریافت کرد\u003cbr/\u003e\u003cbr/\u003eبوئینگ قرارداد توسعه نسخه جدید JDAM-LR (Long Range) را به دست آورده؛ نسخه‌ای که برد بمب‌های هدایت‌شونده JDAM را به‌طور قابل‌توجهی افزایش می‌دهد.\u003cbr/\u003e\u003cbr/\u003eنسخه  JDAM معمولی: برد حدود ۱۵ تا ۳۰ کیلومتر\u003cbr/\u003eنسخه  JDAM-ER: با بال‌های تاشو، برد تا حدود ۷۰ تا ۸۰ کیلومتر\u003cbr/\u003eنسخه JDAM-LR: با طراحی آیرودینامیکی جدید، بردی بیش از ۱۲۰ کیلومتر (بسته به شرایط رهاسازی)\u003cbr/\u003e\u003cbr/\u003eمزیت اصلی JDAM-LR این است که بدون استفاده از موتور راکتی، به جنگنده اجازه می‌دهد اهداف را از فاصله‌ای بسیار دورتر و خارج از برد بسیاری از سامانه‌های پدافند هوایی هدف قرار دهد. در عین حال، هزینه آن به‌مراتب کمتر از موشک‌های کروز بوده و همچنان از دقت بالای هدایت GPS/INS بهره می‌برد.\u003cbr/\u003e\u003cbr/\u003eاین برنامه، JDAM-LR را به گزینه‌ای اقتصادی برای حملات دورایستا و افزایش بقاپذیری جنگنده‌ها در میدان نبرد تبدیل می‌کند.",
-      "date": "2026-08-07T06:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 137916,
-      "message": "اطلاعات جمع‌آوری شده توسط آمریکا نشان می‌دهد که ولادیمیر پوتین، رئیس‌جمهور روسیه، ممکن است در سال‌های آینده تلاش کند تا اراده ناتو را از طریق حمله به یکی از کشورهای عضو این ائتلاف مورد آزمایش قرار دهد. بر اساس این گزارش‌ها، سناریوهای احتمالی شامل حملات سایبری و همچنین یک عملیات نظامی محدود در خاک یکی از کشورها می‌شود. این موضوع توسط وال استریت ژورنال گزارش شده است.",
-      "date": "2026-08-07T07:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 137917,
-      "message": "طبق گزارش دفتر بودجه کنگره، هزینه بالقوه برنامه جدید کشتی‌های جنگی هسته‌ای نیروی دریایی ایالات متحده حدود ۲۷۵ میلیارد دلار تخمین زده می‌شود و اولین کشتی جنگی کلاس ترامپ (BBG(X)) ۲۳.۴ میلیارد دلار هزینه خواهد داشت.\u003cbr/\u003e\u003cbr/\u003eدولت ترامپ در ماه دسامبر قصد خود را برای ساخت کلاس جدیدی از کشتی‌های جنگی بزرگ سطحی، که به عنوان کشتی جنگی موشک هدایت‌شونده کلاس ترامپ (BBG(X)) نامگذاری شده است، اعلام کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر صورت ساخت، این کشتی جنگی هسته‌ای ۳۵۰۰۰ تنی، مسلح‌ترین کشتی سطحی خواهد بود که نیروی دریایی ایالات متحده تاکنون در تاریخ ساخته است... دارای موشک‌های ضد هوایی، زمینی و ضد کشتی، موشک‌های مافوق صوت، موشک‌های کروز هسته‌ای، سیستم‌های لیزری بزرگ و توپ‌های ریلی.",
-      "date": "2026-08-07T09:14:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
-        }
-      ]
-    },
-    {
       "id": 137918,
       "message": "یدیعوت أحرونوت به نقل از یک منبع امنیتی ارشد:\u003cbr/\u003e\u003cbr/\u003eایران، حزب الله را مجبور به پیوستن به جنگ در ماه مارس گذشته نکرد، زیرا شرایط پیچیده حزب الله را درک می‌کرد.",
       "date": "2026-08-07T09:53:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8920,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +24,7 @@
       "date": "2026-08-07T09:54:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8960,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +36,7 @@
       "date": "2026-08-07T09:59:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8050,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +48,7 @@
       "date": "2026-08-07T10:29:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4380,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,11 +60,166 @@
       "date": "2026-08-07T10:33:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3800,
+      "views": 9670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137923,
+      "message": "صدها پهپاد دوربرد روسیه‌پرواز در کارخانه‌های زیرزمینی اوکراین مونتاژ می‌شوند. اسکای نیوز از تأسیساتی گزارش داده که روزانه بیش از ۲۰۰ پهپاد تهاجمی تولید می‌کند. طراح اصلی فایر پوینت، شیترمن، هدفش را با حمایت اروپا «از بین بردن امپراتوری روسیه» عنوان کرده است. این کارخانه پهپادهای FP-1 و FP-2 با هزینه ۶۰۰۰۰ دلار، برد ۳۰۰۰ کیلومتر و دقت ۲-۳ متر تولید می‌کند که توسط اهداکنندگان غربی از طریق وزارت دفاع اوکراین تأمین مالی می‌شود. کی‌یف پس از نابودی صنعت دفاعی، به ساخت کارخانه‌های زیرزمینی روی آورد.",
+      "date": "2026-08-07T11:00:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137925,
+      "message": "خبرگزاری مهر تصاویری از بقایای پهپادها و هواگردهای آمریکایی و اسرائیلی منتشر کرده که به گفته ایران، در جریان جنگ توسط نیروهای مسلح جمهوری اسلامی سرنگون شده‌اند.\u003cbr/\u003e\u003cbr/\u003eهمچنین رسانه‌های ایرانی تصویری از لاشه یک جنگنده F-15E آمریکا منتشر کرده‌اند؛ جنگنده‌ای که ایران مدعی سرنگونی آن است. این هواپیما در آوریل سقوط کرد و به‌دنبال آن، آمریکا یک عملیات گسترده جست‌وجو و نجات برای بازیابی خلبانان انجام داد که در نهایت هر دو خدمه با موفقیت نجات یافتند.",
+      "date": "2026-08-07T11:15:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137927,
+      "message": "\u003ctg-emoji emoji-id=\"6037286376657916812\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A2.png\u0026#39;)\"\u003e\u003cb\u003e💢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eباقر خرازی: فتوا می‌دهم برهنه‌ها را به قتل برسانید، اگه دولت آمد آنها را هم بزنید، این دولت شیطانی‌ست و زیر دست آمریکاست، اسلام همین است، باید ضربه بزنیم و ضربه بخوریم!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/AkhbarTelFori\" target=\"_blank\"\u003e@AkhbarTelFori\u003c/a\u003e",
+      "date": "2026-08-07T11:20:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg",
+          "width": 436
+        }
+      ]
+    },
+    {
+      "id": 137929,
+      "message": "گزارش رویترز: توافق بین ترکیه، پاکستان و عربستان سعودی صرفاً از نوع دفاعی است و طرفین را ملزم به ارائه کمک متقابل صرفاً برای اهداف دفاعی می‌کند. این توافق علیه هیچ طرف خاصی نیست و توافق‌های دو یا چندجانبه موجود را لغو یا جایگزین نمی‌کند، به گفته یک مقام ترکیه‌ای.",
+      "date": "2026-08-07T11:23:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137930,
+      "message": "رئیس‌جمهور ترکیه، اردوغان، ولیعهد عربستان سعودی، محمد بن سلمان، و نخست‌وزیر پاکستان، شهباز شریف، در شهر مکه عربستان سعودی، و امضا توافقنامه دفاعی سه‌جانبه",
+      "date": "2026-08-07T11:29:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 137934,
+      "message": "من خودم معتقدم این آدم نه هیچ قدرتی داره نه حرفش خریداری داره.. هرکس یه جوری می‌خواد محبوب بشه.. مثلاً یه کسی لخت می‌شه تو اینستاگرام یکی هم این حرفا رو می‌زنه \u003cbr/\u003eهدف یکی است راه فرق می‌کنه",
+      "date": "2026-08-07T11:38:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137935,
+      "message": "البته اگر مملکت صاحب  نداشته باشه یک آن دیدید همین آدم  و پیروانش حرفاشو اجرا کردن و اسرائیل خوشحال شد...... اسرائیل به جای بمباران روی این آدم کار بکنه زودتر نتیجه می‌گیره",
+      "date": "2026-08-07T11:42:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 137936,
+      "message": "\u003ca href=\"https://jangaavaran.ir/type-59-and-type69/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتانک تایپ-59 \u003c/a\u003eمتعلق به ارتش  چین، که در نقش \u003ca href=\"https://jangaavaran.ir/tank-abrams/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتانک ابرامز\u003c/a\u003e توسط نیروهای \u0026#34;ارتش آبی\u0026#34; (نیروی مقابل) در منطقه تمرین نظامی ژوریخه (Zhurihe) استفاده می‌شود.تایپ ۵۹ نسخه چینی تی۵۴ است و برای این نقش کاور شده",
+      "date": "2026-08-07T11:45:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 314,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
