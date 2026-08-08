@@ -7,42 +7,12 @@
   },
   "posts": [
     {
-      "id": 2835,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e باز یه سری از بچه‌ها دارن می‌گن احتمال داره دوباره درگیری‌ها و جنگ شروع بشه. از اون طرفم خیلیا نگرانن که با بالا گرفتن اوضاع، دوباره با قطعی اینترنت یا حداقل اختلال‌های شدید و از کار افتادن خیلی از روش‌ها و تانل‌ها روبه‌رو بشیم. \u003cbr/\u003e\u003cbr/\u003eواقعیت اینه که کار خاصی نمیشه کرد و کنترلش دست ما نیست، ولی تا اینترنت هست، فایل‌ها یا ابزارهای ضروری که روزمره لازم دارید رو دانلود کنید که اگه باز شرایط سخت شد، کمتر به مشکل بخورید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eدر حال حاضر هیچ اختلالی روی شبکه و دیتاسنترها مشاهده نشده.\u003c/blockquote\u003e",
-      "date": "2026-08-01T17:50:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2837,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعیشت بیش از ۵۰ درصد کاربران ایرانی به اینترنت وابسته است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیافته‌های جدیدترین نظرسنجی ملی مرکز افکارسنجی دانشجویان ایران (ایسپا) آمارهای قابل‌توجهی از ضریب نفوذ اینترنت و اهمیت اقتصادی آن در کشور ارائه می‌دهد:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنکات کلیدی گزارش:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eضریب نفوذ ۸۹.۳ درصدی:\u003c/b\u003e میزان استفاده از اینترنت در میان جامعه بالای ۱۵ سال کشور به \u003cb\u003e۸۹.۳ درصد\u003c/b\u003e رسیده است.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BC.png\u0026#39;)\"\u003e\u003cb\u003e💼\u003c/b\u003e\u003c/i\u003e \u003cb\u003eوابستگی معیشتی بالا:\u003c/b\u003e درآمد و کسب‌وکار \u003cb\u003eبیش از نیمی از کاربران\u003c/b\u003e به‌طور مستقیم به فضای مجازی و دسترسی به اینترنت وابسته است.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-08-02T10:28:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_16.jpg"
-        }
-      ]
-    },
-    {
       "id": 2838,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی کلاینت جدید Disruptor Proxy بر پایه Xray\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما \u003cb\u003eدر حال حاضر فقط نسخه‌های ویندوز و لینوکس و اندروید آن منتشر شده است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمشخصات فنی و ویژگی‌های کلیدی:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A0.png\u0026#39;)\"\u003e\u003cb\u003e💠\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحجم فوق‌العاده کم (Tauri 2):\u003c/b\u003e استفاده از فریم‌ورک Tauri (مبتنی بر زبان Rust) به‌جای الکترون، باعث شده حجم این برنامه بین ۱۰ تا ۲۰ برابر کمتر از کلاینت‌های مشابه باشد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرابط کاربری سریع:\u003c/b\u003e فرانت‌اند برنامه با استفاده از AzerothJS و Tailwind CSS طراحی شده است.\u003cbr/\u003eهسته قدرتمند: این کلاینت قدرت‌گرفته از \u003cb\u003eXray-core\u003c/b\u003e است و کانفیگ‌ها را به‌صورت خودکار (JSON) مدیریت می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9784.png\u0026#39;)\"\u003e\u003cb\u003e🗄\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت آفلاین سرورها:\u003c/b\u003e استفاده از IndexedDB برای ذخیره‌سازی، که امکان مدیریت هزاران کانفیگ را بدون نیاز به سرور بک‌اند فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/DisruptorProxy/Core\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
       "date": "2026-08-02T12:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
         }
       ]
     },
@@ -60,7 +30,7 @@
       "date": "2026-08-02T14:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 16500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
         }
       ]
     },
@@ -98,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
         }
       ]
     },
@@ -108,7 +78,7 @@
       "date": "2026-08-03T16:32:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +86,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg",
           "width": 1544
         }
       ]
@@ -127,7 +97,7 @@
       "date": "2026-08-04T11:59:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +115,7 @@
       "date": "2026-08-04T17:14:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +123,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_16.jpg"
         }
       ]
     },
@@ -163,7 +133,7 @@
       "date": "2026-08-05T10:47:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +141,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
         }
       ]
     },
@@ -189,7 +159,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
         }
       ]
     },
@@ -199,7 +169,7 @@
       "date": "2026-08-06T14:27:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +177,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
     },
@@ -235,73 +205,7 @@
       "date": "2026-08-06T17:58:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2854,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.\u003cbr/\u003e\u003cbr/\u003eپ.ن این چی بود من دیدم :)",
-      "date": "2026-08-07T10:27:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
       "views": 10900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2855,
-      "message": "\u003cb\u003eسلام دوستان عزیز \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CB9.png\u0026#39;)\"\u003e\u003cb\u003e🌹\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✍🏻\u003c/b\u003e\u003c/i\u003e امروز می‌خوام یکی از مخاطب‌های فعال کانالمون رو بهتون معرفی کنم که اراده و تلاشش واقعاً تحسین‌برانگیزه. آقا ابوالفضل عزیز، با وجود اینکه کاملاً نابینا هستن، محدودیت‌ها رو کنار زدن و با عشق و علاقه فراوان (و به کمک نرم‌افزارهای صفحه‌خوان)، یه کانال تلگرامی جذاب درباره \u003cb\u003eتکنولوژی و هوش مصنوعی\u003c/b\u003e راه‌اندازی کردن.\u003cbr/\u003e\u003cbr/\u003eایشون با زحمت زیاد و صرفاً از روی عشق و علاقه این کانال رو مدیریت می‌کنن. من هم تصمیم گرفتم در جواب این همه انگیزه، کاملاً دلی ازشون حمایت کنم و کانالشون رو اینجا قرار بدم. خوشحال میشم همگی به کانالشون سر بزنید و با عضویتتون، از این دوست عزیز و پرانگیزه‌مون حمایت بکنید.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/techno_clan\" target=\"_blank\"\u003e\u003cb\u003e@techno_clan\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-08-07T15:33:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
-      "id": 2856,
-      "message": ".\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e جایزه قرعه کشی تحویل حمید عزیز شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.",
-      "date": "2026-08-07T16:45:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2857,
-      "message": "\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمک‌دونالدز، وندیز، تاکو‌بل، پیتزاهات و حتی استارباکس؛ این روزها هرکدوم به شکلی از هوش مصنوعی برای سفارش‌گیری، پاسخ‌گویی و پشتیبانی مشتری استفاده می‌کنن. حتی شرکت های بزرگ ایرانی مثل دیجی کالا و کارگزاری مفید هم به سمت بهره گیری از هوش مصنوعی برای پشتیبانی رفتن !\u003cbr/\u003e\u003cbr/\u003eاین پروژه‌ها میلیون‌ها دلار سرمایه‌گذاری و شخصی‌سازی عمیق می‌خوان — چیزی که فقط از عهده‌ی کمپانی‌های بزرگ برمیاد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eاما با رایا نه به تیم بزرگ برنامه‌نویس نیاز داری، نه هزینه‌های گنده.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eمیتونی همین الان هوش مصنوعی شخصی و مناسب کسب کارت رو داشته باشی:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990016033830994880\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به سوالات مشتری‌هات به‌صورت آنی پاسخ می‌ده\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990016033830994880\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مشکلات مشتری هارو طبق دستورالعمل عیب یابی و حل میکنه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990016033830994880\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e روی تلگرام یا وب‌سایتت فعاله — بدون نیاز به تیم فنی یا زیرساخت پیچیده\u003cbr/\u003e\u003cbr/\u003eساخت چت بات شخصی کمتر از 5 دقیقه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://rayachat.net/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://rayachat.net\u003c/a\u003e",
-      "date": "2026-08-07T17:45:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,12 +218,78 @@
       ]
     },
     {
+      "id": 2854,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.\u003cbr/\u003e\u003cbr/\u003eپ.ن این چی بود من دیدم :)",
+      "date": "2026-08-07T10:27:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2855,
+      "message": "\u003cb\u003eسلام دوستان عزیز \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CB9.png\u0026#39;)\"\u003e\u003cb\u003e🌹\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✍🏻\u003c/b\u003e\u003c/i\u003e امروز می‌خوام یکی از مخاطب‌های فعال کانالمون رو بهتون معرفی کنم که اراده و تلاشش واقعاً تحسین‌برانگیزه. آقا ابوالفضل عزیز، با وجود اینکه کاملاً نابینا هستن، محدودیت‌ها رو کنار زدن و با عشق و علاقه فراوان (و به کمک نرم‌افزارهای صفحه‌خوان)، یه کانال تلگرامی جذاب درباره \u003cb\u003eتکنولوژی و هوش مصنوعی\u003c/b\u003e راه‌اندازی کردن.\u003cbr/\u003e\u003cbr/\u003eایشون با زحمت زیاد و صرفاً از روی عشق و علاقه این کانال رو مدیریت می‌کنن. من هم تصمیم گرفتم در جواب این همه انگیزه، کاملاً دلی ازشون حمایت کنم و کانالشون رو اینجا قرار بدم. خوشحال میشم همگی به کانالشون سر بزنید و با عضویتتون، از این دوست عزیز و پرانگیزه‌مون حمایت بکنید.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/techno_clan\" target=\"_blank\"\u003e\u003cb\u003e@techno_clan\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-08-07T15:33:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
+      "id": 2856,
+      "message": ".\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e جایزه قرعه کشی تحویل حمید عزیز شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.",
+      "date": "2026-08-07T16:45:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2857,
+      "message": "\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمک‌دونالدز، وندیز، تاکو‌بل، پیتزاهات و حتی استارباکس؛ این روزها هرکدوم به شکلی از هوش مصنوعی برای سفارش‌گیری، پاسخ‌گویی و پشتیبانی مشتری استفاده می‌کنن. حتی شرکت های بزرگ ایرانی مثل دیجی کالا و کارگزاری مفید هم به سمت بهره گیری از هوش مصنوعی برای پشتیبانی رفتن !\u003cbr/\u003e\u003cbr/\u003eاین پروژه‌ها میلیون‌ها دلار سرمایه‌گذاری و شخصی‌سازی عمیق می‌خوان — چیزی که فقط از عهده‌ی کمپانی‌های بزرگ برمیاد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eاما با رایا نه به تیم بزرگ برنامه‌نویس نیاز داری، نه هزینه‌های گنده.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eمیتونی همین الان هوش مصنوعی شخصی و مناسب کسب کارت رو داشته باشی:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990016033830994880\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به سوالات مشتری‌هات به‌صورت آنی پاسخ می‌ده\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990016033830994880\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مشکلات مشتری هارو طبق دستورالعمل عیب یابی و حل میکنه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990016033830994880\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e روی تلگرام یا وب‌سایتت فعاله — بدون نیاز به تیم فنی یا زیرساخت پیچیده\u003cbr/\u003e\u003cbr/\u003eساخت چت بات شخصی کمتر از 5 دقیقه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://rayachat.net/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://rayachat.net\u003c/a\u003e",
+      "date": "2026-08-07T17:45:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
+        }
+      ]
+    },
+    {
       "id": 2858,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e کمپانی OpenAI ابزار ChatGPT Translate را راه اندازی کرد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eشرکت OpenAI سرویس ترجمه اختصاصی خود را در آدرس به‌صورت رایگان و بدون نیاز به ورود به حساب کاربری در دسترس قرار داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدرک بافت و لحن:\u003c/b\u003e به‌جای ترجمه کلمه به کلمه (تحت‌اللفظی)، روی درک معنی، لحن (مانند محترمانه، عامیانه، کاری) و ساختار جملات تمرکز دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقابلیت تعاملی:\u003c/b\u003e پس از دریافت ترجمه اولیه، می‌توانید با کلیک روی گزینه‌های پیشنهادی یا ارسال پرامپت، لحن متن را تغییر دهید، آن را ساده‌تر کنید یا ادامه گفتگو را در محیط اصلی ChatGPT پیش ببرید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی زبانی:\u003c/b\u003e در حال حاضر بیش از ۵۰ زبان پشتیبانی می‌شوند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسادگی و سرعت:\u003c/b\u003e رابط کاربری بسیار خلوت و مشابه گوگل ترنسلیت دارد که تمرکز آن صرفاً روی دریافت ورودی و تحویل سریع ترجمه است.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"http://chatgpt.com/translate\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e آدرس سایت\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
       "date": "2026-08-08T10:34:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +307,7 @@
       "date": "2026-08-08T14:17:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3950,
+      "views": 4970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,6 +318,36 @@
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_1.jpg"
         }
       ]
+    },
+    {
+      "id": 2860,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eابزار Relay؛ اشتراک‌گذاری سریع و امن اینترنت گوشی با ویندوز\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه \u003cb\u003eRelay\u003c/b\u003e یک ابزار متن‌باز است که به شما اجازه می‌دهد اینترنت و VPN فعال روی گوشی اندرویدی خود را بدون نیاز به تنظیمات دستی شبکه، با لپ‌تاپ ویندوزی به اشتراک بگذارید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B2.png\u0026#39;)\"\u003e\u003cb\u003e📲\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاشتراک‌گذاری آسان:\u003c/b\u003e فقط با فشردن یک دکمه در گوشی، اشتراک‌گذاری فعال شده و سرویس پس‌زمینه حتی در صورت خاموش شدن صفحه، اتصال را برقرار نگه می‌دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاتصال سریع با QR Code:\u003c/b\u003e با اسکن کد QR توسط اپلیکیشن ویندوز (یا وارد کردن کد کوتاه)، ویندوز به‌صورت خودکار تنظیمات را انجام می‌دهد و هنگام قطع اتصال، همه‌چیز به حالت اول برمی‌گردد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eعبور ترافیک از VPN گوشی:\u003c/b\u003e تمام ترافیک ویندوز از طریق اتصال گوشی (شامل VPNهای فعال روی آن) منتقل می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحفظ کامل حریم خصوصی (Local-Only):\u003c/b\u003e بدون لاگ، بدون تلمتری، بدون نیاز به ساخت حساب کاربری یا استفاده از سرویس‌های ابری؛ تمام دیتا فقط بین دو دستگاه شما باقی می‌ماند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/Mahdi-mortazavi/relay\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-08-08T17:32:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2861,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e نتینو | مرجع خرید اکانت‌های پریمیوم و هوش مصنوعی\u003cbr/\u003e\u003cbr/\u003eدنبال اکانت اورجینال با قیمت مناسب، تحویل سریع و پشتیبانی واقعی هستی؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ChatGPT Plus و Go\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e Claude Pro و Gemini Pro\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e Telegram Premium و YouTube Premium\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e Canva Pro، CapCut Pro، Spotify، Netflix\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e Apple ID، VPN و ده‌ها سرویس محبوب دیگر\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e مزایای خرید از نتینو:\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e تحویل سریع\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e فعال‌سازی روی جیمیل شخصی برای سرویس‌های قابل فعال‌سازی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e گارانتی محصولات منتخب\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e پشتیبانی قبل و بعد از خرید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F85.png\u0026#39;)\"\u003e\u003cb\u003e🏅\u003c/b\u003e\u003c/i\u003e دارای نماد اعتماد الکترونیکی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e تخفیف ویژه فقط برای ۵۰ خرید اول\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E9F.png\u0026#39;)\"\u003e\u003cb\u003e🎟\u003c/b\u003e\u003c/i\u003e کد تخفیف: TELE100\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://netinomarket.ir/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://netinomarket.ir\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Netinokhadmat_bot\" target=\"_blank\"\u003e@Netinokhadmat_bot\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Netino_Service\" target=\"_blank\"\u003e@Netino_Service\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e نتینو؛ کیفیت بالا، قیمت رقابتی و خرید مطمئن",
+      "date": "2026-08-08T17:45:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
     }
   ],
   "last_updated": 0
