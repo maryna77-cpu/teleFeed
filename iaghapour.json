@@ -32,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
         }
       ]
     },
@@ -50,7 +50,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg",
           "width": 1544
         }
       ]
@@ -69,7 +69,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
         }
       ]
     },
@@ -87,7 +87,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
     },
@@ -141,7 +141,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
     },
@@ -225,7 +225,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
         }
       ]
     },
@@ -271,7 +271,7 @@
       "date": "2026-08-09T10:24:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,25 +283,7 @@
       "date": "2026-08-09T17:04:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9910,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2865,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی Amnezia Web Panel؛ پنل وب برای مدیریت پروتکل‌های فیلترشکن\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه \u003cb\u003eAmnezia Web Panel\u003c/b\u003e یک رابط کاربری وب مدرن، پرسرعت است که امکان نصب و مدیریت یکپارچه انواع پروتکل‌ها و سرویس‌های Amnezia و Xray را روی سرورهای سرور لینوکس فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003e پشتیبانی از \u003cb\u003eAmneziaWG:\u003c/b\u003e نسخه ارتقایافته WireGuard با الگوریتم‌های جدید برای عبور از DPI و سانسور شدید (شامل AWG 2.0).\u003cbr/\u003e\u003cbr/\u003eو \u003cb\u003eXray (XTLS-Reality):\u003c/b\u003e پروتکل ضداسکن و پنهان‌کار برای عبور از فیلترینگ.\u003cbr/\u003e\u003cbr/\u003eپروکسی تلگرام با قابلیت شبیه‌سازی TLS، مانیتورینگ زنده و اعمال محدودیت IP/ترافیک.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eسایر سرویس‌ها:\u003c/b\u003e Cloudflare WARP، وب‌سرور NGINX + SSL رایگان، و DNSهای داخلی AmneziaDNS و AdGuard Home (مسدودسازی تبلیغات).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A5.png\u0026#39;)\"\u003e\u003cb\u003e👥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت پیشرفته کاربران:\u003c/b\u003e تعیین نقش‌ها (ادمین، پشتیبان، کاربر عادی)، حجم مصرفی، تاریخ انقضا و قطع/وصل با یک کلیک.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003cb\u003eربات تلگرام:\u003c/b\u003e مدیریت کامل کاربران، سرورها و پروتکل‌ها مستقیماً از داخل تلگرام.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e قابلیت خروجی/ورودی JSON، انتقال پروتکل‌ها بین سرورها و سینک خودکار با \u003cb\u003eRemnawave\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/PRVTPRO/Amnezia-Web-Panel\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
-      "date": "2026-08-10T11:55:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8700,
+      "views": 9930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,12 +296,12 @@
       ]
     },
     {
-      "id": 2866,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eضرب‌الاجل ۱ هفته‌ای وزیر ارتباطات به اپراتورها؛ اتمام سریع بسته‌ها خط قرمز ماست\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر پی افزایش اعتراضات کاربران در شبکه‌های اجتماعی درباره «حجم‌خوری» و اتمام غیرعادی بسته‌های اینترنت، ستار هاشمی، وزیر ارتباطات، موضعی صریح گرفت و ضرب‌الاجل یک‌هفته‌ای برای بررسی و ارائه گزارش تعیین کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنکات کلیدی صحبت‌های وزیر ارتباطات:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B91.png\u0026#39;)\"\u003e\u003cb\u003e🛑\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاتمام سریع بسته‌ها:\u003c/b\u003e وزیر ارتباطات اعلام کرد اتمام غیرعادی حجم بسته‌ها خط قرمز اوست و به سازمان تنظیم مقررات (رگولاتوری) دستور بررسی ویژه داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A96.png\u0026#39;)\"\u003e\u003cb\u003e⚖️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبرخورد قانونی و جبران خسارت:\u003c/b\u003e در صورت اثبات هرگونه تخلف یا کسر حجم بیش از مصرف واقعی، علاوه بر برخورد جدی و قانونی با اپراتور متخلف، اپراتور ملزم به \u003cb\u003eجبران خسارت کاربران\u003c/b\u003e خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e \u003cb\u003eطبیعی بودن افزایش مصرف:\u003c/b\u003e هاشمی اشاره کرد که با توسعه فناوری و کیفیت سرویس‌ها، افزایش میزان مصرف کاربران طبیعی است، اما حق‌الناس و حجم پرداختی کاربران باید دقیقاً رعایت شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمهلت ارائه گزارش:\u003c/b\u003e اپراتورها موظف شده‌اند ظرف مدت یک هفته گزارش دقیق بررسی‌های فنی خود را به وزارت ارتباطات ارائه دهند./زومجی\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-08-10T16:23:49Z",
+      "id": 2865,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی Amnezia Web Panel؛ پنل وب برای مدیریت پروتکل‌های فیلترشکن\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه \u003cb\u003eAmnezia Web Panel\u003c/b\u003e یک رابط کاربری وب مدرن، پرسرعت است که امکان نصب و مدیریت یکپارچه انواع پروتکل‌ها و سرویس‌های Amnezia و Xray را روی سرورهای سرور لینوکس فراهم می‌کند.\u003cbr/\u003e\u003cbr/\u003e پشتیبانی از \u003cb\u003eAmneziaWG:\u003c/b\u003e نسخه ارتقایافته WireGuard با الگوریتم‌های جدید برای عبور از DPI و سانسور شدید (شامل AWG 2.0).\u003cbr/\u003e\u003cbr/\u003eو \u003cb\u003eXray (XTLS-Reality):\u003c/b\u003e پروتکل ضداسکن و پنهان‌کار برای عبور از فیلترینگ.\u003cbr/\u003e\u003cbr/\u003eپروکسی تلگرام با قابلیت شبیه‌سازی TLS، مانیتورینگ زنده و اعمال محدودیت IP/ترافیک.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eسایر سرویس‌ها:\u003c/b\u003e Cloudflare WARP، وب‌سرور NGINX + SSL رایگان، و DNSهای داخلی AmneziaDNS و AdGuard Home (مسدودسازی تبلیغات).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A5.png\u0026#39;)\"\u003e\u003cb\u003e👥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت پیشرفته کاربران:\u003c/b\u003e تعیین نقش‌ها (ادمین، پشتیبان، کاربر عادی)، حجم مصرفی، تاریخ انقضا و قطع/وصل با یک کلیک.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003cb\u003eربات تلگرام:\u003c/b\u003e مدیریت کامل کاربران، سرورها و پروتکل‌ها مستقیماً از داخل تلگرام.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e قابلیت خروجی/ورودی JSON، انتقال پروتکل‌ها بین سرورها و سینک خودکار با \u003cb\u003eRemnawave\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/PRVTPRO/Amnezia-Web-Panel\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
+      "date": "2026-08-10T11:55:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7930,
+      "views": 8750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +309,25 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2866,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eضرب‌الاجل ۱ هفته‌ای وزیر ارتباطات به اپراتورها؛ اتمام سریع بسته‌ها خط قرمز ماست\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر پی افزایش اعتراضات کاربران در شبکه‌های اجتماعی درباره «حجم‌خوری» و اتمام غیرعادی بسته‌های اینترنت، ستار هاشمی، وزیر ارتباطات، موضعی صریح گرفت و ضرب‌الاجل یک‌هفته‌ای برای بررسی و ارائه گزارش تعیین کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنکات کلیدی صحبت‌های وزیر ارتباطات:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B91.png\u0026#39;)\"\u003e\u003cb\u003e🛑\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاتمام سریع بسته‌ها:\u003c/b\u003e وزیر ارتباطات اعلام کرد اتمام غیرعادی حجم بسته‌ها خط قرمز اوست و به سازمان تنظیم مقررات (رگولاتوری) دستور بررسی ویژه داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A96.png\u0026#39;)\"\u003e\u003cb\u003e⚖️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبرخورد قانونی و جبران خسارت:\u003c/b\u003e در صورت اثبات هرگونه تخلف یا کسر حجم بیش از مصرف واقعی، علاوه بر برخورد جدی و قانونی با اپراتور متخلف، اپراتور ملزم به \u003cb\u003eجبران خسارت کاربران\u003c/b\u003e خواهد بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e \u003cb\u003eطبیعی بودن افزایش مصرف:\u003c/b\u003e هاشمی اشاره کرد که با توسعه فناوری و کیفیت سرویس‌ها، افزایش میزان مصرف کاربران طبیعی است، اما حق‌الناس و حجم پرداختی کاربران باید دقیقاً رعایت شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB3.png\u0026#39;)\"\u003e\u003cb\u003e⏳\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمهلت ارائه گزارش:\u003c/b\u003e اپراتورها موظف شده‌اند ظرف مدت یک هفته گزارش دقیق بررسی‌های فنی خود را به وزارت ارتباطات ارائه دهند./زومجی\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-08-10T16:23:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
         }
       ]
     },
@@ -337,7 +337,7 @@
       "date": "2026-08-10T17:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 5980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
