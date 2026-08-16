@@ -7,24 +7,12 @@
   },
   "posts": [
     {
-      "id": 138537,
-      "message": "نیویورک تایمز \u003cbr/\u003eبه نظر می‌رسد واشنگتن خود را برای طولانی‌شدن جنگ آماده کرده است.\u003cbr/\u003e\u003cbr/\u003eبر اساس این گزارش، برخی افراد نزدیک به کاخ سفید معتقدند ضرب‌الاجل تعیین‌شده برای پایان درگیری‌ها در روز دوشنبه عبور خواهد کرد و جنگ بیش از آنکه صرفاً یک درگیری نظامی باشد، به سمت جنگ اقتصادی حرکت کرده است.\u003cbr/\u003e\u003cbr/\u003eاستراتژی فعلی آمریکا شباهت زیادی به سیاستی دارد که پیش‌تر برای تحت فشار قرار دادن ایران و وادار کردن تهران به عقب‌نشینی از برنامه هسته‌ای دنبال شد؛ یعنی اعمال فشار اقتصادی گسترده با هدف تغییر محاسبات طرف مقابل.\u003cbr/\u003e\u003cbr/\u003eاما نکته مهم اینجاست که حتی برخی تحلیلگران آمریکایی نسبت به موفقیت این رویکرد تردید دارند. تجربه دوره نخست ترامپ نشان داد که فشار اقتصادی شدید لزوماً به تغییر مسیر ایران منجر نمی‌شود.\u003cbr/\u003e\u003cbr/\u003eدر همین حال، اسکات بسنت، وزیر خزانه‌داری آمریکا، هفته گذشته از آماده‌سازی تحریم‌ها و مجازات‌های مالی بی‌سابقه علیه ایران خبر داده بود.",
-      "date": "2026-08-16T09:37:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 138538,
       "message": "تصاویری حیرت آور از حملات امروز اوکراین به مسکو",
       "date": "2026-08-16T10:01:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -32,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
         },
         {
           "type": "video",
@@ -46,7 +34,7 @@
       "date": "2026-08-16T10:03:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +46,7 @@
       "date": "2026-08-16T10:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 13800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -70,7 +58,7 @@
       "date": "2026-08-16T10:19:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +70,7 @@
       "date": "2026-08-16T10:25:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +82,7 @@
       "date": "2026-08-16T10:58:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +101,7 @@
       "date": "2026-08-16T11:03:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +113,7 @@
       "date": "2026-08-16T11:52:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +125,7 @@
       "date": "2026-08-16T12:04:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +137,7 @@
       "date": "2026-08-16T12:26:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9500,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +145,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg",
           "width": 704
         }
       ]
@@ -168,7 +156,7 @@
       "date": "2026-08-16T12:27:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9840,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +168,7 @@
       "date": "2026-08-16T12:28:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +180,7 @@
       "date": "2026-08-16T13:33:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6120,
+      "views": 7830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +192,7 @@
       "date": "2026-08-16T13:33:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
+      "views": 7840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +204,7 @@
       "date": "2026-08-16T13:34:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6040,
+      "views": 7840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +222,7 @@
       "date": "2026-08-16T14:00:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3790,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +241,7 @@
       "date": "2026-08-16T14:06:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3210,
+      "views": 5650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,11 +253,29 @@
       "date": "2026-08-16T14:12:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
+      "views": 4380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138558,
+      "message": "لحظه‌ای که «Exeter» آخرین ضربه را خورد\u003cbr/\u003e\u003cbr/\u003eاین تصویر مربوط به ۱ مارس ۱۹۴۲ و جریان نبرد دوم دریای جاوه در جنگ جهانی دوم است؛ زمانی که رزم‌ناو سنگین بریتانیایی HMS Exeter پس از درگیری شدید با ناوهای ژاپنی، آسیب جدی دیده و تقریباً از حرکت بازمانده بود. \u003cbr/\u003e\u003cbr/\u003eدر حالی که Exeter در حال غرق‌شدن بود، ناوشکن ژاپنی Inazuma با شلیک اژدر به آن ضربه نهایی را وارد کرد و کشتی اندکی بعد غرق شد.",
+      "date": "2026-08-16T14:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
