@@ -7,143 +7,12 @@
   },
   "posts": [
     {
-      "id": 138569,
-      "message": "تصویر واضح از \u003ca href=\"https://jangaavaran.ir/j-10c/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eجنگنده جی ۱۰ سی\u003c/a\u003e در خدمت نیروی هوایی ازبکستان \u003cbr/\u003eطی یک ماه گذشته اخباری از تحویل این جنگنده به ازبکستان آمده بود و نکته جالب این است که مراحل سفارش تا روز تحویل کاملاً بدون سر و صدای رسانه‌ای انجام شد",
-      "date": "2026-08-16T18:34:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
-        }
-      ]
-    },
-    {
-      "id": 138570,
-      "message": "یک روز عادی در اوکراین \u003cbr/\u003eیک پهپاد شاهد که مورد هدف پدافند قرار گرفته سقوط می‌کند در کنار تراکتور یک کشاورزی که دارد زمین را شخم می‌زند",
-      "date": "2026-08-16T18:42:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg",
-          "width": 268
-        }
-      ]
-    },
-    {
-      "id": 138571,
-      "message": "یک شرکت آمریکایی  در نمایشگاه GVSETS 2026، نمونه‌ای از خودروی رزمی بدون‌سرنشین EMAV را به نمایش گذاشت که به‌صورت اختیاری به توپ زنجیری XM913 با کالیبر ۵۰ میلی‌متر مجهز شده است. \u003cbr/\u003e\u003cbr/\u003eاین خودروی زنجیری رباتیک و ماژولار است که برای مأموریت‌های مختلف طراحی شده و می‌تواند به‌جای تسلیحات، محموله، تجهیزات شناسایی یا حسگرهای مختلف حمل کند. نسخه‌های مختلف آن قابلیت پذیرش تسلیحات ۳۰، ۴۰ و ۵۰ میلی‌متری را دارند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eایکس ام 913 در اصل به‌عنوان توپ اصلی نسل بعدی خودروهای رزمی پیاده‌نظام آمریکا در نظر گرفته شده و ارتش آمریکا در حال بررسی استفاده از همین توپ برای مقابله با پهپادها نیز هست. \u003cbr/\u003e\u003cbr/\u003eمزیت اصلی چنین ترکیبی این است که می‌توان قدرت آتش یک توپ ۵۰ میلی‌متری را بدون قرار دادن خدمه داخل خودرو در اختیار نیروها قرار داد؛ اما در مقابل، وزن و حجم مهمات، کنترل لگد توپ، ظرفیت مهمات و آسیب‌پذیری خود ربات همچنان چالش‌های جدی هستند.\u003cbr/\u003e\u003cbr/\u003eبه‌نظر می‌رسد آمریکایی‌ها در حال آزمایش یک ایده جذاب هستند: \u003cb\u003eیک «تانک کوچک رباتیک» که بتواند با مهمات ۵۰ میلی‌متری هم با اهداف زمینی و هم با تهدیدات هوایی، از جمله پهپادها، مقابله کند.\u003c/b\u003e",
-      "date": "2026-08-16T19:44:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
-        }
-      ]
-    },
-    {
       "id": 138573,
       "message": "آنکا III با دو مین موشک  «SÜPER ŞİMŞEK» به پرواز درآمد\u003cbr/\u003e\u003cbr/\u003eتصاویر جدید منتشرشده توسط صنایع هوافضای ترکیه (TUSAŞ) نشان می‌دهد پهپاد رزمی \u003ca href=\"https://jangaavaran.ir/anka-3-uav/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپنهانکار ANKA III \u003c/a\u003eدر یک پیکربندی جدید، دو فروند پهپاد جت انتحاری  SÜPER ŞİMŞEK را زیر بال‌های خود حمل می‌کند.\u003cbr/\u003e\u003cbr/\u003eاین ترکیب می‌تواند به ANKA III اجازه دهد پهپادهای همراه را در منطقه درگیری رها کند تا مأموریت‌هایی مانند:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e شناسایی و جمع‌آوری اطلاعات (ISR)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e جنگ الکترونیک\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e سرکوب و انهدام پدافند هوایی دشمن (SEAD/DEAD)\u003cbr/\u003e\u003cbr/\u003eرا انجام دهند.\u003cbr/\u003e\u003cbr/\u003eاهمیت این پیکربندی در مفهوم «تیم‌سازی انسان و ماشین» (MUM-T) است؛ یعنی یک پلتفرم اصلی می‌تواند چند سامانه بدون‌سرنشین را به‌صورت شبکه‌ای همراه خود وارد میدان کند.\u003cbr/\u003e\u003cbr/\u003eدر چنین سناریویی، ANKA III فقط یک پهپاد رزمی نیست؛ بلکه می‌تواند به نوعی مادرپلتفرم برای پهپادهای همراه تبدیل شود و با افزایش تعداد سامانه‌های حاضر در منطقه، انعطاف‌پذیری و توان بقا در محیط‌های پدافندی را افزایش دهد.\u003cbr/\u003e\u003cbr/\u003eاین پهپاد جت انتحاری ۸۰۰ کیلومتر برد و ۳۵ کیلوگرم کلاهک جنگی دارد",
       "date": "2026-08-16T20:00:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 138574,
-      "message": "ساندی تایمز\u003cbr/\u003eایالات متحده نیمی از ذخایر تاماهاک خود را استفاده کرده است و کمتر از ۸۰۰ موشک پاتریوت باقی مانده است \u003cbr/\u003e\u003cbr/\u003eیکی از دلایلی که این نشریه ذکر کرده، عدم تعادل طولانی مدت در هزینه‌های پنتاگون است: مبالغ هنگفتی به هواپیماها، کشتی‌ها و سایر پلتفرم‌های گران‌قیمت اختصاص داده شده است، در حالی که عملاً ذخایر بزرگی از مهمات ایجاد نشده است.\u003cbr/\u003e\u003cbr/\u003eاین وضعیت به ویژه در مورد موشک‌های PAC-3 برای سیستم پاتریوت حاد است. در آغاز سال ۲۰۲۲، ایالات متحده تقریباً ۳۱۰۰ فروند از این رهگیرها را داشت.\u003cbr/\u003e\u003cbr/\u003eحدود ۶۰۰ موشک به اوکراین منتقل شد، صدها موشک در سال‌های ۲۰۲۴-۲۰۲۵ در خاورمیانه مورد استفاده قرار گرفت و طبق گزارش‌ها تقریباً ۱۲۰۰ موشک دیگر پس از شروع درگیری با ایران مورد استفاده قرار گرفت.\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر، کمتر از ۸۰۰ موشک PAC-3 در ذخایر ایالات متحده باقی مانده است. تولید یک موشک حدود دو سال طول می‌کشد و تقریباً ۴ میلیون دلار هزینه دارد. پنتاگون در سال ۲۰۲۲ شروع به گسترش تولید کرد، اما پر کردن سریع زرادخانه‌ها امکان‌پذیر نیست.",
-      "date": "2026-08-16T20:19:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138575,
-      "message": "فرمانده سنتکام درباره وضعیت روحی خدمه لینکلن واکنش نشان داد\u003cbr/\u003e\u003cbr/\u003eدریادار برد کوپر، فرمانده سنتکام، پس از بازدید اخیر از ناو هواپیمابر USS Abraham Lincoln (CVN-72) در دریای عرب، به گزارش‌های منتشرشده درباره وضعیت سلامت روان خدمه این ناو واکنش نشان داد.\u003cbr/\u003e\u003cbr/\u003eدر هفته‌های اخیر، برخی رسانه‌ها و خانواده‌های ملوانان از فشار روانی ناشی از مأموریت طولانی و حضور مستمر ناو در منطقه ابراز نگرانی کرده بودند.\u003cbr/\u003e\u003cbr/\u003eبا این حال، کوپر در بیانیه خود گفت:\u003cbr/\u003e\u003cbr/\u003e «یک واقعیت مهم این است که از میان ۱۱ ناو هواپیمابر فعال نیروی دریایی آمریکا، لینکلن در حال حاضر جزو ناوهایی با کمترین تعداد موارد مرتبط با سلامت روان است.»\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین اظهارنظر در حالی مطرح شده که گزارش‌های خانواده‌های خدمه تصویر متفاوتی از شرایط روی ناو ارائه می‌کنند؛ بنابراین فعلاً میان آمار رسمی فرماندهی و روایت برخی خانواده‌ها و رسانه‌ها اختلاف قابل‌توجهی وجود دارد.",
-      "date": "2026-08-16T20:23:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138576,
-      "message": "نارنجک دستی چقدر واقعاً خطرناکه؟\u003cbr/\u003e\u003cbr/\u003eوقتی ضامن یک نارنجک دستی کشیده میشه، فقط چند ثانیه تا انفجار باقی می‌مونه. اما شعاع تخریب واقعی اون چقدره؟ بیایید اعداد واقعی رو بررسی کنیم:\u003cbr/\u003e\u003cbr/\u003eدو شعاع حیاتی:\u003cbr/\u003e\u003cbr/\u003eشعاع کشندگی \u003cbr/\u003eشعاعی که در اون احتمال کشته شدن ۵۰٪ یا بیشتره. برای اکثر نارنجک‌های مدرن این عدد حدود ۵ تا ۱۵ متر است.\u003cbr/\u003e\u003cbr/\u003eشعاع از پا درآوردن \u003cbr/\u003eشعاعی که ترکش‌ها باعث جراحت جدی و ناتوانی میشن. این عدد معمولاً ۱۵ تا ۳۰ متراست.\u003cbr/\u003e\u003cbr/\u003eمثلاً یک نارنجک امریکایی ام ۶۷\u003cbr/\u003e- وزن: ۴۰۰ گرم\u003cbr/\u003e- مواد منفجره: ۱۸۰ گرم Composition B\u003cbr/\u003e- شعاع کشندگی: ۵ متر\u003cbr/\u003e- شعاع جراحت: ۱۵ متر\u003cbr/\u003e- ترکش‌ها تا ۲۰۰ متر پرتاب میشن!\u003cbr/\u003e\u003cbr/\u003eو یا نارنجک  ار جی دی ۵ روسی \u003cbr/\u003e\u003cbr/\u003e \u003cbr/\u003e- وزن: ۳۱۰ گرم\u003cbr/\u003e- مواد منفجره: ۱۱۰ گرم TNT\u003cbr/\u003e- شعاع کشندگی: ۳-۵ متر\u003cbr/\u003e- شعاع جراحت: ۱۰-۱۵ متر\u003cbr/\u003e\u003cbr/\u003eدر فضای بسته (اتاق، سنگر)، موج انفجار بارها از دیوارها بازتاب می‌کنه و قدرت تخریب چندین برابر میشه. یک نارنجک در اتاق می‌تونه همه سرنشینان رو بکشه.\u003cbr/\u003e\u003cbr/\u003eولی خطر اصلی نارنجک موج انفجار نیست، بلکه ترکش‌های فلزی با سرعت ۱۵۰۰-۲۰۰۰ متر بر ثانیه است! این ترکش‌ها می‌تونن تا ۲۰۰ متر پرتاب بشن و حتی در فاصله ۵۰ متری هم کشنده باشن.\u003cbr/\u003e\u003cbr/\u003eگفته شده دراز کشیدن روی زمین احتمال جراحت رو ۵۰-۸۰٪ کاهش می‌ده، چون ترکش‌ها بیشتر به سمت بالا و اطراف پرتاب میشن.",
-      "date": "2026-08-16T20:25:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138577,
-      "message": "\u003ctg-emoji emoji-id=\"5857194390732149632\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاینترنت بدون محدودیت، بدون دردسر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدنبال یک فیلترشکن سریع و پایدار هستی؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5215440433198413312\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/v2ray443_hamkar_bot?start=jangavaran\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاول رایگان تست کن، بعد تصمیم بگیر.\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5994818281200948692\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سرعت پایدار \u003ctg-emoji emoji-id=\"5994818281200948692\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اتصال امن \u003ctg-emoji emoji-id=\"5994818281200948692\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چند لوکیشن فعال\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5415593786162030513\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پلن‌های ویژه با تخفیف فعال است \u003ctg-emoji emoji-id=\"5839200234403533703\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5776182936638329359\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/v2ray443_hamkar_bot?start=jangavaran\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eدریافت تست رایگان:\u003c/b\u003e\u003c/a\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5852476223128606753\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/v2ray443_hamkar_bot?start=jangavaran\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@v2ray443_hamkar_bot\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-08-16T20:31:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 138578,
-      "message": "سلام صبح بخیر",
-      "date": "2026-08-17T02:20:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8950,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,12 +25,84 @@
       ]
     },
     {
+      "id": 138574,
+      "message": "ساندی تایمز\u003cbr/\u003eایالات متحده نیمی از ذخایر تاماهاک خود را استفاده کرده است و کمتر از ۸۰۰ موشک پاتریوت باقی مانده است \u003cbr/\u003e\u003cbr/\u003eیکی از دلایلی که این نشریه ذکر کرده، عدم تعادل طولانی مدت در هزینه‌های پنتاگون است: مبالغ هنگفتی به هواپیماها، کشتی‌ها و سایر پلتفرم‌های گران‌قیمت اختصاص داده شده است، در حالی که عملاً ذخایر بزرگی از مهمات ایجاد نشده است.\u003cbr/\u003e\u003cbr/\u003eاین وضعیت به ویژه در مورد موشک‌های PAC-3 برای سیستم پاتریوت حاد است. در آغاز سال ۲۰۲۲، ایالات متحده تقریباً ۳۱۰۰ فروند از این رهگیرها را داشت.\u003cbr/\u003e\u003cbr/\u003eحدود ۶۰۰ موشک به اوکراین منتقل شد، صدها موشک در سال‌های ۲۰۲۴-۲۰۲۵ در خاورمیانه مورد استفاده قرار گرفت و طبق گزارش‌ها تقریباً ۱۲۰۰ موشک دیگر پس از شروع درگیری با ایران مورد استفاده قرار گرفت.\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر، کمتر از ۸۰۰ موشک PAC-3 در ذخایر ایالات متحده باقی مانده است. تولید یک موشک حدود دو سال طول می‌کشد و تقریباً ۴ میلیون دلار هزینه دارد. پنتاگون در سال ۲۰۲۲ شروع به گسترش تولید کرد، اما پر کردن سریع زرادخانه‌ها امکان‌پذیر نیست.",
+      "date": "2026-08-16T20:19:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138575,
+      "message": "فرمانده سنتکام درباره وضعیت روحی خدمه لینکلن واکنش نشان داد\u003cbr/\u003e\u003cbr/\u003eدریادار برد کوپر، فرمانده سنتکام، پس از بازدید اخیر از ناو هواپیمابر USS Abraham Lincoln (CVN-72) در دریای عرب، به گزارش‌های منتشرشده درباره وضعیت سلامت روان خدمه این ناو واکنش نشان داد.\u003cbr/\u003e\u003cbr/\u003eدر هفته‌های اخیر، برخی رسانه‌ها و خانواده‌های ملوانان از فشار روانی ناشی از مأموریت طولانی و حضور مستمر ناو در منطقه ابراز نگرانی کرده بودند.\u003cbr/\u003e\u003cbr/\u003eبا این حال، کوپر در بیانیه خود گفت:\u003cbr/\u003e\u003cbr/\u003e «یک واقعیت مهم این است که از میان ۱۱ ناو هواپیمابر فعال نیروی دریایی آمریکا، لینکلن در حال حاضر جزو ناوهایی با کمترین تعداد موارد مرتبط با سلامت روان است.»\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین اظهارنظر در حالی مطرح شده که گزارش‌های خانواده‌های خدمه تصویر متفاوتی از شرایط روی ناو ارائه می‌کنند؛ بنابراین فعلاً میان آمار رسمی فرماندهی و روایت برخی خانواده‌ها و رسانه‌ها اختلاف قابل‌توجهی وجود دارد.",
+      "date": "2026-08-16T20:23:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138576,
+      "message": "نارنجک دستی چقدر واقعاً خطرناکه؟\u003cbr/\u003e\u003cbr/\u003eوقتی ضامن یک نارنجک دستی کشیده میشه، فقط چند ثانیه تا انفجار باقی می‌مونه. اما شعاع تخریب واقعی اون چقدره؟ بیایید اعداد واقعی رو بررسی کنیم:\u003cbr/\u003e\u003cbr/\u003eدو شعاع حیاتی:\u003cbr/\u003e\u003cbr/\u003eشعاع کشندگی \u003cbr/\u003eشعاعی که در اون احتمال کشته شدن ۵۰٪ یا بیشتره. برای اکثر نارنجک‌های مدرن این عدد حدود ۵ تا ۱۵ متر است.\u003cbr/\u003e\u003cbr/\u003eشعاع از پا درآوردن \u003cbr/\u003eشعاعی که ترکش‌ها باعث جراحت جدی و ناتوانی میشن. این عدد معمولاً ۱۵ تا ۳۰ متراست.\u003cbr/\u003e\u003cbr/\u003eمثلاً یک نارنجک امریکایی ام ۶۷\u003cbr/\u003e- وزن: ۴۰۰ گرم\u003cbr/\u003e- مواد منفجره: ۱۸۰ گرم Composition B\u003cbr/\u003e- شعاع کشندگی: ۵ متر\u003cbr/\u003e- شعاع جراحت: ۱۵ متر\u003cbr/\u003e- ترکش‌ها تا ۲۰۰ متر پرتاب میشن!\u003cbr/\u003e\u003cbr/\u003eو یا نارنجک  ار جی دی ۵ روسی \u003cbr/\u003e\u003cbr/\u003e \u003cbr/\u003e- وزن: ۳۱۰ گرم\u003cbr/\u003e- مواد منفجره: ۱۱۰ گرم TNT\u003cbr/\u003e- شعاع کشندگی: ۳-۵ متر\u003cbr/\u003e- شعاع جراحت: ۱۰-۱۵ متر\u003cbr/\u003e\u003cbr/\u003eدر فضای بسته (اتاق، سنگر)، موج انفجار بارها از دیوارها بازتاب می‌کنه و قدرت تخریب چندین برابر میشه. یک نارنجک در اتاق می‌تونه همه سرنشینان رو بکشه.\u003cbr/\u003e\u003cbr/\u003eولی خطر اصلی نارنجک موج انفجار نیست، بلکه ترکش‌های فلزی با سرعت ۱۵۰۰-۲۰۰۰ متر بر ثانیه است! این ترکش‌ها می‌تونن تا ۲۰۰ متر پرتاب بشن و حتی در فاصله ۵۰ متری هم کشنده باشن.\u003cbr/\u003e\u003cbr/\u003eگفته شده دراز کشیدن روی زمین احتمال جراحت رو ۵۰-۸۰٪ کاهش می‌ده، چون ترکش‌ها بیشتر به سمت بالا و اطراف پرتاب میشن.",
+      "date": "2026-08-16T20:25:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138577,
+      "message": "\u003ctg-emoji emoji-id=\"5857194390732149632\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاینترنت بدون محدودیت، بدون دردسر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدنبال یک فیلترشکن سریع و پایدار هستی؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5215440433198413312\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/v2ray443_hamkar_bot?start=jangavaran\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاول رایگان تست کن، بعد تصمیم بگیر.\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5994818281200948692\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سرعت پایدار \u003ctg-emoji emoji-id=\"5994818281200948692\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اتصال امن \u003ctg-emoji emoji-id=\"5994818281200948692\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چند لوکیشن فعال\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5415593786162030513\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پلن‌های ویژه با تخفیف فعال است \u003ctg-emoji emoji-id=\"5839200234403533703\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5776182936638329359\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/v2ray443_hamkar_bot?start=jangavaran\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eدریافت تست رایگان:\u003c/b\u003e\u003c/a\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5852476223128606753\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/v2ray443_hamkar_bot?start=jangavaran\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@v2ray443_hamkar_bot\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-08-16T20:31:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 138578,
+      "message": "سلام صبح بخیر",
+      "date": "2026-08-17T02:20:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+        }
+      ]
+    },
+    {
       "id": 138579,
       "message": "حمل و نقل کالاها از طریق تنگه هرمز در طول تعطیلات آخر هفته، به دلیل حملات جدید به نفتکش‌ها، به شدت کاهش یافت و به مرز توقف رسید. داده‌های شرکت Kpler نشان می‌دهد که تنها پنج کشتی حامل کالا در روز شنبه از این مسیر عبور کردند و هیچ کشتی در روز یکشنبه ثبت نشد، در حالی که در آخر هفته‌ی گذشته، ۳۱ کشتی از این مسیر عبور کرده بودند",
       "date": "2026-08-17T02:22:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9050,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +114,7 @@
       "date": "2026-08-17T02:23:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9390,
+      "views": 12100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +126,7 @@
       "date": "2026-08-17T02:26:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
+      "views": 13100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +138,7 @@
       "date": "2026-08-17T02:32:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +150,7 @@
       "date": "2026-08-17T03:43:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8820,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +162,7 @@
       "date": "2026-08-17T03:45:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9090,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +180,7 @@
       "date": "2026-08-17T04:13:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8189,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +192,7 @@
       "date": "2026-08-17T04:14:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7790,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +204,7 @@
       "date": "2026-08-17T05:16:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2900,
+      "views": 8620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +212,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
         }
       ]
     },
@@ -281,7 +222,61 @@
       "date": "2026-08-17T05:23:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2250,
+      "views": 8020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138589,
+      "message": "رویترز: دونالد ترامپ، رئیس‌جمهور ایالات متحده، به پنتاگون دستور داده است تا تمرینات نظامی مشترک با کره جنوبی را \u0026#34;به طور قابل توجهی\u0026#34; کاهش دهد. او به هزینه‌های این تمرینات و همچنین عدم تمایل سئول به مشارکت در عملیات نظامی آمریکا علیه ایران، به عنوان دلایل این تصمیم اشاره کرده است. ترامپ گفتند که این تمرینات، سیگنالی \u0026#34;نامناسب و خصمانه\u0026#34; به کره شمالی ارسال می‌کنند. در همین حال، تمرینات سالانه \u0026#34;Ulchi Freedom Shield\u0026#34; قرار است تا ۲۷ آگوست با حضور حدود ۱۸۰۰۰ نیروی نظامی کره جنوبی ادامه یابد.",
+      "date": "2026-08-17T05:44:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138590,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e \u003cb\u003eعذرخواهی از خانواده مهسا امینی/ نماینده ملایر: لفظ نامناسبی برای مرحوم خانم امینی به کار بردم و از خانواده محترم ایشان عذرخواهی می‌کنم\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e \u003cb\u003eاحمد آریایی نژاد، نماینده ملایر در مجلس دوازدهم:\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eدر مناظره ای که اخیرا در تلویزیون همشهری داشتم در نقد صحبت ها و عملکرد نماینده سباق و رییس جمهور فعلی ناخودآگاه لفظ نامناسبی برای مرحوم مهسا امینی به کار بردم.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eهمینجا از خانواده محترم ایشان و منتقدین دلسوز عذرخواهی می کنم.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D87.png\u0026#39;)\"\u003e\u003cb\u003e❇️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/baamdadeno\" target=\"_blank\"\u003e@baamdadeno\u003c/a\u003e",
+      "date": "2026-08-17T05:58:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 138591,
+      "message": "وقتی چشمت به یک دوربین میفته یک چفیه هم می‌ندازی گردنت جو نگیرتتون تا بعد عذرخواهی نکنید \u003cbr/\u003eاز قدیم می‌گوید انسان را سگ بدرد ولی جو نگیرد",
+      "date": "2026-08-17T05:59:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138592,
+      "message": "آژانس دفاع موشکی ایالات متحده (MDA) پیش از درخواست، اطلاعیه‌ای برای یک رادار متحرک جدید که برای شناسایی و ردیابی موشک‌های بالستیک، کروز و هایپرسونیک طراحی شده است، منتشر کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eرادار بعدی حالت رو به جلو (FBM) قرار است یک حسگر متحرک‌تر و با قابلیت استقرار سریع ارائه دهد که می‌تواند توسط هواپیماهای C-17 یا وسایل نقلیه زمینی تاکتیکی حمل شود و در شرایط نامساعد آب و هوایی عمل کند.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین تلاش در حالی صورت می‌گیرد که ایالات متحده به دنبال بهبود توانایی خود در شناسایی و ردیابی تهدیدات موشکی پیشرفته فزاینده از چین، روسیه و ایران، از جمله سلاح‌های هایپرسونیک است. این رادار جدید بر اساس نقشی که در حال حاضر توسط رادار حالت رو به جلو AN/TPY-2 انجام می‌شود، ساخته خواهد شد که در حال حاضر بخشی از معماری دفاع موشکی بالستیک ایالات متحده است.",
+      "date": "2026-08-17T06:13:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
