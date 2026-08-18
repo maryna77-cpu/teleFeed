@@ -3,7 +3,7 @@
     "id": 0,
     "title": "AiMobix",
     "username": "aimobix",
-    "photo_url": "https://cdn4.telesco.pe/file/Gb2sJyPbzW8nr5YfB5FbS8kaM6XGkZ59xOFJpJlx0wjIXe_J1Cqglrw3XmRSCe-d3QP-DFuSG9XUEJMC6EggBjT2OlkQz_CIa9nnDw_x-gyJYAg-ibMqbtnv3kmh7jwDC-PM6Hn16U-rG9hNPBb2lqDA4vndnzBb8KMIn14_ct4wMdq2MIa6vogUOe3KXEuy4b5G-u4MBter4izB2i8pIIsuMjgl49_a1NKjqrYXhWHluOMvRiYEJrMLDJZgVnp741gEpgU2sRrhws4EO8vNNyjY3falX0CA3EUPnNByvHw_Zd3G7vvqkoqM_a42WD_dYaFUVBP4XsXRwPnOP5JrpA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/v056HhMgekI8DaEGKWB6OSmmkYC2cHqXVmBrt4E6JIMpKl4mj8SV18DiJdBQ-NCHtK64thY5yjSRcXzjUAa_InhI-m9CbXVb0WvnhquaIBvekPrhOsUq5r19_EpVJdgwu2Y475kbNrJW3WUL7iRQzFDYRARKZ4mQ5YNQzVw-OfoY0WwY1nFQgzM7zWLu3yDJkMzqxKFx5I1Al9bEoWGA6E4nj_4QDBUKXocwqSTUo0VJPblnQYh8i8NhuE37L-W_oPC4wyoWY5ExgS2M4nKLpdpoz0PnnGU592-BBNtDQsjFUiYBAv7h-A7viqqPiX0vQ1jJCKM8kN6OIS647HdVsQ.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-08-14T19:51:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
+      "views": 19300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-08-14T21:22:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +42,7 @@
       "date": "2026-08-14T22:26:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-08-15T12:19:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-15T14:21:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +78,7 @@
       "date": "2026-08-15T14:27:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 16100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +90,7 @@
       "date": "2026-08-15T14:30:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +102,7 @@
       "date": "2026-08-15T14:41:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +114,7 @@
       "date": "2026-08-15T14:47:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 15800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +138,7 @@
       "date": "2026-08-15T17:22:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +168,7 @@
       "date": "2026-08-16T08:34:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 15700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +180,25 @@
       "date": "2026-08-16T16:14:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 880,
+      "message": "جدیدترین روش ساخت کانفیگ با پنل اسپایدر \u003cbr/\u003eاین روش رو شما عزیزان معرفی کردین\u003cbr/\u003eآموزش فعالسازی :\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/zBw9KAAip0I\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/zBw9KAAip0I\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسرعت بی نظیر و عالی\u003cbr/\u003eرو همراه اول و ایرانسل من جواب گرفتم\u003cbr/\u003eلوکیشن آمریکا آی پی ثابت\u003cbr/\u003eجمینای رو باز میکنه \u003cbr/\u003e\u003cbr/\u003eتست سرعتو گرفتم تو خود فیلم برگام ریخت\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eلینک گیت هاب پروژه : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/amirappleidfd-stack/spider--panel\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/amirappleidfd-stack/spider--panel\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eامیدوارم واستون خوب بیاره و سرعتش عالی باشه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌️\u003c/b\u003e\u003c/i\u003e این فیلم هیچ پیش نیازی ندارد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-16T16:15:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,30 +211,12 @@
       ]
     },
     {
-      "id": 880,
-      "message": "جدیدترین روش ساخت کانفیگ با پنل اسپایدر \u003cbr/\u003eاین روش رو شما عزیزان معرفی کردین\u003cbr/\u003eآموزش فعالسازی :\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/zBw9KAAip0I\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/zBw9KAAip0I\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسرعت بی نظیر و عالی\u003cbr/\u003eرو همراه اول و ایرانسل من جواب گرفتم\u003cbr/\u003eلوکیشن آمریکا آی پی ثابت\u003cbr/\u003eجمینای رو باز میکنه \u003cbr/\u003e\u003cbr/\u003eتست سرعتو گرفتم تو خود فیلم برگام ریخت\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eلینک گیت هاب پروژه : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/amirappleidfd-stack/spider--panel\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/amirappleidfd-stack/spider--panel\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eامیدوارم واستون خوب بیاره و سرعتش عالی باشه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌️\u003c/b\u003e\u003c/i\u003e این فیلم هیچ پیش نیازی ندارد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-16T16:15:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
-        }
-      ]
-    },
-    {
       "id": 881,
       "message": "اگه پروژه براتون فورک نشد با جیمیل دوباره مراحلو انجام بدین این مشکل حل میشه",
       "date": "2026-08-16T16:47:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 15700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +234,7 @@
       "date": "2026-08-16T21:09:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +246,7 @@
       "date": "2026-08-16T21:09:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +254,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
         }
       ]
     },
@@ -264,7 +264,7 @@
       "date": "2026-08-18T07:49:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 7170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +276,7 @@
       "date": "2026-08-18T08:33:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5860,
+      "views": 6250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
