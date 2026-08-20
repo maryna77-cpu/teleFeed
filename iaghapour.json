@@ -7,6 +7,18 @@
   },
   "posts": [
     {
+      "id": 2882,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت بزرگ تانل Hedioum Pool Tunnel\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاسکریپت محبوب \u003cb\u003eHedioum Pool Tunnel\u003c/b\u003e با بازطراحی کامل ساختار امنیتی و افزوده شدن قابلیت‌های پیشرفته ضد فیلترینگ به‌روزرسانی شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eارتقای رمزنگاری:\u003c/b\u003e تغییر از الگوریتم XOR به رمزنگاری مدرن \u003cb\u003eChaCha20-Poly1305\u003c/b\u003e (کلید بدون ارسال مستقیم در شبکه مدیریت می‌شود).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAD.png\u0026#39;)\"\u003e\u003cb\u003e🎭\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاستتار چندگانه (Multi-Mimic):\u003c/b\u003e پشتیبانی از میمیک‌های TLS/HTTPS، ایمیل (SMTP/IMAP) و شبیه‌سازی کامل پنل DirectAdmin روی پورت‌های ۸۰ و ۲۲۲۲ برای گمراه‌سازی اسکنرها.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B5.png\u0026#39;)\"\u003e\u003cb\u003e🕵️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرفتار کاملاً رندوم و ضد DPI:\u003c/b\u003e امضای شبکه برای هر سرور یکتا و منحصربه‌فرد است؛ همچنین طول‌عمر و حجم کانکشن‌ها به‌صورت تصادفی تغییر می‌کند تا شناسایی ترافیک بسیار دشوار شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939C.png\u0026#39;)\"\u003e\u003cb\u003e📜\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت گواهی SSL:\u003c/b\u003e امکان دریافت خودکار گواهی Let\u0026#39;s Encrypt با دامنه، یا استفاده از گواهی معتبر سلف‌سایند در مود دایرکت ادمین.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی کامل از UDP و IPv6:\u003c/b\u003e عبور بهینه ترافیک UDP روی بستر TCP، سازگار با تماس صوتی/تصویری، گیم، یوتیوب و بدون نشتی DNS.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://youtu.be/Sueh8qgzL-0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش ویدیویی این اسکریپت در کانال ما\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/hedioum/Hedioum-Pool-Tunnel\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
+      "date": "2026-08-15T12:07:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
+    },
+    {
       "id": 2883,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی Smart Support Bot؛ دستیار هوشمند و ربات پشتیبانی همه‌فن‌حریف تلگرام\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه \u003cb\u003eSmart Support Bot\u003c/b\u003e یک سیستم متن‌باز و مدرن برای پشتیبانی مشتریان و مدیریت کانال است که با بهره‌گیری از هوش مصنوعی و پایگاه دانش محلی، تجربه‌ای کاملاً خودکار و حرفه‌ای روی سرور شخصی شما ارائه می‌دهد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی هوشمند مبتنی بر AI:\u003c/b\u003e پاسخ‌گویی دقیق به کاربران در چت خصوصی و گروه‌ها بر اساس فایل‌های راهنما، منوی محصولات (کاتالوگ) و ارجاع خودکار به پشتیبان انسانی در صورت نیاز.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eچندزبانه و منعطف:\u003c/b\u003e پشتیبانی کامل از ۴ زبان فارسی، انگلیسی، روسی و چینی به همراه تشخیص هوشمند نیت کاربر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت از داخل تلگرام:\u003c/b\u003e امکان تغییر تنظیمات ربات، قالب‌ها و اطلاعات با چت مستقیم با ادمین-ایجنت (بدون نیاز مداوم به SSH) و پشتیبانی از Vision برای درک اسکرین‌شات‌ها.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاتصال به پنل 3X-UI:\u003c/b\u003e قابلیت اهدای خودکار کانفیگ رایگان شبانه از طریق API پنل سنایی، آمارگیر پیشرفته و تحلیل پیام‌ها.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/balckfoxgroup/smart-support-bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
       "date": "2026-08-15T13:15:52Z",
@@ -20,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_18.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_17.jpg"
         }
       ]
     },
@@ -30,7 +42,7 @@
       "date": "2026-08-15T14:01:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 13500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_19.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_18.jpg"
         }
       ]
     },
@@ -56,7 +68,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_17.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_16.jpg",
           "width": 1544
         }
       ]
@@ -67,7 +79,7 @@
       "date": "2026-08-16T14:27:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12200,
+      "views": 12300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -75,7 +87,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
         }
       ]
     },
@@ -85,7 +97,7 @@
       "date": "2026-08-16T17:04:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +105,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
         }
       ]
     },
@@ -115,7 +127,7 @@
       "date": "2026-08-17T13:20:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +135,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
     },
@@ -133,7 +145,7 @@
       "date": "2026-08-17T14:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +171,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
         }
       ]
     },
@@ -169,7 +181,7 @@
       "date": "2026-08-18T16:48:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9390,
+      "views": 9420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,11 +189,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
         }
       ]
     },
@@ -191,7 +203,7 @@
       "date": "2026-08-18T17:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9750,
+      "views": 9790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,30 +216,12 @@
       ]
     },
     {
-      "id": 2898,
-      "message": "\u003ctg-emoji emoji-id=\"5309748255637118475\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دسترسی مستقیم و بدون واسطه به برترین ابزارهای هوش مصنوعی با نرخ رقابتی و واقعی \u003ctg-emoji emoji-id=\"6095630917508795227\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eچرا برای اشتراک‌های پرمیوم هزینه‌های گزاف و غیرواقعی بپردازید؟ AI Prime بستر امن و مستقیم شما برای دسترسی به فناوری روز دنیا، بدون واسطه و با تضمین کیفیت\u003ctg-emoji emoji-id=\"5377834924776627189\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411448146288975760\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چرا AI Prime؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321331537621297198\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به‌صرفه‌ترین و معقول‌ترین قیمت‌ها\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321331537621297198\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فعال‌سازی امن و تحویل سریع با ضمانت تعویض\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5321331537621297198\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دارای نماد اعتماد الکترونیکی (اینماد) و درگاه مستقیم شتاب\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5247017346291222477\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A8E2808DF09F8FAB.png\u0026#39;)\"\u003e\u003cb\u003e👨‍🏫\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش‌های ویدیویی درآمدزایی از ابزارها با زیرنویس اختصاصی در کانال\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5422621284666198057\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9299.png\u0026#39;)\"\u003e\u003cb\u003e💙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eجهت مشاهده لیست کامل سرویس‌ها و قیمت‌های لحظه‌ای وارد وب‌سایت، ربات یا کانال ما شوید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269303009658802514\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کانال اطلاع‌رسانی \u003ca href=\"https://t.me/AIPrimeShop\" target=\"_blank\"\u003e@AIPrimeShop\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4940635119791637363\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988D.png\u0026#39;)\"\u003e\u003cb\u003e😍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ربات فروشگاه \u003ca href=\"https://t.me/AIPrimeshop_bot\" target=\"_blank\"\u003e@AIPrimeshop_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5307746710682869587\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پشتیبانی تخصصی \u003ca href=\"https://t.me/AIPrime_Support\" target=\"_blank\"\u003e@AIPrime_Support\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5244485879682059484\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کانال رضایت \u003ca href=\"https://t.me/AIPrime_Csat\" target=\"_blank\"\u003e@AIPrime_Csat\u003c/a\u003e",
-      "date": "2026-08-18T17:40:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
-        }
-      ]
-    },
-    {
       "id": 2899,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e نظرسنجی ایسپا: بیش از ۲۰ میلیون ایرانی خواهان استفاده از اینترنت استارلینک هستند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبر اساس نظرسنجی جدید مرکز افکارسنجی دانشجویان ایران (ایسپا) به سفارش وزارت ارتباطات، در صورت فراهم بودن شرایط، بالغ بر \u003cb\u003e۲۰.۵ میلیون نفر\u003c/b\u003e از کاربران ایرانی تمایل دارند از اینترنت ماهواره‌ای استارلینک استفاده کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eیافته‌های آماری و نکات کلیدی نظرسنجی:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمیزان آشنایی و تمایل:\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e۵۶.۶ درصد\u003c/b\u003e کاربران هنوز شناختی از استارلینک ندارند.\u003cbr/\u003e\u003cbr/\u003eدر میان افراد آگاه، \u003cb\u003eحدود ۶۱ درصد\u003c/b\u003e تمایل دارند این سرویس را تجربه کنند یا به صورت دائمی به آن متصل شوند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمانع اصلی، قیمت و دسترسی است نه قانون!\u003c/b\u003e\u003cbr/\u003eبرخلاف تصور، منع قانونی دلیل اصلی عدم اتصال اکثر افراد نیست؛ تنها \u003cb\u003e۳۸.۲ درصد\u003c/b\u003e به دلیل غیرقانونی بودن سراغ آن نرفته‌اند.\u003cbr/\u003e\u003cbr/\u003eنزدیک به \u003cb\u003e۶۰ درصد متقاضیان (حدود ۱۲ میلیون نفر)\u003c/b\u003e اعلام کرده‌اند دلیل وصل نشدنشان، \u003cb\u003eقیمت بالای تجهیزات\u003c/b\u003e و \u003cb\u003eعدم دسترسی به فروشنده مطمئن\u003c/b\u003e است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپیام هشدارآمیز داده‌ها:\u003c/b\u003e آمارها نشان می‌دهد در صورت کاهش هزینه‌های تجهیزات یا تسهیل مسیرهای ورود به کشور، تعداد کاربران استارلینک در ایران می‌تواند با جهشی میلیونی روبه‌رو شود./شبکه‌چی\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-08-19T12:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8490,
+      "views": 8550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +229,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
         }
       ]
     },
@@ -245,7 +239,7 @@
       "date": "2026-08-19T13:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8650,
+      "views": 8720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,43 +257,7 @@
       "date": "2026-08-19T14:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2902,
-      "message": "\u003ctg-emoji emoji-id=\"5807689339253038218\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eفروش ویژه سرور مجازی تک و چندکشوره\u003c/b\u003e\u003ctg-emoji emoji-id=\"5807689339253038218\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848184700396376824\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F919C.png\u0026#39;)\"\u003e\u003cb\u003e👜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بجای 6 تا سرور مجازی، \u003cb\u003e2\u003c/b\u003e تا بخر با\u003cb\u003e 6\u003c/b\u003e آیپی \u003ctg-emoji emoji-id=\"5418053913364423507\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5384146886024259087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e \u003cb\u003eبا \u003c/b\u003e\u003ca href=\"http://check-host.net/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003echeck-host.net\u003c/b\u003e\u003c/a\u003e\u003cb\u003e سالم\u003c/b\u003e و \u003cb\u003eتغییر آیپی و PTR از پنل\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5357419403325481346\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E93.png\u0026#39;)\"\u003e\u003cb\u003e🎓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش ها:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/AfzonehNevisHosting/120\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e پنل سنایی\u003c/a\u003e \u003ca href=\"https://t.me/AfzonehNevisHosting/121\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e پنل SUI\u003c/a\u003e \u003ca href=\"https://t.me/AfzonehNevisHosting/122\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e پنل مرزبان\u003c/a\u003e \u003ca href=\"https://t.me/AfzonehNevisHosting/312\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003eپنل پاسارگارد\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5839200234403533703\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e کد تخفیف دائمی به مدت محدود:\u003c/b\u003e \u003cpre\u003eAKO58\u003c/pre\u003e",
-      "date": "2026-08-19T19:20:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2903,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003cb\u003eآموزش استعلام سیم‌کارت‌های فعال به نام شما با کد ملی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبی‌خبری از سیم‌کارت‌هایی که به نام شما ثبت شده‌اند می‌تواند باعث سوءاستفاده‌های حقوقی، امنیتی و جعل هویت شود. طبق قانون، هر فرد حداکثر می‌تواند \u003cb\u003e۱۰ سیم‌کارت فعال\u003c/b\u003e در مجموع تمامی اپراتورها داشته باشد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eروش‌های استعلام:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۱. استعلام سریع از طریق پیامک:\u003c/b\u003e\u003cbr/\u003e— کد ملی ۱۰ رقمی خود را به سرشماره \u003cb\u003e۳۰۰۰۱۵۰\u003c/b\u003e ارسال کنید.\u003cbr/\u003e— پیامکی از \u003ccode\u003eCRA.ir\u003c/code\u003e حاوی تعداد سیم‌کارت‌های فعال شما در هر اپراتور ارسال می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۲. استعلام کامل از سامانه «دولت من:\u003c/b\u003e\u003cbr/\u003e— وارد سامانه \u003ca href=\"http://my.gov.ir/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003emy.gov.ir\u003c/b\u003e\u003c/a\u003e (یا اپلیکیشن دولت من) شوید.\u003cbr/\u003e— پس از ورود، از بخش \u003cb\u003eدسته‌بندی سازمان\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسازمان تنظیم مقررات و ارتباطات رادیویی\u003c/b\u003e را انتخاب کنید.\u003cbr/\u003e— با انتخاب گزینه \u003cb\u003e«تعداد خطوط مشترکین تلفن ثابت و سیار»\u003c/b\u003e، تمام شماره‌های فعال همراه اول، ایرانسل، رایتل، اپراتورهای مجازی و سیم‌کارت‌های TD-LTE را مشاهده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاقدام فوری در صورت مشاهده سیم‌کارت ناشناس:\u003c/b\u003e\u003cbr/\u003eاگر خط ناشناسی به نام شما ثبت شده است، بلافاصله از طریق اپلیکیشن یا نمایندگی‌های اپراتور مربوطه نسبت به \u003cb\u003eسلب مالکیت یا سوزاندن سیم‌کارت\u003c/b\u003e اقدام کنید./زومیت\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-08-20T12:31:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6390,
+      "views": 8210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,12 +270,48 @@
       ]
     },
     {
+      "id": 2902,
+      "message": "\u003ctg-emoji emoji-id=\"5807689339253038218\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eفروش ویژه سرور مجازی تک و چندکشوره\u003c/b\u003e\u003ctg-emoji emoji-id=\"5807689339253038218\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848184700396376824\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F919C.png\u0026#39;)\"\u003e\u003cb\u003e👜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بجای 6 تا سرور مجازی، \u003cb\u003e2\u003c/b\u003e تا بخر با\u003cb\u003e 6\u003c/b\u003e آیپی \u003ctg-emoji emoji-id=\"5418053913364423507\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5384146886024259087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e \u003cb\u003eبا \u003c/b\u003e\u003ca href=\"http://check-host.net/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003echeck-host.net\u003c/b\u003e\u003c/a\u003e\u003cb\u003e سالم\u003c/b\u003e و \u003cb\u003eتغییر آیپی و PTR از پنل\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5357419403325481346\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E93.png\u0026#39;)\"\u003e\u003cb\u003e🎓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش ها:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/AfzonehNevisHosting/120\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e پنل سنایی\u003c/a\u003e \u003ca href=\"https://t.me/AfzonehNevisHosting/121\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e پنل SUI\u003c/a\u003e \u003ca href=\"https://t.me/AfzonehNevisHosting/122\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e پنل مرزبان\u003c/a\u003e \u003ca href=\"https://t.me/AfzonehNevisHosting/312\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003eپنل پاسارگارد\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5839200234403533703\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e کد تخفیف دائمی به مدت محدود:\u003c/b\u003e \u003cpre\u003eAKO58\u003c/pre\u003e",
+      "date": "2026-08-19T19:20:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2903,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003cb\u003eآموزش استعلام سیم‌کارت‌های فعال به نام شما با کد ملی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبی‌خبری از سیم‌کارت‌هایی که به نام شما ثبت شده‌اند می‌تواند باعث سوءاستفاده‌های حقوقی، امنیتی و جعل هویت شود. طبق قانون، هر فرد حداکثر می‌تواند \u003cb\u003e۱۰ سیم‌کارت فعال\u003c/b\u003e در مجموع تمامی اپراتورها داشته باشد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eروش‌های استعلام:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۱. استعلام سریع از طریق پیامک:\u003c/b\u003e\u003cbr/\u003e— کد ملی ۱۰ رقمی خود را به سرشماره \u003cb\u003e۳۰۰۰۱۵۰\u003c/b\u003e ارسال کنید.\u003cbr/\u003e— پیامکی از \u003ccode\u003eCRA.ir\u003c/code\u003e حاوی تعداد سیم‌کارت‌های فعال شما در هر اپراتور ارسال می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۲. استعلام کامل از سامانه «دولت من:\u003c/b\u003e\u003cbr/\u003e— وارد سامانه \u003ca href=\"http://my.gov.ir/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003emy.gov.ir\u003c/b\u003e\u003c/a\u003e (یا اپلیکیشن دولت من) شوید.\u003cbr/\u003e— پس از ورود، از بخش \u003cb\u003eدسته‌بندی سازمان\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسازمان تنظیم مقررات و ارتباطات رادیویی\u003c/b\u003e را انتخاب کنید.\u003cbr/\u003e— با انتخاب گزینه \u003cb\u003e«تعداد خطوط مشترکین تلفن ثابت و سیار»\u003c/b\u003e، تمام شماره‌های فعال همراه اول، ایرانسل، رایتل، اپراتورهای مجازی و سیم‌کارت‌های TD-LTE را مشاهده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاقدام فوری در صورت مشاهده سیم‌کارت ناشناس:\u003c/b\u003e\u003cbr/\u003eاگر خط ناشناسی به نام شما ثبت شده است، بلافاصله از طریق اپلیکیشن یا نمایندگی‌های اپراتور مربوطه نسبت به \u003cb\u003eسلب مالکیت یا سوزاندن سیم‌کارت\u003c/b\u003e اقدام کنید./زومیت\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-08-20T12:31:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+        }
+      ]
+    },
+    {
       "id": 2904,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش ساخت فیلترشکن شخصی بدون سرور و دامنه (کاملاً رایگان!) \u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاگه می‌خواید یک کانفیگ کاملاً شخصی برای خودتون داشته باشید، ساخت فیلترشکن شخصی بدون سرور و دامنه همون راهکاریه که بهش نیاز دارید. تو این آموزش قدم‌به‌قدم بهتون یاد می‌دم که چطور بدون سرور یا دامنه، پنل X-UI رو راه‌اندازی کنید و برای خودتون کانفیگ شخصی بسازید. \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/KI1tsKgYv98\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e این ویدیو هم مثل ویدیو های قبلی قرعه‌کشی اکانت هوش مصنوعی داره، فقط تا فردا برای شرکت فرصت دارید.(قرعه کشی این ویدیو با ویدیو قبلی باهم انجام میشه)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86\"\u003e#رایگان\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
       "date": "2026-08-20T14:25:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5290,
+      "views": 5630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,7 +329,7 @@
       "date": "2026-08-20T19:02:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1960,
+      "views": 2620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
