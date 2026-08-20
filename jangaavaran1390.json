@@ -12,7 +12,7 @@
       "date": "2026-08-20T16:22:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,11 +20,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
         },
         {
           "type": "photo",
@@ -36,15 +36,15 @@
         },
         {
           "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_14.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+        },
+        {
+          "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_13.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "date": "2026-08-20T16:22:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 13500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-20T16:55:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "date": "2026-08-20T16:59:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 14000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "date": "2026-08-20T17:11:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 13800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +114,7 @@
       "date": "2026-08-20T17:12:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,109 @@
       "date": "2026-08-20T17:40:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 138849,
+      "message": "سی‌ان‌بی‌سی: آیا کمپین اقتصادی علیه ایران شامل چین نیز می‌شود؟ زیرا چین، شریک اقتصادی اصلی ایران است.\u003cbr/\u003e\u003cbr/\u003eوزیر خزانه‌داری، بَسنت: بسیاری از گفتگوها بهتر است به صورت خصوصی انجام شوند.",
+      "date": "2026-08-20T17:53:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138850,
+      "message": "رویترز: ایالات متحده تحریم‌های جدیدی را علیه حزب‌الله لبنان اعمال کرد، از جمله اینکه این گروه را مجدداً به عنوان یک نهاد تروریستی جهانی \u0026#34;مشخص شده\u0026#34; معرفی کرد تا ارتباطات آن با دولت ایران را برجسته کند.",
+      "date": "2026-08-20T18:26:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138851,
+      "message": "وحید حاجی‌پور:\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eهمه آن «نمی‌توانند»هایی  که توانستند، هزینه شرط‌بندی روی توهم خودمان بود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/eskannews_com\" target=\"_blank\"\u003e@eskannews_com\u003c/a\u003e | اسکان نیوز",
+      "date": "2026-08-20T18:34:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 138852,
+      "message": "تازه باید به این لیست یک فهرست بلند بالای ما می‌توانیم‌های مختلف هم اضافه کنیم که آخر نتوانستیم",
+      "date": "2026-08-20T18:35:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138853,
+      "message": "اوکراین حالا ۸۰٪ گلوله‌های توپخانه سفارشی خود را داخل کشور تولید می‌کند.\u003cbr/\u003e\u003cbr/\u003eرئیس آژانس تدارکات دفاعی اوکراین اعلام کرده بخش عمده این تولید مربوط به گلوله‌های ۱۵۵ میلی‌متری بردبلند است.\u003cbr/\u003e\u003cbr/\u003eبه گفته او، رقابت میان تولیدکنندگان در مناقصه‌های خرید مهمات نیز باعث شده حدود ۱۶٪ از بودجه اختصاص‌یافته صرفه‌جویی شود.\u003cbr/\u003e\u003cbr/\u003eاین آمار نشان می‌دهد اوکراین در طول جنگ، وابستگی خود به واردات مهمات توپخانه را به‌تدریج کاهش داده و در حال ایجاد ظرفیت داخلی گسترده برای تولید مهمات ۱۵۵ میلی‌متری است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e \u003ca href=\"?q=%23Artillery\"\u003e#Artillery\u003c/a\u003e \u003ca href=\"?q=%23155mm\"\u003e#155mm\u003c/a\u003e \u003ca href=\"?q=%23Ammunition\"\u003e#Ammunition\u003c/a\u003e \u003ca href=\"?q=%23DefenseIndustry\"\u003e#DefenseIndustry\u003c/a\u003e \u003ca href=\"?q=%23UkraineWar\"\u003e#UkraineWar\u003c/a\u003e",
+      "date": "2026-08-20T18:39:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138854,
+      "message": "کارشناسان: آمریکا فقط ۲ سال برای آماده‌سازی در برابر چین فرصت دارد\u003cbr/\u003e\u003cbr/\u003eکارشناسان شورای روابط خارجی آمریکا (CFR) هشدار داده‌اند که واشنگتن باید طی دو سال آینده توان تولید مهمات خود را به‌طور جدی افزایش دهد.\u003cbr/\u003e\u003cbr/\u003e تمرکز باید روی تولید انبوه و ارزان باشد؛ از پهپاد و حسگر گرفته تا موشک‌های دقیق.\u003cbr/\u003eآمریکا نباید منتظر سلاح‌های «کامل اما گران و دیرآماده» بماند؛ سرعت و تعداد اهمیت بیشتری پیدا کرده است.\u003cbr/\u003e افزایش ذخایر موشکی و مهمات برای سناریوی درگیری با چین ضروری است.\u003cbr/\u003e کارشناسان خواستار تغییر رویکرد پنتاگون به سمت خرید سریع‌تر، پذیرش ریسک محدود و سفارش‌های بزرگ‌تر از صنایع دفاعی هستند.",
+      "date": "2026-08-20T19:24:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 138855,
+      "message": "نیروی دریایی آمریکا ۵۰ میلیون دلار برای توسعه پهپاد جنگنده عمودپرواز X-BAT شرکت Shield AI سرمایه‌گذاری کرده، اما نیروی هوایی فعلاً وارد پروژه نشده است.\u003cbr/\u003e\u003cbr/\u003eپهپاد X-BAT قرار است یک پهپاد رزمی مجهز به هوش مصنوعی باشد که بدون باند فرودگاه از روی تریلر یا حتی شناورهای مختلف بلند شود و فرود بیاید.\u003cbr/\u003e\u003cbr/\u003eموتور آن همان GE F110 مورد استفاده در F-16 است.\u003cbr/\u003e\u003cbr/\u003eقیمت هدف اعلام‌شده حدود ۲۷ میلیون دلار است؛ در محدوده قیمت موردنظر نیروی هوایی برای CCAها.\u003cbr/\u003e\u003cbr/\u003eمزیت اصلی این طرحی امکان پراکنده‌سازی نیروها و عملیات از نقاط کوچک و متحرک، که هدف‌گیری آنها را برای دشمن دشوارتر می‌کند.\u003cbr/\u003e\u003cbr/\u003eبرای نیروی دریایی، این قابلیت جذاب‌تر است چون X-BAT بالقوه می‌تواند از ناوشکن‌ها و کشتی‌های آبی-خاکی، نه فقط ناوهای هواپیمابر، عملیات کند.\u003cbr/\u003e\u003cbr/\u003eمشکل بزرگ، فناوری فرود عمودی یک هواپیمای جت به اندازه جنگنده است. X-BAT هنوز اولین پرواز خود را انجام نداده و قرار است تا پایان ۲۰۲۶ آزمایش شود.\u003cbr/\u003e\u003cbr/\u003e.",
+      "date": "2026-08-20T19:32:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,114 +241,12 @@
       ]
     },
     {
-      "id": 138849,
-      "message": "سی‌ان‌بی‌سی: آیا کمپین اقتصادی علیه ایران شامل چین نیز می‌شود؟ زیرا چین، شریک اقتصادی اصلی ایران است.\u003cbr/\u003e\u003cbr/\u003eوزیر خزانه‌داری، بَسنت: بسیاری از گفتگوها بهتر است به صورت خصوصی انجام شوند.",
-      "date": "2026-08-20T17:53:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138850,
-      "message": "رویترز: ایالات متحده تحریم‌های جدیدی را علیه حزب‌الله لبنان اعمال کرد، از جمله اینکه این گروه را مجدداً به عنوان یک نهاد تروریستی جهانی \u0026#34;مشخص شده\u0026#34; معرفی کرد تا ارتباطات آن با دولت ایران را برجسته کند.",
-      "date": "2026-08-20T18:26:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138851,
-      "message": "وحید حاجی‌پور:\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eهمه آن «نمی‌توانند»هایی  که توانستند، هزینه شرط‌بندی روی توهم خودمان بود\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/eskannews_com\" target=\"_blank\"\u003e@eskannews_com\u003c/a\u003e | اسکان نیوز",
-      "date": "2026-08-20T18:34:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9490,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
-        }
-      ]
-    },
-    {
-      "id": 138852,
-      "message": "تازه باید به این لیست یک فهرست بلند بالای ما می‌توانیم‌های مختلف هم اضافه کنیم که آخر نتوانستیم",
-      "date": "2026-08-20T18:35:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138853,
-      "message": "اوکراین حالا ۸۰٪ گلوله‌های توپخانه سفارشی خود را داخل کشور تولید می‌کند.\u003cbr/\u003e\u003cbr/\u003eرئیس آژانس تدارکات دفاعی اوکراین اعلام کرده بخش عمده این تولید مربوط به گلوله‌های ۱۵۵ میلی‌متری بردبلند است.\u003cbr/\u003e\u003cbr/\u003eبه گفته او، رقابت میان تولیدکنندگان در مناقصه‌های خرید مهمات نیز باعث شده حدود ۱۶٪ از بودجه اختصاص‌یافته صرفه‌جویی شود.\u003cbr/\u003e\u003cbr/\u003eاین آمار نشان می‌دهد اوکراین در طول جنگ، وابستگی خود به واردات مهمات توپخانه را به‌تدریج کاهش داده و در حال ایجاد ظرفیت داخلی گسترده برای تولید مهمات ۱۵۵ میلی‌متری است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e \u003ca href=\"?q=%23Artillery\"\u003e#Artillery\u003c/a\u003e \u003ca href=\"?q=%23155mm\"\u003e#155mm\u003c/a\u003e \u003ca href=\"?q=%23Ammunition\"\u003e#Ammunition\u003c/a\u003e \u003ca href=\"?q=%23DefenseIndustry\"\u003e#DefenseIndustry\u003c/a\u003e \u003ca href=\"?q=%23UkraineWar\"\u003e#UkraineWar\u003c/a\u003e",
-      "date": "2026-08-20T18:39:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138854,
-      "message": "کارشناسان: آمریکا فقط ۲ سال برای آماده‌سازی در برابر چین فرصت دارد\u003cbr/\u003e\u003cbr/\u003eکارشناسان شورای روابط خارجی آمریکا (CFR) هشدار داده‌اند که واشنگتن باید طی دو سال آینده توان تولید مهمات خود را به‌طور جدی افزایش دهد.\u003cbr/\u003e\u003cbr/\u003e تمرکز باید روی تولید انبوه و ارزان باشد؛ از پهپاد و حسگر گرفته تا موشک‌های دقیق.\u003cbr/\u003eآمریکا نباید منتظر سلاح‌های «کامل اما گران و دیرآماده» بماند؛ سرعت و تعداد اهمیت بیشتری پیدا کرده است.\u003cbr/\u003e افزایش ذخایر موشکی و مهمات برای سناریوی درگیری با چین ضروری است.\u003cbr/\u003e کارشناسان خواستار تغییر رویکرد پنتاگون به سمت خرید سریع‌تر، پذیرش ریسک محدود و سفارش‌های بزرگ‌تر از صنایع دفاعی هستند.",
-      "date": "2026-08-20T19:24:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
-        }
-      ]
-    },
-    {
-      "id": 138855,
-      "message": "نیروی دریایی آمریکا ۵۰ میلیون دلار برای توسعه پهپاد جنگنده عمودپرواز X-BAT شرکت Shield AI سرمایه‌گذاری کرده، اما نیروی هوایی فعلاً وارد پروژه نشده است.\u003cbr/\u003e\u003cbr/\u003eپهپاد X-BAT قرار است یک پهپاد رزمی مجهز به هوش مصنوعی باشد که بدون باند فرودگاه از روی تریلر یا حتی شناورهای مختلف بلند شود و فرود بیاید.\u003cbr/\u003e\u003cbr/\u003eموتور آن همان GE F110 مورد استفاده در F-16 است.\u003cbr/\u003e\u003cbr/\u003eقیمت هدف اعلام‌شده حدود ۲۷ میلیون دلار است؛ در محدوده قیمت موردنظر نیروی هوایی برای CCAها.\u003cbr/\u003e\u003cbr/\u003eمزیت اصلی این طرحی امکان پراکنده‌سازی نیروها و عملیات از نقاط کوچک و متحرک، که هدف‌گیری آنها را برای دشمن دشوارتر می‌کند.\u003cbr/\u003e\u003cbr/\u003eبرای نیروی دریایی، این قابلیت جذاب‌تر است چون X-BAT بالقوه می‌تواند از ناوشکن‌ها و کشتی‌های آبی-خاکی، نه فقط ناوهای هواپیمابر، عملیات کند.\u003cbr/\u003e\u003cbr/\u003eمشکل بزرگ، فناوری فرود عمودی یک هواپیمای جت به اندازه جنگنده است. X-BAT هنوز اولین پرواز خود را انجام نداده و قرار است تا پایان ۲۰۲۶ آزمایش شود.\u003cbr/\u003e\u003cbr/\u003e.",
-      "date": "2026-08-20T19:32:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
-        }
-      ]
-    },
-    {
       "id": 138856,
       "message": "ونس  معاون ترامپ  درباره ایران:\u003cbr/\u003e\u003cbr/\u003eجی‌دی ونس می‌گوید آمریکا وارد مرحله جدیدی شده که فشار اقتصادی مؤثرترین ابزار علیه ایران است.\u003cbr/\u003e\u003cbr/\u003eهدف واشنگتن افزایش فشار اقتصادی بر ایران، از جمله محدود کردن درآمدهای نفتی، در عین تلاش برای کاهش فشار قیمت انرژی بر مردم آمریکاست.\u003cbr/\u003e\u003cbr/\u003e ونس گفت ایران نیز می‌تواند به آمریکا فشار اقتصادی وارد کند، اما به گفته او در هفته‌های اخیر فشار واردشده بر ایران بیشتر بوده است.\u003cbr/\u003e\u003cbr/\u003e او همچنین تأکید کرد هدف اصلی آمریکا این است که ایران هرگز نتواند برنامه هسته‌ای خود را بازسازی کند.\u003cbr/\u003e\u003cbr/\u003e به گفته ونس، تأسیسات هسته‌ای ایران منهدم شده‌اند؛ اکنون مسئله اصلی برای آمریکا این است که شرایطی ایجاد کند که ایران از بازسازی آنها صرف‌نظر کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#آمریکا\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\"\u003e#ایران\u003c/a\u003e \u003ca href=\"?q=%23JDVance\"\u003e#JDVance\u003c/a\u003e \u003ca href=\"?q=%23Trump\"\u003e#Trump\u003c/a\u003e \u003ca href=\"?q=%23Iran\"\u003e#Iran\u003c/a\u003e \u003ca href=\"?q=%23USA\"\u003e#USA\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D8%AD%D8%B1%DB%8C%D9%85\"\u003e#تحریم\u003c/a\u003e \u003ca href=\"?q=%23%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87_%D9%87%D8%B3%D8%AA%D9%87%E2%80%8C%D8%A7%DB%8C\"\u003e#برنامه_هسته‌ای\u003c/a\u003e",
       "date": "2026-08-20T19:56:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5550,
+      "views": 8160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +258,7 @@
       "date": "2026-08-20T20:22:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2029,
+      "views": 5840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,9 +266,64 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_15.jpg"
         }
       ]
+    },
+    {
+      "id": 138858,
+      "message": "‏\u003ctg-emoji emoji-id=\"5904701625288626442\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e ظهوریان، نائب رئیس‌کمیسیون اقتصادی مجلس:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e‏\u003ctg-emoji emoji-id=\"5821302890932736039\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e در صورت افزایش قیمت بنزین ۶ تا ۸ میلیون تومان هزینه به دهک‌های فقیر اضافه می‌شود.\u003cbr/\u003e‎\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iran_eghtesadi\" target=\"_blank\"\u003e\u003cb\u003e@iran_eghtesadi\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e",
+      "date": "2026-08-20T20:34:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 138859,
+      "message": "اول افزایش قیمت بنزین بر روی تمام مردم این کشور از غنی و فقیر تاثیر می‌ذاره \u003cbr/\u003eدوم ۶ میلیون می‌خوای بزار تو جیبشون که ۱۲ میلیون تو تورم ناشی از این اقدام از جیبشون در بیاد \u003cbr/\u003eیعنی شما فکر نمی‌کنید که این نسخه‌ای که دارید می‌پیچید سال‌ها پیچیده شده و جواب نداده \u003cbr/\u003eشما همین چند ماه پیش کالا برگ دادید ولی الان اون چیزی رو که شما با کالابرگت می‌تونی بخری از نظر قیمتی نصف اون چیزیه که بهمن سال پیش می‌تونسته بخری \u003cbr/\u003e\u003cbr/\u003eاز هنر شما اینه که کشوری با این همه ثروت رو به جای رسوندید که مردم برای زنده موندن  نیاز به کمک دولتی دارند \u003cbr/\u003eدست کم اسم کشور بزارید جمهوری سوسیالیستی ،اینجوری تکلیفمون با بخش اقتصادش مشخص میشه",
+      "date": "2026-08-20T20:37:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138860,
+      "message": "گلانت، وزیر سابق دفاع اسرائیل، در گفتگو با برنامه \u0026#34;گزارش وضعیت\u0026#34; گفت: \u0026#34;تغییر رژیم در ایران - یک خیال‌پردازی علمی بود. آن‌ها یک ایده را فروختند، نه یک برنامه. یک فرصت یک‌درصد در یک نسل در رابطه با مسائل هسته‌ای وجود داشت - و ما این فرصت را از دست دادیم .\u0026#34;",
+      "date": "2026-08-20T20:45:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138861,
+      "message": "یک بار برای همیشه با مجموعه \u003cb\u003eچارسو\u003c/b\u003e\u003ctg-emoji emoji-id=\"5899928464923823970\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929B.png\u0026#39;)\"\u003e\u003cb\u003e💛\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260463209562776385\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e طرح نامحدود (30روزه)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972248253830272877\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتک‌کاربر: 199 تومان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972248253830272877\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دوکاربر: 349 تومان\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260463209562776385\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e طرح حجمی ( بدون محدودیت کاربر و زمان)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972248253830272877\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e10 گیگ: 80 تومان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972248253830272877\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e20 گیگ: 120 تومان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972248253830272877\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e50 گیگ: 250 تومان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972248253830272877\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e100 گیگ: 400 تومان\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبرای خرید یا دریافت تست پیام بدید.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e خرید و تحویل آنی:\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990298741463319592\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/charsovpn\" target=\"_blank\"\u003e@charsovpn\u003c/a\u003e \u003ca href=\"https://t.me/charsovpnadmin\" target=\"_blank\"\u003e@charsovpnadmin\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/ch4arsovpn\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/ch4arsovpn\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-08-20T21:00:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
     }
   ],
   "last_updated": 0
