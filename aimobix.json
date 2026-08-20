@@ -12,7 +12,7 @@
       "date": "2026-08-16T08:34:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-08-16T16:14:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -32,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
         }
       ]
     },
@@ -42,7 +42,7 @@
       "date": "2026-08-16T16:15:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "date": "2026-08-16T16:47:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
         }
       ]
     },
@@ -90,7 +90,7 @@
       "date": "2026-08-16T21:09:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-08-18T08:33:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 13600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,79 @@
       "date": "2026-08-19T06:50:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 10900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 888,
+      "message": "Fluffy Fur iconPack آیکون پَک فول تدی نسخه رسمی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-19T06:54:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 889,
+      "message": "Wallpaper \u0026amp; Dock",
+      "date": "2026-08-19T06:54:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 890,
+      "message": "برای سامسونگ دارم یه پست سوپر خفن آماده میکنم ، متاسفانه برق نداریم امیدوارم برق زود بیاد آمادش کنم",
+      "date": "2026-08-19T08:59:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 891,
+      "message": "رفقا یه نکته مهم بگم ناراحتی پیش نیاد، من همه کارامو صفر تا صد خودم انجام میدم ادمین ندارم، ادیتور ندارم ، ۲ تا پیج تو ایسنتا ، کانال تلگرام و یوتیوب همشون نیاز به فعالیت داره ، بخاطر همین موضوع نمیرسم همه پیام هارو جواب بدم و دایرکت خیلی شلوغه هر چقدر که بتونم و توان داشته باشم چک میکنم، جواب میدم پیام هارو تا یکم بریم جلو تر یه ادمین بگیرم\u003cbr/\u003eبابت تاخیر در پاسخگویی عذرخواهی میکنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-19T16:46:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 892,
+      "message": "یه شخصی سازی سوپر شیشه ای برای سامسونگ\u003cbr/\u003eهنوز رو گوشیم فعاله خیلی خفنه \u003cbr/\u003eآموزش کامل \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/qsEN8KFoAMY\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/qsEN8KFoAMY\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکنترل سنتر شیشه ای و خاص \u003cbr/\u003eآیکون ها دارک و شیشه ای جدید\u003cbr/\u003eتتظیمات شیشه ای جدید \u003cbr/\u003e\u003cbr/\u003eActivation Tutorial \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eTransform your Samsung with this stunning Glass UI customization! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eDark glass icons, transparent Control Center, glass dock, folders, notifications \u0026amp; more. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eیکی از خفن ترین شخصی سازی های سامسونگ\u003cbr/\u003e\u003cbr/\u003eدانلود فایل ها \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003eDownload File\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-19T18:23:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,84 +217,12 @@
       ]
     },
     {
-      "id": 888,
-      "message": "Fluffy Fur iconPack آیکون پَک فول تدی نسخه رسمی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-19T06:54:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 889,
-      "message": "Wallpaper \u0026amp; Dock",
-      "date": "2026-08-19T06:54:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 890,
-      "message": "برای سامسونگ دارم یه پست سوپر خفن آماده میکنم ، متاسفانه برق نداریم امیدوارم برق زود بیاد آمادش کنم",
-      "date": "2026-08-19T08:59:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 891,
-      "message": "رفقا یه نکته مهم بگم ناراحتی پیش نیاد، من همه کارامو صفر تا صد خودم انجام میدم ادمین ندارم، ادیتور ندارم ، ۲ تا پیج تو ایسنتا ، کانال تلگرام و یوتیوب همشون نیاز به فعالیت داره ، بخاطر همین موضوع نمیرسم همه پیام هارو جواب بدم و دایرکت خیلی شلوغه هر چقدر که بتونم و توان داشته باشم چک میکنم، جواب میدم پیام هارو تا یکم بریم جلو تر یه ادمین بگیرم\u003cbr/\u003eبابت تاخیر در پاسخگویی عذرخواهی میکنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-19T16:46:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8039,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 892,
-      "message": "یه شخصی سازی سوپر شیشه ای برای سامسونگ\u003cbr/\u003eهنوز رو گوشیم فعاله خیلی خفنه \u003cbr/\u003eآموزش کامل \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/qsEN8KFoAMY\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/qsEN8KFoAMY\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکنترل سنتر شیشه ای و خاص \u003cbr/\u003eآیکون ها دارک و شیشه ای جدید\u003cbr/\u003eتتظیمات شیشه ای جدید \u003cbr/\u003e\u003cbr/\u003eActivation Tutorial \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eTransform your Samsung with this stunning Glass UI customization! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eDark glass icons, transparent Control Center, glass dock, folders, notifications \u0026amp; more. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eیکی از خفن ترین شخصی سازی های سامسونگ\u003cbr/\u003e\u003cbr/\u003eدانلود فایل ها \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003eDownload File\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-19T18:23:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        }
-      ]
-    },
-    {
       "id": 893,
       "message": "Dark Glass icon Pack\u003cbr/\u003e\u003cbr/\u003eآیکون پک دارک و شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-08-19T18:25:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +240,7 @@
       "date": "2026-08-19T18:25:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +252,7 @@
       "date": "2026-08-19T18:26:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
+      "views": 7540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +264,7 @@
       "date": "2026-08-19T20:19:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5970,
+      "views": 6370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +272,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         }
       ]
     },
@@ -282,7 +282,7 @@
       "date": "2026-08-19T20:25:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6010,
+      "views": 6470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +294,7 @@
       "date": "2026-08-20T02:59:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2610,
+      "views": 3330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,

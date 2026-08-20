@@ -7,66 +7,12 @@
   },
   "posts": [
     {
-      "id": 138780,
-      "message": "ترامپ می‌گوید بسیاری از خطوط لوله انتقال نفت در حال ساخته شدن است و تنگه هرمز دیگر ارزش قبل را ندارد \u003cbr/\u003eوی می‌گوید روزانه تعداد زیادی کشتی از تنگه عبور می‌کنند ولی کسی از آن خبر ندارد",
-      "date": "2026-08-19T19:45:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138781,
-      "message": "ترامپ:\u003cbr/\u003eمن از این واقعیت خوشحال نبودم که ما این تمرینات نظامی گسترده را علیه کره شمالی انجام می‌دهیم، در حالی که من با کیم جونگ اون رابطه دوستانه‌ای دارم.\u003cbr/\u003e\u003cbr/\u003eما یک تمرین جنگی بزرگ انجام می‌دادیم. من فکر می‌کردم این کار بسیار توهین‌آمیز است برای کسی که، به طور خلاصه، در طول دوره ریاست جمهوری من، رفتار بسیار خوبی داشته است.",
-      "date": "2026-08-19T19:46:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138782,
-      "message": "استرالیا و ژاپن نخستین آزمایش‌های میدانی سامانه لیزر پرانرژی دفاع هوایی مشترک خود با نام بوبوک را با موفقیت در استرالیای جنوبی انجام دادند.",
-      "date": "2026-08-19T19:47:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 138783,
-      "message": "ترامپ می‌گوید که آمریکا ابزارهای بسیار قوی برای تحریم بر ایران دارد",
-      "date": "2026-08-19T20:00:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 138784,
       "message": "سیستم تسلیحاتی در دماغی نسخه اولیه کبرا",
       "date": "2026-08-19T20:02:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +30,7 @@
       "date": "2026-08-19T20:02:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +42,7 @@
       "date": "2026-08-19T20:15:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +61,7 @@
       "date": "2026-08-19T20:23:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 15700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +73,7 @@
       "date": "2026-08-19T20:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +85,7 @@
       "date": "2026-08-20T03:12:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7840,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +93,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
         }
       ]
     },
@@ -157,7 +103,7 @@
       "date": "2026-08-20T03:15:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7890,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +115,7 @@
       "date": "2026-08-20T03:15:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +127,7 @@
       "date": "2026-08-20T03:42:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7930,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +135,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
         }
       ]
     },
@@ -199,7 +145,7 @@
       "date": "2026-08-20T03:43:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8380,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +157,7 @@
       "date": "2026-08-20T04:08:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7590,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +169,7 @@
       "date": "2026-08-20T04:09:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7510,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +181,7 @@
       "date": "2026-08-20T04:52:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5660,
+      "views": 9730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +193,7 @@
       "date": "2026-08-20T05:42:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2470,
+      "views": 7810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +212,7 @@
       "date": "2026-08-20T05:57:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 728,
+      "views": 7130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +224,68 @@
       "date": "2026-08-20T06:02:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 6740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138800,
+      "message": "وقتی مادرت خرابه",
+      "date": "2026-08-20T06:07:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 138801,
+      "message": "یک سرباز اوکراینی خوش‌شانس، یک پهپاد شاهد را که در حال پرواز بالای سرش بود، با آتش \u003ca href=\"https://jangaavaran.ir/mg-3/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمسلسل MG-3 \u003c/a\u003eسرنگون می‌کند.",
+      "date": "2026-08-20T06:27:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg",
+          "width": 476
+        }
+      ]
+    },
+    {
+      "id": 138802,
+      "message": "برخی از کارشناسان داخلی در حال دادن این هشدار هستند که با وضعیت گرانی و تورم فوق‌العاده‌ای که این روزها جامعه را در برگرفته احتمال اعتراضاتی همانند دی ماه در نیمه دوم سال وجود دارد.. اگر جمهوری اسلامی عقل در کله‌ش داشته باشد باید متوجه شود این هشدارها ،هشدارهای افرادی هستند که شاید منتقد وضعیت فعلی باشند ولی اگر به تذکرشان گوش ندهد  خود نظام آسیبی نمی بینند... مسئله سر این است که یک سری آدم در این کشور فکر می کنن که این مردم حاضرن هر شرایط اقتصادی رو تحمل کنن تا یک عده در قدرت بمانن و حکومت بکنن ولی که در تاریخ این کشور که هیچ ،بلکه در تمام تاریخ جهان مردم با هیچ سیاستمداری عهد برادری نبستیدن... مردم یک بار به دنیا می آیند یک بار هم می میرن و می خواهند زندگی با عزتی داشته باشند قرار نیست کسی تاوان حکومتی کردن دیگران را بدهد... پس واقعاً به نظام توصیه می کنیم که عقل  را به کار بیندازد و به صحبت های مردم گوش فرا دهد حالا به هر شکلی شده فشار اقتصادی را کم خورد که فردا دوباره نشینید داستان تیم های تروره موساد و منافقین را بشنوید\u003cbr/\u003e\u003cbr/\u003eفردا کسی نیاید بگوید لعنت خدا به پهلوی و طرفدارانش ....اقتصاد کشور دست پهلوی و یا نتانیاهو و یا ترامپ نیست",
+      "date": "2026-08-20T06:46:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 138803,
+      "message": "نیروی هوایی اوکراین: روسیه دیشب ده‌ها موشک بالستیک، موشک کروز و موشک‌های هایپرسونیک را به همراه ۱۶۸ پهپاد، در یک حمله گسترده شبانه به سمت اوکراین شلیک کرد.",
+      "date": "2026-08-20T06:47:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
