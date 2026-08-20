@@ -12,7 +12,7 @@
       "date": "2026-08-16T21:09:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-08-16T21:09:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-19T06:50:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
         }
       ]
     },
@@ -96,7 +96,7 @@
       "date": "2026-08-19T06:54:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
         }
       ]
     },
@@ -126,7 +126,7 @@
       "date": "2026-08-19T16:46:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,109 +138,7 @@
       "date": "2026-08-19T18:23:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 893,
-      "message": "Dark Glass icon Pack\u003cbr/\u003e\u003cbr/\u003eآیکون پک دارک و شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-19T18:25:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9430,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
-        }
-      ]
-    },
-    {
-      "id": 894,
-      "message": "Dark Glass icon Pack  آیکون پک دارک و شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-19T18:25:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9450,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 895,
-      "message": "Wallpaper \u0026amp; Dock",
-      "date": "2026-08-19T18:26:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 896,
-      "message": "\u0026#34;چند روز پیش یه پست گذاشتم و گفتم حتی کانفیگ پولیم قطع می‌شه — اختلال این روزا واقعاً بالاست. یکی پیام گذاشت تو که پولی داری چرا روش های  رایگانو آموزش میدی؟ جوابم اینه: منم رایگان استفاده میکنم اما همیشه بهترین گزینه نیست، مخصوصاً وقتی شبکه ناپایداره. برای همین منم کانفیگ پولی میگیرم که موقع قطعی‌ها گیر نکنم",
-      "date": "2026-08-19T20:19:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
-        }
-      ]
-    },
-    {
-      "id": 897,
-      "message": "\u0026#34;این سرویسی که خودمم استفاده می‌کنم، از یه مجموعه‌ست که کیفیتش رو تو این مدت امتحان کردم و واقعاً حرف نداشت مولتی‌لوکیشن تانل، منی که جمینای و کلاد و پیکسارت زیاد استفاده میکنم مولتی لوکیشن آمریکاش واسه من خیلی عالیه و کارمو راه میندازه \u003cbr/\u003eبه‌خاطر کیفیتشون الان باهاشون همکاری میکنم \u003cbr/\u003eاز طرف من با این کد تخفیف ، تخفیف هم میتونید بگیرید\u003cbr/\u003e\u0026#34;کد تخفیف : GIFT50000  \u003cbr/\u003eکانال رضایتو ببینی متوجه میشی چقدر خفنن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e \u003ca href=\"https://t.me/rezayat_On_vpn\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/rezayat_On_vpn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eلینک ربات برای تست رایگان : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ON_VPN_ORGBOT\" target=\"_blank\"\u003e@ON_VPN_ORGBOT\u003c/a\u003e",
-      "date": "2026-08-19T20:25:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 898,
-      "message": "سلام صبحتون بخیر\u003cbr/\u003eرفقا تو پروژه Rvg بعضیا دارن از سمت سایت Railway بلاک میشن و پنل براشون کار نمیکنه من با پشتیبانی پروژه صحبت کردم گفتن :  مثل این که سایت ریلوی رو اسم Rvg حساس شده موقع فورک اسم پروژه رو از Rvg به اسم دیگه ای تغییر بدین \u003cbr/\u003eاین مشکل پیش نمیاد، اگه بلاک شدین یه پنل جدید بسازید",
-      "date": "2026-08-20T02:59:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 899,
-      "message": "اگه هنگام ساخت پروژه Rvg اکانت گیت هاب براتون نیومد و پیدا نشد این گزینه رو بزنید اکانت گیت هابو انتخاب کنید اوکی میشه \u003cbr/\u003eبعدش شاید یه کد به ایمیلی که وارد کردین بیاد کد رو بزنید بعدش \u003cbr/\u003einstall \u0026amp; authorize \u003cbr/\u003eرو بزنید و بقیه مراحل",
-      "date": "2026-08-20T07:01:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
+      "views": 9600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,12 +151,114 @@
       ]
     },
     {
+      "id": 893,
+      "message": "Dark Glass icon Pack\u003cbr/\u003e\u003cbr/\u003eآیکون پک دارک و شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-19T18:25:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 894,
+      "message": "Dark Glass icon Pack  آیکون پک دارک و شیشه ای \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-19T18:25:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 895,
+      "message": "Wallpaper \u0026amp; Dock",
+      "date": "2026-08-19T18:26:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 896,
+      "message": "\u0026#34;چند روز پیش یه پست گذاشتم و گفتم حتی کانفیگ پولیم قطع می‌شه — اختلال این روزا واقعاً بالاست. یکی پیام گذاشت تو که پولی داری چرا روش های  رایگانو آموزش میدی؟ جوابم اینه: منم رایگان استفاده میکنم اما همیشه بهترین گزینه نیست، مخصوصاً وقتی شبکه ناپایداره. برای همین منم کانفیگ پولی میگیرم که موقع قطعی‌ها گیر نکنم",
+      "date": "2026-08-19T20:19:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 897,
+      "message": "\u0026#34;این سرویسی که خودمم استفاده می‌کنم، از یه مجموعه‌ست که کیفیتش رو تو این مدت امتحان کردم و واقعاً حرف نداشت مولتی‌لوکیشن تانل، منی که جمینای و کلاد و پیکسارت زیاد استفاده میکنم مولتی لوکیشن آمریکاش واسه من خیلی عالیه و کارمو راه میندازه \u003cbr/\u003eبه‌خاطر کیفیتشون الان باهاشون همکاری میکنم \u003cbr/\u003eاز طرف من با این کد تخفیف ، تخفیف هم میتونید بگیرید\u003cbr/\u003e\u0026#34;کد تخفیف : GIFT50000  \u003cbr/\u003eکانال رضایتو ببینی متوجه میشی چقدر خفنن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e \u003ca href=\"https://t.me/rezayat_On_vpn\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/rezayat_On_vpn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eلینک ربات برای تست رایگان : \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ON_VPN_ORGBOT\" target=\"_blank\"\u003e@ON_VPN_ORGBOT\u003c/a\u003e",
+      "date": "2026-08-19T20:25:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 898,
+      "message": "سلام صبحتون بخیر\u003cbr/\u003eرفقا تو پروژه Rvg بعضیا دارن از سمت سایت Railway بلاک میشن و پنل براشون کار نمیکنه من با پشتیبانی پروژه صحبت کردم گفتن :  مثل این که سایت ریلوی رو اسم Rvg حساس شده موقع فورک اسم پروژه رو از Rvg به اسم دیگه ای تغییر بدین \u003cbr/\u003eاین مشکل پیش نمیاد، اگه بلاک شدین یه پنل جدید بسازید",
+      "date": "2026-08-20T02:59:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 899,
+      "message": "اگه هنگام ساخت پروژه Rvg اکانت گیت هاب براتون نیومد و پیدا نشد این گزینه رو بزنید اکانت گیت هابو انتخاب کنید اوکی میشه \u003cbr/\u003eبعدش شاید یه کد به ایمیلی که وارد کردین بیاد کد رو بزنید بعدش \u003cbr/\u003einstall \u0026amp; authorize \u003cbr/\u003eرو بزنید و بقیه مراحل",
+      "date": "2026-08-20T07:01:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+        }
+      ]
+    },
+    {
       "id": 900,
       "message": "اومدم شهرستان مسافرت \u003cbr/\u003eاینجا بهتر از خونمون آنتن میده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eباورم نمیشه چند تا کانفیگ تست کردم همشون جواب داد یه پستم اینجا براتون گرفتم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003eکاش اینترنتم همیشه مثل الان بود\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-08-20T07:48:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7570,
+      "views": 7750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +276,7 @@
       "date": "2026-08-20T08:23:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7120,
+      "views": 7300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +288,7 @@
       "date": "2026-08-20T13:41:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4420,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
