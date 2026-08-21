@@ -1,12 +1,12 @@
 # 📡 Telegram Channel Exports
 
-**Last updated:** 2026-08-21 10:33:09 UTC
+**Last updated:** 2026-08-21 11:04:09 UTC
 **Repository:** [maryna77-cpu/teleFeed](https://github.com/maryna77-cpu/teleFeed)
 
 ## 📋 Channels
 
-- **aalijnab**: 14 posts
-- **aalijnab_base64**: 14 posts
+- **aalijnab**: 17 posts
+- **aalijnab_base64**: 17 posts
 - **aimobix**: 20 posts
 - **aimobix_base64**: 20 posts
 - **dejradio**: 17 posts
@@ -17,8 +17,8 @@
 - **dw_persian_base64**: 0 posts
 - **iaghapour**: 19 posts
 - **iaghapour_base64**: 19 posts
-- **iranintltv**: 14 posts
-- **iranintltv_base64**: 14 posts
+- **iranintltv**: 17 posts
+- **iranintltv_base64**: 17 posts
 - **ircfspace**: 20 posts
 - **ircfspace_base64**: 20 posts
 - **jangaavaran1390**: 18 posts
@@ -37,5 +37,5 @@
 - **vahidonline_base64**: 12 posts
 
 ## 🖼️ Media
-- Total files: 195
-- Total size: 11M
+- Total files: 194
+- Total size: 9.8M

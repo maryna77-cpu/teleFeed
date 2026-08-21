@@ -7,24 +7,12 @@
   },
   "posts": [
     {
-      "id": 2882,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت بزرگ تانل Hedioum Pool Tunnel\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاسکریپت محبوب \u003cb\u003eHedioum Pool Tunnel\u003c/b\u003e با بازطراحی کامل ساختار امنیتی و افزوده شدن قابلیت‌های پیشرفته ضد فیلترینگ به‌روزرسانی شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eارتقای رمزنگاری:\u003c/b\u003e تغییر از الگوریتم XOR به رمزنگاری مدرن \u003cb\u003eChaCha20-Poly1305\u003c/b\u003e (کلید بدون ارسال مستقیم در شبکه مدیریت می‌شود).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAD.png\u0026#39;)\"\u003e\u003cb\u003e🎭\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاستتار چندگانه (Multi-Mimic):\u003c/b\u003e پشتیبانی از میمیک‌های TLS/HTTPS، ایمیل (SMTP/IMAP) و شبیه‌سازی کامل پنل DirectAdmin روی پورت‌های ۸۰ و ۲۲۲۲ برای گمراه‌سازی اسکنرها.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B5.png\u0026#39;)\"\u003e\u003cb\u003e🕵️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرفتار کاملاً رندوم و ضد DPI:\u003c/b\u003e امضای شبکه برای هر سرور یکتا و منحصربه‌فرد است؛ همچنین طول‌عمر و حجم کانکشن‌ها به‌صورت تصادفی تغییر می‌کند تا شناسایی ترافیک بسیار دشوار شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939C.png\u0026#39;)\"\u003e\u003cb\u003e📜\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت گواهی SSL:\u003c/b\u003e امکان دریافت خودکار گواهی Let\u0026#39;s Encrypt با دامنه، یا استفاده از گواهی معتبر سلف‌سایند در مود دایرکت ادمین.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی کامل از UDP و IPv6:\u003c/b\u003e عبور بهینه ترافیک UDP روی بستر TCP، سازگار با تماس صوتی/تصویری، گیم، یوتیوب و بدون نشتی DNS.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://youtu.be/Sueh8qgzL-0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش ویدیویی این اسکریپت در کانال ما\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/hedioum/Hedioum-Pool-Tunnel\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
-      "date": "2026-08-15T12:07:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
-    },
-    {
       "id": 2883,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی Smart Support Bot؛ دستیار هوشمند و ربات پشتیبانی همه‌فن‌حریف تلگرام\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه \u003cb\u003eSmart Support Bot\u003c/b\u003e یک سیستم متن‌باز و مدرن برای پشتیبانی مشتریان و مدیریت کانال است که با بهره‌گیری از هوش مصنوعی و پایگاه دانش محلی، تجربه‌ای کاملاً خودکار و حرفه‌ای روی سرور شخصی شما ارائه می‌دهد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپشتیبانی هوشمند مبتنی بر AI:\u003c/b\u003e پاسخ‌گویی دقیق به کاربران در چت خصوصی و گروه‌ها بر اساس فایل‌های راهنما، منوی محصولات (کاتالوگ) و ارجاع خودکار به پشتیبان انسانی در صورت نیاز.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eچندزبانه و منعطف:\u003c/b\u003e پشتیبانی کامل از ۴ زبان فارسی، انگلیسی، روسی و چینی به همراه تشخیص هوشمند نیت کاربر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت از داخل تلگرام:\u003c/b\u003e امکان تغییر تنظیمات ربات، قالب‌ها و اطلاعات با چت مستقیم با ادمین-ایجنت (بدون نیاز مداوم به SSH) و پشتیبانی از Vision برای درک اسکرین‌شات‌ها.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاتصال به پنل 3X-UI:\u003c/b\u003e قابلیت اهدای خودکار کانفیگ رایگان شبانه از طریق API پنل سنایی، آمارگیر پیشرفته و تحلیل پیام‌ها.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/balckfoxgroup/smart-support-bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
       "date": "2026-08-15T13:15:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +133,7 @@
       "date": "2026-08-17T14:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +169,7 @@
       "date": "2026-08-18T16:48:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9710,
+      "views": 9740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +209,7 @@
       "date": "2026-08-19T12:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8970,
+      "views": 9040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +227,7 @@
       "date": "2026-08-19T13:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9200,
+      "views": 9240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +245,7 @@
       "date": "2026-08-19T14:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8770,
+      "views": 8820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +263,7 @@
       "date": "2026-08-19T19:20:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8750,
+      "views": 8830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +281,7 @@
       "date": "2026-08-20T12:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8200,
+      "views": 8360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,7 +299,7 @@
       "date": "2026-08-20T14:25:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7670,
+      "views": 7870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,7 +317,7 @@
       "date": "2026-08-20T19:02:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
+      "views": 6430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,6 +326,24 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2906,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی Tor Node Manager؛ اسکریپت ساخت و مدیریت خروجی‌های تور تفکیک‌شده بر اساس کشور\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین پروژه یک ابزار تعاملی است که به شما امکان می‌دهد روی سرور خود نودهای مجزا و اختصاصی Tor را بر پایه کشورهای مختلف (مثل ترکیه، آلمان، هلند، فرانسه و...) به‌صورت پروکسی‌های لوکال SOCKS5 بسازید. این پورت‌های لوکال به‌راحتی می‌توانند به‌عنوان Outbound در پنل‌های \u003cb\u003e3X-UI\u003c/b\u003e، \u003cb\u003eXray\u003c/b\u003e یا سایر برنامه‌ها استفاده شوند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتفکیک نودها بر اساس کشور:\u003c/b\u003e ساخت نمونه‌های مجزا از Tor با لوکیشن دلخواه و پورت SOCKS5 اختصاصی روی \u003ccode\u003e127.0.0.1\u003c/code\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسرویس‌های مستقل Systemd:\u003c/b\u003e اجرای هر کشور به‌عنوان یک سرویس مجزا در سیستم‌عامل به همراه فایل کانفیگ، دایرکتوری داده و لاگ اختصاصی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتأیید خودکار موقعیت جغرافیایی (Geo-Check):\u003c/b\u003e بررسی زنده و چندمرحله‌ای اتصال و کشور خروجی Tor، همراه با سیستم تلاش و ری‌استارت مجدد خودکار تا زمان تایید قطعی لوکیشن انتخابی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکانفیگ آماده Xray Outbound:\u003c/b\u003e تولید و نمایش خودکار قطعه‌کد آماده‌ی JSON برای اضافه کردن مستقیم به بخش Outbounds در Xray یا 3X-UI.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/AMasoudKaveh/tor-node-manager\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
+      "date": "2026-08-21T10:46:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_19.jpg"
         }
       ]
     }
