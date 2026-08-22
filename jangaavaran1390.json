@@ -7,24 +7,12 @@
   },
   "posts": [
     {
-      "id": 138938,
-      "message": "به گفته یک سرباز شناخته‌شده اوکراینی، روسیه هر روز ۱۵۰۰ تا ۲۰۰۰ پهپاد FPV با کنترل رادیویی و تعداد نامعلومی پهپاد فیبر نوری را به سمت منطقه دروژکیوکا و مسیرهای لجستیکی نزدیک آن پرتاب می‌کند.\u003cbr/\u003e\u003cbr/\u003eاو همچنین گزارش می‌دهد که روزانه حدود ۱۲۰۰ پهپاد FPV با کنترل رادیویی، مسیر دوبروپیلیا را هدف قرار می‌دهند. این تعداد دائماً در حال افزایش است، زیرا اپراتورهای پهپاد بیشتری به استان دونتسک اعزام می‌شوند.",
-      "date": "2026-08-22T10:16:01Z",
+      "id": 138940,
+      "message": "امروز ، یگان‌های پهپادی اوکراین پالایشگاه نووکویبیشفسک روسیه که ۱۰۰۰ کیلومتر از خط مقدم جبهه فاصله داشت، را مورد حمله قرار دادند",
+      "date": "2026-08-22T10:45:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 138939,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003eانتشار به مناسبت؛\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e۳۱\u003cb\u003e مرداد؛ روز\u003c/b\u003e \u003cb\u003eصنعت دفاعی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e صنعت دفاعی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊️\u003c/b\u003e\u003c/i\u003e مشارکت ملی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e ایران مقتدر\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eوزارت دفاع و پشتیبانی نیروهای مسلح\u003c/b\u003e",
-      "date": "2026-08-22T10:24:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -33,25 +21,6 @@
         {
           "type": "video",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 138940,
-      "message": "امروز ، یگان‌های پهپادی اوکراین پالایشگاه نووکویبیشفسک روسیه که ۱۰۰۰ کیلومتر از خط مقدم جبهه فاصله داشت، را مورد حمله قرار دادند",
-      "date": "2026-08-22T10:45:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg",
           "width": 268
         }
       ]
@@ -62,7 +31,7 @@
       "date": "2026-08-22T11:14:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +49,7 @@
       "date": "2026-08-22T12:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +67,7 @@
       "date": "2026-08-22T12:50:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +85,7 @@
       "date": "2026-08-22T13:24:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
+      "views": 14000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +97,7 @@
       "date": "2026-08-22T13:28:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3270,
+      "views": 4070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +127,7 @@
       "date": "2026-08-22T13:45:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +139,7 @@
       "date": "2026-08-22T14:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +151,7 @@
       "date": "2026-08-22T14:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +163,7 @@
       "date": "2026-08-22T15:13:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +175,7 @@
       "date": "2026-08-22T15:41:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +183,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
         }
       ]
     },
@@ -224,7 +193,7 @@
       "date": "2026-08-22T15:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 12800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +205,7 @@
       "date": "2026-08-22T16:22:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7730,
+      "views": 9000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +213,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg",
           "width": 360
         }
       ]
@@ -255,7 +224,7 @@
       "date": "2026-08-22T16:35:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 12100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +242,7 @@
       "date": "2026-08-22T16:37:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9420,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +254,7 @@
       "date": "2026-08-22T17:03:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7480,
+      "views": 9890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +273,7 @@
       "date": "2026-08-22T17:50:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3770,
+      "views": 7150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,6 +284,36 @@
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
         }
       ]
+    },
+    {
+      "id": 138958,
+      "message": "تصویری از انتقال یک بمب هدایت ماهواره آمریکایی جیدم نسخه برد بلند er با برد بین ۷۰ تا ۸۰ کیلومتر برای نصب بر روی یک \u003ca href=\"https://jangaavaran.ir/su-27/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسوخوی ۲۷ \u003c/a\u003e\u003cbr/\u003eاوکراین طی ۴ سال گذشته دست کم ۸ فروند سوخوی ۲۷ یوبی نسخه آموزشی رزمی سوخوی ۲۷ خود را که سال‌ها زمین گیر بود را به چرخی عملیاتی برگرداند که عمدتا برای پرتاب بمب‌های هدایت شونده آمریکایی استفاده می‌شود",
+      "date": "2026-08-22T18:33:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 138959,
+      "message": "الکسی لیخاچف، مدیرعامل شرکت دولتی روساتوم، تأیید کرد که این شرکت روسی، متخصصان خود را به نیروگاه هسته‌ای بوشهر در ایران باز می‌گرداند.\u003cbr/\u003e\u003cbr/\u003eتعداد کارکنان به 42 نفر رسیده است، در حالی که پس از تخلیه بهاری در جریان درگیری‌های جاری، تنها حدود 20 نفر باقی مانده بودند. انتظار می‌رود که با حفظ شرایط کنونی، تعداد کارکنان تا پاییز به 100 نفر برسد.",
+      "date": "2026-08-22T18:43:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3540,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
     }
   ],
   "last_updated": 0
