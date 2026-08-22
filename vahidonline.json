@@ -12,7 +12,7 @@
       "date": "2026-08-21T14:34:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 223000,
+      "views": 224000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_13.jpg"
         }
       ]
     },
@@ -56,7 +56,7 @@
       "date": "2026-08-21T15:25:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 268000,
+      "views": 269000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +64,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_4.jpg"
         }
       ]
     },
@@ -74,7 +74,7 @@
       "date": "2026-08-21T15:35:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 309000,
+      "views": 310000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +82,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_7.jpg"
         }
       ]
     },
@@ -92,7 +92,7 @@
       "date": "2026-08-21T16:36:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 322000,
+      "views": 324000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +110,7 @@
       "date": "2026-08-21T19:43:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 308000,
+      "views": 310000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +122,7 @@
       "date": "2026-08-21T21:32:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 268000,
+      "views": 272000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +130,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_5.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_6.jpg",
           "width": 640
         }
       ]
@@ -141,7 +141,7 @@
       "date": "2026-08-22T01:49:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 243000,
+      "views": 248000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,11 +153,11 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_9.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_5.jpg"
         },
         {
           "type": "photo",
@@ -175,7 +175,7 @@
       "date": "2026-08-22T13:30:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 84400,
+      "views": 102000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +183,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_12.jpg"
         }
       ]
     },
@@ -193,7 +193,7 @@
       "date": "2026-08-22T13:31:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85900,
+      "views": 104000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +211,25 @@
       "date": "2026-08-22T13:34:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 83600,
+      "views": 101000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Vahid Online وحید آنلاین",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 78001,
+      "message": "محمدرضا عارف، معاون اول رییس دولت در ایران، با تاکید بر ضرورت آنچه «اصلاح الگوی مصرف انرژی» خواند، گفت: «باید مردم را توجیه کنیم تا بدانند که اکنون بخشی از درآمدهای کشور صرف تامین بنزین می‌شود و این موضوع هزینه و فشارهایی را به بخش‌های دیگر تحمیل می‌کند.»\u003cbr/\u003e\u003ca href=\"https://www.isna.ir/news/1405053118108/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eisna.ir\u003c/a\u003e\u003cbr/\u003eعارف شنبه ۳۱ مرداد در «همایش ملی صنعت، معدن و خدمات سبز» با اشاره به تفاوت مصرف سوخت میان گروه‌های درآمدی گفت میزان مصرف دهک دهم، ثروتمندترین دهک جامعه، حدود ۲۳ تا ۲۴ برابر دهک اول است.\u003cbr/\u003e\u003cbr/\u003eعارف در ادامه، مخالفت با گران شدن بنزین را به واکنش اقشار کم‌درآمد به تغییر سیاست‌های مرتبط با مصرف انرژی مرتبط دانست و گفت: «وقتی قرار است اصلاحی در این زمینه انجام شود، اتفاقا بخش‌هایی از اقشار آسیب‌پذیر و کسانی که به هر حال در زندگی با مشکلاتی روبه‌رو هستند، تحریک می‌شوند که بگویند بنزین نباید گران شود.»\u003cbr/\u003e@\u003ca href=\"https://t.me/VahidOOnLine/256263\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eVahidOOnLine\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/VahidOnline\" target=\"_blank\"\u003e@VahidOnline\u003c/a\u003e",
+      "date": "2026-08-22T13:37:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 106000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,30 +242,12 @@
       ]
     },
     {
-      "id": 78001,
-      "message": "محمدرضا عارف، معاون اول رییس دولت در ایران، با تاکید بر ضرورت آنچه «اصلاح الگوی مصرف انرژی» خواند، گفت: «باید مردم را توجیه کنیم تا بدانند که اکنون بخشی از درآمدهای کشور صرف تامین بنزین می‌شود و این موضوع هزینه و فشارهایی را به بخش‌های دیگر تحمیل می‌کند.»\u003cbr/\u003e\u003ca href=\"https://www.isna.ir/news/1405053118108/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eisna.ir\u003c/a\u003e\u003cbr/\u003eعارف شنبه ۳۱ مرداد در «همایش ملی صنعت، معدن و خدمات سبز» با اشاره به تفاوت مصرف سوخت میان گروه‌های درآمدی گفت میزان مصرف دهک دهم، ثروتمندترین دهک جامعه، حدود ۲۳ تا ۲۴ برابر دهک اول است.\u003cbr/\u003e\u003cbr/\u003eعارف در ادامه، مخالفت با گران شدن بنزین را به واکنش اقشار کم‌درآمد به تغییر سیاست‌های مرتبط با مصرف انرژی مرتبط دانست و گفت: «وقتی قرار است اصلاحی در این زمینه انجام شود، اتفاقا بخش‌هایی از اقشار آسیب‌پذیر و کسانی که به هر حال در زندگی با مشکلاتی روبه‌رو هستند، تحریک می‌شوند که بگویند بنزین نباید گران شود.»\u003cbr/\u003e@\u003ca href=\"https://t.me/VahidOOnLine/256263\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eVahidOOnLine\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/VahidOnline\" target=\"_blank\"\u003e@VahidOnline\u003c/a\u003e",
-      "date": "2026-08-22T13:37:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Vahid Online وحید آنلاین",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_9.jpg"
-        }
-      ]
-    },
-    {
       "id": 78002,
       "message": "احمد وحیدی، فرمانده کل سپاه پاسداران، در پیامی به پیمان جبلی، رییس سازمان صدا و سیما، ضمن حمایت از رویکرد این سازمان، نوشت که صدا و سیما در دوره جنگ اخیر، «در ثبت و ماندگار ساختن این حماسه، سهمی ارزشمند در تقویت جبهه رسانه‌ای انقلاب اسلامی بر عهده گرفت.»\u003cbr/\u003e\u003cbr/\u003eوحیدی همچنین عملکرد صدا و سیما را «مجاهدت ارزشمند و نقش‌آفرینی موثر» توصیف کرد.\u003cbr/\u003e\u003cbr/\u003eاین در حالی است که در روزهای اخیر، محمدباقر قالیباف و مسعود پزشکیان صراحتا از عملکرد صدا و سیما انتقاد کرده بودند.\u003cbr/\u003e\u003cbr/\u003eمحمدباقر قالیباف ۲۷ مردادماه گفته بود که صدا و سیما در زمینه «جنگ شناختی» تاکنون موفقیت‌های لازم را نداشته است. رییس مجلس همچنین گفته بود: «تبیین ناکارآمدی‌های ساختاری، رویکردی و عملکردی صدا و سیما فرصتی مبسوط می‌طلبد.»\u003cbr/\u003e\u003cbr/\u003eمسعود پزشکیان نیز در چند نوبت از عملکرد این سازمان انتقاد کرده است. پزشکیان ۱۰ خردادماه گفته بود روایت‌های صدا و سیما از شرایط کشور غیرواقعی است و این رسانه نیازمند بازنگری جدی است.\u003cbr/\u003e@\u003ca href=\"https://t.me/VahidOOnLine/256305\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eVahidOOnLine\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/VahidOnline\" target=\"_blank\"\u003e@VahidOnline\u003c/a\u003e",
       "date": "2026-08-22T13:41:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 89200,
+      "views": 113000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +255,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_8.jpg"
         }
       ]
     },
@@ -265,7 +265,7 @@
       "date": "2026-08-22T14:47:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4930,
+      "views": 48600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
