@@ -7,48 +7,12 @@
   },
   "posts": [
     {
-      "id": 38346,
-      "message": "",
-      "date": "2026-08-21T10:15:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg"
-        }
-      ]
-    },
-    {
-      "id": 38347,
-      "message": "\u003ctg-emoji emoji-id=\"5974048815789903111\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به من استرس وارد دارن می‌کنن...\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-21T10:24:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg"
-        }
-      ]
-    },
-    {
       "id": 38348,
       "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eدر جستجوی سطل زباله...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-08-21T10:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg",
           "width": 720
         }
       ]
@@ -67,7 +31,7 @@
       "date": "2026-08-21T11:07:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +43,7 @@
       "date": "2026-08-21T11:47:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12200,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +55,7 @@
       "date": "2026-08-21T11:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 13100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +63,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg",
           "width": 492
         }
       ]
@@ -110,7 +74,7 @@
       "date": "2026-08-21T12:39:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +82,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_6.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg",
           "width": 352
         }
       ]
@@ -129,7 +93,7 @@
       "date": "2026-08-21T13:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +105,7 @@
       "date": "2026-08-21T14:56:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +117,7 @@
       "date": "2026-08-21T16:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +129,7 @@
       "date": "2026-08-21T16:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 12300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +137,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_6.jpg",
           "width": 1920
         }
       ]
@@ -184,7 +148,7 @@
       "date": "2026-08-21T18:04:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +167,7 @@
       "date": "2026-08-21T18:25:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +175,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_4.jpg"
         }
       ]
     },
@@ -221,62 +185,7 @@
       "date": "2026-08-21T19:12:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_11.jpg"
-        }
-      ]
-    },
-    {
-      "id": 38361,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمسعود پزشکیان: بهتر است جنگ با آمریکا را امروز پایان دهیم.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e قالیباف نیز اعلام کرد: «ما هر چقدر قدرت نظامی داشته باشیم ولی اگر مردم گرسنه باشند و گردش مالی، رشد اقتصادی و تولید ملی نداشته باشیم، دوام نمی‌آوریم.»\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-21T20:24:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9650,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_9.jpg"
-        }
-      ]
-    },
-    {
-      "id": 38362,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ادعای یک روحانی در تجمعات شبانه؛\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-21T21:04:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار بدون سانسور",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 38363,
-      "message": "\u003ctg-emoji emoji-id=\"5319160079465857105\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اینستاگرام صفحه «رواق دارالذکر» مزار رهبری جمهوری اسلامی ایران، علی خامنه‌ای را مسدود کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-21T22:12:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,12 +198,12 @@
       ]
     },
     {
-      "id": 38364,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eرئیس کمیسیون امنیت ملی مجلس:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e«به‌زودی با قدرت به \u003cb\u003eمحاصره دریایی آمریکا علیه ایران\u003c/b\u003e پاسخ خواهیم داد و آمریکا منطقه را ترک خواهد کرد.»\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-21T23:24:01Z",
+      "id": 38361,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمسعود پزشکیان: بهتر است جنگ با آمریکا را امروز پایان دهیم.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e قالیباف نیز اعلام کرد: «ما هر چقدر قدرت نظامی داشته باشیم ولی اگر مردم گرسنه باشند و گردش مالی، رشد اقتصادی و تولید ملی نداشته باشیم، دوام نمی‌آوریم.»\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-21T20:24:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +211,62 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 38362,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ادعای یک روحانی در تجمعات شبانه؛\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-21T21:04:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_9.jpg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 38363,
+      "message": "\u003ctg-emoji emoji-id=\"5319160079465857105\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اینستاگرام صفحه «رواق دارالذکر» مزار رهبری جمهوری اسلامی ایران، علی خامنه‌ای را مسدود کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-21T22:12:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg"
+        }
+      ]
+    },
+    {
+      "id": 38364,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eرئیس کمیسیون امنیت ملی مجلس:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e«به‌زودی با قدرت به \u003cb\u003eمحاصره دریایی آمریکا علیه ایران\u003c/b\u003e پاسخ خواهیم داد و آمریکا منطقه را ترک خواهد کرد.»\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-21T23:24:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg"
         }
       ]
     },
@@ -312,7 +276,7 @@
       "date": "2026-08-22T04:34:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
+      "views": 3480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,11 +284,33 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_3.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 38367,
+      "message": "\u003ctg-emoji emoji-id=\"6012378108961756615\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E80.png\u0026#39;)\"\u003e\u003cb\u003e🎀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ایلان ماسک: ربات \u003cb\u003eOptimus\u003c/b\u003e شرکت تسلا و \u003cb\u003eGrok\u003c/b\u003e خدمات \u003cb\u003e«پزشکی شگفت‌انگیزی به تمام مردم زمین»\u003c/b\u003e ارائه خواهند کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-22T05:48:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 548,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار بدون سانسور",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_2.jpg"
         }
       ]
     }
