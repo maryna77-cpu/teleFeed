@@ -7,54 +7,12 @@
   },
   "posts": [
     {
-      "id": 139019,
-      "message": "پرتاب پهپادهای FPV آمریکایی از داخل کانتینر\u003cbr/\u003e\u003cbr/\u003eتصاویر منتشرشده از یک رزمایش در پایگاه نظامی Fort Bragg در آمریکا، پرتاب پهپادهای FPV مدل Bumblebee V2 را نشان می‌دهد.\u003cbr/\u003e\u003cbr/\u003eدر این روش، پهپادها از داخل یک کانتینر نصب‌شده روی تریلر آماده و به سمت منطقه هدف پرتاب می‌شوند؛ روشی که می‌تواند امکان جابه‌جایی و استقرار سریع تعداد زیادی پهپاد را فراهم کند.\u003cbr/\u003e\u003cbr/\u003eسیستم Bumblebee V2 در رده پهپادهای FPV قرار می‌گیرد و استفاده از سامانه‌های پرتاب و حمل کانتینری، بخشی از روند رو به رشد ارتش آمریکا برای افزایش توان به‌کارگیری پهپادهای کوچک و ارزان‌قیمت در مقیاس بالا است.\u003cbr/\u003e\u003cbr/\u003e چنین سامانه‌ای می‌تواند در سناریوهای مختلف، از شناسایی و مراقبت گرفته تا حمله دقیق و ایجاد اشباع در برابر سامانه‌های دفاعی، مورد استفاده قرار گیرد.",
-      "date": "2026-08-23T15:24:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_12.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
-        }
-      ]
-    },
-    {
-      "id": 139023,
-      "message": "هشدار ایران به کشورهایی که به فشار اقتصادی آمریکا بپیوندند\u003cbr/\u003e\u003cbr/\u003eبه گزارش Fox News، یک مقام ایرانی هشدار داده است کشورهایی که در کارزار فشار اقتصادی آمریکا علیه تهران مشارکت کنند، ممکن است از سوی ایران به‌عنوان دشمن تلقی شوند.\u003cbr/\u003e\u003cbr/\u003eاین مقام در اظهاراتی تهدیدآمیز گفته است:\u003cbr/\u003e\u003cbr/\u003e««اگر آنها اقدام نکنند، ما حمله خواهیم کرد. منافع آن کشور را هدف قرار خواهیم داد.»»\u003cbr/\u003e\u003cbr/\u003eوی همچنین واکنش احتمالی ایران را «لرزه‌آور» توصیف کرده است.\u003cbr/\u003e\u003cbr/\u003e همزمان، گزارش شده تردد نفتکش‌ها از تنگه هرمز طی دو هفته گذشته حدود ۴۰۰ درصد افزایش یافته و نیروی دریایی آمریکا به برخی کشتی‌های حامل میلیون‌ها بشکه نفت خام کمک می‌کند تا از مسیر امن‌تری در جنوب تنگه عبور کنند.\u003cbr/\u003e\u003cbr/\u003e از سوی دیگر، بحران اقتصادی ایران نیز تشدید شده و طبق این گزارش، ارزش ریال برای نخستین‌بار از مرز ۲ میلیون ریال در برابر یک دلار آمریکا عبور کرده است.\u003cbr/\u003e\u003cbr/\u003e حضور نظامی آمریکا در خاورمیانه نیز همچنان ادامه دارد و بر اساس ارزیابی مطرح‌شده در گزارش، در حال حاضر مسیر روشنی برای پایان درگیری میان آمریکا و ایران دیده نمی‌شود.",
-      "date": "2026-08-23T15:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 139024,
       "message": "پهپادهای اوکراین صبح امروز منطقه آرخانگلسک روسیه (۱۸۰۰ تا ۱۹۰۰ کیلومتری مرز اوکراین) را هدف قرار دادند؛ نخستین بار که پهپادها به این فاصله دسترسی یافته‌اند. گزارش‌های اولیه حکایت از هدف قرار گرفتن پایگاه فضایی پلستسک دارد که از مهم‌ترین پایگاه‌های فضایی نظامی روسیه برای پرتاب ماهواره، آزمایش موشک‌های بالستیک بین‌قاره‌ای و عملیات‌های فضایی استراتژیک است.",
       "date": "2026-08-23T16:43:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,15 +20,15 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
         }
       ]
     },
@@ -80,7 +38,7 @@
       "date": "2026-08-23T16:59:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 12300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +50,7 @@
       "date": "2026-08-23T17:00:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 12200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +62,7 @@
       "date": "2026-08-23T17:45:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,11 +70,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
         }
       ]
     },
@@ -126,7 +84,49 @@
       "date": "2026-08-23T17:47:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 12000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 139032,
+      "message": "انگلستان از دست ایالات متحده بر سر آرژانتین ناراحت است \u003cbr/\u003eرئیس جمهور آرژانتین که از دوستان بسیار صمیمی ترامپ و از حامیان آن است توانسته مجوز دریافت اف ۱۶ دست دوم هواپیماهای سوخترسان و گشت دریایی را از آمریکا دریافت کند که بخشی از آن را نیز تحویل گرفته... اگرچه تجهیزات دریافتی دست دوم هستند ولی توان هوای آرژانتین را در مقابل انگلستان در جزایر فالکلند به شدت افزایش می‌دهند \u003cbr/\u003eبر اساس گفته تایمز با وجود هشدارهای مکرر مقامات انگلیسی ولی ترامپ به دلیل روابط خوب با آرژانتین از جمله رئیس جمهور آن حاضر به گوش دادن به توصیه‌های آنها نیست،زیرا هم می‌خواهد حمایت‌های رئیس جمهور آرژانتین را جبران کند و هم از پیشروی چین در آمریکا جنوبی پیشگیری کند",
+      "date": "2026-08-23T18:08:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139033,
+      "message": "فرماندهی مرکزی ایالات متحده مدعی است که تا تاریخ ۲۳ آگوست، نیروهای آمریکایی ۷۰ شناور را تغییر مسیر داده‌اند، ۳ شناور را با حملات خود غیر فعال کرده‌اند و بر ۲ شناور  سوار شده‌اند، این اقدامات بخشی از محاصره مداوم بنادر ایران است.",
+      "date": "2026-08-23T18:15:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139034,
+      "message": "پایان کار سوپر اتانداردهای آرژانتین\u003cbr/\u003e\u003cbr/\u003eنیروی دریایی آرژانتین پس از بیش از ۴۰ سال، \u003ca href=\"https://jangaavaran.ir/super-etendard/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eجنگنده‌های فرانسوی سوپر اتندارد\u003c/a\u003e  را از خدمت خارج می‌کند و تلاش برای بازگرداندن آنها به وضعیت عملیاتی را کنار گذاشته است.\u003cbr/\u003e\u003cbr/\u003eآرژانتین در سال ۱۹۷۹، ۱۴ فروند از این جنگنده را سفارش داد و سوپر اتانداردها در جنگ فالکلند ۱۹۸۲ با موشک \u003ca href=\"https://jangaavaran.ir/exocet/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eضدکشتی AM39 اگزوسه نقش\u003c/a\u003e مهمی داشتند و ناوشکن HMS شفیلد و کشتی اتلانتیک  را هدف قرار دادند.\u003cbr/\u003e\u003cbr/\u003eآرژانتین در سال ۲۰۱۸ نیز پنج فروند سوپر اتندارد بازنشسته فرانسه را خرید، اما به دلیل مشکلات تأمین قطعات، به‌ویژه قطعات صندلی پرتاب‌شونده و برخی محدودیت‌های صادراتی، این هواپیماها هرگز عملیاتی نشدند.\u003cbr/\u003e\u003cbr/\u003eاکنون در قالب برنامه Plan Dédalo، سوپر اتانداردها کنار گذاشته شده و نیروی دریایی آرژانتین به سمت استفاده بیشتر از P-3C Orion، بالگرد AW109 و پهپادهای V-BAT حرکت می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86\"\u003e#آرژانتین\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF\"\u003e#سوپراتاندارد\u003c/a\u003e \u003ca href=\"?q=%23SuperEtendard\"\u003e#SuperEtendard\u003c/a\u003e \u003ca href=\"?q=%23Exocet\"\u003e#Exocet\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%D8%A7%D9%84%DA%A9%D9%84%D9%86%D8%AF\"\u003e#فالکلند\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%A7%D9%84%D9%88%DB%8C%D9%86%D8%A7%D8%B3\"\u003e#مالویناس\u003c/a\u003e \u003ca href=\"?q=%23%D9%87%D9%88%D8%A7%D9%86%D9%88%D8%B1%D8%AF%DB%8C_%D9%86%D8%B8%D8%A7%D9%85%DB%8C\"\u003e#هوانوردی_نظامی\u003c/a\u003e",
+      "date": "2026-08-23T18:44:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,54 +139,12 @@
       ]
     },
     {
-      "id": 139032,
-      "message": "انگلستان از دست ایالات متحده بر سر آرژانتین ناراحت است \u003cbr/\u003eرئیس جمهور آرژانتین که از دوستان بسیار صمیمی ترامپ و از حامیان آن است توانسته مجوز دریافت اف ۱۶ دست دوم هواپیماهای سوخترسان و گشت دریایی را از آمریکا دریافت کند که بخشی از آن را نیز تحویل گرفته... اگرچه تجهیزات دریافتی دست دوم هستند ولی توان هوای آرژانتین را در مقابل انگلستان در جزایر فالکلند به شدت افزایش می‌دهند \u003cbr/\u003eبر اساس گفته تایمز با وجود هشدارهای مکرر مقامات انگلیسی ولی ترامپ به دلیل روابط خوب با آرژانتین از جمله رئیس جمهور آن حاضر به گوش دادن به توصیه‌های آنها نیست،زیرا هم می‌خواهد حمایت‌های رئیس جمهور آرژانتین را جبران کند و هم از پیشروی چین در آمریکا جنوبی پیشگیری کند",
-      "date": "2026-08-23T18:08:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139033,
-      "message": "فرماندهی مرکزی ایالات متحده مدعی است که تا تاریخ ۲۳ آگوست، نیروهای آمریکایی ۷۰ شناور را تغییر مسیر داده‌اند، ۳ شناور را با حملات خود غیر فعال کرده‌اند و بر ۲ شناور  سوار شده‌اند، این اقدامات بخشی از محاصره مداوم بنادر ایران است.",
-      "date": "2026-08-23T18:15:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139034,
-      "message": "پایان کار سوپر اتانداردهای آرژانتین\u003cbr/\u003e\u003cbr/\u003eنیروی دریایی آرژانتین پس از بیش از ۴۰ سال، \u003ca href=\"https://jangaavaran.ir/super-etendard/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eجنگنده‌های فرانسوی سوپر اتندارد\u003c/a\u003e  را از خدمت خارج می‌کند و تلاش برای بازگرداندن آنها به وضعیت عملیاتی را کنار گذاشته است.\u003cbr/\u003e\u003cbr/\u003eآرژانتین در سال ۱۹۷۹، ۱۴ فروند از این جنگنده را سفارش داد و سوپر اتانداردها در جنگ فالکلند ۱۹۸۲ با موشک \u003ca href=\"https://jangaavaran.ir/exocet/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eضدکشتی AM39 اگزوسه نقش\u003c/a\u003e مهمی داشتند و ناوشکن HMS شفیلد و کشتی اتلانتیک  را هدف قرار دادند.\u003cbr/\u003e\u003cbr/\u003eآرژانتین در سال ۲۰۱۸ نیز پنج فروند سوپر اتندارد بازنشسته فرانسه را خرید، اما به دلیل مشکلات تأمین قطعات، به‌ویژه قطعات صندلی پرتاب‌شونده و برخی محدودیت‌های صادراتی، این هواپیماها هرگز عملیاتی نشدند.\u003cbr/\u003e\u003cbr/\u003eاکنون در قالب برنامه Plan Dédalo، سوپر اتانداردها کنار گذاشته شده و نیروی دریایی آرژانتین به سمت استفاده بیشتر از P-3C Orion، بالگرد AW109 و پهپادهای V-BAT حرکت می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86\"\u003e#آرژانتین\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF\"\u003e#سوپراتاندارد\u003c/a\u003e \u003ca href=\"?q=%23SuperEtendard\"\u003e#SuperEtendard\u003c/a\u003e \u003ca href=\"?q=%23Exocet\"\u003e#Exocet\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%D8%A7%D9%84%DA%A9%D9%84%D9%86%D8%AF\"\u003e#فالکلند\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%A7%D9%84%D9%88%DB%8C%D9%86%D8%A7%D8%B3\"\u003e#مالویناس\u003c/a\u003e \u003ca href=\"?q=%23%D9%87%D9%88%D8%A7%D9%86%D9%88%D8%B1%D8%AF%DB%8C_%D9%86%D8%B8%D8%A7%D9%85%DB%8C\"\u003e#هوانوردی_نظامی\u003c/a\u003e",
-      "date": "2026-08-23T18:44:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
-        }
-      ]
-    },
-    {
       "id": 139035,
       "message": "کان: دمشق نگران است که اسرائیل ممکن است حملات خود را در سوریه گسترش دهد و در حال بررسی راه‌هایی برای جلوگیری از تشدید بیشتر اوضاع است.\u003cbr/\u003e\u003cbr/\u003eرهبری کنونی سوریه خواهان حفظ ثبات و ماندن در قدرت است و نمی‌خواهد به اسرائیل بهانه‌ای برای حملات بیشتر بدهد، به ویژه پس از اینکه اسرائیل اهدافی را هدف قرار داد که ادعا می‌شود متعلق به ارتش ترکیه بود.",
       "date": "2026-08-23T18:53:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8029,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +156,7 @@
       "date": "2026-08-23T19:01:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
+      "views": 9880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +168,7 @@
       "date": "2026-08-23T19:02:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
+      "views": 9880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +180,7 @@
       "date": "2026-08-23T19:08:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6480,
+      "views": 9260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +192,7 @@
       "date": "2026-08-23T19:23:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4640,
+      "views": 8039,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +204,7 @@
       "date": "2026-08-23T19:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3710,
+      "views": 7120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +216,7 @@
       "date": "2026-08-23T19:47:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 927,
+      "views": 5580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,9 +224,45 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
         }
       ]
+    },
+    {
+      "id": 139042,
+      "message": "بریتانیا ۱۵ میلیارد پوند برای نسل جدید کلاهک هسته‌ای خود اختصاص می‌دهد\u003cbr/\u003e\u003cbr/\u003eدولت بریتانیا اعلام کرده در طول دوره پارلمان فعلی، ۱۵ میلیارد پوند برای برنامه مستقل توسعه و نوسازی کلاهک‌های هسته‌ای این کشور سرمایه‌گذاری خواهد کرد؛ برنامه‌ای که بیش از ۹ هزار شغل را پشتیبانی می‌کند.\u003cbr/\u003e\u003cbr/\u003e محور اصلی این طرح، کلاهک هسته‌ای جدید استرایی است که قرار است جایگزین کلاهک‌های فعلی Mk4A شود.\u003cbr/\u003e\u003cbr/\u003e نکته مهم این است که استرایی همچنان با موشک \u003ca href=\"https://jangaavaran.ir/ugm96/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبالستیک زیردریایی‌پرتاب ترایدنت  II \u003c/a\u003eسازگار خواهد بود؛ بنابراین بریتانیا می‌تواند کلاهک جدید را بدون تغییر اساسی در سامانه موشکی فعلی به کار بگیرد.\u003cbr/\u003e\u003cbr/\u003e این برنامه همزمان با ساخت چهار زیردریایی هسته‌ای بالستیک جدید کلاس Dreadnought پیش می‌رود. این زیردریایی‌ها از اوایل دهه ۲۰۳۰ جایگزین زیردریایی‌های کلاس Vanguard خواهند شد و مأموریت بازدارندگی هسته‌ای مستمر بریتانیا را ادامه خواهند داد.",
+      "date": "2026-08-23T20:01:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3720,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139043,
+      "message": "آمریکا فروش ۲.۳ میلیارد دلاری \u003ca href=\"https://jangaavaran.ir/uh-60-blackhawk/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبالگردهای بلک‌هاوک\u003c/a\u003e به نروژ را تأیید کرد\u003cbr/\u003e\u003cbr/\u003eوزارت خارجه آمریکا با فروش احتمالی ۲۱ فروند بالگرد UH-60M Black Hawk به نروژ در قالب برنامه فروش نظامی خارجی (FMS) به ارزش تقریبی ۲.۳ میلیارد دلار موافقت کرده است.\u003cbr/\u003e\u003cbr/\u003eاین بسته تنها شامل بالگردها نیست و مجموعه‌ای از تجهیزات و سامانه‌های پشتیبانی و دفاعی را نیز در بر می‌گیرد، از جمله:\u003cbr/\u003e\u003cbr/\u003e ۴۶ موتور T700-GE-701D\u003cbr/\u003e ۲۵ سامانه هشدار موشکی AN/AAR-57\u003cbr/\u003e ۲۵ سامانه مقابله فروسرخ مشترک (CIRCM)\u003cbr/\u003e ۲۵ گیرنده هشدار راداری AN/APR-39E(V)2\u003cbr/\u003e ۵۰ سامانه ناوبری GPS/INS مدل EAGLE-M+429\u003cbr/\u003e ۱۰۰ دستگاه رادیوی AN/ARC-231A\u003cbr/\u003e ۱۸ قبضه مسلسل M240H",
+      "date": "2026-08-23T20:14:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139044,
+      "message": "پهپادهای چینی به گروه‌های جنایی در جنوب اسرائیل قاچاق می‌شوند\u003cbr/\u003e\u003cbr/\u003eموساد و سازمان مالیاتی اسرائیل، یک عملیات مشکوک قاچاق را کشف کردند که طی آن ده‌ها فروند پهپاد از چین از طریق یک شرکت امنیتی وارد شده و سپس به گروه‌های جنایی منتقل می‌شدند تا از آن‌ها برای قاچاق سلاح و مواد مخدر در جنوب اسرائیل استفاده شود.",
+      "date": "2026-08-23T20:19:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
     }
   ],
   "last_updated": 0
