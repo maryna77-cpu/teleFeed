@@ -7,30 +7,6 @@
   },
   "posts": [
     {
-      "id": 906,
-      "message": "نسخه ویندوز",
-      "date": "2026-08-21T11:15:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 907,
-      "message": "نسخه اندروید",
-      "date": "2026-08-21T11:16:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
       "id": 908,
       "message": "متاسفانه یوتیوب فیلمو پاک کرد اما تنظیمات به این صورته: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاسم این برنامه aethon هست \u003cbr/\u003eبعد از نصب و باز کردن رو منوی همبرگری بزنید و وارد قسمت Configurations بشید \u003cbr/\u003eدر قسمت connection mode  هر سه حالتو تست کنید ببینید کدوم بهتر جواب میده برای من همون اولی جواب داد. قسمت بعدی پروتکل برای من رو warp in warp جواب داد و عالی بود بازم روش های مختف رو تست کنید ببینید کدوم بهتر کار میکنه  و قسمت بعدی اسکن مود برای من رو اولی بالانس جواب داد بازم گزینه های مختلف رو تست کنید و ببینید با کدوم وصل میشه و بهتر کار میکنه .\u003cbr/\u003e برای اندروید و ویندوز تنظیمات یکسانه",
       "date": "2026-08-21T12:25:24Z",
@@ -44,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
         }
       ]
     },
@@ -54,7 +30,7 @@
       "date": "2026-08-21T17:26:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +42,7 @@
       "date": "2026-08-21T19:28:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +72,7 @@
       "date": "2026-08-22T12:45:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "date": "2026-08-22T13:14:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +102,7 @@
       "date": "2026-08-22T18:28:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +114,7 @@
       "date": "2026-08-22T20:25:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
+      "views": 12500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +126,7 @@
       "date": "2026-08-22T20:34:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
+      "views": 12500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +138,7 @@
       "date": "2026-08-23T05:28:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +150,7 @@
       "date": "2026-08-23T08:33:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
         }
       ]
     },
@@ -192,7 +168,7 @@
       "date": "2026-08-23T09:28:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +176,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
         }
       ]
     },
@@ -210,7 +186,7 @@
       "date": "2026-08-23T09:43:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +205,7 @@
       "date": "2026-08-23T13:38:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +217,7 @@
       "date": "2026-08-23T13:47:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 10700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +229,7 @@
       "date": "2026-08-24T07:02:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7690,
+      "views": 8000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +241,7 @@
       "date": "2026-08-24T07:34:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7350,
+      "views": 7680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +253,7 @@
       "date": "2026-08-24T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +261,29 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 931,
+      "message": "سرعت اینترنت جدیدم \u003cbr/\u003eبالاخره یه مودم گرفتم \u003cbr/\u003eفکر کنم مشکل اینترنتم حل شد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B2.png\u0026#39;)\"\u003e\u003cb\u003e🥲\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eبا کلی تنظیمات بالاترین سرعتی که گرفتم این بود ، حالا شاید به سرعت بیشترم بتونم برسم ولی واقعا همینم واسه من خیلی خیلی خوبه \u003cbr/\u003eیه پست جدیدم براتون آماده کردم که تو اون کامل تستش کردم ، تو همین چند روز کلی اطلاعات بدست اوردم واقعا برام با ارزش بود تشکر از دوستانی که کمکم کردن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-24T19:36:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 526,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
         }
       ]
     }
