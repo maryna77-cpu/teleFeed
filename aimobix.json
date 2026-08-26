@@ -7,49 +7,12 @@
   },
   "posts": [
     {
-      "id": 924,
-      "message": "یه خیلی از رفقا این مودم رو پیشنهاد دادن \u003cbr/\u003eمیگن سرعت خیلی خوبی داره حتی واسه جاهایی که آنتن ضعیف باشه \u003cbr/\u003eZLT x28 pro\u003cbr/\u003eپرو یا معمولی \u003cbr/\u003eاگه کسی داره نظرشو بهم بده",
-      "date": "2026-08-23T09:28:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
-        }
-      ]
-    },
-    {
-      "id": 925,
-      "message": "تست سرعت این مودم تو جایی با آنتن ضعیف \u003cbr/\u003eطبق گفته خودشون \u003cbr/\u003eواقعا برگام یعنی من همچین سرعتی بگیرم سکته میکنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-23T09:43:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
       "id": 926,
       "message": "دلار ۲۰۰ هزار تومن\u003cbr/\u003eطلا ۲۲ میلیون تومن\u003cbr/\u003eو آرزو هایی که بهشون نمیشه رسید\u003cbr/\u003eخسته ام بد .....",
       "date": "2026-08-23T13:38:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +24,7 @@
       "date": "2026-08-23T13:47:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +36,7 @@
       "date": "2026-08-24T07:02:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 12800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +48,7 @@
       "date": "2026-08-24T07:34:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
+      "views": 12500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
         }
       ]
     },
@@ -115,7 +78,7 @@
       "date": "2026-08-24T19:36:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         },
         {
           "type": "photo",
@@ -137,7 +100,7 @@
       "date": "2026-08-24T20:19:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +112,7 @@
       "date": "2026-08-24T20:33:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +124,7 @@
       "date": "2026-08-25T12:38:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +136,7 @@
       "date": "2026-08-25T13:49:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +148,7 @@
       "date": "2026-08-25T17:50:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +160,7 @@
       "date": "2026-08-25T18:02:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9920,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +172,7 @@
       "date": "2026-08-26T06:28:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6590,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +184,7 @@
       "date": "2026-08-26T08:29:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5390,
+      "views": 6090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +192,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
         }
       ]
     },
@@ -239,7 +202,7 @@
       "date": "2026-08-26T08:33:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +214,7 @@
       "date": "2026-08-26T09:39:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4250,
+      "views": 5130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +222,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
         }
       ]
     },
@@ -269,7 +232,7 @@
       "date": "2026-08-26T10:23:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3070,
+      "views": 4230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,10 +240,34 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg",
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 948,
+      "message": "بالاخره مشکل اینترنتم حل شد  توی این ویدیو رفتم سراغ مودم‌های سیم‌کارت‌خور، امکانات و مزایاشون رو  کامل براتون گفتم و دلیل خریدم رو هم توضیح دادم. تست‌ها رو تو ۲ تا خونه‌ی مختلف انجام دادم؛ هم با اینترنت متوسط، هم با  اینترنت ضعیف، تا واقعاً ببینید فرقش چقدره.…",
+      "date": "2026-08-26T12:43:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 949,
+      "message": "",
+      "date": "2026-08-26T12:52:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
     }
   ],
   "last_updated": 0
