@@ -3,7 +3,7 @@
     "id": 0,
     "title": "AiMobix",
     "username": "aimobix",
-    "photo_url": "https://cdn4.telesco.pe/file/pceIrLLekBAGhDioVXg-ZAc8CPNhegLOPpziw3EWneKwxr-UJv1f3sM55piJy2wld_DrwAaGq8vTuyMDSCgnnMZRMAK_ecKdp1N5AsGMXiOfr14kSvxg1UVRBJBxj3t4-ltABr3dBgfYdjFXmnh4dAqfRX8CcsvcSx0qNcBP7Z-sJSkCiQMHmeJ5Eqp4LgKdMDb9UEyXfhSG_BPCls6TFfG08MD4agNOZVbyZ86-ks6OlldiQce1b-f9VUpASht0hl9RdqfHKMDoeGSK3D8r9OWd38VvFp2TLZ2dvnzzVPeEo9j990rJ_N3OTlQjm3vtuJB8GX7zzdhKia1Y-nCmVw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/PhaOt8SmcndlHV3vJ5ngrQTKh_W5X6QmRCd5Srf1yKxltBjRyznGfhkTi9oE5PPjC7ixlG-J0Bqn-bj8SmUptyB-6-PHv3dUeWKXkGsEmSOxZLjxcPAfGHhmGLsn-NkSdTsci90dREJhRywTiD29hptNNhXdYOAE_j7-KWv9CiYSSWNCivj1wsWqLZPEebtq5IdTF6BayMMDWUl1nxk0xxSMwYY5EOvJ30fS7ETmRTklr6leSS5V2icjegQY7Q2JMNCeJ72BF6IKSgcjkS3gfCDjaEVjO4KKDFtWAWDspqqZJRSSr6Au9ul4ZqtPY5OU35s3VD645FAHAvvhScUQ2Q.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-08-24T07:34:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-08-24T09:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 15600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -32,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
         }
       ]
     },
@@ -42,7 +42,7 @@
       "date": "2026-08-24T19:36:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,11 +50,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
         }
       ]
     },
@@ -64,7 +64,7 @@
       "date": "2026-08-24T20:19:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,7 +76,7 @@
       "date": "2026-08-24T20:33:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +88,7 @@
       "date": "2026-08-25T12:38:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +100,7 @@
       "date": "2026-08-25T13:49:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +112,7 @@
       "date": "2026-08-25T17:50:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 14600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-08-26T06:28:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,98 +136,7 @@
       "date": "2026-08-26T08:29:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 945,
-      "message": "Fluffy iconPack  آیکون پک تدی نسخه جدید  نسخه قبلی واسه یه سری ها نصب نمیشد ، نسخه جدیدو تست کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-26T08:33:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 946,
-      "message": "اون دوستانی که آیفون دارن خوشحال میشم به این رفیقمون کمک کنن و بهشون vpn معرفی کنن\u003cbr/\u003eتو این پست کامنت گذاشتن: \u003cbr/\u003e\u003ca href=\"https://youtu.be/PGMY8AUtPH4\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/PGMY8AUtPH4\u003c/a\u003e",
-      "date": "2026-08-26T09:39:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_1.jpg"
-        }
-      ]
-    },
-    {
-      "id": 947,
-      "message": "بالاخره مشکل اینترنتم حل شد \u003cbr/\u003eتوی این ویدیو رفتم سراغ مودم‌های سیم‌کارت‌خور، امکانات و مزایاشون رو \u003cbr/\u003eکامل براتون گفتم و دلیل خریدم رو هم توضیح دادم.\u003cbr/\u003eتست‌ها رو تو ۲ تا خونه‌ی مختلف انجام دادم؛ هم با اینترنت متوسط، هم با \u003cbr/\u003eاینترنت ضعیف، تا واقعاً ببینید فرقش چقدره. هم با اسپیدتست، هم با \u003cbr/\u003eدانلود و آپلود دستی، همه‌چیو براتون شفاف نشون دادم.\u003cbr/\u003eراستش رو بخواید، مودم TD-LTE ایرانسل رو هم تست کردم، مودم مبین‌نت رو \u003cbr/\u003eهم امتحان کردم، ولی هیچ‌کدوم اونی که می‌خواستم نبودن. این یکی اما \u003cbr/\u003eواقعاً جواب داد.\u003cbr/\u003eبر اساس نیاز خودتون تصمیم بگیرید، توی ویدیو چند مدل دیگه هم معرفی \u003cbr/\u003eکردم که می‌تونید ازشون استفاده کنید، اونا هم خوب جواب میدن.\u003cbr/\u003eحتماً ویدیو رو ببینید و اگه سوالی داشتید، خوشحال می‌شم کمک کنم. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-26T10:23:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 948,
-      "message": "بالاخره مشکل اینترنتم حل شد  توی این ویدیو رفتم سراغ مودم‌های سیم‌کارت‌خور، امکانات و مزایاشون رو  کامل براتون گفتم و دلیل خریدم رو هم توضیح دادم. تست‌ها رو تو ۲ تا خونه‌ی مختلف انجام دادم؛ هم با اینترنت متوسط، هم با  اینترنت ضعیف، تا واقعاً ببینید فرقش چقدره.…",
-      "date": "2026-08-26T12:43:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 949,
-      "message": "",
-      "date": "2026-08-26T12:52:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 950,
-      "message": "پست جدید و کاربردی تو اینستاگرام گذاشتم \u003cbr/\u003eشخصی سازی حرفه ای و کامل کنترل سنتر گوشی های سامسونگ\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/reel/Dcgu9W-grPZ/?igsi=MTQ2NDhwcjNneXJidw==\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.instagram.com/reel/Dcgu9W-grPZ/?igsi=MTQ2NDhwcjNneXJidw==\u003c/a\u003e",
-      "date": "2026-08-26T17:31:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 13600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,12 +149,24 @@
       ]
     },
     {
-      "id": 957,
-      "message": "Liquide Glass iconPack\u003cbr/\u003e\u003cbr/\u003eآیکون پک شیشه ای جدید\u003cbr/\u003e(آیکون های جدیدم تو پست قبلی)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-27T08:22:33Z",
+      "id": 945,
+      "message": "Fluffy iconPack  آیکون پک تدی نسخه جدید  نسخه قبلی واسه یه سری ها نصب نمیشد ، نسخه جدیدو تست کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-26T08:33:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9850,
+      "views": 13000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 946,
+      "message": "اون دوستانی که آیفون دارن خوشحال میشم به این رفیقمون کمک کنن و بهشون vpn معرفی کنن\u003cbr/\u003eتو این پست کامنت گذاشتن: \u003cbr/\u003e\u003ca href=\"https://youtu.be/PGMY8AUtPH4\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/PGMY8AUtPH4\u003c/a\u003e",
+      "date": "2026-08-26T09:39:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +174,86 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 947,
+      "message": "بالاخره مشکل اینترنتم حل شد \u003cbr/\u003eتوی این ویدیو رفتم سراغ مودم‌های سیم‌کارت‌خور، امکانات و مزایاشون رو \u003cbr/\u003eکامل براتون گفتم و دلیل خریدم رو هم توضیح دادم.\u003cbr/\u003eتست‌ها رو تو ۲ تا خونه‌ی مختلف انجام دادم؛ هم با اینترنت متوسط، هم با \u003cbr/\u003eاینترنت ضعیف، تا واقعاً ببینید فرقش چقدره. هم با اسپیدتست، هم با \u003cbr/\u003eدانلود و آپلود دستی، همه‌چیو براتون شفاف نشون دادم.\u003cbr/\u003eراستش رو بخواید، مودم TD-LTE ایرانسل رو هم تست کردم، مودم مبین‌نت رو \u003cbr/\u003eهم امتحان کردم، ولی هیچ‌کدوم اونی که می‌خواستم نبودن. این یکی اما \u003cbr/\u003eواقعاً جواب داد.\u003cbr/\u003eبر اساس نیاز خودتون تصمیم بگیرید، توی ویدیو چند مدل دیگه هم معرفی \u003cbr/\u003eکردم که می‌تونید ازشون استفاده کنید، اونا هم خوب جواب میدن.\u003cbr/\u003eحتماً ویدیو رو ببینید و اگه سوالی داشتید، خوشحال می‌شم کمک کنم. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-26T10:23:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 948,
+      "message": "بالاخره مشکل اینترنتم حل شد  توی این ویدیو رفتم سراغ مودم‌های سیم‌کارت‌خور، امکانات و مزایاشون رو  کامل براتون گفتم و دلیل خریدم رو هم توضیح دادم. تست‌ها رو تو ۲ تا خونه‌ی مختلف انجام دادم؛ هم با اینترنت متوسط، هم با  اینترنت ضعیف، تا واقعاً ببینید فرقش چقدره.…",
+      "date": "2026-08-26T12:43:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 949,
+      "message": "",
+      "date": "2026-08-26T12:52:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 950,
+      "message": "پست جدید و کاربردی تو اینستاگرام گذاشتم \u003cbr/\u003eشخصی سازی حرفه ای و کامل کنترل سنتر گوشی های سامسونگ\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/reel/Dcgu9W-grPZ/?igsi=MTQ2NDhwcjNneXJidw==\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.instagram.com/reel/Dcgu9W-grPZ/?igsi=MTQ2NDhwcjNneXJidw==\u003c/a\u003e",
+      "date": "2026-08-26T17:31:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 957,
+      "message": "Liquide Glass iconPack\u003cbr/\u003e\u003cbr/\u003eآیکون پک شیشه ای جدید\u003cbr/\u003e(آیکون های جدیدم تو پست قبلی)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-27T08:22:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
         }
       ]
     },
@@ -263,7 +263,7 @@
       "date": "2026-08-27T08:26:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9850,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +275,7 @@
       "date": "2026-08-27T08:50:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9590,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,

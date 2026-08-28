@@ -3,7 +3,7 @@
     "id": 0,
     "title": "NetBlocks",
     "username": "netblocks",
-    "photo_url": "https://cdn4.telesco.pe/file/XaqSLWdSR7ZfYoa2Yi1Ye8fKdzMiFtmN-HjQtHjffdQy9L8anNpMD3picUSSpNRzRQi6xwMIoPEMZcRfEowtbBTKUOSMwY-APSKBvGJuluTLmTwzok9ZFHpABUBrBR-D_Nx3-j1ntluYbKGhmsZycungKReuDh1mHQTyu0WaH7ZNCuZFfdHPcYmITyN36AK0TIERRPqzhXHIZxvVZ5kv_Z-TxNG6XOrylJpzXas0IlrIlfJAPuv97boSQgRDQA-FdLZ_LePcoWPa9R44dsI4f6vxfEMuK-VXaOHweBSk4-Z0qiJN9Aw69P76A7Blzd6Pkdyfqfnh2CaLwzfcScA6OQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/MhDXOp5QQ5gLP-2GOfSHLJ7KGHJWhpQS3TygZv6vWYdrpHZUCCjFZZGduke-fKg7SiOoV3Yvxi6PJSUD3pJDcXgp6M8Oj7gHvsKTqjPpH3v24048uc4g-Fb7F71Faz0fwe3DF0zoUReZUva4lEukCUIlBZjW7mRrL0DOOsJo3t8b7P7rLom1VfF9rXMQVX7Wzc8B-47xQqIkXsWvqUR5vU4tdfaWgo84FRbWyDh3Z2W-azPo7wW2VpOCaH2b3C4idwdje3VZyRjVyx7vdtZG5aRXcdYbyUE1jDQh70liUlaC18q0_2vuNJzLUxVzmcalotI2VoQXtfr4x6yS9T-J4Q.jpg"
   },
   "posts": [
     {
@@ -20,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_17.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_14.jpg"
         }
       ]
     },
@@ -30,295 +30,7 @@
       "date": "2026-07-14T10:33:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_7.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1527,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e Note: Meta platforms including Instagram and Facebook are currently experiencing international outages; incident not related to country-level internet disruptions or filtering \u003ca href=\"?q=%23InstagramDown\"\u003e#InstagramDown\u003c/a\u003e \u003ca href=\"?q=%23FacebookDown\"\u003e#FacebookDown\u003c/a\u003e",
-      "date": "2026-07-19T09:10:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 61800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_4.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1528,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eConfirmed: Metrics show a disruption to internet service in \u003ca href=\"?q=%23Kenya\"\u003e#Kenya\u003c/a\u003e with national connectivity at 69% of ordinary levels; the incident corresponds to a widespread power outage affecting parts of the country including Nairobi \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-29T20:47:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_6.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1529,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a significant disruption to internet connectivity in Sumy, \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e corresponding to power outages after overnight Russian attacks targeting energy infrastructure \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-30T08:23:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1531,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a disruption to multiple social media platforms in Guinea corroborating user reports of difficulty accessing Facebook, YouTube and TikTok \u003ca href=\"?q=%23Guin%C3%A9e\"\u003e#Guinée\u003c/a\u003e",
-      "date": "2026-07-30T15:42:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_16.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1532,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show that major internet provider TurkNet in \u003ca href=\"?q=%23Turkey\"\u003e#Turkey\u003c/a\u003e is currently experiencing a nation-scale outage, corroborating widespread user complaints; the company says engineers are working to restore service \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-31T10:05:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_19.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1533,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show a gradual decline in internet connectivity in Spokane County, Washington corresponding to evacuations and emergency power shutdowns in areas affected by the Old Trails Fire, a rapidly moving wildfire \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A92.png\u0026#39;)\"\u003e\u003cb\u003e🚒\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-02T01:34:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1534,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Analysis of network data indicates a significant decline in internet traffic in \u003ca href=\"?q=%23Cuba\"\u003e#Cuba\u003c/a\u003e corresponding to reports of a national power blackout. The incident comes amid continuing fuel shortages \u003ca href=\"?q=%23apag%C3%B3n\"\u003e#apagón\u003c/a\u003e",
-      "date": "2026-08-03T07:05:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_13.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1535,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: \u003ca href=\"?q=%23Georgia\"\u003e#Georgia\u003c/a\u003e has experienced the third in a series of nation-scale internet disruptions corresponding to power grid blackouts.\u003cbr/\u003e\u003cbr/\u003eAuthorities say today\u0026#39;s incident was triggered by tests intended to diagnose Enguri HPP systems responsible for the earlier two outages.",
-      "date": "2026-08-05T20:28:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_14.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1536,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a major disruption to internet connectivity in Odesa, \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e, corresponding to power outages after Russian missile and drone attacks target energy infrastructure in one of the year’s largest bombardments on the seaport city to date \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-09T12:40:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_1.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1537,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show disruptions to internet connectivity in parts of western \u003ca href=\"?q=%23Colombia\"\u003e#Colombia\u003c/a\u003e corresponding to infrastructure outages after a ~7.4 magnitude earthquake",
-      "date": "2026-08-10T14:26:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_12.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1538,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a significant decline in internet connectivity in northwest Indiana as heavy storms brings down power and telecoms lines, knocking hundreds of thousands of subscribers in the Midwest offline \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23INwx\"\u003e#INwx\u003c/a\u003e",
-      "date": "2026-08-11T19:57:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_9.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1539,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Internet connectivity has been largely knocked out in Sevastopol, occupied Crimea, amid power outages caused by Ukrainian drone attacks targeting energy infrastructure. The incident is the latest in a series of intensifying blackouts \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-13T02:36:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_15.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1540,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show that popular web host and domain registrar \u003ca href=\"?q=%23Namecheap\"\u003e#Namecheap\u003c/a\u003e is largely down, sending many websites and services offline. The company says it has been struck by both a DDoS attack and a power outage.",
-      "date": "2026-08-13T14:32:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1541,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e Update: Connectivity is gradually returning to web host and domain registrar \u003ca href=\"?q=%23Namecheap\"\u003e#Namecheap\u003c/a\u003e after a multi-hour platform-wide outage. Status updates point to ongoing overheating issues amid a power outage at the phoenixNAP data center that has impacted multiple hosting providers.",
-      "date": "2026-08-13T22:24:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_18.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1542,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show a significant decline in internet connectivity in parts of \u003ca href=\"?q=%23Hawaii\"\u003e#Hawaii\u003c/a\u003e including Hilo as Hurricane Lala batters the Big Island, corresponding to widespread power outages due to torrential rains and a heavy storm surge.",
-      "date": "2026-08-16T08:06:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_20.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1543,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Update: Live metrics show internet disruptions have expanded across \u003ca href=\"?q=%23Hawaii\"\u003e#Hawaii\u003c/a\u003e to impact the capital Honolulu as Hurricane Lala skirts the archipelago, corresponding to widespread power outages that have left hundreds of thousands without electricity \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23HIwx\"\u003e#HIwx\u003c/a\u003e",
-      "date": "2026-08-16T20:09:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 45600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,12 +43,156 @@
       ]
     },
     {
-      "id": 1544,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a sudden decline in internet connectivity across Russian-controlled Crimea with high impact to Sevastopol and Simferopol corresponding to a power blackout after overnight Ukrainian drone attacks targeting energy infrastructure \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-20T02:45:31Z",
+      "id": 1527,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e Note: Meta platforms including Instagram and Facebook are currently experiencing international outages; incident not related to country-level internet disruptions or filtering \u003ca href=\"?q=%23InstagramDown\"\u003e#InstagramDown\u003c/a\u003e \u003ca href=\"?q=%23FacebookDown\"\u003e#FacebookDown\u003c/a\u003e",
+      "date": "2026-07-19T09:10:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 61900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_18.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1528,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eConfirmed: Metrics show a disruption to internet service in \u003ca href=\"?q=%23Kenya\"\u003e#Kenya\u003c/a\u003e with national connectivity at 69% of ordinary levels; the incident corresponds to a widespread power outage affecting parts of the country including Nairobi \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-29T20:47:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1529,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a significant disruption to internet connectivity in Sumy, \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e corresponding to power outages after overnight Russian attacks targeting energy infrastructure \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-30T08:23:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1531,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a disruption to multiple social media platforms in Guinea corroborating user reports of difficulty accessing Facebook, YouTube and TikTok \u003ca href=\"?q=%23Guin%C3%A9e\"\u003e#Guinée\u003c/a\u003e",
+      "date": "2026-07-30T15:42:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 33500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1532,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show that major internet provider TurkNet in \u003ca href=\"?q=%23Turkey\"\u003e#Turkey\u003c/a\u003e is currently experiencing a nation-scale outage, corroborating widespread user complaints; the company says engineers are working to restore service \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-31T10:05:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 100000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_20.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1533,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show a gradual decline in internet connectivity in Spokane County, Washington corresponding to evacuations and emergency power shutdowns in areas affected by the Old Trails Fire, a rapidly moving wildfire \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A92.png\u0026#39;)\"\u003e\u003cb\u003e🚒\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-02T01:34:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1534,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Analysis of network data indicates a significant decline in internet traffic in \u003ca href=\"?q=%23Cuba\"\u003e#Cuba\u003c/a\u003e corresponding to reports of a national power blackout. The incident comes amid continuing fuel shortages \u003ca href=\"?q=%23apag%C3%B3n\"\u003e#apagón\u003c/a\u003e",
+      "date": "2026-08-03T07:05:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_16.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1535,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: \u003ca href=\"?q=%23Georgia\"\u003e#Georgia\u003c/a\u003e has experienced the third in a series of nation-scale internet disruptions corresponding to power grid blackouts.\u003cbr/\u003e\u003cbr/\u003eAuthorities say today\u0026#39;s incident was triggered by tests intended to diagnose Enguri HPP systems responsible for the earlier two outages.",
+      "date": "2026-08-05T20:28:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1536,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a major disruption to internet connectivity in Odesa, \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e, corresponding to power outages after Russian missile and drone attacks target energy infrastructure in one of the year’s largest bombardments on the seaport city to date \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-09T12:40:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,12 +205,30 @@
       ]
     },
     {
-      "id": 1545,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: A power outage has knocked out internet connectivity across much of Donbas, Russian-occupied \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e; the losses in service are attributed to Ukrainian UAV attacks targeting a thermal power plant in Luhansk Oblast \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-27T23:45:52Z",
+      "id": 1537,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show disruptions to internet connectivity in parts of western \u003ca href=\"?q=%23Colombia\"\u003e#Colombia\u003c/a\u003e corresponding to infrastructure outages after a ~7.4 magnitude earthquake",
+      "date": "2026-08-10T14:26:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3410,
+      "views": 38300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1538,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a significant decline in internet connectivity in northwest Indiana as heavy storms brings down power and telecoms lines, knocking hundreds of thousands of subscribers in the Midwest offline \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23INwx\"\u003e#INwx\u003c/a\u003e",
+      "date": "2026-08-11T19:57:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -363,6 +237,132 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1539,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Internet connectivity has been largely knocked out in Sevastopol, occupied Crimea, amid power outages caused by Ukrainian drone attacks targeting energy infrastructure. The incident is the latest in a series of intensifying blackouts \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-13T02:36:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_17.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1540,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show that popular web host and domain registrar \u003ca href=\"?q=%23Namecheap\"\u003e#Namecheap\u003c/a\u003e is largely down, sending many websites and services offline. The company says it has been struck by both a DDoS attack and a power outage.",
+      "date": "2026-08-13T14:32:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_19.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1541,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e Update: Connectivity is gradually returning to web host and domain registrar \u003ca href=\"?q=%23Namecheap\"\u003e#Namecheap\u003c/a\u003e after a multi-hour platform-wide outage. Status updates point to ongoing overheating issues amid a power outage at the phoenixNAP data center that has impacted multiple hosting providers.",
+      "date": "2026-08-13T22:24:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1542,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show a significant decline in internet connectivity in parts of \u003ca href=\"?q=%23Hawaii\"\u003e#Hawaii\u003c/a\u003e including Hilo as Hurricane Lala batters the Big Island, corresponding to widespread power outages due to torrential rains and a heavy storm surge.",
+      "date": "2026-08-16T08:06:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_13.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1543,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Update: Live metrics show internet disruptions have expanded across \u003ca href=\"?q=%23Hawaii\"\u003e#Hawaii\u003c/a\u003e to impact the capital Honolulu as Hurricane Lala skirts the archipelago, corresponding to widespread power outages that have left hundreds of thousands without electricity \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23HIwx\"\u003e#HIwx\u003c/a\u003e",
+      "date": "2026-08-16T20:09:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1544,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a sudden decline in internet connectivity across Russian-controlled Crimea with high impact to Sevastopol and Simferopol corresponding to a power blackout after overnight Ukrainian drone attacks targeting energy infrastructure \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-20T02:45:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_15.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1545,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: A power outage has knocked out internet connectivity across much of Donbas, Russian-occupied \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e; the losses in service are attributed to Ukrainian UAV attacks targeting a thermal power plant in Luhansk Oblast \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-27T23:45:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_1.jpg"
         }
       ]
     }
