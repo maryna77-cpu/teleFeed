@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 2910,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبزرگ‌ترین آپدیت تاریخ CPU-Z منتشر شد؛ نسخه V3 با ۱۰۰ تست سلامت و سیستم اعتبارسنجی جدید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنرم‌افزار نام‌آشنای \u003cb\u003eCPU-Z\u003c/b\u003e بزرگ‌ترین به‌روزرسانی تاریخ خود را از سال ۲۰۰۱ تا امروز تجربه کرد. نسخه جدید (V3) با بازطراحی کامل بخش اعتبارسنجی (Validation) و افزودن ابزارهای مانیتورینگ سلامت منتشر شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eامکانات و تغییرات کلیدی نسخه V3:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاعتبارسنجی استاندارد:\u003c/b\u003e بررسی سلامت کامل سیستم در کمتر از ۱۰ ثانیه با ارزیابی بیش از ۱۰۰ شاخص مختلف (درایورها، دمای CPU، برنامه‌های اضافی و...).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاعتبارسنجی پیشرفته:\u003c/b\u003e تست استرس و خطایابی سنگین و دقیق روی CPU، رم و کارت گرافیک به همراه بنچمارک جامع سیستم و سنسورهای مانیتورینگ پیشرفته برگرفته از HWMonitor برای بررسی دما، سرعت فن‌ها و فرکانس.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eحالت اختصاصی اورکلاک (XOC):\u003c/b\u003e محاسبه فرکانس مؤثر پردازنده‌های مدرن و مدیریت صحیح اورکلاک رم جهت جلوگیری از رد شدن تصادفی تاییدیه‌ها و ثبت دقیق‌ترین رکوردهای فرکانسی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدسترسی:\u003c/b\u003e فایل نصب نسخه جدید از وب‌سایت رسمی \u003ccode\u003ecpuid.com\u003c/code\u003e قابل دریافت است.\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-08-22T15:01:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
-        }
-      ]
-    },
-    {
       "id": 2911,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eراهنمای ساخت اینباند در پنل 3X-UI روی سرویس ابری Railway\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنکات تگمیلی درباره\u003ca href=\"https://t.me/iaghapour/2904\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e ویدیو بالا\u003c/a\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2989DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e☝🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبا این ساختار می‌توانید بدون نیاز به خرید سرور (VPS)، پنل \u003cb\u003e3X-UI\u003c/b\u003e را روی کلود \u003cb\u003eRailway\u003c/b\u003e اجرا کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمکانیزم عملکرد پورت‌ها:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eپورت‌های ۸۰۰۱ تا ۸۰۵۰ (وب):\u003c/b\u003e ترافیک از طریق Nginx روی پورت ۴۴۳ مدیریت می‌شود (مناسب برای WebSocket و HTTP Upgrade).\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eپورت ۸۰۸۰ (مستقیم):\u003c/b\u003e از طریق \u003cb\u003eRailway TCP Proxy\u003c/b\u003e مستقیماً هدایت می‌شود (مناسب برای Reality و gRPC).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e \u003cb\u003eروش اول: ساخت اینباند WebSocket / HTTP Upgrade (پورت ۸۰۰۱ تا ۸۰۵۰)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e۱. در پنل وارد بخش \u003cb\u003eInbounds\u003c/b\u003e شده و روی \u003cb\u003eAdd Inbound\u003c/b\u003e کلیک کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eRemark:\u003c/b\u003e نام دلخواه (مثلاً \u003ccode\u003eWS-Inbound-1\u003c/code\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eProtocol:\u003c/b\u003e انتخاب پروتکل (\u003ccode\u003eVLESS\u003c/code\u003e یا \u003ccode\u003eVMess\u003c/code\u003e یا \u003ccode\u003eTrojan\u003c/code\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003ePort:\u003c/b\u003e یک پورت بین \u003ccode\u003e8001\u003c/code\u003e تا \u003ccode\u003e8050\u003c/code\u003e (مثلاً \u003ccode\u003e8001\u003c/code\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eNetwork (Transport):\u003c/b\u003e انتخاب حالت \u003ccode\u003ews\u003c/code\u003e (WebSocket) یا \u003ccode\u003eHTTPUpgrade\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003ePath:\u003c/b\u003e متناسب با شماره پورت (مثلاً برای پورت ۸۰۰۱: \u003ccode\u003e/in1\u003c/code\u003e، برای ۸۰۰۲: \u003ccode\u003e/in2\u003c/code\u003e و...)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eSecurity:\u003c/b\u003e تنظیم روی حالت \u003ccode\u003enone\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003eروی \u003cb\u003eSave\u003c/b\u003e کلیک کنید.\u003cbr/\u003e\u003cbr/\u003e۲. \u003cb\u003eتنظیم بخش Host (ضروری):\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eروی گزینه \u003cb\u003eAdd Host\u003c/b\u003e کنار همان اینباند کلیک کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAddress / Host:\u003c/b\u003e دامنه اختصاصی پنل در Railway (مانند \u003ccode\u003eyour-app.up.railway.app\u003c/code\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003ePort:\u003c/b\u003e عدد \u003ccode\u003e443\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eSecurity / TLS:\u003c/b\u003e فعال‌سازی گزینه \u003ccode\u003eTLS (Enabled)\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eروش دوم: ساخت اینباند Reality یا gRPC (پورت ۸۰۸۰)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e۱. \u003cb\u003eایجاد پروکسی در Railway:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر داشبورد Railway به مسیر \u003cb\u003eSettings \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e Networking\u003c/b\u003e بروید، روی \u003cb\u003eAdd TCP Proxy\u003c/b\u003e کلیک کنید و پورت کانتینر را روی \u003ccode\u003e8080\u003c/code\u003e بگذارید. دامنه و پورت اختصاص‌یافته را کپی کنید (مانند \u003ccode\u003edomain.proxy.rlwy.net:12345\u003c/code\u003e).\u003cbr/\u003e\u003cbr/\u003e۲. \u003cb\u003eساخت اینباند در پنل 3X-UI:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eروی \u003cb\u003eAdd Inbound\u003c/b\u003e کلیک کرده و \u003cb\u003ePort\u003c/b\u003e را حتماً روی \u003ccode\u003e8080\u003c/code\u003e تنظیم کنید:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eحالت Trojan gRPC Reality:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003eProtocol: Trojan\u003c/code\u003e | \u003ccode\u003eNetwork: gRPC (حالت Multi)\u003c/code\u003e | \u003ccode\u003eSecurity: Reality\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eحالت VLESS TCP Reality:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003eProtocol: VLESS\u003c/code\u003e | \u003ccode\u003eNetwork: tcp\u003c/code\u003e | \u003ccode\u003eSecurity: Reality\u003c/code\u003e | \u003ccode\u003eSNI: یک دامنه معتبر (مانند yahoo.com)\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003eروی \u003cb\u003eSave\u003c/b\u003e کلیک کنید.\u003cbr/\u003e\u003cbr/\u003e۳. \u003cb\u003eتنظیم بخش Host در پنل:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eروی \u003cb\u003eAdd Host\u003c/b\u003e کلیک کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAddress:\u003c/b\u003e دامنه TCP Proxy دریافتی از Railway (مانند \u003ccode\u003edomain.proxy.rlwy.net\u003c/code\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003ePort:\u003c/b\u003e پورت دریافتی از Railway (مانند \u003ccode\u003e12345\u003c/code\u003e)\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-08-22T16:35:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-08-22T17:10:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-08-23T16:12:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-08-23T17:10:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-08-24T10:58:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +96,7 @@
       "date": "2026-08-24T13:29:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 12200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-08-24T14:55:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +133,7 @@
       "date": "2026-08-25T15:03:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +141,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
     },
@@ -169,7 +151,7 @@
       "date": "2026-08-25T15:50:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9430,
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +169,7 @@
       "date": "2026-08-25T17:01:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9670,
+      "views": 9900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +181,7 @@
       "date": "2026-08-26T12:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9160,
+      "views": 9400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +199,7 @@
       "date": "2026-08-26T14:31:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8710,
+      "views": 9000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +217,7 @@
       "date": "2026-08-26T17:04:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8560,
+      "views": 8860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +235,7 @@
       "date": "2026-08-27T10:40:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8160,
+      "views": 8600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +253,7 @@
       "date": "2026-08-27T17:05:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
+      "views": 7830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +265,7 @@
       "date": "2026-08-27T17:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +283,7 @@
       "date": "2026-08-27T17:50:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7530,
+      "views": 8400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +301,7 @@
       "date": "2026-08-28T11:55:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 7520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +319,7 @@
       "date": "2026-08-28T15:20:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3230,
+      "views": 6030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -346,6 +328,24 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_17.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2935,
+      "message": "اگه یه سایت میخوای که بدون سانسور فیلم و سریال ببینی و با اینترنت ملی هم راحت بالا بیاد وقتشه بری سراغ \u003cb\u003eپارادوکس\u003c/b\u003e \u003cb\u003eموویز\u003c/b\u003e \u003ctg-emoji emoji-id=\"5208495977886923528\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988E.png\u0026#39;)\"\u003e\u003cb\u003e😎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5363867128489323430\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5082379649128858313\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آرشیوی با بیش از 40 هزار فیلم و سریال\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5082379649128858313\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبدون سانسور و حذفیات\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"6084880262179588505\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5082379649128858313\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اپلیکیشن اندروید + Android TV \u003ctg-emoji emoji-id=\"5931408462079594667\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5082379649128858313\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دانلود و پخش آنلاین حتی در آیفون\u003ctg-emoji emoji-id=\"5350556204500263431\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D8F.png\u0026#39;)\"\u003e\u003cb\u003e🍏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5082379649128858313\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e قابل دسترس حتی در اینترنت ملی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5082379649128858313\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پشتیبانی 24 ساعته \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5247176827016847212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e﻿\u003cbr/\u003eهمین الان وارد شو \u003ctg-emoji emoji-id=\"5373101475679443553\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9889.png\u0026#39;)\"\u003e\u003cb\u003e😉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-28T19:28:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
         }
       ]
     }
