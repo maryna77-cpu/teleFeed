@@ -7,260 +7,12 @@
   },
   "posts": [
     {
-      "id": 139631,
-      "message": "سنتکام با توییتی رسما از انجام موجی از حملات علیه سپاه پاسداران خبر داد.",
-      "date": "2026-09-01T16:49:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139632,
-      "message": "حملاتی در بندرعباس قشم و چابهار گزارش شده است",
-      "date": "2026-09-01T17:26:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139633,
-      "message": "گزارش آژانس بین‌المللی انرژی اتمی (IAEA): در طول سه ماه گذشته، آژانس بین‌المللی انرژی اتمی هیچ اطلاعاتی از ایران در مورد وضعیت مواد یا تاسیسات هسته‌ای خود دریافت نکرده است و همچنین به هیچ یک از این تاسیسات دسترسی پیدا نکرده است. آژانس بین‌المللی انرژی اتمی نگران است که ایران به آن دسترسی به تاسیسات غنی‌سازی خود در اصفهان نداده است، و به آژانس اطلاع داده نشده است که آیا این تاسیسات حاوی مواد هسته‌ای است یا خیر.",
-      "date": "2026-09-01T17:27:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139634,
-      "message": "سفارت‌های ایالات متحده در اورشلیم (اسرائیل)، دوحه (قطر) و امان (اردن) اخطارهای امنیتی جدیدی صادر کرده‌اند که در آن آمده است: \u0026#34;به دلیل تنش‌های موجود در خاورمیانه، وضعیت امنیتی همچنان پیچیده است و احتمال تشدید ناگهانی وجود دارد.\u0026#34; از شهروندان آمریکایی که در خارج از کشور اقامت دارند، خواسته شده است که \u0026#34;هوشیاری بیشتری داشته باشند و از احتمال لغو پروازها، بسته شدن فضای هوایی و اختلالات احتمالی در سفرها آگاه باشند.\u0026#34;",
-      "date": "2026-09-01T17:28:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139635,
-      "message": "ترامپ:\u003cbr/\u003e\u003cbr/\u003eما ضربات گسترده و قدرتمندی را به اهداف ایرانی در نزدیکی تنگه هرمز وارد کردیم.",
-      "date": "2026-09-01T17:28:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139636,
-      "message": "دونالد ترامپ و مقامات ارشد دولت آمریکا، طرح‌هایی را برای انجام حملات مداوم در نزدیکی تنگه هرمز بررسی می‌کنند.\u003cbr/\u003e\u003cbr/\u003eتعداد حملاتی که ممکن است امروز علیه ایران انجام شود، می‌تواند تا 100 مورد باشد.",
-      "date": "2026-09-01T17:28:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139637,
-      "message": "به نظرم بریم دنبال فیلم غرق کردن ناو بگردید",
-      "date": "2026-09-01T17:29:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139638,
-      "message": "دونالد ترامپ:\u003cbr/\u003e\u003cbr/\u003e«ایالات متحده همین حالا در حال حمله به اهداف ایرانی در نزدیکی تنگه هرمز است. این حملات گسترده و قدرتمند هستند و در واکنش به تلاش ناموفق ایرانی‌ها برای کارگذاری مین‌های دریایی در تنگه هرمز انجام می‌شوند؛ تنگه‌ای که در حال حاضر هیچ مینی در آن وجود ندارد (تمام مین‌ها کاملاً پاکسازی یا منفجر شده‌اند).\u003cbr/\u003e\u003cbr/\u003eهمچنین در واکنش به شلیک هشت موشک از سوی ایران به پایگاه نظامی ما در اردن که همه آن‌ها با موفقیت سرنگون شدند.\u003cbr/\u003e\u003cbr/\u003eاگر کشور شکست‌خورده ایران در واکنش به این حمله کاملاً موجه، اقدام تلافی‌جویانه‌ای انجام دهد، بار دیگر و در سطحی بسیار شدیدتر و گسترده‌تر هدف قرار خواهد گرفت؛ اما این بزرگ‌ترین حمله از همه نخواهد بود. بزرگ‌ترین حمله همچنان در حال آماده کردن است و هنگامی که به پایان برسد، چیز بسیار کمی از جمهوری اسلامی ایران باقی خواهد ماند!»\u003cbr/\u003e\u003cbr/\u003e— رئیس‌جمهور دونالد جی. ترامپ",
-      "date": "2026-09-01T17:31:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139639,
-      "message": "سپاه می‌گوید مجازات شدیدی برای آمریکا در راه است",
-      "date": "2026-09-01T17:34:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139640,
-      "message": "مناطق مورد حمله قرار گرفته",
-      "date": "2026-09-01T17:36:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 139641,
-      "message": "انفجارها جنگ و اثرات محاصره و خود جنگ در شهرهای ما بر روی تک تک ایرانیان  احساس میشه\u003cbr/\u003eچه انتقام سختی میتوانیم بگیریم که مردم در نیویورک، واشنگتن احساس کنند!؟!؟!؟!؟",
-      "date": "2026-09-01T17:43:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139642,
-      "message": "‏ مهر: در حملات ساعتی پیش ارتش متجاوز آمریکا به سواحل جنوبی ایران یک کارخانه پودر ماهی در قشم، یک اسکله صیادی و دکل اداره‌ی بنادر در سیریک مورد حمله قرار گرفت",
-      "date": "2026-09-01T17:49:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139643,
-      "message": "ترامپ به فاکس نیوز در مورد ایران:\u003cbr/\u003eاگر آنها تلافی کنند، ضربه بسیار سخت‌تری خواهند خورد. و اگر دوباره این کار را انجام دهند، دیگر نخواهند توانست.\u003cbr/\u003e\u003cbr/\u003eآنها متوقف نمی‌شوند. آنها دیوانه و احمق هستند.\u003cbr/\u003e\u003cbr/\u003eآنها سعی کردند رادار خود را بازسازی کنند زیرا نمی‌توانند چیزی ببینند. ما صبر کردیم تا تقریباً ساخته شود و سپس به آن ضربه زدیم.\u003cbr/\u003e\u003cbr/\u003eمن فکر می‌کنم توافق با آنها ارزش کاغذی را که روی آن نوشته شده است، ندارد. ما به آنها فرصت‌های زیادی دادیم.",
-      "date": "2026-09-01T18:09:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139644,
-      "message": "ایران نیز به نظر پرتاب‌هایی را به سمت اهدافی در منطقه داشته دست کم یکی از موشک‌ها در خمین بعد از شلیک دچار مشکل شده و سقوط کرده",
-      "date": "2026-09-01T18:15:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 139645,
-      "message": "ایران نیز به نظر پرتاب‌هایی را به سمت اهدافی در منطقه داشته دست کم یکی از موشک‌ها در خمین بعد از شلیک دچار مشکل شده و سقوط کرده",
-      "date": "2026-09-01T18:17:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg",
-          "width": 448
-        }
-      ]
-    },
-    {
-      "id": 139646,
-      "message": "بر اساس گفته منابع داخلی در جیرفت و عسلویه نیز صدای انفجار شنیده شده\u003cbr/\u003eدست کم بر اساس گفته صدا و سیما به فرودگاه جیرفت حمله شده است",
-      "date": "2026-09-01T18:23:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139647,
-      "message": "ترامپ می‌گوید امشب به تعدادی از رادارهای ایرانیان حمله کردیم",
-      "date": "2026-09-01T18:23:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8650,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139648,
-      "message": "ترامپ به شبکه فاکس نیوز گفت:\u003cbr/\u003e\u003cbr/\u003e\u0026#34;آنها تلاش کردند رادار‌های خود را دوباره بسازند، زیرا قادر به دیدن هیچ چیز نبودند. ما منتظر ماندیم تا ساخت آنها به پایان برسد و سپس آنها را بمباران کردیم.\u0026#34;",
-      "date": "2026-09-01T18:33:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 139649,
-      "message": "تسنیم: شهر کنارک در استان سیستان و بلوچستان، و همچنین جزیره قشم (هرمزگان)، بندرعباس (هرمزگان)، سیریک (هرمزگان)، جاسک (هرمزگان)، بندر لنگه (هرمزگان) و یک منطقه در جیرفت، کرمان، در جریان حملات هوایی آمریکا مورد هدف قرار گرفته‌اند.",
-      "date": "2026-09-01T18:40:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
       "id": 139650,
       "message": "ویدئو منتسب به شلیک موشک بالستیک از کرمانشاه \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Minas_Tirith2024\" target=\"_blank\"\u003e@Minas_Tirith2024\u003c/a\u003e",
       "date": "2026-09-01T18:40:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3100,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,6 +22,268 @@
           "type": "video",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg",
           "width": 480
+        }
+      ]
+    },
+    {
+      "id": 139651,
+      "message": "در حال حاضر گزارشاتی از انفجار در اربیل می‌آید",
+      "date": "2026-09-01T18:49:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139652,
+      "message": "یک مقام ارشد آمریکایی به الجزیره: \u0026#34;حملات علیه اهداف داخل ایران ادامه دارد.\u0026#34;",
+      "date": "2026-09-01T19:19:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139653,
+      "message": "برخی منابع می‌گویند که شی در تصویر یک پهپاد آمریکایی بوده که توسط پدافند سرنگون شده است",
+      "date": "2026-09-01T19:20:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139654,
+      "message": "سپاه مدعی سرنگونی یک پهپاد ام کیو ۹ بر فراز آسمان خمین است",
+      "date": "2026-09-01T19:21:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139655,
+      "message": "حملات موشکی از سمت ایران گزارش شده است",
+      "date": "2026-09-01T19:29:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139656,
+      "message": "حملات موشکی به پایگاه های آمریکا در اردن بوده است",
+      "date": "2026-09-01T19:36:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139657,
+      "message": "موج جدیدی از شلیک موشک ها از نقاط مختلف ایران گزارش می شوند",
+      "date": "2026-09-01T19:39:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139658,
+      "message": "فعالیت پدافند هوایی ضد بالستیک در اردن",
+      "date": "2026-09-01T19:41:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg",
+          "width": 256
+        }
+      ]
+    },
+    {
+      "id": 139659,
+      "message": "فوری\u003cbr/\u003e\u003cbr/\u003eگزارشات از صدای انفجار، احتمالا توپ های پدافندی در تهران",
+      "date": "2026-09-01T19:44:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139660,
+      "message": "گزارشاتی از شلیک موشک بالستیک از اهواز، یزد ،اصفهان و کرمانشاه",
+      "date": "2026-09-01T19:47:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139661,
+      "message": "مشخصا تمامی حملات تاکنون به سمت اردن بوده",
+      "date": "2026-09-01T19:48:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139662,
+      "message": "دو منبع ایرانی به روزنامه نیویورک تایمز گفتند که امشب مجموعه‌ای از اهداف در جنوب کشور مورد حمله قرار گرفت، از جمله یک پایگاه نظامی در شهر بندرعباس و منطقه‌ای نزدیک به فرودگاه در جزیره قشم. این منابع افزودند که این حملات خسارات جدی وارد کرد.",
+      "date": "2026-09-01T19:58:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139663,
+      "message": "به نظر می‌رسد یک موشک که به سمت جنوب اردن پیش می‌رفته باعث فعال شدن پدافند هوایی بندر الیادت اسرائیل شده،و آنها نیز یک موشک به سمت آسمان اردن شلیک کردند",
+      "date": "2026-09-01T19:59:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139664,
+      "message": "یک موشک بالستیک ایرانی در عقبه اردن",
+      "date": "2026-09-01T20:15:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg",
+          "width": 260
+        }
+      ]
+    },
+    {
+      "id": 139665,
+      "message": "\u003cb\u003eجزئیات حمله آمریکا به یک مراسم عروسی در سیریک \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eآوار برداری از  ساعات اولیه انجام شده، مجروحین به بیمارستان میناب منتقل شده‌اند.\u003cbr/\u003e\u003cbr/\u003eتعداد حاضران در مراسم بالا بوده. همه حاضران مجروح شده و مورد اصابت ترکش قرار گرفتند.\u003cbr/\u003e\u003cbr/\u003e۳۵ نفر جراحت سنگین دارند. ۴ شهید داریم یکی از شهدا کودک و یکی از شهدا خانم هست. صدا و سیما\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/defence_news\" target=\"_blank\"\u003e@defence_news\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-01T20:18:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
+          "width": 404
+        }
+      ]
+    },
+    {
+      "id": 139666,
+      "message": "تسنیم، ادعا می‌کند: \u0026#34;امشب، ایران یکی از گسترده‌ترین حملات را علیه پایگاه‌ها و مناطق آمریکایی انجام داد. ایران هشدار داده است که هرگونه حمله از سوی آمریکا با واکنش‌هایی به مراتب قوی‌تر پاسخ داده خواهد شد. اهداف مهمی که امشب مورد حمله قرار گرفتند، به زودی به طور رسمی اعلام خواهند شد.\u0026#34;",
+      "date": "2026-09-01T20:18:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139667,
+      "message": "بیش از ۱۵ موشک بالستیک دست کم امشب از ایران شلیک شده",
+      "date": "2026-09-01T20:19:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 139668,
+      "message": "فیلم منتشر شده ادعای از حملات امشب به سیریک در جنوب",
+      "date": "2026-09-01T20:31:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg",
+          "width": 352
+        }
+      ]
+    },
+    {
+      "id": 139669,
+      "message": "\u003ctg-emoji emoji-id=\"6174445826543191998\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اینترنت رو پرواز بده! | Vincci VPN \u003ctg-emoji emoji-id=\"5983208078361761545\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eبدون قطعی، بدون افت سرعت و با حجم کاملاً نامحدود؛ وقتشه از شر فیلترینگ راحت شی!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314361729117855941\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5881716841516109485\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/36E283A3.png\u0026#39;)\"\u003e\u003cb\u003e6️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5882143361833372664\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e لوکیشن VIP (تانل و مستقیم):\u003cbr/\u003e\u003cbr/\u003eآلمان\u003ctg-emoji emoji-id=\"5292013274815028523\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، آمریکا\u003ctg-emoji emoji-id=\"5294244076533600593\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، انگلیس\u003ctg-emoji emoji-id=\"5293993521026453119\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ACF09F87A7.png\u0026#39;)\"\u003e\u003cb\u003e🇬🇧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، کانادا\u003ctg-emoji emoji-id=\"5292290347450259214\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، فرانسه\u003ctg-emoji emoji-id=\"5291817660529533837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، هلند\u003ctg-emoji emoji-id=\"5291917797692042265\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، امارات\u003ctg-emoji emoji-id=\"5294314831824835370\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، ترکیه\u003ctg-emoji emoji-id=\"5293993400767367408\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، سوئد\u003ctg-emoji emoji-id=\"5291737091238026321\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، فنلاند\u003ctg-emoji emoji-id=\"5294049961191690629\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87AE.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇮\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، ایتالیا\u003ctg-emoji emoji-id=\"5291826830284709120\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، اسپانیا\u003ctg-emoji emoji-id=\"5294513087515216901\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، ارمنستان\u003ctg-emoji emoji-id=\"5291978717508164018\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B2.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، لیتوانیا\u003ctg-emoji emoji-id=\"5294343084119708700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B1F09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇱🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مصر\u003ctg-emoji emoji-id=\"5293992082212409502\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87AC.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e و نیجریه\u003ctg-emoji emoji-id=\"5294456308047563965\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87AC.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e (ویژه اسپاتیفای)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5888531374066898090\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e قیمت‌های باورنکردنی (\u003ctg-emoji emoji-id=\"5882053304959110745\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکاربره - نامحدود):\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5981043230160981261\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB1.png\u0026#39;)\"\u003e\u003cb\u003e⏱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5249495615435448837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ماهه: فقط \u003ctg-emoji emoji-id=\"5251729101508583893\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/39E283A3.png\u0026#39;)\"\u003e\u003cb\u003e9️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5251729101508583893\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/39E283A3.png\u0026#39;)\"\u003e\u003cb\u003e9️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5249495615435448837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هزار تومان\u003cbr/\u003e \u003ctg-emoji emoji-id=\"6226316730692537771\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9888.png\u0026#39;)\"\u003e\u003cb\u003e😈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ctg-emoji emoji-id=\"5249246039180846362\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eماهه: فقط \u003ctg-emoji emoji-id=\"5249078166089114770\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/35E283A3.png\u0026#39;)\"\u003e\u003cb\u003e5️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5249337358775492477\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/30E283A3.png\u0026#39;)\"\u003e\u003cb\u003e0️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5249246039180846362\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهزار تومان (مقرون‌به‌صرفه)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eتستم موجوده اول از داخل ربات تست بگیر  راضی بودی خرید کن \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5803157955482227929\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خرید آنی و تحویل کم‌تر از ۱۰ ثانیه:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6174896506051495705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ربات خرید: \u003ca href=\"https://t.me/vincciii_bot\" target=\"_blank\"\u003e@vincciii_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5465204283383224325\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کانال ما: \u003ca href=\"https://t.me/Vincci_vpn\" target=\"_blank\"\u003e@Vincci_vpn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5330237710655306682\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پشتیبانی:\u003ca href=\"https://t.me/takhribgar10\" target=\"_blank\"\u003e@takhribgar10\u003c/a\u003e",
+      "date": "2026-09-01T21:04:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_6.jpg"
         }
       ]
     }
