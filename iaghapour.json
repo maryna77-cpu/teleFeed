@@ -7,6 +7,24 @@
   },
   "posts": [
     {
+      "id": 2931,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e لطفاً برای هر ایده ساده، اسکریپت جدید نزنید!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✍🏻\u003c/b\u003e\u003c/i\u003e دم همه‌ی دوستانی که توی این یک سال اخیر با کمک AI اسکریپت‌های کاربردی نوشتن و به بقیه کمک کردن گرم. ولی یکی دو تا نکته هست که باید بهش دقت کنیم:\u003cbr/\u003e\u003cbr/\u003e۱. \u003cb\u003eفورک‌های بی‌مورد:\u003c/b\u003e لازم نیست هر فیچری که حس می‌کنید یه پروژه کم داره رو سریع فورک کنید، بهش اضافه کنید و با یه اسم جدید بدید بیرون! با این کار فقط کامیونیتی تیکه تیکه میشه و کلی ریپوی نیمه‌کاره و بدون پشتیبانی روی گیت‌هاب رها میشه. اگه واقعاً ایده‌تون کاربردی و درسته، بهتره همون رو به صورت Pull Request برای نویسنده‌ی اصلی بفرستید تا روی سورس اصلی مرج بشه.\u003cbr/\u003e\u003cbr/\u003e۲. \u003cb\u003eتمرکز روی نیاز واقعی، نه هر ایده‌ای:\u003c/b\u003e لازم نیست هر چیزی که به ذهن می‌رسه رو با عجله کد بزنیم و فکر کنیم حتماً به درد همه می‌خوره! مثلاً واقعاً نیازی نیست برای یه دستور ساده‌ی Iptables بیایم اسکریپت نصب آسان بنویسیم.\u003cbr/\u003e\u003cbr/\u003e۳. \u003cb\u003eمسئولیت نگهداری و امنیت:\u003c/b\u003e ساختن اسکریپت با هوش مصنوعی شاید با چندتا پرامپت ۵ دقیقه زمان ببره، ولی پشتیبانی، رفع باگ‌ها و حفظ امنیتش کار راحتی نیست.\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-08-27T17:26:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+        }
+      ]
+    },
+    {
       "id": 2933,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eشناسایی شبکه گسترده افزونه‌های جعلی فایرفاکس برای سرقت رمزارزها\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمحققان امنیتی شرکت \u003cb\u003eSocket\u003c/b\u003e شبکه‌ای سازمان‌یافته شامل ده‌ها افزونه مخرب را در مرورگر فایرفاکس شناسایی کرده‌اند که با هدف سرقت کلیدهای خصوصی و عبارت‌های بازیابی (Seed Phrase) کاربران وب ۳ طراحی شده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eروش کار و جزئیات این حمله:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eجعل هویت کیف‌پول‌های معروف:\u003c/b\u003e این افزونه‌ها نام و رابط کاربری ولت‌های معتبری مانند \u003cb\u003eOKX\u003c/b\u003e، \u003cb\u003eRabby Wallet\u003c/b\u003e و \u003cb\u003eTronLink\u003c/b\u003e را شبیه‌سازی کرده و بلافاصله پس از ورود اطلاعات توسط کاربر، کلید خصوصی را به سرورهای مهاجم ارسال می‌کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتغییر ماهیت بعد از جلب اعتماد:\u003c/b\u003e تعدادی از این افزونه‌ها ابتدا ماه‌ها در قالب ابزارهای نمایش نتایج زنده فوتبال و بسکتبال، تم تاریک، پسورد منیجر یا وی‌پی‌ان فعالیت می‌کردند و پس از جذب نصب بالا و امتیاز مثبت، با یک آپدیت مخرب به بدافزار سرقت دارایی تبدیل شدند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eابعاد کمپین:\u003c/b\u003e کارشناسان موفق به ردگیری ۷۷ شناسه مرتبط شده‌اند که مخرب بودن حداقل ۴۰ مورد آن‌ها به‌طور قطعی تأیید شده است./زومیت\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-08-28T11:55:17Z",
@@ -20,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
     },
@@ -30,7 +48,7 @@
       "date": "2026-08-28T15:20:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
         }
       ]
     },
@@ -48,7 +66,7 @@
       "date": "2026-08-29T10:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +84,7 @@
       "date": "2026-08-29T14:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
+      "views": 10700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
         }
       ]
     },
@@ -84,7 +102,7 @@
       "date": "2026-08-29T17:20:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9770,
+      "views": 10000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +124,7 @@
       "date": "2026-08-30T12:39:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9430,
+      "views": 9740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +142,7 @@
       "date": "2026-08-30T14:39:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8020,
+      "views": 8109,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +160,7 @@
       "date": "2026-08-30T15:24:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7840,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +178,7 @@
       "date": "2026-08-30T15:59:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8640,
+      "views": 8730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +186,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg",
           "width": 1920
         }
       ]
@@ -179,7 +197,7 @@
       "date": "2026-08-30T16:31:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8900,
+      "views": 9040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +205,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg",
           "width": 1544
         }
       ]
@@ -198,7 +216,7 @@
       "date": "2026-08-31T12:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9710,
+      "views": 9850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +228,7 @@
       "date": "2026-08-31T16:16:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9240,
+      "views": 9380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,79 +246,7 @@
       "date": "2026-08-31T17:40:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2950,
-      "message": "\u003cb\u003eاز کاریزما وی پی ان بگیری دیگه قطع نمیشی چون نگرانی از نت ملی نداری! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9889.png\u0026#39;)\"\u003e\u003cb\u003e😉\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کانفیگ‌های اختصاصی  و مولتی لوکیشن\u003c/b\u003e با بهترین کیفیت و کمترین پینگ، فقط \u003cb\u003eگیگی ۳ هزار تومن\u003c/b\u003e! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کانفیگ نامحدود اقتصادی هم فقط ۲۰۰ هزار تومن! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e نیاز نیست فقط به تبلیغ اعتماد کنین چون تست رایگان\u003c/b\u003e از هر دو سرویس تو ربات منتظرته!\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e ربات:\u003c/b\u003e \u003ca href=\"https://t.me/KARIZMAVPNSTORE_BOT\" target=\"_blank\"\u003e@KARIZMAVPNSTORE_BOT\u003c/a\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال:\u003c/b\u003e \u003ca href=\"https://t.me/KARIZMAVPNSTORE\" target=\"_blank\"\u003e@KARIZMAVPNSTORE\u003c/a\u003e",
-      "date": "2026-08-31T18:10:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9910,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_17.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2951,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eحکومت در حال تهیه لیست IP کاربران و در قدم اول مشتریان دیتاسنتر ها است.\u003cbr/\u003e\u003cbr/\u003eدر این طرح شماره موبایل + شماره ملی + آی پی به هم وصل می‌شوند و بدون ثبت آی پی در سامانه شاهکار دسترسی به اینترنت ممکن نیست! \u003cbr/\u003e\u003cbr/\u003eنقض حریم خصوصی کاربران و حق ناشناس ماندن در اینترنت با قدرت در حال اجراست.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©️\u003c/b\u003e\u003c/i\u003eSaeed Souzangar",
-      "date": "2026-09-01T13:59:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_18.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2952,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e جایزه قرعه کشی تحویل برنده عزیز شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e آیدی pinkpantheranim عزیز، مبارکتون باشه! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eراستی فردا هم یه ویدیوی عالی داریم که تو اونم براتون هدیه در نظر گرفتیم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e",
-      "date": "2026-09-01T17:09:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2953,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسرور مجازی ایران — پارس آپتایم\u003c/b\u003e\u003cbr/\u003eمناسب برای راه‌اندازی تانل و سرور واسط داخلی، با شبکه پایدار و آپلینک ۱۰Gbps.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003e تحویل آنی، تحویل بلافاصله بعد از پرداخت\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003e تعویض IP آنی و آنلاین از داخل پنل کاربری\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003e ترافیک آپلود کاملاً نامحدود (هزینه فقط برای دانلود)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003e دیتاسنتر آسیاتک  + پینگ مناسب\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AA.png\u0026#39;)\"\u003e\u003cb\u003e▪️\u003c/b\u003e\u003c/i\u003e پشتیبانی ۲۴ ساعته، بیش از ۱۵ سال سابقه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e هر ترابایت دانلود ۸۵۰,۰۰۰ تومان — تغییر IP ۳۵۰,۰۰۰ تومان\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e+\u003c/b\u003e لینوکس ایران: \u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-linux-vps/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parsuptime.com/vps/iran-vps/iran-linux-vps/\u003c/a\u003e\u003cbr/\u003e\u003cb\u003e+\u003c/b\u003e ویندوز ایران: \u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-windows-vps/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parsuptime.com/vps/iran-vps/iran-windows-vps/\u003c/a\u003e\u003cbr/\u003e\u003cb\u003e+\u003c/b\u003e میکروتیک ایران: \u003ca href=\"https://parsuptime.com/vps/iran-vps/iran-mikrotik-vps/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://parsuptime.com/vps/iran-vps/iran-mikrotik-vps/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://www.ParsUptime.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ewww.ParsUptime.com\u003c/a\u003e",
-      "date": "2026-09-01T17:31:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6960,
+      "views": 9650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,12 +259,48 @@
       ]
     },
     {
+      "id": 2951,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eحکومت در حال تهیه لیست IP کاربران و در قدم اول مشتریان دیتاسنتر ها است.\u003cbr/\u003e\u003cbr/\u003eدر این طرح شماره موبایل + شماره ملی + آی پی به هم وصل می‌شوند و بدون ثبت آی پی در سامانه شاهکار دسترسی به اینترنت ممکن نیست! \u003cbr/\u003e\u003cbr/\u003eنقض حریم خصوصی کاربران و حق ناشناس ماندن در اینترنت با قدرت در حال اجراست.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©️\u003c/b\u003e\u003c/i\u003eSaeed Souzangar",
+      "date": "2026-09-01T13:59:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_17.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2952,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e جایزه قرعه کشی تحویل برنده عزیز شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e آیدی pinkpantheranim عزیز، مبارکتون باشه! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eراستی فردا هم یه ویدیوی عالی داریم که تو اونم براتون هدیه در نظر گرفتیم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e",
+      "date": "2026-09-01T17:09:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
+        }
+      ]
+    },
+    {
       "id": 2954,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e \u003cb\u003eچک‌لیست طلایی امنیت اینستاگرام؛ ۷ قدم تا ضدگلوله کردن حساب کاربری\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبا صرف چند دقیقه وقت و اعمال این ۷ تنظیم کلیدی، احتمال هک و نفوذ به اکانت اینستاگرام خود را به حداقل برسانید:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۱. تغییر رمز عبور یا فعال‌سازی Passkey:\u003c/b\u003e\u003cbr/\u003eاستفاده از پسورد طولانی و ترکیبی یا کلید عبور هوشمند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مسیر: \u003ccode\u003eSettings and activity \u0026gt; Accounts Center \u0026gt; Password and security \u0026gt; Change password\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۲. فعال‌سازی تأیید هویت دومرحله‌ای (2FA):\u003c/b\u003e\u003cbr/\u003eایجاد لایه امنیتی قدرتمند؛ حتماً از اپلیکیشن‌های Authenticator (مانند گوگل یا مایکروسافت) استفاده کنید، نه پیامک (SMS).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مسیر: \u003ccode\u003eSettings and activity \u0026gt; Accounts Center \u0026gt; Password and security \u0026gt; Two-factor authentication\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۳. بررسی نشست‌ها و دستگاه‌های متصل:\u003c/b\u003e\u003cbr/\u003eمشاهده نشست‌های فعال و لاگ‌اوت کردن دستگاه‌های ناشناس یا مشکوک.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مسیر: \u003ccode\u003eSettings and activity \u0026gt; Accounts Center \u0026gt; Password and security \u0026gt; Where you\u0026#39;re logged in\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۴. لغو همگام‌سازی مخاطبین گوشی:\u003c/b\u003e\u003cbr/\u003eجلوگیری از آپلود شماره تلفن‌ها و پیشنهاد اکانت به مخاطبان دفترچه تلفن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مسیر: \u003ccode\u003eSettings and activity \u0026gt; Accounts Center \u0026gt; Your information and permissions \u0026gt; Upload contacts\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۵. خصوصی‌سازی پیج (Private Account):\u003c/b\u003e\u003cbr/\u003eمحدود کردن دسترسی به پست‌ها و استوری‌ها فقط برای دنبال‌کنندگان تاییدشده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مسیر: \u003ccode\u003eSettings and activity \u0026gt; Account privacy \u0026gt; Private account\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۶. حذف دسترسی برنامه‌ها و سایت‌های متفرقه:\u003c/b\u003e\u003cbr/\u003eقطع دسترسی ابزارها، ربات‌ها و وب‌سایت‌های شخص ثالث به اکانت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مسیر: \u003ccode\u003eSettings and activity \u0026gt; Website permissions \u0026gt; Apps and websites\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003e۷. عدم نمایش پیج در بخش پیشنهادات (Suggested):\u003c/b\u003e\u003cbr/\u003eجلوگیری از نمایش حساب شما در بخش اکانت‌های پیشنهادی به سایر کاربران (از طریق نسخه وب اینستاگرام).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e مسیر: ورود به وب‌سایت \u003ccode\u003einstagram.com\u003c/code\u003e \u0026gt; بخش \u003ccode\u003eEdit profile\u003c/code\u003e \u0026gt; غیرفعال‌سازی تیک \u003ccode\u003eShow account suggestions on profiles\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©️\u003c/b\u003e\u003c/i\u003e پس‌کوچه\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-09-02T13:58:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3810,
+      "views": 5050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +312,7 @@
       "date": "2026-09-02T14:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3490,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,9 +320,21 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
+    },
+    {
+      "id": 2956,
+      "message": "",
+      "date": "2026-09-02T19:18:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯"
     }
   ],
   "last_updated": 0
