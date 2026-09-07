@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Vahid Online وحید آنلاین",
     "username": "vahidonline",
-    "photo_url": "https://cdn1.telesco.pe/file/ezO2IzEc_sARITM88NtZAxc-Ens95_wAUV-2U4kbgHcscj1cS8uGyZ6LgWLJ1aw5cER7UXqaPlYHLwZHJ9-8JW_N4nJ46MW0yrJHrXnlOA8B96dIdwdLKVPlGXX4DJoCnsgNt1zRsB5AGH0ea-Yosb8yfqKyKJpZwmhtNUF9vJtqx9LTY-6DBNW3HB0_nyyMZSP7liJxAe7FZlosyCG22ETeoQxumrFDT_NpPTPk9li6t9pQ-UATgFQeg38p2dttjfZK_GXLwEcfUTEOQIqGYchAPH7PnuuN_hhyfucLIW319M_h0qy38CCB_8_jfjUh6zmjfVtxrc-RYxrtl3mq5A.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/VOG4h_DDn9BQ_m33RliD251LhLzWv2oT_bNN3bFRm5FSctcnlrJ0zpiuq6LsgiHhUEDpbxmxVrweQPiI4KYh8Tq_vB81ym0ORi3SwxEZ3kgO5GNkIU4RuTXTGeGoQprn04n7O3E0BD-WYs-DJu3TQey8A_vQoUPkncdodot9KU-kID1R2tUvmA5gHkhgmAf_O3KKcl1xKZWVSxw2MU-Vd_Rdscf79vN0M_gue-TsTP_CtIq3g2pq0iiGLmV3ekl9XzUqeNVUuCNjKNrkdZtpqD6U79zqFcDCDcW_pRIMgT_a9g_lxeDAAxG7E6ZQa4X88jWrew1ohym9d-3Kw6CIow.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-09-05T14:44:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 346000,
+      "views": 347000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -34,7 +34,7 @@
       "date": "2026-09-05T16:02:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 360000,
+      "views": 361000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +42,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_12.jpg"
         }
       ]
     },
@@ -52,7 +52,7 @@
       "date": "2026-09-05T16:56:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 372000,
+      "views": 373000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +71,7 @@
       "date": "2026-09-05T20:28:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 376000,
+      "views": 377000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +89,7 @@
       "date": "2026-09-05T22:47:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 368000,
+      "views": 369000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +107,7 @@
       "date": "2026-09-06T01:18:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 359000,
+      "views": 361000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +115,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_9.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_13.jpg",
           "width": 640
         }
       ]
@@ -126,7 +126,7 @@
       "date": "2026-09-06T05:35:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 320000,
+      "views": 322000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-09-06T13:50:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 251000,
+      "views": 255000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,11 +152,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_9.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_10.jpg"
         },
         {
           "type": "photo",
@@ -178,7 +178,7 @@
       "date": "2026-09-06T13:53:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 246000,
+      "views": 250000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +196,7 @@
       "date": "2026-09-06T13:58:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 261000,
+      "views": 265000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +204,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_12.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/vahidonline/media_11.jpg",
           "width": 640
         }
       ]
@@ -215,7 +215,7 @@
       "date": "2026-09-06T14:05:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 274000,
+      "views": 278000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +233,7 @@
       "date": "2026-09-06T18:11:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 223000,
+      "views": 230000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +252,7 @@
       "date": "2026-09-06T18:13:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 227000,
+      "views": 236000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +270,7 @@
       "date": "2026-09-06T18:52:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 202000,
+      "views": 211000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +282,7 @@
       "date": "2026-09-06T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 197000,
+      "views": 207000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
