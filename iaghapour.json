@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 2964,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی پنل «زاگرس» (Zagros)؛ فورک چندهسته‌ای مرزبان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه \u003cb\u003eZagros\u003c/b\u003e یک فورک از مرزبان است که محدودیت تک‌هسته‌ای را برطرف کرده و به شما امکان می‌دهد تمام هسته‌های معروف VPN را هم‌زمان روی یک سرور و نودهای مختلف مدیریت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eهسته‌های تحت پوشش:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e هسته \u003cb\u003eXray:\u003c/b\u003e پروتکل‌های VLESS، VMess، Trojan و Shadowsocks\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e هسته \u003cb\u003esing-box:\u003c/b\u003e پروتکل‌های Hysteria2 و TUIC v5\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسایر هسته‌ها:\u003c/b\u003e WireGuard، OpenVPN، SoftEther، SSH Tunnel و PPTP\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eویژگی‌های کلیدی:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاکانتینگ یکپارچه:\u003c/b\u003e اعمال سهمیه حجم و محدودیت تعداد دستگاه متصل به‌صورت سراسری روی همه هسته‌ها و نودها\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکلاستر نودها:\u003c/b\u003e اتصال امن نودها با تایید Fingerprint و مدیریت هسته‌های مجزا برای هر نود\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/ZagrosGM/Zagros\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e گیت‌هاب پروژه\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-04T17:15:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
-        }
-      ]
-    },
-    {
       "id": 2966,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرونمایی مایکروسافت از MAI-Image-2.6-Flash؛ تولید ارزان و سریع تصویر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمایکروسافت نسخه سبک و کم‌هزینه مدل تولید تصویر خود را با نام \u003cb\u003eMAI-Image-2.6-Flash\u003c/b\u003e از طریق پلتفرم Microsoft Foundry در دسترس توسعه‌دهندگان قرار داد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eویژگی‌های کلیدی:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسرعت بالا و صرفه اقتصادی:\u003c/b\u003e ۲.۸ برابر سریع‌تر از GPT-Image-2-Medium و با ۷۲ درصد کارایی بالاتر؛ ایده‌آل برای اتوماسیون و ابزارهای تعاملی پرمصرف.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eویرایش نقطه‌ای:\u003c/b\u003e اصلاح دقیق اشیا، نوشته‌ها و چیدمان بدون تغییر در سایر بخش‌های تصویر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eثبات کاراکتر و محصول:\u003c/b\u003e امکان بارگذاری حداکثر ۵ تصویر مرجع برای حفظ یکپارچگی چهره و کالا در خروجی‌های مختلف.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاتصال به وب:\u003c/b\u003e ارتباط مستقیم با موتور جستجوی بینگ برای رندر دقیق سوژه‌های واقعی.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e \u003cb\u003eهزینه خروجی تصویری:\u003c/b\u003e ۱۹ دلار به‌ازای هر میلیون توکن (در برابر ۳۸ دلار برای نسخه پایه 2.6).\u003cbr/\u003e\u003cbr/\u003eهر دو مدل هم‌اکنون در مرحله پیش‌نمایش عمومی در دسترس هستند./دیجیاتو\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-09-05T11:39:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +31,7 @@
       "date": "2026-09-05T13:02:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +49,7 @@
       "date": "2026-09-05T14:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +67,7 @@
       "date": "2026-09-06T15:08:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8830,
+      "views": 9010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +85,7 @@
       "date": "2026-09-06T15:39:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
+      "views": 8440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +97,7 @@
       "date": "2026-09-06T16:24:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8720,
+      "views": 8980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-09-06T16:54:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9060,
+      "views": 9320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +134,7 @@
       "date": "2026-09-07T10:40:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9590,
+      "views": 9750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +152,7 @@
       "date": "2026-09-07T13:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9900,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +170,7 @@
       "date": "2026-09-07T17:10:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8970,
+      "views": 9140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,21 +178,9 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
         }
       ]
-    },
-    {
-      "id": 2979,
-      "message": "\u003ctg-emoji emoji-id=\"5224607267797606837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29884.png\u0026#39;)\"\u003e\u003cb\u003e☄️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eآپدیت جدید کلود اسنپ منتشر شد! \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ارائه سرور ساعتی از ۲۰ دیتاسنتر معتبر دنیا در اولین ربات فروش سرور تلگرام\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخرید و تحویل آنی دامنه با انواع پسوندها شروع از سالیانه ۲۶۰ هزار تومان\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5382357040008021292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8695.png\u0026#39;)\"\u003e\u003cb\u003e🆕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پرداخت ساعتی و به اندازه مصرف!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5325547803936572038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پلن ها و لوکیشن های متنوع \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5341498088408234504\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AF.png\u0026#39;)\"\u003e\u003cb\u003e💯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تحویل آنی سرور\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کامل ترین کنسول مدیریتی تماما داخل محیط تلگرام\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پنل مدیریت تحت وب\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تعویض خودکار آیپی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5391032818111363540\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلوکیشن های خاص و کمیاب مثل ارمنستان، آلبانی، بلغارستان و آذربایجان! \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5224607267797606837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29884.png\u0026#39;)\"\u003e\u003cb\u003e☄️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eو ده ها قابلیت ممتاز و منحصربفرد\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/CloudSnapBot\" target=\"_blank\"\u003e@CloudSnapBot\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://panel.CloudSnap.cloud/\" target=\"_blank\" rel=\"noopener\"\u003epanel.CloudSnap.cloud\u003c/a\u003e",
-      "date": "2026-09-07T17:31:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯"
     },
     {
       "id": 2980,
@@ -218,7 +188,7 @@
       "date": "2026-09-08T12:31:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8000,
+      "views": 8320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +206,7 @@
       "date": "2026-09-08T14:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
+      "views": 8650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +218,7 @@
       "date": "2026-09-08T16:01:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7960,
+      "views": 8550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +236,7 @@
       "date": "2026-09-08T16:15:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7920,
+      "views": 8520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +248,7 @@
       "date": "2026-09-08T19:43:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6940,
+      "views": 7860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +260,7 @@
       "date": "2026-09-08T19:50:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6870,
+      "views": 7980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +272,7 @@
       "date": "2026-09-09T14:04:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3790,
+      "views": 5880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +290,7 @@
       "date": "2026-09-09T15:35:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2080,
+      "views": 6080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -329,6 +299,42 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2988,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبازم داستان تکراری؛ اینترنت داغون، اما ادعاها برقرار!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاز دیروز وضعیت اینترنت رسماً افتضاح شده؛ پکت‌لاس شدید، کندی اعصاب‌خردکن و قطعی‌های مداوم. بهزاد اکبری (مدیرعامل زیرساخت) هم طبق معمول اومده توییت زده که علت کندی «قطعی فیبر نوری در ارمنستان» بوده!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eالانم ادعا می‌کنن مشکل حل شده، ولی در عمل کیفیت شبکه—مخصوصاً روی اینترنت موبایل—هنوزم افتضاحه و هیچ تغییری حس نمی‌شه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8DF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✍🏻\u003c/b\u003e\u003c/i\u003e جالبه که با یه قطعی سیم توی کشور همسایه کل اینترنت مملکت فلج می‌شه، ولی موقع افزایش قیمت بسته‌ها همه‌چیز سر جاشه و وزرا توی صف اول توجیه گرونی می‌ایستن! اول یه اینترنت پایدار و بدون قطعی تحویل بدید، بعد دم از گرون کردن تعرفه‌ها بزنید.\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-09-09T17:10:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2989,
+      "message": "\u003ctg-emoji emoji-id=\"6082519348721751560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاپل آیدی مطمئن می‌خوای؟ اینجا جای درستشه!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5899945812296731931\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eاپل آیدی‌های معتبر و تست‌شده\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5899945812296731931\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتحویل فوری و اتوماتیک با ربات ۲۴ ساعته\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5899945812296731931\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eضمانت و جایگزینی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5899945812296731931\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eپشتیبانی دائمی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5899945812296731931\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eخدمات تخصصی اپل آیدی و مشکلات Not Active / Locked\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5933971389324201276\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29891.png\u0026#39;)\"\u003e\u003cb\u003e☑️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمناسب کاربران عادی و فروشندگان موبایل\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269267069372469947\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eخرید سریع | تحویل آنی | پشتیبانی واقعی\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5303349621949479058\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5303397102812938148\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5303153758555880913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5303230406542247377\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5303473385727081115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5303474665627337654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5303438772585643185\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5769210095887980227\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA0.png\u0026#39;)\"\u003e\u003cb\u003e🟠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/AppleIDGram_BOT\" target=\"_blank\"\u003e@AppleIDGram_BOT\u003c/a\u003e \u003ctg-emoji emoji-id=\"5769210095887980227\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA0.png\u0026#39;)\"\u003e\u003cb\u003e🟠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5771829806895208384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/AppleIDGram\" target=\"_blank\"\u003e@AppleIDGram\u003c/a\u003e\u003ctg-emoji emoji-id=\"5771829806895208384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-09T17:31:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_1.jpg"
         }
       ]
     }
