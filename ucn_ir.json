@@ -1,7 +1,7 @@
 {
   "info": {
     "id": 0,
-    "title": "اخبار جنگ و اعتراضات (بدون سانسور)",
+    "title": "اخبار جنگ و اعتراضات",
     "username": "ucn_ir",
     "photo_url": "https://cdn4.telesco.pe/file/eOkB_PYx8iEXQ6T0LcWPZoCYAp70Dbh7AYfAepNoyFwTCt5mjDEuVrc3TuQwwHUnaT9or6N5sY34fzDVrmvkggR99zfTwyxjez1uEVGxMeJ5sXCcarzOdvcQmGX_T_ZpRy0foOGzQPVV_IAzuLcu7pmuiNfJd4dP8syEWyP4BKNKYpF5YrCkLZHuILdHL72wljAwOFTSlbq-zuj24q633-IKl3nhp0U8mo_dIHUR_JiALsZNbAfdD6-5RZGXF9R6tInG-B51NzEWwAV_l5Edey9B9mYhBUslThJtht7uUyoSmcU4sLjINWgVinEedHnk4hI_bvmU_k1E-a1naLhf4Q.jpg"
   },
@@ -12,47 +12,47 @@
       "date": "2026-09-11T11:25:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "sender_name": "اخبار جنگ و اعتراضات",
       "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_9.jpg"
+        },
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_6.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_12.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_1.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_2.jpg"
-        },
-        {
-          "type": "video",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_4.jpg"
         },
         {
           "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg"
+        },
+        {
+          "type": "video",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg"
         }
       ]
     },
@@ -62,11 +62,11 @@
       "date": "2026-09-11T11:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39056,
@@ -74,15 +74,15 @@
       "date": "2026-09-11T12:57:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "sender_name": "اخبار جنگ و اعتراضات",
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg"
         }
       ]
     },
@@ -92,11 +92,11 @@
       "date": "2026-09-11T13:11:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9860,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39058,
@@ -104,11 +104,11 @@
       "date": "2026-09-11T13:14:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39059,
@@ -116,11 +116,11 @@
       "date": "2026-09-11T13:48:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9950,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39060,
@@ -128,11 +128,11 @@
       "date": "2026-09-11T14:10:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9710,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39061,
@@ -140,11 +140,11 @@
       "date": "2026-09-11T14:25:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9500,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39062,
@@ -152,11 +152,11 @@
       "date": "2026-09-11T14:39:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9590,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39063,
@@ -164,15 +164,15 @@
       "date": "2026-09-11T15:52:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8770,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "sender_name": "اخبار جنگ و اعتراضات",
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_12.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_16.jpg",
           "width": 256
         }
       ]
@@ -183,15 +183,15 @@
       "date": "2026-09-11T17:01:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7560,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "sender_name": "اخبار جنگ و اعتراضات",
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_17.jpg",
           "width": 720
         }
       ]
@@ -202,11 +202,11 @@
       "date": "2026-09-11T17:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6460,
+      "views": 9530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39066,
@@ -214,11 +214,11 @@
       "date": "2026-09-11T17:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5980,
+      "views": 9260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)"
+      "sender_name": "اخبار جنگ و اعتراضات"
     },
     {
       "id": 39067,
@@ -226,15 +226,72 @@
       "date": "2026-09-11T19:09:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3380,
+      "views": 8050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "sender_name": "اخبار جنگ و اعتراضات",
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg"
+        }
+      ]
+    },
+    {
+      "id": 39068,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eفکت‌نامه: ویدیوی خروج نیروهای آمریکا از منطقه با هوش مصنوعی ساخته شده است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eفکت‌نامه اعلام کرد ویدیوی منتشرشده در شبکه‌های اجتماعی که ادعا می‌کند صحنه خروج یا فرار نیروهای آمریکایی از منطقه را نشان می‌دهد، ساختگی و تولیدشده با هوش مصنوعی است. تغییر فرم هواپیماها، ناپدید شدن برخی از آنها، حرکت معکوس خودروها و ثابت ماندن پرچم از نشانه‌های جعلی بودن ویدیو عنوان شده است. بر اساس بیانیه اخیر سنتکام، ۵۰ هزار نیروی آماده آمریکا در خاورمیانه حضور دارند و طبق گزارش‌ها، برخی هواپیماهای آمریکایی برای جایگزینی به آمریکا بازگشته و اسکادران‌های دیگری نیز به منطقه اعزام شده‌اند. فکت‌نامه این ادعا را «شاخ‌دار» ارزیابی کرده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-11T20:28:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 39071,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e گزارش‌های تأییدنشده از اعمال سخت‌گیری شدید در تردد مسافران ایرانی در مرز ترکیه حکایت دارد. گفته می‌شود این اقدام پس از اعمال محدودیت‌های شدید از روز گذشته در فرودگاه‌های ترکیه علیه کالاهای با مقصد ایران و در پی تحریم‌های جدید آمریکا انجام شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-11T21:03:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات"
+    },
+    {
+      "id": 39073,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پوریا بختیاری، فعال اقتصادی، مدعی شد ابراهیم رئیسی خود گفته بود که اقتصاد را نمی‌فهمد و به گفته او، از برخی فعالان اقتصادی خواسته شده بود برای رئیس‌جمهور انیمیشن‌های اقتصادی تهیه کنند؛ \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eانیمیشن‌هایی که نباید بیش از ۳ دقیقه طول می‌کشید، چراکه به گفته بختیاری «ذهن حاج‌آقا می‌پرید».\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6050646916109179497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Channel_SC/22\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپرسرعت و امن: ۸۰تومن\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-11T22:11:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 939,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_11.jpg",
+          "width": 480
         }
       ]
     }
