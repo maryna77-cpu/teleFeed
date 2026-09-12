@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 2980,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی EMS IPAM؛ سامانه مدیریت آدرس‌های IP و تجهیزات شبکه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگر برای مدیریت ساب‌نت‌ها، رادیوهای وایرلس و تجهیزات شعب مختلف هنوز از اکسل استفاده می‌کنید، ابزار \u003cb\u003eEMS IPAM\u003c/b\u003e یک پنل متمرکز و گرافیکی برای سامان‌دهی و مستندسازی شبکه است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمدیریت ساختاریافته IP:\u003c/b\u003e پشتیبانی از رنج‌های /16 تا /32، جلوگیری خودکار از تداخل ساب‌نت‌ها و نمایش ظرفیت آزاد/مصرف‌شده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمستندسازی شعب و تجهیزات:\u003c/b\u003e ثبت موقعیت شعب، پورت‌ها، توپولوژی و ذخیره راه‌های دسترسی سریع (WinBox، SSH، RDP و وب).\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپایش مستقیم میکروتیک:\u003c/b\u003e اتصال به RouterOS از طریق API و نمایش زنده وضعیت اتصال، سیگنال و پهنای‌باند رادیوهای وایرلس.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکلاینت ویندوز:\u003c/b\u003e باز کردن مستقیم نرم‌افزارهای مدیریتی (مانند WinBox) با یک کلیک از داخل پنل بدون درج رمز در مرورگر.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e تعیین سطوح دسترسی، ایمپورت/اکسپورت ساب‌نت‌ها و پشتیبان‌گیری خودکار.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eاین پروژه کاملاً رایگان و اوپن‌سورس است، اما کدهای آن توسط ما به‌طور کامل بررسی امنیتی نشده؛ پیشنهاد می‌کنم قبل از استفاده، سورس‌کدها و اسکریپت نصب را با ابزارهای هوش مصنوعی بررسی کنید و بعد استفاده نمایید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/emsebi/EMS_IPAM\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e پروژه در گیت‌هاب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e",
-      "date": "2026-09-08T12:31:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg"
-        }
-      ]
-    },
-    {
       "id": 2981,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدفاع وزیر ارتباطات از گرانی اینترنت: کمتر از بقیه کالاها گرون کردیم!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eستار هاشمی، وزیر ارتباطات، در صحن علنی مجلس در پاسخ به سوال نمایندگان درباره گرانی شدید بسته‌های اینترنتی، از افزایش تعرفه‌ها دفاع کرد و آن را با سایر کالاها مقایسه کرد؛ پاسخی که در نهایت نمایندگان را قانع نکرد و منجر به کارت زرد مجلس شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمحورهای صحبت وزیر و استدلال‌های گرانی:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمقایسه با تورم سایر کالاها:\u003c/b\u003e\u003cbr/\u003eوزیر ارتباطات مدعی شد طی ۵ سال گذشته، با وجود جهش ۲۰۰ تا ۵۰۰ درصدی قیمت اکثر کالاها و خدمات، رشد تعرفه‌های ارتباطی کمتر از ۸۰ درصد بوده و در نتیجه گرانی روزافزون اینترنت مطابق واقعیت نیست!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eعوامل توجیهی افزایش قیمت:\u003c/b\u003e\u003cbr/\u003eافزایش هزینه‌های ارزی، مصرف برق و انرژی، هزینه‌های نیروی انسانی و نگهداری زیرساخت‌ها به عنوان دلایل اصلی افزایش تعرفه‌ها عنوان شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکارت زرد مجلس:\u003c/b\u003e\u003cbr/\u003eپاسخ‌های وزیر درباره گرانی بسته‌ها و عدم توسعه فیبر نوری نتوانست نمایندگان را قانع کند و به او کارت زرد دادند.//شبکه‌چی\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eپ.ن: می‌گن «چون بقیه چیزا ۵۰۰ درصد گرون شده، اینترنت رو ۸۰ درصد گرون کردیم.\u003cbr/\u003e\u003cbr/\u003eجالبه که هیچ‌وقت کیفیت خدمات رو مقایسه نمی‌کنن، ولی برای افزایش قیمت سریع دست به دامن مقایسه با تخم‌مرغ و گوشت می‌شن. کاربر الان نه‌تنها بابت همین اینترنت محدود و کند پول گرون‌تری می‌ده، بلکه مجبوره‌ ماهانه به اندازه همون بسته (شاید هم بیشتر) پول فیلترشکن و سرور بده تا فقط بتونه به اینترنت آزاد دسترسی داشته باشه؛ این هزینه‌های تحمیلی رو چرا توی آمارهای ۸۰ درصدی حساب نمی‌کنید؟!\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
       "date": "2026-09-08T14:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9870,
+      "views": 9990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-09-08T16:01:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
         }
       ]
     },
@@ -60,7 +42,7 @@
       "date": "2026-09-08T16:15:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +54,7 @@
       "date": "2026-09-08T19:43:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9780,
+      "views": 9990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-09-09T14:04:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9140,
+      "views": 9330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +84,7 @@
       "date": "2026-09-09T15:35:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
         }
       ]
     },
@@ -120,7 +102,7 @@
       "date": "2026-09-09T17:10:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8700,
+      "views": 8930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
         }
       ]
     },
@@ -138,7 +120,7 @@
       "date": "2026-09-10T13:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7750,
+      "views": 8050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,15 +128,15 @@
       "media": [
         {
           "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+        },
+        {
+          "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
         }
       ]
     },
@@ -164,7 +146,7 @@
       "date": "2026-09-10T14:01:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7240,
+      "views": 7430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_12.jpg"
         }
       ]
     },
@@ -182,7 +164,7 @@
       "date": "2026-09-10T15:10:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 7530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +172,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_2.jpg",
           "width": 1544
         }
       ]
@@ -201,7 +183,7 @@
       "date": "2026-09-10T16:40:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7300,
+      "views": 7540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +195,7 @@
       "date": "2026-09-10T17:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7630,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +213,7 @@
       "date": "2026-09-11T12:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +221,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
         }
       ]
     },
@@ -249,7 +231,7 @@
       "date": "2026-09-11T15:15:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +250,7 @@
       "date": "2026-09-11T17:01:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5610,
+      "views": 6660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +268,7 @@
       "date": "2026-09-11T17:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5150,
+      "views": 6420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +280,7 @@
       "date": "2026-09-12T12:25:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
+      "views": 4980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,6 +289,24 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3003,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e دستور وزیر ارتباطات برای بررسی و رفع محدودیت‌های پروتکل IPv6\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eستار هاشمی، وزیر ارتباطات، در جلسه شورای راهبری شبکه ملی اطلاعات خواستار تعیین تکلیف سریع و رفع محدودیت‌های اعمال‌شده روی پروتکل \u003cb\u003eIPv6\u003c/b\u003e شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنبود توجیه قانونی برای محدودیت IPv6:\u003c/b\u003e\u003cbr/\u003eوزیر ارتباطات تأکید کرد اگر مصوبه قانونی برای محدودیت پروتکل IPv6 وجود ندارد، اعمال محدودیت فنی روی آن هیچ دلیلی ندارد و موضوع باید فوراً رفع شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eهمگام‌سازی شبکه با استانداردهای جهانی:\u003c/b\u003e\u003cbr/\u003eهاشمی اعلام کرد شبکه ملی نباید در تقابل با فناوری‌های روز دنیا باشد و مهاجرت به استانداردهای بین‌المللی مثل IPv6 از الزامات توسعه زیرساخت است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپایان نگاه دستوری به فناوری:\u003c/b\u003e\u003cbr/\u003eوی با اشاره به شکست پروژه‌های دستوری مثل جستجوگرهای بومی، تأکید کرد فناوری با دستور پیش نمی‌رود و سامانه‌ها باید توجیه اقتصادی و رقابتی داشته باشند.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eپ.ن: سال‌هاست به بهانه اختلال در سیستم‌های فیلترینگ و رصد ترافیک، پیاده‌سازی کامل IPv6 رو توی کشور معطل نگه داشتن و شبکه رو از استانداردهای جهانی عقب انداختن!\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-12T15:14:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
         }
       ]
     }
