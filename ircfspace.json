@@ -7,120 +7,12 @@
   },
   "posts": [
     {
-      "id": 2582,
-      "message": "به نظر میرسه یکی از زیردامنه‌های gov[.]ir به افراد دارای مدرک فوق‌دیپلم یا پایین‌تر اجازه ورود نمیده و حتما باید لیسانس داشته باشین \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e SePeHr\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-09-06T04:09:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_10.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2583,
-      "message": "چند آسیب‌پذیری بحرانی در RouterOS پیدا شده که بعضی از اونها در قالب زنجیره‌ای به اسم MikroTrick در حملات واقعی هم مورد سوءاستفاده قرار گرفتن و می‌تونن در شرایطی دسترسی کامل به روتر بدن.\u003cbr/\u003eاز طرفی Shadowserver در اسکن اخیرش بیش از ۱۲۲ هزار MikroTik با SSH باز روی اینترنت پیدا کرده که حدود ۳ هزار موردش مربوط به ایرانه. این عدد لزوماً به معنی آسیب‌پذیر بودن همه این دستگاه‌ها نیست، ولی نشون میده تعداد قابل‌توجهی از روترها مستقیماً از اینترنت قابل دسترسیه.\u003cbr/\u003eاگه MikroTik دارید، حتماً RouterOS رو هرچه سریع‌تر آپدیت کنید و بعدش لاگ‌ها، یوزرها، Scriptها و سرویس‌های ناشناس رو بررسی کنین. SSH و WebFig هم بهتره مستقیماً روی اینترنت باز نباشن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e PingChannel\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-09-07T05:10:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_17.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2584,
-      "message": "اپ Misga یک پیامک‌خوان متن‌باز و رایگان برای اندروید هست، که به شما اجازه میده پیامک‌های اسپم، تبلیغاتی و کلاهبرداری رو بصورت دلخواه فیلتر و مدیریت کنین.\u003cbr/\u003eاین برنامه چند فیلتر داخلی برای اسپم‌ها و کلاهبرداری‌های رایج داره که می‌تونید نگهشون دارید، تغییر بدید یا کلاً حذف کنید و فیلترهای خودتون رو از صفر بسازید. با Filter Studio هم می‌تونید با Regex یا متن ساده، قانون‌های جدید تعریف کنین و حتی از هوش مصنوعی برای ساخت الگوی فیلتر کمک بگیرین.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/mirarr-app/Misga/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/mirarr-app/Misga/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-09-07T05:23:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_11.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2585,
-      "message": "کاسپین یه ابزار رایگان و متن‌باز برای ویندوز، مک، لینوکس و رزبری‌پای هست، که دستگاهتون رو به یک هات‌اسپات مجهز به VPN تبدیل می‌کنه تا بتونین فیلترشکن رو با همه دستگاه‌های خونه به اشتراک بذارین.\u003cbr/\u003eکافیه لینک VLESS، VMess، Trojan، Shadowsocks یا Hysteria2 خودتون رو وارد کنید، تا ترافیک دستگاه‌هایی که به Wifi کاسپین وصل میشن، از تانل Xray رد بشه؛ بدون اینکه لازم باشه روی تک‌تک دستگاه‌ها VPN یا پروکسی نصب کنین. درضمن اگه تانل قطع بشه، کاسپین دسترسی اینترنت دستگاه‌های متصل رو قطع می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/Iman/caspian/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Iman/caspian/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-09-07T05:32:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_13.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2586,
-      "message": "معاون ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور: طی ساعات اخیر اخباری کذب به نقل از اینجانب درباره رفع فیلتر اینستاگرام منتشر شده، که کاملاً ساختگی است.\u003ci\u003e /اقتصادآنلاین\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-09-07T05:41:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2587,
-      "message": "مجلسی که خودش کارت قرمز داره، به وزیر قطع‌ارتباطات کارت زرد داده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-09-08T08:11:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_4.jpg"
-        }
-      ]
-    },
-    {
       "id": 2588,
       "message": "واحد امنیت تیم پس‌کوچه در ماه‌های اخیر حرکت حمایتی قشنگی‌رو شروع کرده و اپ‌های VPN متن‌باز (که در ایران مورد استقبال قرار گرفتن) رو تحت ممیزی امنیتی قرار میده.\u003cbr/\u003e\u003cbr/\u003eطبق آماری که دارم گزارش این ممیزی‌ها تا الان بصورت محرمانه برای ۷ فرد یا تیم توسعه فرستاده شده. اکثر این اپ‌ها درحال کار روی بروزرسانی‌های جدیدشون هستن و بیشتر از نصفشون آپدیت‌های کوچک و بزرگ داشتن.\u003cbr/\u003e\u003cbr/\u003eاین‌قضیه تقریبا برای توسعه‌دهنده‌ها و جامعه‌ی هدف برد-برد هست. اون فیلترشکن‌هایی هم که نسبت به مشکلات گزارش‌شده بی‌اعتنا باشن، به مرور از چرخه اطلاع‌رسانی و توصیه به افراد کنار گذاشته میشن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-09-08T13:52:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +30,7 @@
       "date": "2026-09-08T14:24:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +48,7 @@
       "date": "2026-09-08T14:41:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_17.jpg"
         }
       ]
     },
@@ -174,7 +66,7 @@
       "date": "2026-09-08T15:13:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_19.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_4.jpg"
         }
       ]
     },
@@ -192,7 +84,7 @@
       "date": "2026-09-08T15:23:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_11.jpg"
         }
       ]
     },
@@ -210,7 +102,7 @@
       "date": "2026-09-08T16:40:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_13.jpg"
         }
       ]
     },
@@ -228,7 +120,7 @@
       "date": "2026-09-09T04:19:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +138,7 @@
       "date": "2026-09-09T04:27:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +146,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_3.jpg"
         }
       ]
     },
@@ -264,7 +156,7 @@
       "date": "2026-09-09T04:44:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60700,
+      "views": 62100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +174,7 @@
       "date": "2026-09-10T04:30:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
+      "views": 31100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +192,7 @@
       "date": "2026-09-11T07:45:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +200,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_20.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_19.jpg"
         }
       ]
     },
@@ -318,7 +210,7 @@
       "date": "2026-09-13T04:23:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +228,7 @@
       "date": "2026-09-14T04:39:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -354,7 +246,7 @@
       "date": "2026-09-14T04:47:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -363,6 +255,108 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2603,
+      "message": "صرافی رمزارز کوینکس اعلام کرده فعالیتش رو متوقف کرده و کاربران تا ۲۲ دسامبر فرصت دارن داراییشون رو برداشت کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-17T13:21:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2604,
+      "message": "ایران در جدیدترین گزارش اسپیدتست نه در رتبه‌بندی اینترنت موبایل و نه اینترنت ثابت حضور ندارد.\u003cbr/\u003eتا ماه گذشته، ایران فقط از رتبه‌بندی اینترنت موبایل حذف شده بود و در بخش اینترنت ثابت با رتبه ۱۴۰ جهان قرار داشت؛ اما حالا در گزارش جدید، رتبه ایران در هر دو بخش حذف شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e itiransite\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-17T13:37:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه"
+    },
+    {
+      "id": 2605,
+      "message": "کپی میکنید حداقل اسمش رو تغییر بدید :) \u003cbr/\u003e\u003cblockquote\u003eتصویر مربوط به نسخه وب ایتا هست.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e Ralireza11\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-17T13:38:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2606,
+      "message": "یکی از ویژگی‌های مهم Tor VPN Beta، ایزوله‌سازی برنامه‌هاست و هر اپلیکیشن IP خروجی مجزایی دریافت می‌کند، تا امکان ردیابی رفتار کاربر بین برنامه‌های مختلف سلب شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://play.google.com/store/apps/details?id=org.torproject.vpn\" target=\"_blank\" rel=\"noopener\"\u003eplay.google.com/store/apps/details?id=org.torproject.vpn\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e PasKoocheh\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-17T13:42:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2607,
+      "message": "این عکس مربوط به مسابقه CTF بلوبانک هستش، که برای اینکه چالش‌های مسابقه با Ai Agentها حل نشن مورد توجه قرار گرفته.\u003cbr/\u003eطبق تصویر، در هدر یک دستور داخل Response گذاشتن که اگر یک AI Agent در حال تحلیل پاسخ HTTP باشه، سعی کنه اون رو بعنوان دستور خودش برداشت کنه و به کاربر بگه چالش قابل حل نیست و اصلاً آسیب‌پذیری‌ای وجود نداره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eمسابقات Capture The Flag، یکی از شناخته‌شده‌ترین مسابقات حوزه‌ امنیت سایبریه، که شرکت‌کنندگان باید در سیستم‌ها و برنامه‌های از پیش طراحی‌شده با آسیب‌پذیری عمدی، به دنبال رشته‌های متنی پنهانی موسوم به فلگ بگردن و با کشفشون، امتیاز کسب کنن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e Maji_Call\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-17T14:00:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_10.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2608,
+      "message": "تحقیقی از TechRadar روی نزدیک به ۴,۸۰۰ اپ VPN اندروید و iOS انجام شده که نشون میده تعداد زیادی از VPNهای موجود در گوگل‌پلی و اپ‌استور، اطلاعات شفاف و قابل‌اعتمادی درباره سازنده و سیاست‌های حریم خصوصی‌شون ارائه نمی‌کنن.\u003cbr/\u003e\u003cbr/\u003eدر این بررسی، ۳,۳۹۲ VPN اندروید و ۱,۳۸۷ VPN آیفون بررسی شدن. فقط ۶۱.۴ درصد از VPNهای iOS و ۴۰.۸ درصد از VPNهای اندروید تونستن تمام بررسی‌های اصلی اعتبارسنجی رو پاس کنن. بعضی از این اپ‌ها از آدرس‌های رایگان Gmail، سایت‌های ناقص یا غیرقابل‌اعتماد و سیاست‌های حریم خصوصی کپی‌شده استفاده می‌کنن و اطلاعات کافی درباره سازنده‌شون در اختیار کاربر نمی‌ذارن.\u003cbr/\u003e\u003cbr/\u003eدر نتیجه، صرفاً حضور یک VPN در گوگل‌پلی یا اپ‌استور به این معنی نیست که اون برنامه معتبر و قابل‌اعتماده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-17T14:05:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_16.jpg"
         }
       ]
     }
