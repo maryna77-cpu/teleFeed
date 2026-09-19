@@ -20,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_4.jpg"
         }
       ]
     },
@@ -38,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_12.jpg"
         }
       ]
     },
@@ -74,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_13.jpg"
         }
       ]
     },
@@ -92,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_12.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_11.jpg"
         }
       ]
     },
@@ -128,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_10.jpg"
         }
       ]
     },
@@ -246,7 +246,7 @@
       "date": "2026-08-20T02:45:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33700,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +264,25 @@
       "date": "2026-08-27T23:45:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1546,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show a decline in internet connectivity in parts of \u003ca href=\"?q=%23Michigan\"\u003e#Michigan\u003c/a\u003e including Detroit after severe storms bring down utility polls, leaving many residents cut off \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23MIwx\"\u003e#MIwx\u003c/a\u003e",
+      "date": "2026-09-04T02:21:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,30 +295,12 @@
       ]
     },
     {
-      "id": 1546,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show a decline in internet connectivity in parts of \u003ca href=\"?q=%23Michigan\"\u003e#Michigan\u003c/a\u003e including Detroit after severe storms bring down utility polls, leaving many residents cut off \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23MIwx\"\u003e#MIwx\u003c/a\u003e",
-      "date": "2026-09-04T02:21:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_9.jpg"
-        }
-      ]
-    },
-    {
       "id": 1547,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show a brief disruption to leading internet provider MEO in \u003ca href=\"?q=%23Portugal\"\u003e#Portugal\u003c/a\u003e, corroborating user reports of a short but widespread outage affecting broadband and mobile service; the operator has not issued an explanation \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-09-14T03:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +318,7 @@
       "date": "2026-09-18T20:55:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9690,
+      "views": 9910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +326,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/netblocks/media_9.jpg"
         }
       ]
     },
@@ -336,7 +336,7 @@
       "date": "2026-09-18T21:22:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7870,
+      "views": 8000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -354,7 +354,7 @@
       "date": "2026-09-19T02:54:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5430,
+      "views": 5580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
