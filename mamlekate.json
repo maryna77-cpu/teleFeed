@@ -3,7 +3,7 @@
     "id": 0,
     "title": "مملکته",
     "username": "mamlekate",
-    "photo_url": "https://cdn4.telesco.pe/file/dOzoTLtzynAUWsuCjRzWvV33MYuQ6wvFAxLTlZPdTxqhyf8AHfHRwsZltZY8cjXWrTEtwaYzcqp3IndogP6N6jAbilNVF07eJgOQSWvSLBmTAio2Y8a_gf_b-_72J1E42GBDVA3i5N59DHarsosgOsfD9d3YI2AT5LiOJuxuW-Jq3N5_GJsBcMGnrMmJdekGIw1bmPEcQGbpGlFC5nwAygq68sXnZS8Vvez1-VbNB4ffCwlfxnD3mbPjtt4ujtjVI0GtSJ2p53cIKCA5wR602kifo-yNGehEOvG0ECXcI0oPlMzlC2O-A1CoJnYnglerixw9dCmedvqhPvZREaloyg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/dSXyiA2Mpi63EthWzh0PSsilTRV-X8wMSh542wuiU54GZrOMWOPP__FXJsfXnYkG9NwB9J40kwLePwMxIx_dNVDasIqjZU-BF80u_T5zne0Zy-ltjVIkdKFvLHiPPkewftfyVLRv0wLDO8832zcmRdIbUK7YFnmUPXnxUWbk9kq_6Qa4g-qQhJqJ6o1eMNlnWzyLkY8qyE74XeCFruULhmYMB9gvDTzDf_LXau1PDw3lRh3axZc_mC1_e1_KDSrI8SpFuvrMUcTDCWJUQfEQsu7vrrcNpA8LlRmnOa3zzKEh-LAnpyA7_Tj2yMkdjiW5Jx58AM6QdAwbk8FL5VvnTA.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-09-19T06:03:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 121000,
+      "views": 122000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-09-19T06:47:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 119000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -32,11 +32,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_5.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_3.jpg"
         }
       ]
     },
@@ -46,7 +46,7 @@
       "date": "2026-09-19T07:15:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 123000,
+      "views": 124000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "date": "2026-09-19T07:15:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 130000,
+      "views": 131000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_4.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_12.jpg",
           "width": 720
         }
       ]
@@ -77,7 +77,7 @@
       "date": "2026-09-19T08:16:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134000,
+      "views": 135000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,11 +85,11 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_6.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_4.jpg"
         }
       ]
     },
@@ -99,7 +99,7 @@
       "date": "2026-09-19T15:35:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 128000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +118,7 @@
       "date": "2026-09-19T17:39:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 122000,
+      "views": 124000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,44 +130,7 @@
       "date": "2026-09-19T21:14:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 111000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_12.jpg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 104557,
-      "message": "توضیح مشاور صنعت حمل و نقل - ۲۸ شهریور: پروازهای باری ماهان محدود و پروازهای مسافری ایران‌ایر به چین قطع شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/Sam1Kia/status/2101370473120497994\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSam1Kia\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
-      "date": "2026-09-19T21:42:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "مملکته",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 104558,
-      "message": "\u003ctg-emoji emoji-id=\"5922792164978336476\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://buymeacoffee.com/mamlekate/membership\" target=\"_blank\" rel=\"noopener\"\u003ebuymeacoffee.com/mamlekate/membership\u003c/a\u003e (13 members)",
-      "date": "2026-09-19T23:00:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 113000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,12 +144,49 @@
       ]
     },
     {
+      "id": 104557,
+      "message": "توضیح مشاور صنعت حمل و نقل - ۲۸ شهریور: پروازهای باری ماهان محدود و پروازهای مسافری ایران‌ایر به چین قطع شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/Sam1Kia/status/2101370473120497994\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSam1Kia\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
+      "date": "2026-09-19T21:42:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 117000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 104558,
+      "message": "\u003ctg-emoji emoji-id=\"5922792164978336476\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://buymeacoffee.com/mamlekate/membership\" target=\"_blank\" rel=\"noopener\"\u003ebuymeacoffee.com/mamlekate/membership\u003c/a\u003e (13 members)",
+      "date": "2026-09-19T23:00:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 120000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "مملکته",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_8.jpg",
+          "width": 720
+        }
+      ]
+    },
+    {
       "id": 104559,
       "message": "\u003ctg-emoji emoji-id=\"5958605586567272542\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://telegra.ph/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%D8%A7%D8%B4%D8%A7%D8%B1%D9%87-%D8%A8%D9%87-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%D8%A7%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B3%D9%81%D8%B1-%D8%A8%D9%87-%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF-09-19\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eوزارت امور خارجه آمریکا با اشاره به تهدیدات جمهوری اسلامی درباره  سفر به خاورمیانه هشدار داد\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eوزارت خارجه آمریکا روز شنبه در شبکه اجتماعی ایکس، با اشاره به افزایش تنش‌ها در خاورمیانه، درباره وخیم‌تر شدن ناگهانی شرایط امنیتی در این منطقه هشدار داد و از شهروندان آمریکایی خواست با احتیاط بیشتری رفت‌وآمد کنند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/mamlekate\" target=\"_blank\"\u003e@mamlekate\u003c/a\u003e",
       "date": "2026-09-19T23:00:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 120000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +198,7 @@
       "date": "2026-09-19T23:08:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 123000,
+      "views": 126000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,11 +206,11 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_9.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_1.jpg"
         }
       ]
     },
@@ -220,7 +220,7 @@
       "date": "2026-09-19T23:16:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 129000,
+      "views": 132000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +239,7 @@
       "date": "2026-09-20T00:00:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132000,
+      "views": 135000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +247,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_2.jpg"
         }
       ]
     },
@@ -257,7 +257,7 @@
       "date": "2026-09-20T07:51:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 122000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +269,7 @@
       "date": "2026-09-20T13:05:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 110000,
+      "views": 117000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +281,7 @@
       "date": "2026-09-20T16:45:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 91600,
+      "views": 102000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +289,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_9.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_7.jpg",
           "width": 640
         }
       ]
