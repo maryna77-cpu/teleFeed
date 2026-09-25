@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 3031,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتوقف ارائه خدمات میکروتیک به کاربران ایرانی؛ روترها از کار می‌افتند؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eشرکت میکروتیک (MikroTik) در پی اعمال مقررات تحریمی الزام‌آور اتحادیه اروپا، سازمان ملل و آمریکا، ارائه خدمات و پشتیبانی مستقیم به کاربران با IP ایران را متوقف کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eروترهای فعال از کار نمی‌افتند:\u003c/b\u003e سیستم‌عامل RouterOS پس از فعال‌سازی، لایسنس را به‌صورت محلی روی دستگاه ذخیره می‌کند و عملکرد روزمره روتر وابسته به اتصال مداوم به سرورهای میکروتیک نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eچالش‌های حساب کاربری و لایسنس جدید:\u003c/b\u003e در صورت تعلیق حساب‌های کاربران ایرانی، فرآیندهایی نظیر خرید لایسنس جدید، انتقال لایسنس به سخت‌افزار دیگر، بازیابی کلیدها و ثبت تیکت پشتیبانی رسمی مسدود خواهند شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e ماشین‌های مجازی و سرویس‌های ابری CHR که نیازمند اعتبارسنجی مداوم لایسنس و تمدید هستند، بیش از روترهای سخت‌افزاری با ریسک و اختلال مواجه خواهند شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e با پایان رسمی پشتیبانی از RouterOS نسخه ۶ در سپتامبر ۲۰۲۶ و عدم انتشار پچ‌های امنیتی جدید، مهاجرت به نسخه‌های جدیدتر برای سازمان‌ها با وجود محدودیت‌های جدید با چالش فنی و لایسنس همراه خواهد بود.\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-09-19T15:14:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
-        }
-      ]
-    },
-    {
       "id": 3032,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eخروج جمنای از محیط آزمایشگاهی و نفوذ به ۳ شرکت واقعی!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگوگل اعلام کرد هوش مصنوعی Gemini در جریان تست‌های امنیت سایبری، به دلیل دسترسی ناخواسته به اینترنت، از محیط قرنطینه خارج شده و به زیرساخت ۳ شرکت واقعی نفوذ کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنقص در اتصال به وب:\u003c/b\u003e دسترسی اینترنتی ناخواسته در محیط تست به مدل اجازه داد فراتر از آزمایشگاه عمل کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eخطا در تفکیک هدف:\u003c/b\u003e مدل قرار بود یک شرکت فرضی را تست کند، اما به دلیل تشابه نام، شرکت واقعی را هدف گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eورود با حدس پسورد:\u003c/b\u003e جمنای با کشف و حدس گذرواژه‌ها وارد شبکه‌های این شرکت‌ها شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتوقف خودکار:\u003c/b\u003e مدل پس از تشخیص واقعی بودن محیط، عملیات را فوراً متوقف کرد و آسیبی به بار نیامد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e باگ دسترسی اینترنتی در محیط‌های تست برطرف شده و به شرکت‌های هدف اطلاع داده شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/NovinAIplus\" target=\"_blank\"\u003e\u003cb\u003e@NovinAIplus\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-09-19T17:05:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9710,
+      "views": 9810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-09-20T12:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8960,
+      "views": 9060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +38,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_1.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg",
           "width": 720
         }
       ]
@@ -67,7 +49,7 @@
       "date": "2026-09-20T13:26:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -75,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_1.jpg"
         }
       ]
     },
@@ -85,7 +67,7 @@
       "date": "2026-09-20T14:02:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +75,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
         }
       ]
     },
@@ -103,7 +85,7 @@
       "date": "2026-09-21T10:32:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9310,
+      "views": 9470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +93,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
         }
       ]
     },
@@ -121,7 +103,7 @@
       "date": "2026-09-21T16:29:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8650,
+      "views": 8840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +121,7 @@
       "date": "2026-09-21T17:09:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8540,
+      "views": 8710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +129,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
         }
       ]
     },
@@ -157,7 +139,7 @@
       "date": "2026-09-22T12:58:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8100,
+      "views": 8380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +147,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_10.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg"
         }
       ]
     },
@@ -175,7 +157,7 @@
       "date": "2026-09-22T14:03:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8210,
+      "views": 8320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +165,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_4.jpg"
         }
       ]
     },
@@ -193,62 +175,7 @@
       "date": "2026-09-22T15:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8029,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3045,
-      "message": "\u003cb\u003eتبریک به برنده عزیز قرعه‌کشی اکانت هوش مصنوعی 18 ماهه (دوره دوازدهم) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eهمونطور که قول داده بودیم، قرعه‌کشی از بین کامنت‌های ویدیو یوتیوب انجام شد و برنده 1 عدد اکانت هوش مصنوعی 18 ماهه مشخص شد:\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e برنده عزیز با آیدی matintarafdar4000، مبارکتون باشه! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eلطفا برای دریافت جایزه‌تون و هماهنگی‌های لازم، از طریق ربات تماس با ما در تلگرام با پشتیبانی کانال در ارتباط باشید: (مهلت دریافت جایزه 1 هفته)\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/iaghapourbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e ربات تماس با ما\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eبه دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!\u003cbr/\u003e\u003cbr/\u003eاز همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-22T17:01:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_6.jpg",
-          "width": 1984
-        }
-      ]
-    },
-    {
-      "id": 3047,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرگولاتوری: آسیب کابل‌های دریایی عامل افزایش پینگ بازی‌های آنلاین است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسازمان تنظیم مقررات (رگولاتوری) در واکنش به اعتراض کاربران درباره وضعیت پینگ بازی‌ها اعلام کرد:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eعلت اختلال:\u003c/b\u003e آسیب‌دیدگی و قطعی بخشی از کابل‌های ارتباطی دریایی در مسیر کشورهای همسایه جنوبی به دلیل حوادث ناشی از جنگ.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eوضعیت تعمیر:\u003c/b\u003e به دلیل ماهیت زیرساختی و نیاز به هماهنگی میان کشورهای واقع در مسیر، رفع مشکل زمان‌بر خواهد بود.//زومیت\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-09-23T10:33:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8220,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "iAghapour | Digital Freedom 🎯",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3048,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی GPT-6 Sol و GPT-6 Luna؛ مدل‌های جدید اوپن‌ای‌آی با نصف قیمت!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاوپن‌ای‌آی دو مدل جدید \u003cb\u003eGPT-6 Sol\u003c/b\u003e و \u003cb\u003eGPT-6 Luna\u003c/b\u003e را با تمرکز بر سرعت بالاتر، خطای کمتر و \u003cb\u003e۵۰٪ کاهش هزینه API\u003c/b\u003e معرفی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eهزینه بسیار پایین‌تر:\u003c/b\u003e ورودی Sol به ۲ دلار و Luna به ۰.۱۰ دلار به ازای هر میلیون توکن رسیده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eعملکرد قدرتمند:\u003c/b\u003e در بنچمارک‌های برنامه‌نویسی و اتوماسیون (نظیر AutomationBench و DeepSWE)، مدل Sol رقبا مثل Claude Opus 5 را با کسری از هزینه شکست داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکاهش ۵۰ درصدی خطاها:\u003c/b\u003e دقت اطلاعاتی مدل به سطح GPT-6 Astra نزدیک شده و پاسخ‌ها در کارهای فنی شفاف‌تر و کوتاه‌تر شده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدسترسی:\u003c/b\u003e فعال در API با شناسه‌های \u003ccode\u003egpt-6-sol\u003c/code\u003e و \u003ccode\u003egpt-6-luna\u003c/code\u003e، ابزار Codex و به‌صورت تدریجی در ChatGPT Work و دسکتاپ.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/NovinAIplus\" target=\"_blank\"\u003e\u003cb\u003e@NovinAIplus\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-09-23T12:49:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7450,
+      "views": 8140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,12 +188,49 @@
       ]
     },
     {
-      "id": 3049,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش ساخت تحریم‌شکن شخصی بدون تانل + پنل مدیریت (مشابه شکن)\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e خیلی وقت‌ها برای دور زدن تحریم‌های اینترنتی (سایت‌های برنامه‌نویسی، بازی‌ها، صرافی‌ها و...) نیازی به درگیری با تانل‌های پیچیده نیست. تو این ویدیو بهتون آموزش میدم چطوری یک تحریم‌شکن شخصی قدرتمند (مشابه سرویس شکن) بسازید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/JKJbSuGcD2Y\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e این ویدیو هم مثل ویدیو های قبلی قرعه‌کشی اکانت هوش مصنوعی داره، برای شرکت توی قرعه‌کشی فرصت محدوده (شرایطش هم خیلی راحته؛ فقط کافیه زیر ویدیو برامون کامنت بذارید).\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D9%86%D9%84\"\u003e#پنل\u003c/a\u003e \u003ca href=\"?q=%23%D8%B4%DA%A9%D9%86\"\u003e#شکن\u003c/a\u003e \u003ca href=\"?q=%23dns\"\u003e#dns\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
-      "date": "2026-09-23T13:44:58Z",
+      "id": 3045,
+      "message": "\u003cb\u003eتبریک به برنده عزیز قرعه‌کشی اکانت هوش مصنوعی 18 ماهه (دوره دوازدهم) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eهمونطور که قول داده بودیم، قرعه‌کشی از بین کامنت‌های ویدیو یوتیوب انجام شد و برنده 1 عدد اکانت هوش مصنوعی 18 ماهه مشخص شد:\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e برنده عزیز با آیدی matintarafdar4000، مبارکتون باشه! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eلطفا برای دریافت جایزه‌تون و هماهنگی‌های لازم، از طریق ربات تماس با ما در تلگرام با پشتیبانی کانال در ارتباط باشید: (مهلت دریافت جایزه 1 هفته)\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/iaghapourbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e ربات تماس با ما\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eبه دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!\u003cbr/\u003e\u003cbr/\u003eاز همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-22T17:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7710,
+      "views": 8100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_8.jpg",
+          "width": 1984
+        }
+      ]
+    },
+    {
+      "id": 3047,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرگولاتوری: آسیب کابل‌های دریایی عامل افزایش پینگ بازی‌های آنلاین است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسازمان تنظیم مقررات (رگولاتوری) در واکنش به اعتراض کاربران درباره وضعیت پینگ بازی‌ها اعلام کرد:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eعلت اختلال:\u003c/b\u003e آسیب‌دیدگی و قطعی بخشی از کابل‌های ارتباطی دریایی در مسیر کشورهای همسایه جنوبی به دلیل حوادث ناشی از جنگ.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eوضعیت تعمیر:\u003c/b\u003e به دلیل ماهیت زیرساختی و نیاز به هماهنگی میان کشورهای واقع در مسیر، رفع مشکل زمان‌بر خواهد بود.//زومیت\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003e\u003c/a\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e\u003cb\u003e@iAghapour\u003c/b\u003e\u003c/a\u003e\u003cb\u003e | \u003c/b\u003e\u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eYouTube\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-09-23T10:33:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3048,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمعرفی GPT-6 Sol و GPT-6 Luna؛ مدل‌های جدید اوپن‌ای‌آی با نصف قیمت!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاوپن‌ای‌آی دو مدل جدید \u003cb\u003eGPT-6 Sol\u003c/b\u003e و \u003cb\u003eGPT-6 Luna\u003c/b\u003e را با تمرکز بر سرعت بالاتر، خطای کمتر و \u003cb\u003e۵۰٪ کاهش هزینه API\u003c/b\u003e معرفی کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eهزینه بسیار پایین‌تر:\u003c/b\u003e ورودی Sol به ۲ دلار و Luna به ۰.۱۰ دلار به ازای هر میلیون توکن رسیده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eعملکرد قدرتمند:\u003c/b\u003e در بنچمارک‌های برنامه‌نویسی و اتوماسیون (نظیر AutomationBench و DeepSWE)، مدل Sol رقبا مثل Claude Opus 5 را با کسری از هزینه شکست داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکاهش ۵۰ درصدی خطاها:\u003c/b\u003e دقت اطلاعاتی مدل به سطح GPT-6 Astra نزدیک شده و پاسخ‌ها در کارهای فنی شفاف‌تر و کوتاه‌تر شده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدسترسی:\u003c/b\u003e فعال در API با شناسه‌های \u003ccode\u003egpt-6-sol\u003c/code\u003e و \u003ccode\u003egpt-6-luna\u003c/code\u003e، ابزار Codex و به‌صورت تدریجی در ChatGPT Work و دسکتاپ.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/NovinAIplus\" target=\"_blank\"\u003e\u003cb\u003e@NovinAIplus\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-09-23T12:49:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,12 +243,30 @@
       ]
     },
     {
+      "id": 3049,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e آموزش ساخت تحریم‌شکن شخصی بدون تانل + پنل مدیریت (مشابه شکن)\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e خیلی وقت‌ها برای دور زدن تحریم‌های اینترنتی (سایت‌های برنامه‌نویسی، بازی‌ها، صرافی‌ها و...) نیازی به درگیری با تانل‌های پیچیده نیست. تو این ویدیو بهتون آموزش میدم چطوری یک تحریم‌شکن شخصی قدرتمند (مشابه سرویس شکن) بسازید.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://youtu.be/JKJbSuGcD2Y\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e تماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e این ویدیو هم مثل ویدیو های قبلی قرعه‌کشی اکانت هوش مصنوعی داره، برای شرکت توی قرعه‌کشی فرصت محدوده (شرایطش هم خیلی راحته؛ فقط کافیه زیر ویدیو برامون کامنت بذارید).\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86\"\u003e#فیلترشکن\u003c/a\u003e \u003ca href=\"?q=%23%D9%BE%D9%86%D9%84\"\u003e#پنل\u003c/a\u003e \u003ca href=\"?q=%23%D8%B4%DA%A9%D9%86\"\u003e#شکن\u003c/a\u003e \u003ca href=\"?q=%23dns\"\u003e#dns\u003c/a\u003e\u003cbr/\u003eبرای دور زدن \u003cb\u003eفیلترینگ\u003c/b\u003e و آموزش \u003cb\u003eتکنولوژی\u003c/b\u003e و\u003cb\u003e هوش مصنوعی\u003c/b\u003e ما رو دنبال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F929A.png\u0026#39;)\"\u003e\u003cb\u003e💚\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003ca href=\"https://t.me/iAghapour\" target=\"_blank\"\u003e@iAghapour\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/@iAghapour\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYouTube\u003c/a\u003e",
+      "date": "2026-09-23T13:44:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_3.jpg"
+        }
+      ]
+    },
+    {
       "id": 3050,
       "message": "",
       "date": "2026-09-23T19:14:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6660,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +278,7 @@
       "date": "2026-09-24T15:11:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
+      "views": 6230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +296,7 @@
       "date": "2026-09-24T15:59:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4570,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +304,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_15.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_16.jpg"
         }
       ]
     },
@@ -332,7 +314,7 @@
       "date": "2026-09-24T17:09:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4040,
+      "views": 5160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,7 +322,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
         }
       ]
     },
@@ -350,7 +332,7 @@
       "date": "2026-09-24T17:35:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3740,
+      "views": 5270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -358,7 +340,25 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3055,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرئیس جدید گوگل دیپ‌مایند: جمینای 4 تقریباً برای عرضه آماده است!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپس از مدتی فاصله گرفتن از رقابت پرچمداران، گوگل در آستانه رونمایی از مدل قدرتمند و مورد انتظار \u003cb\u003eGemini 4\u003c/b\u003e قرار دارد. «کورای کاووک‌چوغلو» رهبر جدید بخش دیپ‌مایند گوگل اعلام کرد این مدل در مراحل پایانی ارزیابی قرار دارد و بسیار زودتر از پایان سال جاری میلادی عرضه خواهد شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eعرضه زودهنگام نسخه پس‌آموزش:\u003c/b\u003e کاووک‌چوغلو اعلام کرد با توجه به نتایج فوق‌العاده و هیجان‌انگیز تست‌ها، گوگل قصد دارد در اولین فرصت نسخه‌ای از فاز Post-training را منتشر کند و سرعت ارتقای مدل‌ها را بالا نگه دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبازگشت به رقابت با GPT-6 و Mythos:\u003c/b\u003e در حالی که رقبایی مثل OpenAI با معرفی مدل‌های سری GPT-6 و آنتروپیک با خانواده Mythos پیشتازی می‌کردند و عرضه وعده‌داده‌شده‌ی Gemini 3.5 Pro لغو شده بود، دیپ‌مایند هدف خود را مستقیماً روی جهش به نسل ۴ گذاشته است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتغییر استراتژی فنی:\u003c/b\u003e کاووک‌چوغلو علت تأخیر در عرضه پرچمدار را تمرکز موقت روی بهینه‌سازی مدل‌های سبک و سریع Flash دانست و تأکید کرد گوگل همچنان جایگاه خود در خط مقدم هوش مصنوعی را حفظ خواهد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/NovinAIplus\" target=\"_blank\"\u003e\u003cb\u003e@NovinAIplus\u003c/b\u003e\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-09-25T12:37:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "iAghapour | Digital Freedom 🎯",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/iaghapour/media_13.jpg"
         }
       ]
     }
