@@ -1,6 +1,6 @@
 # 📡 Telegram Channel Exports
 
-**Last updated:** 2026-09-30 20:38:32 UTC
+**Last updated:** 2026-10-01 00:27:52 UTC
 **Repository:** [maryna77-cpu/teleFeed](https://github.com/maryna77-cpu/teleFeed)
 
 ## 📋 Channels
@@ -23,8 +23,8 @@
 - **ircfspace_base64**: 20 posts
 - **jangaavaran1390**: 17 posts
 - **jangaavaran1390_base64**: 17 posts
-- **mamlekate**: 18 posts
-- **mamlekate_base64**: 18 posts
+- **mamlekate**: 17 posts
+- **mamlekate_base64**: 17 posts
 - **netblocks**: 20 posts
 - **netblocks_base64**: 20 posts
 - **persianvpnhub**: 20 posts
@@ -37,5 +37,5 @@
 - **vahidonline_base64**: 12 posts
 
 ## 🖼️ Media
-- Total files: 199
+- Total files: 202
 - Total size: 11M
