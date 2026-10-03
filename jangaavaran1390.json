@@ -3,180 +3,16 @@
     "id": 0,
     "title": "جنگاوران",
     "username": "jangaavaran1390",
-    "photo_url": "https://cdn4.telesco.pe/file/IGPNT4ye-Crb4k8XY7pNwKRcffasu4RAALTZ-h4CaIQaNIrH2gyus8AthCxrsS6Ondegk3aeCaw7vNYmitlGdQie9a-AdV1OHblH3ggm37WQPn8shEToYoUqah_7R7LAVlqrSBIKXpvJD0eA-aBqprrDGu0lIYqoaieq8NQNRgbFghNnsckPBjTXMPGcXCEWPnrlEkx8NrmgutvKL9tiXrgOGVVqhKNClvAZLTedhmfOWrRZteB6X1seA9LkDfYkUYJYs1w3HHU9jqIXEwRvMdcVcvA1xGb7FYcYJ5YIWUYrJtHh2vdvR65pOJhcWwtV1Pb1sD8Tg0AL7X6Uf6BCTg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/OXbtov06axpNxISMqFuRaCkhECQGd8Pwu2AD8tMrVTGktuNW6bFnkKfcQlYoy2JqkxonF4p0WukyIRsMMKNyFAdjWAekRRqmfraWZDEUN2soK7yWr4_wEKDkOJT9-r_caHk7iUPrYgcfOxd7NxfsHIp2lkabMNq_TTAmKFvKSQYW71tu3IybE5VFdJCZ8GrQUGXK5tA1lFf5ooZ2tAAw0xQoeIZYSJOW2N3puDfPkj4d87WWIWpbEfydJFUzZfXGRmMJCvUvjfSDMmuGXsdrfKXJHBvpcVI8wE58PfXl5dvzfMgvvxohG4D2hzKaWqDodw5cRHOAwVjRg-3fiWQnWw.jpg"
   },
   "posts": [
-    {
-      "id": 142083,
-      "message": "وال والستریت ژورنال می‌گوید کمک خلبان عمانی که در حادثه هواپیمای اماراتی نقش داشته قبل از این در خود عمان به دلیل عقاید افراطی از کار برکنار شده بود ولی بعد از آن شرکت اماراتی آن را به خدمت گرفته و حتی اجازه پرواز به قلب اسرائیل را به آن می‌دهد",
-      "date": "2026-10-02T20:06:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142084,
-      "message": "مقامات بریتانیایی دو تبعه ایرانی را به اتهام توطئه برای انجام یک حمله تروریستی علیه جوامع یهودی در منچستر دستگیر کردند.\u003cbr/\u003e\u003cbr/\u003eادعا شده است که این افراد با یک \u0026#34;طرف سوم\u0026#34; در ارتباط بودند که احتمالاً ایران است.",
-      "date": "2026-10-02T20:07:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142085,
-      "message": "در ادامه پیروزی‌هایمان در میدان نبرد و نابودی توان نظامی اسرائیل و آمریکا، تصمیم گرفتیم به این شکل نیز به دشمن ضربه بزنیم",
-      "date": "2026-10-02T20:08:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142086,
-      "message": "ترامپ درباره ترکیه: من ترکیه را دوست دارم. من همیشه تلاش خواهم کرد تا رئیس‌جمهور اردوغان را خوشحال کنم.",
-      "date": "2026-10-02T20:12:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142087,
-      "message": "بخدا مردم شانس دارند",
-      "date": "2026-10-02T20:12:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142088,
-      "message": "روس‌ها در حال آزمایش یک تی ۷۲ بدون سرنشین هستند که از راه دور هدایت می‌شوند.. این نسخه دارای برجک جدید است و از یک توپ ۱۲۵ میلیمتری با گوله گذاری خودکار و با لوله کوتاه‌تر برای پشتیبانی آتش استفاده می‌کند",
-      "date": "2026-10-02T20:15:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 142091,
-      "message": "ما کانفیگ نمی‌فروشیم،\u003cbr/\u003eپایداری + اعصابِ راحت می‌فروشیم.\u003cbr/\u003e\u003cbr/\u003eاگر دنبال سرعت بالا و وصل‌شدنِ پایدار هستی ، نه حرفای قشنگ  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e پلن‌ ها(کاربر نامحدود) :\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 10 گیگ → 150\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 20 گیگ → 250\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 30 گیگ → 350\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 50 گیگ → 500\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e 100 گیگ → 750 \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e مخصوص کسایی که \u003cb\u003eکیفیت\u003c/b\u003e  و \u003cb\u003eسرعت\u003c/b\u003e براشون خط قرمزه !\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eشعارمون؟\u003cbr/\u003eآخرین جایی که vpn میخرید همینجاست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4E2808DF09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e❤️‍🔥\u003c/b\u003e\u003c/i\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e خرید و تحویل آنی:\u003cbr/\u003e\u003ca href=\"https://t.me/AlwaysOn_Pv\" target=\"_blank\"\u003e@AlwaysOn_Pv\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/AlwaysOn_Pv\" target=\"_blank\"\u003e@AlwaysOn_Pv\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e کانال:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/AlwaysOnNet\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/AlwaysOnNet\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-10-02T20:29:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142092,
-      "message": "سلام صبح بخیر",
-      "date": "2026-10-03T03:00:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
-        }
-      ]
-    },
-    {
-      "id": 142093,
-      "message": "ترامپ: گرانی نفت بهای کوچکی برای خلع سلاح هسته‌ای ایران است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e ترامپ گفت افزایش قیمت نفت در برابر خطر دستیابی ایران به سلاح هسته‌ای، «هزینه کوچکی» محسوب می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e او همچنین مدعی شد حمله بمب‌افکن‌های B-2 آمریکا، ظرفیت هسته‌ای ایران را به‌شدت منهدم کرده و بازسازی آن می‌تواند سال‌ها زمان ببرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e ترامپ تأکید کرد هدف واشنگتن جلوگیری از دستیابی ایران به سلاح هسته‌ای است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7\"\u003e#آمریکا\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86\"\u003e#ایران\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D8%B1%D8%A7%D9%85%D9%BE\"\u003e#ترامپ\u003c/a\u003e \u003ca href=\"?q=%23B2\"\u003e#B2\u003c/a\u003e \u003ca href=\"?q=%23%D9%87%D8%B3%D8%AA%D9%87%E2%80%8C%D8%A7%DB%8C\"\u003e#هسته‌ای\u003c/a\u003e",
-      "date": "2026-10-03T03:01:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142094,
-      "message": "حرف تکراری",
-      "date": "2026-10-03T03:01:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142095,
-      "message": "ساعاتی پیش یک تانکر دیگر نیز در خلیج فارس مورد حمله قرار گرفت",
-      "date": "2026-10-03T03:01:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
-    {
-      "id": 142096,
-      "message": "اکسیوس: عربستان و نیروهای دولت یمن عملیات تهاجمی گسترده‌ای برای بازپس‌گیری مناطق ساحلی دریای سرخ نزدیک تنگه باب‌المندب علیه حوثی‌ها برنامه‌ریزی کرده‌اند. علی‌رغم رد درخواست مشارکت مستقیم نظامی آمریکا، در صورت بروز مشکلات، واشنگتن مجدداً امکان حملات هوایی علیه حوثی‌ها را بررسی خواهد کرد.",
-      "date": "2026-10-03T03:02:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5510,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جنگاوران"
-    },
     {
       "id": 142097,
       "message": "والستریت ژورنال: خلبان کمکی در اقامت قبلی در سوریه تحت تأثیر «ایدئولوژی‌های افراطی» قرار گرفته بود.",
       "date": "2026-10-03T03:04:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5500,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +24,7 @@
       "date": "2026-10-03T03:04:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5430,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +36,7 @@
       "date": "2026-10-03T03:24:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4510,
+      "views": 14700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +48,7 @@
       "date": "2026-10-03T03:35:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3570,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_7.jpg"
         }
       ]
     },
@@ -230,7 +66,166 @@
       "date": "2026-10-03T04:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1270,
+      "views": 14700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 142102,
+      "message": "آلمان تا ۲۰۲۷ اولین گردان پهپادی با ۶۰۰ سرباز تشکیل می‌دهد. بوریس پیستوریوس، وزیر دفاع، اعلام کرد این گردان شامل پهپادهای هوایی/زمینی، مهمات هوشمند و جنگ الکترونیک است و بخشی از لشکر زرهی دهم خواهد بود. پهپادهای این گردان در شعاع ۵۰۰ کیلومتر عمل می‌کنند و مدل‌های تهاجمی تا ۷۰ دقیقه ماندگاری دارند.",
+      "date": "2026-10-03T04:09:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142103,
+      "message": "به گزارش ABC، کمک‌خلبان عمانی ۲۹ ساله (با نام حمام الحمامی) که سعی در ربودن هواپیمای فلایدبی در مسیر دبی به تل‌آویو داشت، در حال همکاری با تحقیقات است. طبق گزارش CNN، او در امارات متولد شده، پدرش اهل عمان و مادرش اهل سوریه است و سال‌ها در امارات زندگی کرده است.",
+      "date": "2026-10-03T05:09:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142104,
+      "message": "حمام الحمامی.....آب است ولی کم است",
+      "date": "2026-10-03T05:10:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142105,
+      "message": "‏\u003ctg-emoji emoji-id=\"5904701625288626442\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e روزنامه جمهوری اسلامی: ماه آینده سرنوشت‌ساز است؛ کسی به دشمن بهانه شروع جنگ ندهد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e‏\u003ctg-emoji emoji-id=\"5821302890932736039\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eایران در یک ماه آینده باید با هوشیاری کامل شرایط را زیر نظر داشته باشد و از هرگونه اقدام عجولانه و محاسبه‌نشده پرهیز کند.\u003cbr/\u003e‏\u003ctg-emoji emoji-id=\"5839353758009530020\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفرصت موجود باید برای تقویت توان دفاعی، افزایش حمایت مردمی از نظام و کاهش مشکلات اقتصادی و معیشتی مورد استفاده قرار گیرد.\u003cbr/\u003e‏\u003ctg-emoji emoji-id=\"5821302890932736039\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eایران سیاست آغاز نکردن حمله را از اصول روابط خارجی خود می‌داند و در شرایط فعلی باید از هر اقدامی که بتواند بهانه‌ای برای آغاز دوباره جنگ در اختیار دشمن قرار دهد، جلوگیری شود.\u003cbr/\u003e‎\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/iran_eghtesadi\" target=\"_blank\"\u003e\u003cb\u003e@iran_eghtesadi\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e",
+      "date": "2026-10-03T05:13:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142106,
+      "message": "ما سالها برای جلب حمایت مردم و کاهش مشکل اقتصادی فرصت داشتیم کاری نکردیم طی یک ماه قرار است چه گلی بیفشانیم دقیقا ؟",
+      "date": "2026-10-03T05:14:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142107,
+      "message": "روسها دست به ارتقا توپ‌های ضد هوای قدیمی خود دارند که برخی از آنها ریشه در جنگ جهانی دوم دارند \u003cbr/\u003eتوپ ۵۷ میلیمتری و ۳۰ میلیمتری دفاع هوایی هم اکنون به شکل تکی با استفاده از سیستم آتش اپتیکی و رایانه‌ای می‌تواند آتش دقیقی را فراهم کند اگرچه این توپ‌ها قدیمی هستند ولی در نقش ضد پهپاد با سیستم هدایتی مبین می‌تواند بسیار موثر باشند",
+      "date": "2026-10-03T05:31:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_3.jpg",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 142108,
+      "message": "به نظر باز بمب هدایت‌شونده اسپایس اسرائیلی با برد ۱۰۰ کیلومتر است\u003cbr/\u003e\u003cbr/\u003eمتن تصویر به اشتباه درج کرده موشک",
+      "date": "2026-10-03T05:53:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_2.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 142111,
+      "message": "فایننشال تایمز: زلنسکی از ترامپ خواسته شرکت‌های روسی و چینی مشارکت‌کننده در توسعه Rassvet (رقیب Starlink) را تحریم کند. او اعلام کرد چین و روسیه بر این فناوری همکاری می‌کنند و Rassvet تا پایان سال آینده عملیاتی خواهد شد.",
+      "date": "2026-10-03T06:06:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142112,
+      "message": "بر اساس گزارش وال استریت ژورنال: وقفه‌های استراحت غیرمعمول رئیس‌جمهور چین، شی جینپینگ، حدود پنج ساعت از برنامه بازدید او از واشنگتن در هفته گذشته کم کرد. مهم‌ترین درخواست این بود که یک اتاق خصوصی در بخش غربی کاخ سفید برای شی جینپینگ در نظر گرفته شود تا او بتواند بین برنامه‌ها استراحت کند. فقط همسرش مجاز به همراهی او بود. مقامات آمریکایی که از جزئیات برنامه‌ریزی بازدید از مقامات ارشد در کاخ سفید آگاه هستند، تأکید کردند که این یک درخواست غیرمعمول بود.",
+      "date": "2026-10-03T06:33:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142113,
+      "message": "به ۱۲۴۰۰۰ پیامبر قرار بود دلار ۲۵۰ هزارتومانی رو طرف پیروز جنگ تا شب عید ببنیم نه مهر ماه\u003cbr/\u003eالبته الان ۲۶۰ رد کردها",
+      "date": "2026-10-03T06:44:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142114,
+      "message": "آمریکا قایق بدون \u003ca href=\"https://jangaavaran.ir/corsair-usv/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسرنشین کرسر\u003c/a\u003e را نزدیک کوبا مستقر کرد \u003cbr/\u003eاین همان قایق انتحاری است که امریکایی‌ها با آن اسکله تعمیر و نگهداری زیردریایی‌های ارتش ایران را در بندرعباس هدف قرار دادند\u003cbr/\u003e\u003cbr/\u003eالبته این قایق را می‌توان در نقش شناسایی نیز استفاده کرد",
+      "date": "2026-10-03T06:54:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,16 +238,34 @@
       ]
     },
     {
-      "id": 142102,
-      "message": "آلمان تا ۲۰۲۷ اولین گردان پهپادی با ۶۰۰ سرباز تشکیل می‌دهد. بوریس پیستوریوس، وزیر دفاع، اعلام کرد این گردان شامل پهپادهای هوایی/زمینی، مهمات هوشمند و جنگ الکترونیک است و بخشی از لشکر زرهی دهم خواهد بود. پهپادهای این گردان در شعاع ۵۰۰ کیلومتر عمل می‌کنند و مدل‌های تهاجمی تا ۷۰ دقیقه ماندگاری دارند.",
-      "date": "2026-10-03T04:09:40Z",
+      "id": 142115,
+      "message": "دادستان کل امارات: تحقیقات نشان داد کمک خلبان فلای‌دبی قصد حمله تروریستی داشت و با تبر اضطراری به خلبان حمله کرد تا کنترل هواپیما را بگیرد.",
+      "date": "2026-10-03T07:39:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 522,
+      "views": 10000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جنگاوران"
+    },
+    {
+      "id": 142116,
+      "message": "موشک PrSM Increment 4 چه تفاوتی دارد؟\u003cbr/\u003e\u003cbr/\u003eموشک \u003ca href=\"https://jangaavaran.ir/prsm/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ePrSM Increment 1\u003c/a\u003e نسخه پایه است و برای جایگزینی اتکامز طراحی شده؛ برد آن بیش از ۴۰۰ کیلومتر است و عمدتاً برای اهداف زمینی ثابت طراحی شده است. \u003cbr/\u003e\u003cbr/\u003eموشک Increment 2 همان خانواده موشکی را با یک جستجوگر چندحالته (Multi-Mode Seeker) ارتقا می‌دهد؛ در نتیجه می‌تواند اهداف متحرک، از جمله شناورها، را نیز درگیر کند. \u003cbr/\u003e\u003cbr/\u003eاما Increment 4 قرار است:\u003cbr/\u003e\u003cbr/\u003e برد: حداقل ۱۰۰۰ کیلومتر؛ تقریباً دو برابر نسخه پایه. \u003cbr/\u003e پیشرانش جدید: در طرح Lockheed Martin/L3Harris، موشک ابتدا با بوستر راکتی شتاب می‌گیرد و سپس یک رم‌جت (Ramjet) وارد عمل می‌شود. این روش برای افزایش چشمگیر برد طراحی شده است. \u003cbr/\u003eاهداف متحرک: قرار است علاوه بر اهداف زمینی قابل جابه‌جایی، توانایی درگیری با اهداف دریایی متحرک را داشته باشد. \u003cbr/\u003e پرتابگر همان هایمارس: یکی از الزامات برنامه این است که موشک از M142 HIMARS قابل شلیک باشد؛ بنابراین برای افزایش برد الزاماً به یک سامانه پرتابگر کاملاً جدید نیاز نیست.",
+      "date": "2026-10-03T08:42:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جنگاوران",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/jangaavaran1390/media_5.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
