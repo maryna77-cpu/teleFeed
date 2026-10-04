@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 2617,
-      "message": "کلاینت Satelite یک اپ پروکسی متن‌باز و رایگان برای اندروید، ویندوز، لینوکس و مک هست، که می‌تونه بین هسته‌‌های sing-box، Xray و mihomo سوییچ کنه. \u003cbr/\u003eاز وارد کردن انواع سابسکریپشن و کانفیگ گرفته، تا Rule-based Routing، پراکسی‌چین، DNS هوشمند، System Proxy و TUN رو پوشش میده و یکی از قابلیت‌های جالبش، حالت Multi-Core هست که اجازه میده چند هسته همزمان کنار هم کار کنن؛ مثلاً سینگ‌باکس هسته اصلی باشه و بعضی پروتکل‌ها رو به ایکس‌ری یا mihomo بسپره. \u003cbr/\u003eانتخاب هوشمند نودها، تست تأخیر و IP خروجی، مدیریت DNS و Hosts، تشخیص اتوماتیک پروسه‌ها و اجرای دائمی در System Tray هم از دیگر امکاناتشه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/zn0wii/satelite-proxy/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/zn0wii/satelite-proxy/releases\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/zn0wii/satelite-one/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/zn0wii/satelite-one/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-09-26T04:14:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_12.jpg"
-        }
-      ]
-    },
-    {
       "id": 2618,
       "message": "اپ sushTun یک کلاینت متن‌باز و رایگان برای هسته ایکس‌ری هست، که از پروتکل‌هایی مثل VLESS، VMess، Trojan، Shadowsocks، Hysteria2 و WireGuard پشتیبانی می‌کنه و تمام ترافیک سیستم رو از طریق تانل ایکس‌ری عبور میده.\u003cbr/\u003eیکی از بخش‌های کاربردی این‌برنامه که برای ویندوز، لینوکس و مک ارائه شده، مسیریابی هوشمنده؛ تا بتونین مشخص کنین ترافیک ایران، روسیه، چین، تبلیغات و دامنه‌ها یا IPهای دلخواه از تانل عبور نکنن. امکان تنظیم DNS، فرگمنت برای TLS، Multiplexing و چند قابلیت دیگه هم وجود داره. حالت کم‌مصرف هم اجازه میده ترافیک‌های پس‌زمینه سیستم مثل Telemetry و آپدیت‌ها مستقیماً به اینترنت وصل بشن و از پروکسی عبور نکنن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/soroushdeimi/sushTun/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/soroushdeimi/sushTun/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-09-27T04:08:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_8.jpg"
         }
       ]
     },
@@ -48,7 +30,7 @@
       "date": "2026-09-27T04:18:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35500,
+      "views": 35700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-09-30T16:17:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +60,7 @@
       "date": "2026-09-30T16:22:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_6.jpg"
         }
       ]
     },
@@ -96,7 +78,7 @@
       "date": "2026-09-30T16:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +96,7 @@
       "date": "2026-09-30T16:35:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +108,7 @@
       "date": "2026-09-30T16:39:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +126,7 @@
       "date": "2026-09-30T16:43:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +134,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_11.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_12.jpg"
         }
       ]
     },
@@ -162,7 +144,7 @@
       "date": "2026-09-30T16:46:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 19300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-09-30T17:36:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +174,7 @@
       "date": "2026-10-01T04:07:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +186,7 @@
       "date": "2026-10-01T15:16:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +194,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_7.jpg"
         }
       ]
     },
@@ -222,7 +204,7 @@
       "date": "2026-10-01T15:21:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 16500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +222,7 @@
       "date": "2026-10-01T15:26:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +240,7 @@
       "date": "2026-10-01T15:33:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +258,7 @@
       "date": "2026-10-02T15:27:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +276,7 @@
       "date": "2026-10-02T15:39:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +294,7 @@
       "date": "2026-10-02T15:56:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +306,7 @@
       "date": "2026-10-02T16:12:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,6 +315,24 @@
         {
           "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_13.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2639,
+      "message": "نسخه ۱۸ از فیلترشکن اندرویدی MahsaNG منتشر شده و توی این نسخه هسته Xray مهسا آپدیت شده و پشتیبانی از پروتکل MASQUE رو اضافه کردن.\u003cbr/\u003eبرای وایرگارد و مسک حالا یک اسکنر IP اختصاصی در دسترسه که از نویز و پورت پشتیبانی می‌کنه و میشه کانفیگ‌های این دو پروتکل رو با کلید Auto ساخت. امکان بکاپ از کانفیگ‌های شخصی، صفحه پروکسی تلگرام برای کپی و تست سریع پروکسی‌ها و بهبود Fragment و حالت Auto هم اضافه شدن.\u003cbr/\u003eچند نویز جدید برای عبور از فیلترینگ UDP، کانفیگ‌های جدید یوتیوب و پشتیبانی از Cipher Suite برای افزایش سرعت آپلود در متدهای پترنیها به این نسخه اضافه شده. FinalMask حالا روی پروتکل‌های جدید MASQUE و Hysteria در دسترسه و علاوه بر رفع یک سری از مشکلات، ابزار زنجیره‌ساز کانفیگ هم از Fragment، Hysteria و MASQUE پشتیبانی می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/GFW-knocker/MahsaNG/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/GFW-knocker/MahsaNG/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-10-04T04:52:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ircfspace/media_11.jpg"
         }
       ]
     }
