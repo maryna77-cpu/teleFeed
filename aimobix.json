@@ -7,66 +7,12 @@
   },
   "posts": [
     {
-      "id": 1130,
-      "message": "سلام و درود \u003cbr/\u003eمن یه اشتباهی کردم v2ray رو اپدیت کردم از وقتی اپدیت کردم هر چند دقیقه قطع میشه کانفیگا \u003cbr/\u003eنمیدونم اپدیت جدید با گوشی من سازگار نیست یا واقعا مشکل داره \u003cbr/\u003eمیخوام باز نسخه قدیمی نصب کنم \u003cbr/\u003eو یه پیشنهاد : همیشه چند تا کلاینت داشته باشید کانفیگ هارو با چند تا کلاینت تست کنید بهتره",
-      "date": "2026-09-30T06:52:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 1131,
-      "message": "یه پست جدید دارم آماده میکنم \u003cbr/\u003eخیلییی کاربردیه و به درد هممون میخوره دارم ادیتش رو میزنم واسه امشب",
-      "date": "2026-09-30T13:50:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 1132,
-      "message": "با این ابزار هوش مصنوعی رو بدون اینترنت \u003cbr/\u003eاستفاده کن! \u003cbr/\u003eمناسب برای زمانی که به اینترنت دسترسی نداریم\u003cbr/\u003e\u003cbr/\u003eآموزش فعالسازی  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/OTgoFaKGyo4\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/OTgoFaKGyo4\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eمناسب اندروید ، آیفون و ویندوز \u003cbr/\u003eهوش مصنوعی بدون اینترنت و آفلاین\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود برنامه برای اندروید \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eحتما فعالش کنید اگه یه موقع به اینترنت دسترسی نداشتین ، بدون اینترنت از این هوش مصنوعی استفاده کنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Aimobix\" target=\"_blank\"\u003e@Aimobix\u003c/a\u003e",
-      "date": "2026-09-30T17:30:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1134,
-      "message": "با این ابزار هوش مصنوعی رو بدون اینترنت  استفاده کن!  مناسب برای زمانی که به اینترنت دسترسی نداریم  آموزش فعالسازی  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e  https://youtu.be/OTgoFaKGyo4   مناسب اندروید ، آیفون و ویندوز  هوش مصنوعی بدون اینترنت و آفلاین  دانلود برنامه برای اندروید   حتما فعالش…",
-      "date": "2026-09-30T20:54:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
       "id": 1135,
       "message": "",
       "date": "2026-09-30T21:02:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +24,7 @@
       "date": "2026-10-02T08:37:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 18600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_6.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         }
       ]
     },
@@ -96,7 +42,7 @@
       "date": "2026-10-02T08:40:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +54,7 @@
       "date": "2026-10-02T08:43:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19100,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +66,7 @@
       "date": "2026-10-02T08:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19100,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +78,7 @@
       "date": "2026-10-02T11:31:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +90,7 @@
       "date": "2026-10-02T17:40:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +102,7 @@
       "date": "2026-10-02T19:36:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +120,7 @@
       "date": "2026-10-02T19:37:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +132,7 @@
       "date": "2026-10-02T19:38:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +144,49 @@
       "date": "2026-10-03T07:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 18700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1148,
+      "message": "رفقا ساخت این ویدئو ها تو سایت higgsfield دیگه رایگان نیست \u003cbr/\u003eدنبال روش های رایگان میگردم اگه چیزی باشه حتما قرار میدم تو کانال",
+      "date": "2026-10-03T12:34:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 1149,
+      "message": "به‌خاطر اعتراضات گسترده و شدید تو فرانسه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e اینترنت تو کل ایران نسبت به روز‌های قبل ضعیف‌تر شده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-03T19:07:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 1150,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FBA.png\u0026#39;)\"\u003e\u003cb\u003e⏺\u003c/b\u003e\u003c/i\u003eماشین جدید ایران خودرو\u003cbr/\u003e اومدن تیبا دو رو قاطی کردن با پژو 207\u003cbr/\u003eاسمشو گذاشتن 207 الیت\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-04T10:26:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,36 +199,24 @@
       ]
     },
     {
-      "id": 1148,
-      "message": "رفقا ساخت این ویدئو ها تو سایت higgsfield دیگه رایگان نیست \u003cbr/\u003eدنبال روش های رایگان میگردم اگه چیزی باشه حتما قرار میدم تو کانال",
-      "date": "2026-10-03T12:34:45Z",
+      "id": 1151,
+      "message": "طبق شنیده ها بازم اختلال اینترنت شدید تر شده و خیلی از روش ها دوباره از کار افتادن ، اگه روشی خوب کار کنه قطعا معرفی میکنم تا همگی استفاده کنیم",
+      "date": "2026-10-04T10:51:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AiMobix"
     },
     {
-      "id": 1149,
-      "message": "به‌خاطر اعتراضات گسترده و شدید تو فرانسه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e اینترنت تو کل ایران نسبت به روز‌های قبل ضعیف‌تر شده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-10-03T19:07:12Z",
+      "id": 1152,
+      "message": "وااای ببین شیائومی چیکار کرده\u003cbr/\u003eیه تم بی نظیر و فول شیشه ای برای شیائومی\u003cbr/\u003eآموزش فعالسازی تم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/E9GqO4g2WoY\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/E9GqO4g2WoY\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eلاک اسکرین های ۳بعدی و شیشه ای\u003cbr/\u003eآیکون ها ، ویجت ها کامل شیشه ای\u003cbr/\u003eبدون تنظیمات پیچیده \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/989\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eعکس های مخصوص Depth Effect\u003cbr/\u003e\u003c/a\u003e\u003cbr/\u003eاگه از طریق فیلم نتونستید تم رو فعال کنید با فایل زیر حتما فعال میشه \u003cbr/\u003e دانلود فایل تم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-04T17:26:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "AiMobix"
-    },
-    {
-      "id": 1150,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FBA.png\u0026#39;)\"\u003e\u003cb\u003e⏺\u003c/b\u003e\u003c/i\u003eماشین جدید ایران خودرو\u003cbr/\u003e اومدن تیبا دو رو قاطی کردن با پژو 207\u003cbr/\u003eاسمشو گذاشتن 207 الیت\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-10-04T10:26:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 8680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,34 +229,52 @@
       ]
     },
     {
-      "id": 1151,
-      "message": "طبق شنیده ها بازم اختلال اینترنت شدید تر شده و خیلی از روش ها دوباره از کار افتادن ، اگه روشی خوب کار کنه قطعا معرفی میکنم تا همگی استفاده کنیم",
-      "date": "2026-10-04T10:51:58Z",
+      "id": 1153,
+      "message": "رفقا من گشتم فایل این تم رو پیدا کردم برای اون دوستانی که نتونستن پیداش کنن ، اگه از طریق برنامه تم نتونستید پیداش کنید با استفاده از برنامه zyper یا mtz.tester میتونید با فایل تم ، این تم رو فعال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-04T21:36:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 2800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "AiMobix"
     },
     {
-      "id": 1152,
-      "message": "وااای ببین شیائومی چیکار کرده\u003cbr/\u003eیه تم بی نظیر و فول شیشه ای برای شیائومی\u003cbr/\u003eآموزش فعالسازی تم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/E9GqO4g2WoY\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/E9GqO4g2WoY\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eلاک اسکرین های ۳بعدی و شیشه ای\u003cbr/\u003eآیکون ها ، ویجت ها کامل شیشه ای\u003cbr/\u003eبدون تنظیمات پیچیده \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/aimobix/989\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eعکس های مخصوص Depth Effect\u003cbr/\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e ️این فیلم هیچ پیش نیازی ندارد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-10-04T17:26:32Z",
+      "id": 1154,
+      "message": "رفقا من گشتم فایل این تم رو پیدا کردم برای اون دوستانی که نتونستن پیداش کنن ، اگه از طریق برنامه تم نتونستید پیداش کنید با استفاده از برنامه zyper یا mtz.tester میتونید با فایل تم ، این تم رو فعال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-04T21:36:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6410,
+      "views": 2750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "AiMobix",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
-        }
-      ]
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 1155,
+      "message": "بخاطر قیمتا و آینده نامعلوم چند روزه دپرسم \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A6.png\u0026#39;)\"\u003e\u003cb\u003e🤦\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A6.png\u0026#39;)\"\u003e\u003cb\u003e🤦\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A6.png\u0026#39;)\"\u003e\u003cb\u003e🤦\u003c/b\u003e\u003c/i\u003e ولی خب چاره ای نداریم باید رو به جلو حرکت کنیم \u003cbr/\u003eاز فردا بیشتر فعالیت میکنم \u003cbr/\u003eامیدوارم روزای خوب بیاد واقعا حال همه بده \u003cbr/\u003eنگران vpn هم نباشید چند تا راه جدید پیدا کردم",
+      "date": "2026-10-04T21:40:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
+    },
+    {
+      "id": 1156,
+      "message": "رفیق گلم کانف فرستاد \u003cbr/\u003eاستفاده کنید دوستان پولیه و معتبر\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://4f798fe8-5c86-4871-8317-3fe3d09e0bb4@fanava.onrovela.com:1023?encryption=none\u0026amp;security=tls\u0026amp;type=httpupgrade\u0026amp;headerType=none\u0026amp;path=%2F\u0026amp;sni=fanava.onrovela.com\u0026amp;fp=chrome\u0026amp;alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%B9%F0%9F%87%B7%20Turkie%20-%20Tunnel%20TCP%20\u003c/code\u003e",
+      "date": "2026-10-04T21:56:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "AiMobix"
     }
   ],
   "last_updated": 0
