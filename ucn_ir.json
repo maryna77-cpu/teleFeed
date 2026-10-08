@@ -12,7 +12,7 @@
       "date": "2026-10-07T12:14:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,19 +20,19 @@
       "media": [
         {
           "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg"
+        },
+        {
+          "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_11.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_22.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_16.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_19.jpg"
         },
         {
           "type": "photo",
@@ -44,19 +44,19 @@
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_17.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_23.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_15.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_21.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_18.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_4.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "date": "2026-10-07T13:03:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_13.jpg"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "date": "2026-10-07T13:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg"
         }
       ]
     },
@@ -102,7 +102,7 @@
       "date": "2026-10-07T14:49:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +114,7 @@
       "date": "2026-10-07T15:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-10-07T16:58:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-10-07T18:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 12800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +156,7 @@
       "date": "2026-10-07T19:13:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8320,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,44 +168,7 @@
       "date": "2026-10-07T20:24:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_5.jpg"
-        }
-      ]
-    },
-    {
-      "id": 39900,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eدر صداوسیما چه می‌گذرد...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-10-07T21:01:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_12.jpg",
-          "width": 256
-        }
-      ]
-    },
-    {
-      "id": 39901,
-      "message": "\u003ctg-emoji emoji-id=\"6037354877091322899\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A2.png\u0026#39;)\"\u003e\u003cb\u003e☢️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eترامپ در حال بررسی گزینه‌های حمله به ایران پیش از انتخابات میان‌دوره‌ای آمریکا در ۱۲ آبان است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبر اساس گزارش دو مقام دولت آمریکا، کاخ سفید از پنتاگون خواسته است گزینه‌هایی برای حمله به اهدافی در ایران آماده کند که امکان اجرای آن‌ها پیش از انتخابات میان‌دوره‌ای وجود داشته باشد.\u003cbr/\u003eبر اساس این گزارش، یکی از اهداف احتمالی این برنامه، کاهش فشار ناشی از قیمت بنزین و نمایش دستاوردهای نظامی پیش از انتخابات عنوان شده است.\u003cbr/\u003e\u003cbr/\u003eحتی حامیان این طرح نیز اذعان دارند که چند حمله محدود، به‌تنهایی احتمالاً برای وادار کردن ایران به مذاکره، تضمین تردد امن در تنگه هرمز یا کاهش محسوس قیمت بنزین تا پیش از انتخابات کافی نخواهد بود.\u003cbr/\u003e\u003cbr/\u003eبا این حال، طرفداران این رویکرد معتقدند اجرای یک عملیات نظامی پس از چند ماه آرامش می‌تواند فرصتی برای نمایش قدرت دولت ترامپ و اعلام یک دستاورد یا «پیروزی» فراهم کند؛ اقدامی که به باور آنان ممکن است پیش از انتخابات به جمهوری‌خواهان کمک کند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-10-07T22:22:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2950,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,12 +181,12 @@
       ]
     },
     {
-      "id": 39902,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eآیا پیاده‌روی بدون هدف جرم محسوب می‌شود؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eعلی رفیعی، فرمانده پلیس اماکن تهران، درباره برخورد با کافه‌های خیابان سنایی و ایرانشهر اظهار کرد که این محدوده‌ها به محل «بساط‌گستری» تبدیل شده‌اند.\u003cbr/\u003e\u003cbr/\u003eوی افزود: پلیس از جوانانی که در این خیابان‌ها رفت‌وآمد داشتند درباره علت حضور مکررشان پرسیده و به گفته او، برخی پاسخ داده‌اند که «خودشان نیز نمی‌دانند».\u003cbr/\u003e\u003cbr/\u003eرفیعی همچنین اجرای موسیقی زنده، فعالیت دی‌جی و بازی تخته‌نرد در این کافه‌ها را از جمله مواردی دانست که از نظر پلیس اماکن، «خط قرمز» محسوب می‌شوند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-10-07T23:27:02Z",
+      "id": 39900,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eدر صداوسیما چه می‌گذرد...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-07T21:01:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1910,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,8 +194,141 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_10.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_16.jpg",
+          "width": 256
+        }
+      ]
+    },
+    {
+      "id": 39901,
+      "message": "\u003ctg-emoji emoji-id=\"6037354877091322899\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A2.png\u0026#39;)\"\u003e\u003cb\u003e☢️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eترامپ در حال بررسی گزینه‌های حمله به ایران پیش از انتخابات میان‌دوره‌ای آمریکا در ۱۲ آبان است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبر اساس گزارش دو مقام دولت آمریکا، کاخ سفید از پنتاگون خواسته است گزینه‌هایی برای حمله به اهدافی در ایران آماده کند که امکان اجرای آن‌ها پیش از انتخابات میان‌دوره‌ای وجود داشته باشد.\u003cbr/\u003eبر اساس این گزارش، یکی از اهداف احتمالی این برنامه، کاهش فشار ناشی از قیمت بنزین و نمایش دستاوردهای نظامی پیش از انتخابات عنوان شده است.\u003cbr/\u003e\u003cbr/\u003eحتی حامیان این طرح نیز اذعان دارند که چند حمله محدود، به‌تنهایی احتمالاً برای وادار کردن ایران به مذاکره، تضمین تردد امن در تنگه هرمز یا کاهش محسوس قیمت بنزین تا پیش از انتخابات کافی نخواهد بود.\u003cbr/\u003e\u003cbr/\u003eبا این حال، طرفداران این رویکرد معتقدند اجرای یک عملیات نظامی پس از چند ماه آرامش می‌تواند فرصتی برای نمایش قدرت دولت ترامپ و اعلام یک دستاورد یا «پیروزی» فراهم کند؛ اقدامی که به باور آنان ممکن است پیش از انتخابات به جمهوری‌خواهان کمک کند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-07T22:22:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 39902,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eآیا پیاده‌روی بدون هدف جرم محسوب می‌شود؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eعلی رفیعی، فرمانده پلیس اماکن تهران، درباره برخورد با کافه‌های خیابان سنایی و ایرانشهر اظهار کرد که این محدوده‌ها به محل «بساط‌گستری» تبدیل شده‌اند.\u003cbr/\u003e\u003cbr/\u003eوی افزود: پلیس از جوانانی که در این خیابان‌ها رفت‌وآمد داشتند درباره علت حضور مکررشان پرسیده و به گفته او، برخی پاسخ داده‌اند که «خودشان نیز نمی‌دانند».\u003cbr/\u003e\u003cbr/\u003eرفیعی همچنین اجرای موسیقی زنده، فعالیت دی‌جی و بازی تخته‌نرد در این کافه‌ها را از جمله مواردی دانست که از نظر پلیس اماکن، «خط قرمز» محسوب می‌شوند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-07T23:27:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9290,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_14.jpg",
           "width": 478
+        }
+      ]
+    },
+    {
+      "id": 39903,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e کمک ۲۰۰ میلیون دلاری ایران به حزب‌الله برای حمایت از آوارگان\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eبر اساس اظهارات دو منبع آگاه، حزب‌الله ماه گذشته مبلغ ۲۰۰ میلیون دلار از ایران با هدف حمایت مالی از آوارگان دریافت کرده است.\u003cbr/\u003e\u003cbr/\u003eبر اساس این گزارش، حزب‌الله در مرحله نخست قصد دارد به هر خانواده واجد شرایط مبلغ ۳ هزار دلار، معادل تقریبی ۸۰۰ میلیون تومان، پرداخت کند.\u003cbr/\u003e\u003cbr/\u003eاولویت پرداخت با خانواده‌هایی خواهد بود که روستاهای محل سکونتشان در جریان درگیری‌ها تخریب شده یا به‌دلیل حضور نیروهای اسرائیلی امکان بازگشت به مناطق خود را ندارند.\u003cbr/\u003e\u003cbr/\u003eگفته می‌شود حدود ۵۰ هزار خانواده در انتظار دریافت این کمک هستند.\u003cbr/\u003e\u003cbr/\u003eهمچنین واسطه‌های انتقال این منابع، به‌دلیل ریسک بالای انتقال، حدود ۲۰ درصد کارمزد دریافت کرده‌اند؛ رقمی که چهار برابر میزان معمول عنوان شده است.\u003cbr/\u003e\u003c/blockquote\u003e﻿\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-08T04:34:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_12.jpg"
+        }
+      ]
+    },
+    {
+      "id": 39904,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتحویل ۴ زندانی ایرانی از امارات به اسرائیل؛ ادعای یک منبع آگاه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eیک منبع آگاه به «تابناک» مدعی شده است که امارات، چهار شهروند ایرانی را که پیش‌تر در این کشور بازداشت بودند، به اسرائیل تحویل داده است.\u003cbr/\u003e\u003cbr/\u003eاین ادعا در حالی مطرح شده که اسماعیل بقائی، سخنگوی وزارت خارجه ایران، از آزادی تعدادی از ایرانیان زندانی در امارات خبر داده و از همکاری مقامات اماراتی در این زمینه تشکر کرده است.\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش تابناک، این چهار نفر به‌صورت گزینشی از میان افراد بازداشت‌شده انتخاب و به اسرائیل منتقل شده‌اند.\u003cbr/\u003e\u003cbr/\u003eاین گزارش همچنین به افزایش همکاری‌های امنیتی میان امارات و اسرائیل و سفر اخیر بنیامین نتانیاهو به ابوظبی اشاره کرده و آن را در چارچوب تحولات مرتبط با ایران ارزیابی کرده است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-08T05:48:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 39905,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e در تجمعات (روزانه) چه می‌گذرد!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-08T06:57:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_17.jpg",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 39906,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتنگه بازه...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5848177124074066676\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/VPN1819_bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eخرید فیلترشکن اتومات\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-08T07:48:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_7.jpg",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 39907,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eجنجال حامیان رسایی؛ صف وثیقه‌گذاری و تهدید به ناامن کردن مهرآباد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/UN_IR\" target=\"_blank\"\u003e@UN_IR\u003c/a\u003e \u003ctg-emoji emoji-id=\"5764933468102333680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-08T08:53:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1840,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ و اعتراضات (بدون سانسور)",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_20.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/ucn_ir/media_8.jpg"
         }
       ]
     }

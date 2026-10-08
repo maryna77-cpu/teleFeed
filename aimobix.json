@@ -3,7 +3,7 @@
     "id": 0,
     "title": "AiMobix",
     "username": "aimobix",
-    "photo_url": "https://cdn4.telesco.pe/file/FIE8ka1gi5gj-etdL1WaeWeAt03k9IsDPy5B1PNXPW9ZNPSpIp1R1PEGjGglELj1QnMsOtKv-FF8w4nXk70A2XsH4sMuRiPYO3Q4XXqtKrft51o5U7GKfY2iexNZxHjTJQoQ5HihPcf8mI39QKgNWFaVVmCc2WAqJtwSj1ncLDf8EvRc-EoR29TgBwEfwjg53W-ZTH9OItHUW6XL3cJ1AhEfXBnGmZ35_eNyS3S3Vl6Vt5cMAgxn3y1GVOri9Cla0TREsvAgRz5iqVsGTUh225uNitQUCa_hsf6yvcFf4HBtGYnGLVvNpjFjBMGb-nzU7hKAGLJlPj9iXvW6yzuKew.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/nWn5SqSBNhZ9hqtdnFfu6JL2WXeSUnpagmGPoQQ6AloGuB9ea1vrpeY1iJ0R0rcdQU1-dCF2XiOe39VSxG9kaawclw3drfmnlqXgJd45weB6cFDkvl7QCDANeOk6I0aOk1UKr_8hJlMiL8l_KrlbxZ-bwAi5Tec7WGU3GB1qIA1D9as6Fp47kAvFDyHt1N0014Pl0KZRqvTvWklHbNKsjoRhldnyysAIz-XAmT5PLjSF9qA7k2g3QqO9LxrzBo-grwjuFuc-xkXrLmJUUHFbGPBYNJpbq1ofiEV1ejnggSWBLhw_EiVTo2AQk_ZIUuGalGMbsXV9yLI63QQUU7JFNw.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-10-02T19:37:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-10-02T19:38:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +36,7 @@
       "date": "2026-10-03T07:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -44,7 +44,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "date": "2026-10-03T12:34:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-03T19:07:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +78,7 @@
       "date": "2026-10-04T10:26:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "date": "2026-10-04T10:51:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-10-04T17:26:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-10-04T21:36:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +138,7 @@
       "date": "2026-10-04T21:36:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +150,7 @@
       "date": "2026-10-05T08:44:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +162,7 @@
       "date": "2026-10-05T13:37:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +170,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg"
         }
       ]
     },
@@ -180,7 +180,7 @@
       "date": "2026-10-05T13:38:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +192,7 @@
       "date": "2026-10-06T07:33:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +204,7 @@
       "date": "2026-10-06T17:04:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +222,7 @@
       "date": "2026-10-06T19:40:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +230,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_4.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg",
           "width": 596
         }
       ]
@@ -241,7 +241,7 @@
       "date": "2026-10-07T07:49:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +253,7 @@
       "date": "2026-10-07T12:07:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 13500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +261,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_3.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/aimobix/media_2.jpg"
         }
       ]
     },
@@ -271,7 +271,7 @@
       "date": "2026-10-07T12:09:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 13500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +283,7 @@
       "date": "2026-10-07T20:32:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4790,
+      "views": 8380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
