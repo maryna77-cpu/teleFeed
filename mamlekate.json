@@ -12,7 +12,7 @@
       "date": "2026-10-04T11:54:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 136000,
+      "views": 137000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,19 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_6.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_3.jpg"
-        },
-        {
-          "type": "photo",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_10.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_17.jpg"
         },
         {
           "type": "photo",
@@ -40,23 +28,35 @@
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_5.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_18.jpg"
         },
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_16.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_11.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_13.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_6.jpg"
         },
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_15.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_8.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_4.jpg"
         },
         {
           "type": "video",
           "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_2.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_9.jpg"
         }
       ]
     },
@@ -74,7 +74,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_11.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_8.jpg",
           "width": 368
         }
       ]
@@ -85,7 +85,7 @@
       "date": "2026-10-05T04:25:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 130000,
+      "views": 131000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +97,7 @@
       "date": "2026-10-05T04:59:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 125000,
+      "views": 126000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +109,7 @@
       "date": "2026-10-05T06:12:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132000,
+      "views": 133000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +117,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_14.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_16.jpg",
           "width": 542
         }
       ]
@@ -128,7 +128,7 @@
       "date": "2026-10-05T07:33:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 131000,
+      "views": 132000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +136,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_9.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_5.jpg"
         }
       ]
     },
@@ -146,7 +146,7 @@
       "date": "2026-10-05T12:31:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 127000,
+      "views": 128000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_1.jpg"
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_14.jpg"
         }
       ]
     },
@@ -191,7 +191,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_4.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_3.jpg",
           "width": 720
         }
       ]
@@ -214,7 +214,7 @@
       "date": "2026-10-05T19:29:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124000,
+      "views": 125000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +226,7 @@
       "date": "2026-10-06T05:27:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 119000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +238,7 @@
       "date": "2026-10-06T20:18:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 98600,
+      "views": 101000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +250,7 @@
       "date": "2026-10-06T20:21:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99400,
+      "views": 101000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +262,7 @@
       "date": "2026-10-06T20:46:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107000,
+      "views": 110000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +270,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_13.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_15.jpg",
           "width": 1024
         }
       ]
@@ -281,7 +281,7 @@
       "date": "2026-10-06T21:01:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 116000,
+      "views": 120000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +289,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_18.jpg",
+          "url": "https://raw.githubusercontent.com/maryna77-cpu/teleFeed/export/media/mamlekate/media_17.jpg",
           "width": 320
         }
       ]
@@ -300,7 +300,7 @@
       "date": "2026-10-07T05:05:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 105000,
+      "views": 109000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +312,7 @@
       "date": "2026-10-07T07:50:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 92500,
+      "views": 97700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +324,7 @@
       "date": "2026-10-07T07:51:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 94400,
+      "views": 100000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
